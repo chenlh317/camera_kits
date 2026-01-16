@@ -338,6 +338,9 @@ def main(folder_path: str) -> None:
         sys.stdout = Tee(f)
 
         try:
+            print(f"ANALYZING FOLDER: {folder_path}")
+            print("=" * 70)
+            print()
             process_folder(folder_path)
             print(f"\n\nReport saved to: {output_path}")
         finally:
