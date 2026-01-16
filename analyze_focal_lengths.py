@@ -1,11 +1,19 @@
 #!/usr/bin/env python3
 """
 Analyze focal lengths of JPG photos in a folder and calculate 35mm equivalents.
+Generates a summary report including frequency distributions.
+
+Requires: pandas, Pillow
+
+Usage:
+    python analyze_focal_lengths.py "<folder_path>"
+    If no folder_path is provided, prompts the user for input.
+
 """
 
 import sys
 from pathlib import Path
-from typing import Optional, Dict, Any
+from typing import Optional, Dict, Any, List
 from datetime import datetime
 import pandas as pd
 from PIL import Image
@@ -31,7 +39,7 @@ class Tee:
 def get_exif_data(image_path: Path) -> Optional[Dict[str, Any]]:
     """Extract EXIF data from an image file."""
     try:
-        image = Image.open(image_path)
+        image: Image.Image = Image.open(image_path)
         exif_data = image._getexif()
         if exif_data is None:
             return None
@@ -47,7 +55,8 @@ def get_exif_data(image_path: Path) -> Optional[Dict[str, Any]]:
 
 
 def calculate_35mm_equivalent(
-    focal_length: float, exif: Dict[str, Any]
+    focal_length: float,
+    exif: Dict[str, Any],
 ) -> Optional[float]:
     """
     Calculate 35mm equivalent focal length.
@@ -80,7 +89,7 @@ def process_single_folder(folder: Path) -> Optional[pd.DataFrame]:
         DataFrame with photo data, or None if no data found
     """
     # Find all JPG files in this folder only (not recursive)
-    jpg_files = (
+    jpg_files: List[Path] = (
         list(folder.glob("*.jpg"))
         + list(folder.glob("*.JPG"))
         + list(folder.glob("*.jpeg"))
@@ -91,8 +100,8 @@ def process_single_folder(folder: Path) -> Optional[pd.DataFrame]:
         return None
 
     # Collect data for dataframe
-    data = []
-    files_without_data = []
+    data: List[Dict[str, Any]] = []
+    files_without_data: List[str] = []
 
     for jpg_file in sorted(jpg_files):
         exif = get_exif_data(jpg_file)
@@ -102,7 +111,7 @@ def process_single_folder(folder: Path) -> Optional[pd.DataFrame]:
             continue
 
         # Get actual focal length
-        focal_length = None
+        focal_length: Optional[float] = None
         if "FocalLength" in exif:
             # FocalLength is often stored as a tuple (numerator, denominator)
             fl = exif["FocalLength"]
@@ -139,7 +148,7 @@ def process_single_folder(folder: Path) -> Optional[pd.DataFrame]:
     df = pd.DataFrame(data)
 
     # Create summary dataframe
-    summary_data = {
+    summary_data: Dict[str, Any] = {
         "Metric": ["Count", "Min (mm)", "Max (mm)", "Mean (mm)", "Median (mm)"],
         "Actual Focal Length": [
             len(df),
@@ -202,12 +211,14 @@ def process_folder(folder_path: str) -> None:
         return
 
     # Get all folders (root + subfolders)
-    all_folders = [root_folder] + [d for d in root_folder.rglob("*") if d.is_dir()]
+    all_folders: List[Path] = [root_folder] + [
+        d for d in root_folder.rglob("*") if d.is_dir()
+    ]
 
     # Filter to only folders that contain JPG files
-    folders_with_photos = []
+    folders_with_photos: List[Path] = []
     for folder in all_folders:
-        has_photos = (
+        has_photos: bool = (
             any(folder.glob("*.jpg"))
             or any(folder.glob("*.JPG"))
             or any(folder.glob("*.jpeg"))
@@ -224,7 +235,7 @@ def process_folder(folder_path: str) -> None:
     print("=" * 70)
 
     # Collect all dataframes for overall summary
-    all_dfs = []
+    all_dfs: List[pd.DataFrame] = []
 
     # Process each folder separately
     for i, folder in enumerate(sorted(folders_with_photos), 1):
@@ -249,7 +260,7 @@ def process_folder(folder_path: str) -> None:
         combined_df = pd.concat(all_dfs, ignore_index=True)
 
         # Create overall summary dataframe
-        summary_data = {
+        summary_data: Dict[str, Any] = {
             "Metric": ["Count", "Min (mm)", "Max (mm)", "Mean (mm)", "Median (mm)"],
             "Actual Focal Length": [
                 len(combined_df),
@@ -303,17 +314,17 @@ def main(folder_path: str) -> None:
     """
     # Generate output filename based on folder name and timestamp
     folder_name = Path(folder_path).name or "root"
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    output_filename = f"focal_length_analysis_{folder_name}_{timestamp}.txt"
+    timestamp = datetime.now().strftime("%Y-%m-%d_%H.%M.%S")
+    output_filename = f"{folder_name}_{timestamp}.txt"
     # Save to the same folder as this script
     script_dir = Path(__file__).parent
-    output_path = script_dir / output_filename
+    output_path = Path.joinpath(script_dir, "focal_length_analysis", output_filename)
 
     # If file already exists, add a counter to keep both files
     if output_path.exists():
         counter = 1
-        base_name = output_filename.rsplit('.', 1)[0]  # Remove extension
-        extension = output_filename.rsplit('.', 1)[1]  # Get extension
+        base_name: str = output_filename.rsplit(".", 1)[0]  # Remove extension
+        extension: str = output_filename.rsplit(".", 1)[1]  # Get extension
         while output_path.exists():
             output_filename = f"{base_name}_{counter}.{extension}"
             output_path = script_dir / output_filename
