@@ -3,13 +3,15 @@
 Analyze focal lengths of JPG photos in multiple folders and calculate 35mm equivalents.
 Generates a summary report including frequency distributions for each folder.
 
-Requires: pandas, Pillow
+Requires: pandas, Pillow, pyyaml
 
 Usage:
     python analyze_focal_lengths.py
 
-    Reads folder paths from photo_folders.txt (one folder path per line) and processes
-    each folder, generating a separate analysis report for each.
+    Reads folder paths from photo_folders.yaml and processes each folder,
+    generating a separate analysis report for each.
+
+    You can comment out folders in the YAML file by adding # at the beginning of the line.
 
 """
 
@@ -18,6 +20,7 @@ from pathlib import Path
 from typing import Optional, Dict, Any, List
 from datetime import datetime
 import pandas as pd
+import yaml
 from PIL import Image
 from PIL.ExifTags import TAGS
 
@@ -347,17 +350,19 @@ def main(folder_path: str) -> None:
 
 
 if __name__ == "__main__":
-    # Read photo folders from photo_folders.txt
+    # Read photo folders from photo_folders.yaml
     script_dir = Path(__file__).parent
-    folders_file = script_dir / "photo_folders.txt"
+    folders_file = script_dir / "photo_folders.yaml"
 
     if not folders_file.exists():
         print(f"Error: {folders_file} not found!")
         sys.exit(1)
 
-    # Read all folder paths from the file
+    # Read all folder paths from the YAML file
     with open(folders_file, "r", encoding="utf-8") as f:
-        folder_paths = [line.strip() for line in f if line.strip()]
+        config = yaml.safe_load(f)
+
+    folder_paths = config.get('folders', [])
 
     if not folder_paths:
         print(f"Error: No folder paths found in {folders_file}")
