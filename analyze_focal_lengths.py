@@ -104,6 +104,7 @@ def process_single_folder(folder: Path) -> Optional[pd.DataFrame]:
     # Collect data for dataframe
     data: List[Dict[str, Any]] = []
     files_without_data: List[str] = []
+    files_without_35mm_equiv: List[str] = []
 
     for jpg_file in sorted(jpg_files):
         exif = get_exif_data(jpg_file)
@@ -129,22 +130,27 @@ def process_single_folder(folder: Path) -> Optional[pd.DataFrame]:
         # Calculate or get 35mm equivalent
         equiv_35mm = calculate_35mm_equivalent(focal_length, exif)
 
-        # Collect row data
+        # Skip this photo if 35mm equivalent is not available
+        if equiv_35mm is None:
+            files_without_35mm_equiv.append(jpg_file.name)
+            continue
+
+        # Collect row data (only photos with 35mm equivalent)
         data.append(
             {
                 "Filename": jpg_file.name,
                 "Actual Focal Length (mm)": round(focal_length, 1),
-                "35mm Equivalent (mm)": (
-                    round(equiv_35mm) if equiv_35mm is not None else None
-                ),
+                "35mm Equivalent (mm)": round(equiv_35mm),
             }
         )
 
     # Create DataFrame
     if not data:
-        print("\nNo photos with focal length data found in this folder.")
+        print("\nNo photos with 35mm equivalent focal length data found in this folder.")
         if files_without_data:
-            print(f"Files without focal length data: {len(files_without_data)}")
+            print(f"Files without EXIF/focal length data: {len(files_without_data)}")
+        if files_without_35mm_equiv:
+            print(f"Files without 35mm equivalent data: {len(files_without_35mm_equiv)}")
         return None
 
     df = pd.DataFrame(data)
@@ -159,18 +165,14 @@ def process_single_folder(folder: Path) -> Optional[pd.DataFrame]:
             df["Actual Focal Length (mm)"].mean(),
             df["Actual Focal Length (mm)"].median(),
         ],
+        "35mm Equivalent": [
+            len(df),
+            df["35mm Equivalent (mm)"].min(),
+            df["35mm Equivalent (mm)"].max(),
+            df["35mm Equivalent (mm)"].mean(),
+            df["35mm Equivalent (mm)"].median(),
+        ],
     }
-
-    # Add 35mm equivalent column if available
-    if df["35mm Equivalent (mm)"].notna().any():
-        equiv_df = df[df["35mm Equivalent (mm)"].notna()]
-        summary_data["35mm Equivalent"] = [
-            len(equiv_df),
-            equiv_df["35mm Equivalent (mm)"].min(),
-            equiv_df["35mm Equivalent (mm)"].max(),
-            equiv_df["35mm Equivalent (mm)"].mean(),
-            equiv_df["35mm Equivalent (mm)"].median(),
-        ]
 
     summary_df = pd.DataFrame(summary_data)
 
@@ -180,20 +182,21 @@ def process_single_folder(folder: Path) -> Optional[pd.DataFrame]:
     print(f"\n{summary_df.to_string(index=False)}")
 
     # Frequency distribution for 35mm equivalent
-    if df["35mm Equivalent (mm)"].notna().any():
-        equiv_df = df[df["35mm Equivalent (mm)"].notna()]
-        freq = equiv_df["35mm Equivalent (mm)"].value_counts().sort_index()
-        freq_df = pd.DataFrame({"Focal Length (mm)": freq.index, "Count": freq.values})
-        # Add percentage share and cumulative percentage
-        total_count = freq_df["Count"].sum()
-        freq_df["Percentage (%)"] = (freq_df["Count"] / total_count * 100).round(2)
-        freq_df["Cumulative (%)"] = freq_df["Percentage (%)"].cumsum().round(2)
+    freq = df["35mm Equivalent (mm)"].value_counts().sort_index()
+    freq_df = pd.DataFrame({"Focal Length (mm)": freq.index, "Count": freq.values})
+    # Add percentage share and cumulative percentage
+    total_count = freq_df["Count"].sum()
+    freq_df["Percentage (%)"] = (freq_df["Count"] / total_count * 100).round(2)
+    freq_df["Cumulative (%)"] = freq_df["Percentage (%)"].cumsum().round(2)
 
-        print("\n35mm Equivalent Frequency Distribution:")
-        print(freq_df.to_string(index=False))
+    print("\n35mm Equivalent Frequency Distribution:")
+    print(freq_df.to_string(index=False))
 
-    if files_without_data:
-        print(f"\nFiles without focal length data: {len(files_without_data)}")
+    if files_without_data or files_without_35mm_equiv:
+        if files_without_data:
+            print(f"\nFiles without EXIF/focal length data: {len(files_without_data)}")
+        if files_without_35mm_equiv:
+            print(f"Files without 35mm equivalent data (skipped): {len(files_without_35mm_equiv)}")
 
     return df
 
