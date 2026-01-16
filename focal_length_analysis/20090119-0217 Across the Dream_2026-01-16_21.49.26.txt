@@ -1,0 +1,94 @@
+ANALYZING FOLDER: F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090119-0217 Across the Dream
+======================================================================
+
+Found 12 folder(s) with JPG files
+======================================================================
+
+######################################################################
+# FOLDER 1/12: (root)
+######################################################################
+
+No photos with 35mm equivalent focal length data found in this folder.
+Files without EXIF/focal length data: 2
+Files without 35mm equivalent data: 98
+
+######################################################################
+# FOLDER 2/12: 2009 from Amy
+######################################################################
+
+No photos with 35mm equivalent focal length data found in this folder.
+Files without 35mm equivalent data: 16
+
+######################################################################
+# FOLDER 3/12: 2009 San Jose By HAN and Wu
+######################################################################
+
+No photos with 35mm equivalent focal length data found in this folder.
+Files without 35mm equivalent data: 20
+
+######################################################################
+# FOLDER 4/12: Best
+######################################################################
+
+No photos with 35mm equivalent focal length data found in this folder.
+Files without 35mm equivalent data: 40
+
+######################################################################
+# FOLDER 5/12: Budweiser
+######################################################################
+
+No photos with 35mm equivalent focal length data found in this folder.
+Files without 35mm equivalent data: 40
+
+######################################################################
+# FOLDER 6/12: Gateway Arch
+######################################################################
+
+No photos with 35mm equivalent focal length data found in this folder.
+Files without 35mm equivalent data: 48
+
+######################################################################
+# FOLDER 7/12: Others
+######################################################################
+
+No photos with 35mm equivalent focal length data found in this folder.
+Files without EXIF/focal length data: 2
+Files without 35mm equivalent data: 12
+
+######################################################################
+# FOLDER 8/12: St Louis Art Museum
+######################################################################
+
+No photos with 35mm equivalent focal length data found in this folder.
+Files without 35mm equivalent data: 56
+
+######################################################################
+# FOLDER 9/12: St Louis Botanic Garden
+######################################################################
+
+No photos with 35mm equivalent focal length data found in this folder.
+Files without 35mm equivalent data: 50
+
+######################################################################
+# FOLDER 10/12: St Louis Zoo
+######################################################################
+
+No photos with 35mm equivalent focal length data found in this folder.
+Files without 35mm equivalent data: 34
+
+######################################################################
+# FOLDER 11/12: To San Jose
+######################################################################
+
+No photos with 35mm equivalent focal length data found in this folder.
+Files without 35mm equivalent data: 172
+
+######################################################################
+# FOLDER 12/12: Wash.U in STL
+######################################################################
+
+No photos with 35mm equivalent focal length data found in this folder.
+Files without 35mm equivalent data: 18
+
+
+Report saved to: D:\camera_kits\focal_length_analysis\20090119-0217 Across the Dream_2026-01-16_21.49.26.txt

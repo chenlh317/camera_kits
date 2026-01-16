@@ -1,0 +1,15 @@
+ANALYZING FOLDER: F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20070727-0808 SSLP\Calvin_Chen
+======================================================================
+
+Found 1 folder(s) with JPG files
+======================================================================
+
+######################################################################
+# FOLDER 1/1: (root)
+######################################################################
+
+No photos with 35mm equivalent focal length data found in this folder.
+Files without 35mm equivalent data: 224
+
+
+Report saved to: D:\camera_kits\focal_length_analysis\Calvin_Chen_2026-01-16_21.49.25.txt

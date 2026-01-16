@@ -274,18 +274,14 @@ def process_folder(folder_path: str) -> None:
                 combined_df["Actual Focal Length (mm)"].mean(),
                 combined_df["Actual Focal Length (mm)"].median(),
             ],
+            "35mm Equivalent": [
+                len(combined_df),
+                combined_df["35mm Equivalent (mm)"].min(),
+                combined_df["35mm Equivalent (mm)"].max(),
+                combined_df["35mm Equivalent (mm)"].mean(),
+                combined_df["35mm Equivalent (mm)"].median(),
+            ],
         }
-
-        # Add 35mm equivalent column if available
-        if combined_df["35mm Equivalent (mm)"].notna().any():
-            equiv_df = combined_df[combined_df["35mm Equivalent (mm)"].notna()]
-            summary_data["35mm Equivalent"] = [
-                len(equiv_df),
-                equiv_df["35mm Equivalent (mm)"].min(),
-                equiv_df["35mm Equivalent (mm)"].max(),
-                equiv_df["35mm Equivalent (mm)"].mean(),
-                equiv_df["35mm Equivalent (mm)"].median(),
-            ]
 
         summary_df = pd.DataFrame(summary_data)
 
@@ -295,19 +291,17 @@ def process_folder(folder_path: str) -> None:
         print(f"\n{summary_df.to_string(index=False)}")
 
         # Frequency distribution for 35mm equivalent
-        if combined_df["35mm Equivalent (mm)"].notna().any():
-            equiv_df = combined_df[combined_df["35mm Equivalent (mm)"].notna()]
-            freq = equiv_df["35mm Equivalent (mm)"].value_counts().sort_index()
-            freq_df = pd.DataFrame(
-                {"Focal Length (mm)": freq.index, "Count": freq.values}
-            )
-            # Add percentage share and cumulative percentage
-            total_count = freq_df["Count"].sum()
-            freq_df["Percentage (%)"] = (freq_df["Count"] / total_count * 100).round(2)
-            freq_df["Cumulative (%)"] = freq_df["Percentage (%)"].cumsum().round(2)
+        freq = combined_df["35mm Equivalent (mm)"].value_counts().sort_index()
+        freq_df = pd.DataFrame(
+            {"Focal Length (mm)": freq.index, "Count": freq.values}
+        )
+        # Add percentage share and cumulative percentage
+        total_count = freq_df["Count"].sum()
+        freq_df["Percentage (%)"] = (freq_df["Count"] / total_count * 100).round(2)
+        freq_df["Cumulative (%)"] = freq_df["Percentage (%)"].cumsum().round(2)
 
-            print("\n35mm Equivalent Frequency Distribution:")
-            print(freq_df.to_string(index=False))
+        print("\n35mm Equivalent Frequency Distribution:")
+        print(freq_df.to_string(index=False))
 
 
 def main(folder_path: str) -> None:

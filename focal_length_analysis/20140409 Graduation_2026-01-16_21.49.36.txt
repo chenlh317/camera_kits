@@ -1,0 +1,15 @@
+ANALYZING FOLDER: F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20140409 Graduation
+======================================================================
+
+Found 1 folder(s) with JPG files
+======================================================================
+
+######################################################################
+# FOLDER 1/1: (root)
+######################################################################
+
+No photos with 35mm equivalent focal length data found in this folder.
+Files without 35mm equivalent data: 94
+
+
+Report saved to: D:\camera_kits\focal_length_analysis\20140409 Graduation_2026-01-16_21.49.36.txt

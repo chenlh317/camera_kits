@@ -1,0 +1,15 @@
+ANALYZING FOLDER: F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20081009-12 梦中的鼓浪屿
+======================================================================
+
+Found 1 folder(s) with JPG files
+======================================================================
+
+######################################################################
+# FOLDER 1/1: (root)
+######################################################################
+
+No photos with 35mm equivalent focal length data found in this folder.
+Files without 35mm equivalent data: 130
+
+
+Report saved to: D:\camera_kits\focal_length_analysis\20081009-12 梦中的鼓浪屿_2026-01-16_21.49.26.txt
