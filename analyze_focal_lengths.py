@@ -1,13 +1,15 @@
 #!/usr/bin/env python3
 """
-Analyze focal lengths of JPG photos in a folder and calculate 35mm equivalents.
-Generates a summary report including frequency distributions.
+Analyze focal lengths of JPG photos in multiple folders and calculate 35mm equivalents.
+Generates a summary report including frequency distributions for each folder.
 
 Requires: pandas, Pillow
 
 Usage:
-    python analyze_focal_lengths.py "<folder_path>"
-    If no folder_path is provided, prompts the user for input.
+    python analyze_focal_lengths.py
+
+    Reads folder paths from photo_folders.txt (one folder path per line) and processes
+    each folder, generating a separate analysis report for each.
 
 """
 
@@ -345,8 +347,27 @@ def main(folder_path: str) -> None:
 
 
 if __name__ == "__main__":
-    if len(sys.argv) > 1:
-        main(sys.argv[1])
-    else:
-        folder_path = input("Enter the folder path containing JPG photos: ").strip()
+    # Read photo folders from photo_folders.txt
+    script_dir = Path(__file__).parent
+    folders_file = script_dir / "photo_folders.txt"
+
+    if not folders_file.exists():
+        print(f"Error: {folders_file} not found!")
+        sys.exit(1)
+
+    # Read all folder paths from the file
+    with open(folders_file, "r", encoding="utf-8") as f:
+        folder_paths = [line.strip() for line in f if line.strip()]
+
+    if not folder_paths:
+        print(f"Error: No folder paths found in {folders_file}")
+        sys.exit(1)
+
+    print(f"Found {len(folder_paths)} folder(s) to process")
+
+    # Process each folder
+    for i, folder_path in enumerate(folder_paths, 1):
+        print(f"\n{'=' * 80}")
+        print(f"Processing folder {i}/{len(folder_paths)}: {folder_path}")
+        print(f"{'=' * 80}")
         main(folder_path)
