@@ -1,0 +1,16 @@
+ANALYZING FOLDER: F:\PRIVAT W BACKUP\Photos\05 iPhone 4 - 201201-201302
+======================================================================
+
+Found 1 folder(s) with JPG files
+======================================================================
+
+######################################################################
+# FOLDER 1/1: (root)
+######################################################################
+
+No photos with 35mm equivalent focal length data found in this folder.
+Files without EXIF/focal length data: 30
+Files without 35mm equivalent data: 430
+
+
+Report saved to: D:\camera_kits\focal_length_analysis\05 iPhone 4 - 201201-201302_2026-01-16_23.48.20.txt
