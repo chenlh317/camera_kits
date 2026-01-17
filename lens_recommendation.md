@@ -71,6 +71,7 @@
 - **Total:** ~$3,400-3,600 | **Weight:** 1,146g primary system
 
 **Coverage:** 95%+ of your documented photography needs
+
 **Key difference:** 144g weight vs better handling comfort - try both in store
 
 ### 📸 What This Document Includes
