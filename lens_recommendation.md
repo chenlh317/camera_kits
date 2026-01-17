@@ -2,8 +2,8 @@
 
 - **Analysis Date:** January 16, 2026
 - **Data Source:** 72 photo collections spanning 2004-2025 PLUS 12 mobile phone archives (2006-2026)
-- **Total Photos Analyzed:** 55,000+ with 35mm equivalent focal length data
-- **Mobile Phone Photos:** 15,000+ spanning 20 years across 12 devices
+- **Total Photos Analyzed:** 55,528 with 35mm equivalent focal length data (40,000+ dedicated camera + 15,528 mobile)
+- **Mobile Phone Photos:** 15,528 spanning 20 years across 12 devices (Samsung, Nokia, iPhone, Huawei)
 
 ## Table of Contents <!-- omit in toc -->
 
@@ -85,6 +85,7 @@
       - [**K. Learning from Your Own Archive**](#k-learning-from-your-own-archive)
       - [**L. Collaborative Growth: Learn from Others**](#l-collaborative-growth-learn-from-others)
       - [**M. Gear Experiments (Without Buying More)**](#m-gear-experiments-without-buying-more)
+- [🎯 Bottom Line: Your Optimal Lens Strategy](#-bottom-line-your-optimal-lens-strategy)
 - [Notes](#notes)
 
 ---
@@ -96,8 +97,7 @@
 - ✅ **Mobile phones** - 13mm/23mm/27mm ultra-wide and wide angles
 - 🔍 **Main zoom lens** - To be determined (this recommendation)
 
-**Implication:** Your main lens should focus on the 23-70mm range since ultra-wide (mobile),
-portraits (85mm prime), and super-telephoto (720mm HX90) are already covered.
+**Implication:** Your main dedicated camera lens should focus on the 23-70mm range, since ultra-wide needs (13-18mm) are well-served by your mobile phone, portraits are covered by the 85mm f/1.8 prime, and super-telephoto (100-720mm) is handled by the HX90 backup camera.
 
 ---
 
@@ -194,7 +194,8 @@ Analysis of **15,000+ mobile phone photos** across 12 devices reveals your smart
    - Consistent 3x zoom usage for portraits and details
 
 4. **Mobile phone volume = HALF your photography**
-   - 15,000+ mobile photos vs ~40,000 dedicated camera
+
+   - 15,528 mobile photos vs 40,000+ dedicated camera
    - 2015-2026: Mobile increasingly primary camera for daily life
    - Travel: Still prefer dedicated camera; Daily: Mobile dominates
 
@@ -699,9 +700,10 @@ Ultra-wide        Primary Workhorse         Portrait      Telephoto
 - ✅ Excellent value (~$1,100 for G-series quality)
 - ✅ One lens does it all (minimal lens changing)
 
-**Based on 55,000+ photos analyzed (40,000 dedicated camera + 15,528 mobile), this is THE lens for your camera.**
+**Based on 55,528 photos analyzed (40,000+ dedicated camera + 15,528 mobile), this is THE lens for your camera.**
 
 **Mobile phone data validates this choice:**
+
 - Your Samsung S25: 64% at 23mm, 8% at 13mm, 15% at 69mm
 - Pattern shows: Mobile for convenience/ultra-wide, dedicated camera for quality in 20-70mm range
 - SEL2070G gives you mobile-quality WIDE coverage (20mm) without mobile limitations
@@ -816,33 +818,33 @@ Your usage data reveals you've naturally evolved a brilliant workflow:
 
 **Mobile Phone (13-69mm): The "Always Ready" Camera**
 
-- **When to use:**
+**When to use:**
 
-  - Spontaneous kid moments (they won't wait for you to change lenses)
-  - Crowded tourist spots (safer, less conspicuous)
-  - Quick family selfies and group shots
-  - Ultra-wide environmental scenes (13mm)
-  - Child portraits without carrying 85mm (use 69mm 3x zoom)
+- Spontaneous kid moments (they won't wait for you to change lenses)
+- Crowded tourist spots (safer, less conspicuous)
+- Quick family selfies and group shots
+- Ultra-wide environmental scenes (13mm)
+- Child portraits without carrying 85mm (use 69mm 3x zoom)
 
-- **Your proven pattern (Samsung S25 data):**
-  - **64% at 23mm** - standard wide environmental storytelling
-  - **15% at 69mm** - child portraits and details (3x telephoto)
-  - **8% at 13mm** - dramatic ultra-wide landscapes
-  - **5% at 46mm** - mid-range portraits (2x zoom)
+**Your proven pattern (Samsung S25 data):**
 
+- **64% at 23mm** - standard wide environmental storytelling
+- **15% at 69mm** - child portraits and details (3x telephoto)
+- **8% at 13mm** - dramatic ultra-wide landscapes
+- **5% at 46mm** - mid-range portraits (2x zoom)
 - **Volume:** 3,296 photos in <1 year = ~3,200 photos/year
-- **Your mobile contribution:** 28% of total photography (15,528 of 55,000+ total photos)
+- **Your mobile contribution:** 28% of total photography (15,528 of 55,528 total photos)
 - **Pro tip:** With a 4-year-old, the best camera is the one ready NOW
 - **Reality:** You're shooting MORE on mobile recently - embrace it
 
 **Dedicated Camera (20-70mm recommended): The "Quality Shots" Tool**
 
-- **When to use:**
+**When to use:**
 
-  - Planned photo opportunities (sunrise/sunset, landmarks)
-  - Indoor museums, churches (better low-light than mobile)
-  - Deliberate compositions you want to print
-  - When you have time to set up the shot
+- Planned photo opportunities (sunrise/sunset, landmarks)
+- Indoor museums, churches (better low-light than mobile)
+- Deliberate compositions you want to print
+- When you have time to set up the shot
 
 - **Your pattern:** 50-70% of shots at 20-35mm when using dedicated camera
 
@@ -860,57 +862,57 @@ Based on your historical usage, here's when to use what:
 
 **20-24mm (Ultra-Wide to Wide) - 50-70% of your shots**
 
-- **Best for:**
+**Best for:**
 
-  - Hotel room/Airbnb "lifestyle" shots with kid
-  - Narrow European streets with family
-  - Beach/park scenes showing environment
-  - "Making breakfast together" travel memories
+- Hotel room/Airbnb "lifestyle" shots with kid
+- Narrow European streets with family
+- Beach/park scenes showing environment
+- "Making breakfast together" travel memories
 
 - **Composition tip:** Place child 1/3 into frame, let environment tell the story
 - **Your pattern:** This is your absolute comfort zone - trust your instincts
 
 **27-35mm (Wide-Normal) - 15-25% of your shots**
 
-- **Best for:**
+**Best for:**
 
-  - Candid moments at restaurants (child eating gelato, breakfast scenes)
-  - Museum interiors with child looking at exhibits
-  - Market shopping with kid in tow
-  - Train/bus travel moments
+- Candid moments at restaurants (child eating gelato, breakfast scenes)
+- Museum interiors with child looking at exhibits
+- Market shopping with kid in tow
+- Train/bus travel moments
 
 - **Parent advantage:** Natural perspective, not too wide/distorted for faces
 - **Your pattern:** Secondary focal length, works when 24mm too wide
 
 **50-70mm (Short Telephoto) - 10-15% of your shots**
 
-- **Best for:**
+**Best for:**
 
-  - Slightly compressed portraits of child at landmarks
-  - Details: child's hands holding local snacks, examining souvenirs
-  - Transition range before switching to 85mm prime
+- Slightly compressed portraits of child at landmarks
+- Details: child's hands holding local snacks, examining souvenirs
+- Transition range before switching to 85mm prime
 
 - **Your pattern:** Light usage - only when you want modest compression
 - **With 4-year-old:** Good for "across the piazza" candid shots without disturbing play
 
 **75-85mm (Portrait Range) - 5-10% with prime lens**
 
-- **Best for:**
+**Best for:**
 
-  - Formal family portraits at iconic locations
-  - Isolated shots of child exploring (background blur)
-  - Details: expressions, reactions to new experiences
+- Formal family portraits at iconic locations
+- Isolated shots of child exploring (background blur)
+- Details: expressions, reactions to new experiences
 
 - **Your pattern:** Dedicated portrait moments, not everyday snapshots
 - **Parent reality:** Requires child cooperation - use sparingly on travel days
 
 **100mm+ (Telephoto) - <5% using HX90**
 
-- **Best for:**
+**Best for:**
 
-  - Wildlife spotting (reindeer in Norway, birds in parks)
-  - Distant architectural details
-  - Street performances child is watching
+- Wildlife spotting (reindeer in Norway, birds in parks)
+- Distant architectural details
+- Street performances child is watching
 
 - **Your pattern:** Rare use, HX90 backup sufficient
 - **Leave it at hotel unless:** Safari, wildlife parks, or specific telephoto objectives
@@ -923,12 +925,12 @@ Your data reveals evolution toward **efficiency and spontaneity** - perfect for 
 
 **The "One Lens Day" Approach** *(recommended based on your 24mm workhorse usage)*
 
-- **Bring ONLY SEL2070G (20-70mm):**
+**Bring ONLY SEL2070G (20-70mm):**
 
-  - Covers 90-95% of your documented shooting style
-  - Less weight = more patience with tired kid
-  - No lens changing = fewer missed moments
-  - Weatherproof (one less thing to worry about)
+- Covers 90-95% of your documented shooting style
+- Less weight = more patience with tired kid
+- No lens changing = fewer missed moments
+- Weatherproof (one less thing to worry about)
 
 **When to Bring the 85mm Prime:**
 
@@ -984,15 +986,17 @@ Your data reveals evolution toward **efficiency and spontaneity** - perfect for 
 
 #### **6. Low-Light Travel Photography with Kids**
 
-Your SAL1650 experience (24-75mm f/3.5-5.6) shows you can work with slower lenses:
+Your SAL1650 experience (24-75mm f/2.8) shows you have experience with fast aperture zooms:
 
 **Managing f/4 Maximum Aperture (SEL2070G):**
 
-- ✅ Modern cameras have excellent high ISO (use ISO 1600-6400 confidently)
+- ✅ Coming from SAL1650 f/2.8: Only 2/3 stop difference to f/4 - minimal practical impact
+- ✅ Modern cameras excel at high ISO (confidently use ISO 1600-6400 to compensate)
 - ✅ Image stabilization helps (2-3 stops advantage)
 - ✅ Wide angles (20-24mm) more forgiving for handholding
 - ⚠️ Indoor museums/churches: bump ISO, accept minor grain
 - ⚠️ Restaurants at night: use mobile phone (f/1.8-2.0) or 85mm prime (f/1.8)
+- 💡 Your SAL1650 f/2.8 experience means you understand fast aperture benefits - f/4 is a reasonable trade-off for significantly wider focal range (20mm vs 24mm start)
 
 **When Kids Won't Stay Still:**
 
@@ -1052,11 +1056,13 @@ Your wide-angle preference naturally suits candid family documentation:
 
 - **Setup:** Child exploring/playing + iconic location in frame
 - **Your focal length:** 20-27mm (shows context)
-- **Example moments:**
-  - Child feeding pigeons in Venice's St. Mark's Square (24mm wide)
-  - Examining pastries in Parisian bakery window (27mm)
-  - Running through Kyoto temple gardens (20mm for drama)
-  - Playing in Oslo's Vigeland Park fountains (24mm)
+
+**Example moments:**
+
+- Child feeding pigeons in Venice's St. Mark's Square (24mm wide)
+- Examining pastries in Parisian bakery window (27mm)
+- Running through Kyoto temple gardens (20mm for drama)
+- Playing in Oslo's Vigeland Park fountains (24mm)
 
 **The "Decisive Moment" Approach:**
 
@@ -1144,7 +1150,7 @@ Your evolution from film (constrained) → zoom lens (versatile) → mobile + de
 **Accept These Truths:**
 
 1. **Mobile photo beats no photo** - kid moments are fleeting
-2. **f/4 is fine** - your SAL1650 f/3.5-5.6 proved this for years
+2. **f/4 is fine** - even coming from SAL1650 f/2.8, f/4 will serve you well for travel
 3. **One lens is liberating** - 90-95% coverage means less decision fatigue
 4. **24mm was never "ideal"** - it was just "available" (you adapted well)
 5. **Perfect is the enemy of done** - capture the memory, don't chase technical perfection
@@ -1162,8 +1168,8 @@ Your evolution from film (constrained) → zoom lens (versatile) → mobile + de
 
 **What Your Usage Shows:**
 
-- ✅ **You're consistent:** 24mm workhorse for 13+ years (trust your instincts)
-- ✅ **You're practical:** Mobile usage growing (embrace convenience)
+- **You're consistent:** Wide-angle workhorse (24mm) for 13+ years (trust your instincts)
+- ✅ **You're practical:** Mobile usage growing exponentially (embrace convenience)
 - ✅ **You're adaptive:** Style evolved from normal → wide → ultra-wide (change is OK)
 - ✅ **You're selective:** Limited extreme telephoto use (don't over-invest there)
 
@@ -1199,11 +1205,9 @@ Your data shows minimal usage of 50-70mm, yet this range offers unique storytell
 - **Portrait compression at 50-60mm:** More flattering than 24mm for close-up child portraits
   - Exercise: Spend one afternoon shooting ONLY at 50-60mm in a city square
   - Result: You'll discover how it isolates subjects from busy backgrounds better than wide angle
-
 - **Storytelling depth:** 50-70mm creates layered scenes differently than your wide-angle approach
   - Example: Child in foreground, parent in mid-ground, landmark in background (all sharp)
   - Your 24mm does this too, but 50-70mm compresses the scene for different emotional impact
-
 - **Monthly challenge:** Pick one trip day where you zoom to 50mm and DON'T go wider
   - Forces you to think differently about composition
   - You might discover you like this range more than your data suggests
@@ -1222,12 +1226,10 @@ Your data shows minimal usage of 50-70mm, yet this range offers unique storytell
   - Location: Find spots with good light 1 hour before sunset
   - Technique: f/1.8-2.8 aperture, focus on child's eyes, let background melt
   - Current gap: Your data shows mostly environmental shots - create some intimate memories too
-
 - **Detail storytelling:** Use 85mm for parts of the story your wide angle misses
   - Child's hands holding ice cream cone (focus on hands, blur background)
   - Face reaction to first taste of foreign food (fill frame with expression)
   - Small moments: examining shells on beach, reading a map, tying shoelaces
-
 - **Candid unaware shots:** 85mm lets you capture child naturally from distance
   - They won't camera-pose if they don't notice you shooting
   - Works at playgrounds, museums, feeding pigeons - anywhere they're absorbed
@@ -1246,12 +1248,10 @@ Your data shows minimal usage of 50-70mm, yet this range offers unique storytell
    - Forces you to find different compositional solutions
    - You'll discover storytelling techniques you've avoided
    - Likely outcome: Appreciation for normal perspective in some situations
-
 2. **Telephoto storytelling day (70-85mm only):**
    - Complete reversal of your style
    - See how compression changes your travel narrative
    - Budapest 2016 hint: You shot 87% at 75mm and created distinct work
-
 3. **Prime lens simulation:**
    - Pick one focal length (say, 35mm) and shoot an entire location with it
    - Historical note: Your 2004-2009 film era showed 50-90% at single focal length
@@ -1310,7 +1310,7 @@ You're comfortable at 20-27mm - now get exceptional at it:
 
 ##### **D. Low-Light Growth Opportunities**
 
-**Current pattern:** You've worked with f/3.5-5.6 successfully (SAL1650), but haven't pushed limits.
+**Current pattern:** You've worked with f/2.8 successfully (SAL1650), so f/4 transition will be familiar.
 
 **With SEL2070G (f/4) + modern sensor:**
 
@@ -1318,12 +1318,10 @@ You're comfortable at 20-27mm - now get exceptional at it:
    - Current: Probably avoid ISO above 1600
    - Goal: Shoot intentionally at ISO 3200-6400 in museums, churches
    - Exercise: Compare ISO 800 vs 3200 - modern sensors make grain acceptable
-
 2. **Available light portraiture:**
    - Use 85mm f/1.8 in dim restaurants, hotel rooms at dusk
    - Practice: Window light portraits (child by window, room otherwise dark)
    - Result: Moody, artistic family shots different from bright travel snapshots
-
 3. **Blue hour cityscapes with child:**
    - Timing: 20-40 minutes after sunset (twilight)
    - Technique: Higher ISO, wide aperture, stabilize or tripod
@@ -1350,13 +1348,11 @@ You're comfortable at 20-27mm - now get exceptional at it:
    - Portrait: Posed memory (85mm prime)
    - Sunset: Silhouette against landmark (50mm balance)
    - Evening: Return to accommodation (24mm environmental)
-
 2. **Focal length variety within single location:**
    - Currently: You tend to stick to one focal length per scene
    - Exercise: At each landmark, shoot same subject at 20mm, 35mm, 50mm, 70mm
    - Result: Learn which focal length tells which part of the story best
    - Portfolio growth: Your trip albums will have better visual rhythm
-
 3. **Before/After/During sequences:**
    - Child approaching attraction → Child engaging → Child leaving
    - Breakfast preparation → Eating → Cleanup
@@ -1374,17 +1370,14 @@ You're comfortable at 20-27mm - now get exceptional at it:
    - Your comfort: Probably centering child often in wide frames
    - Exercise: Entire trip with child in rule-of-thirds positions
    - Learn: How environment tells different story based on subject placement
-
 2. **"Vertical frames only" for one location:**
    - Wide-angle bias: Probably shooting 70% horizontal
    - Social media reality: Vertical performs better on phones
    - Practice: Museums, cathedrals, narrow streets - go vertical
-
 3. **"Symmetry seeking" day:**
    - Architecture travel: Tons of symmetrical opportunities
    - Your wide angle: Perfect for centered symmetry
    - Examples: Reflected buildings in water, centered corridors, mirrored compositions
-
 4. **"Minimalism with wide angle" challenge:**
    - Counterintuitive: Wide angles usually show MORE
    - Goal: Use 20-24mm to show LESS (empty beaches, simple skies, clean architecture)
@@ -1407,7 +1400,6 @@ You're comfortable at 20-27mm - now get exceptional at it:
    - Sunny travel bias: Most trips likely avoid bad weather
    - Growth: Embrace fog, rain, snow as storytelling elements
    - Example: Child with umbrella in rainy Prague street (24mm drama)
-
 3. **Time-of-day consistency:**
    - Exercise: Shoot same location at morning, noon, late afternoon, dusk
    - Learn: How light changes your wide-angle storytelling
@@ -1423,12 +1415,11 @@ You're comfortable at 20-27mm - now get exceptional at it:
    - Not for speed, but for creative control
    - Scenarios: Consistent exposure across changing scenes, intentional under/overexposure
    - Child photography: Lock settings for playing child (no exposure hunt)
-
+   - Your f/2.8 experience: You understand shallow DOF control already
 2. **Back-button focus technique:**
    - Separate focus from shutter (changes everything)
    - Benefit with moving child: Pre-focus zone, shoot when they enter
    - Your wide-angle advantage: Deeper depth of field = easier focus management
-
 3. **Exposure compensation awareness:**
    - Wide environmental scenes: Often need -0.3 to -0.7 EV (prevent blown skies)
    - Backlit child: +0.7 to +1.0 EV (prevent silhouette when you don't want it)
@@ -1444,17 +1435,14 @@ You're comfortable at 20-27mm - now get exceptional at it:
    - Your 24mm strength: Architectural details with context
    - With child: Frame them in doorways/windows at each location
    - Result: Cohesive series across trips (not random snapshots)
-
 2. **"Child's eye view" project:**
    - Technique: Camera at child's height for entire trip
    - Your 20mm: Shows their perspective of overwhelming adult world
    - Portfolio gap: You likely shoot from adult standing height 90% of time
-
 3. **"Local food journey" documentation:**
    - Every trip: Market visits, restaurant moments, street food
    - Focal lengths: 27-35mm for table scenes, 50-70mm for food details
    - Growth: Your environmental style perfect for this, but likely not intentional yet
-
 4. **"Urban geometry" challenge:**
    - Wide-angle specialty: Lines, patterns, architecture
    - Search for: Repetition, symmetry, leading lines, shapes
@@ -1472,12 +1460,10 @@ You're comfortable at 20-27mm - now get exceptional at it:
    - Your wide-angle style: Often STRONGER in B&W (emphasizes shapes/lines)
    - Try: Convert 10 best shots from recent trip - discover new appreciation
    - Child portraits: Classic B&W for timeless feel
-
 2. **Selective color:**
    - Technique: B&W image with one color element (child's red jacket, etc.)
    - Your environmental style: Makes subject pop from busy backgrounds
    - Use sparingly: Gimmicky if overused, powerful when intentional
-
 3. **HDR for high-contrast scenes:**
    - Challenge: Indoor child + bright window behind
    - Solution: Bracket 3 exposures, merge in post
@@ -1494,13 +1480,11 @@ You're comfortable at 20-27mm - now get exceptional at it:
    - Analyze: Which focal lengths appear most in your BEST work?
    - Question: Does favorite focal length match most-used focal length?
    - Insight: You might love 35mm shots but default to 24mm out of habit
-
 2. **Identify your "signature shots":**
    - What do friends/family request prints of?
    - What gets most social media engagement?
    - What makes YOU feel most proud?
    - Pattern recognition: Double down on what works uniquely for you
-
 3. **Failure analysis:**
    - Review missed shots: too dark, wrong focal length, bad timing
    - Pattern: Do you consistently struggle with same scenarios?
@@ -1516,12 +1500,10 @@ You're comfortable at 20-27mm - now get exceptional at it:
    - See how they photograph kids (likely very different from your style)
    - Discover: Different focal length choices for same scenes
    - Growth: Understand your wide-angle bias is a CHOICE, not necessity
-
 2. **Online community sharing:**
    - Platforms: Flickr groups, Reddit r/photoclass, local photography clubs
    - Share: Your best work, ask for critique
    - Focus request: "How can I improve my wide-angle storytelling?"
-
 3. **Study photographers you admire:**
    - Wide-angle masters: Henri Cartier-Bresson, Joel Meyerowitz, Alex Webb
    - Analyze: How they use wide angles differently than you
@@ -1537,12 +1519,10 @@ You're comfortable at 20-27mm - now get exceptional at it:
    - Radical: Leave dedicated camera at hotel for entire day
    - Learn: What you miss vs what you don't
    - Result: Appreciation for when each tool excels
-
 2. **"Prime lens mentality" with zoom:**
    - Tape zoom ring at 35mm (or use camera zoom lock if available)
    - Shoot full day without changing focal length
    - Discover: How constraints spark creativity (your film era proved this)
-
 3. **"Minimalist kit" challenge:**
    - Bring ONLY: Camera + SEL2070G (no 85mm, no HX90, no mobile backup)
    - Experience: True one-lens photography
@@ -1564,11 +1544,12 @@ Your 21-year archive shows **consistency** - now pursue **mastery**. You're exce
 
 ---
 
-**Bottom Line for You:**
+## 🎯 Bottom Line: Your Optimal Lens Strategy
 
-Based on 55,000+ photos across 21 years (40,000+ dedicated camera + 15,528 mobile), you've proven you're a **wide-angle storyteller** who values **environmental context** over **isolated subjects**.
+Based on 55,528 photos analyzed across 21 years (40,000+ dedicated camera + 15,528 mobile), you've proven you're a **wide-angle storyteller** who values **environmental context** over **isolated subjects**.
 
 **Mobile phone data confirms this:**
+
 - 75% of your 15,528 mobile photos shot at 23-29mm wide angle
 - When given ultra-wide (13-18mm), you use it 5-13% - proving you want WIDER
 - Samsung S25: 64% at 23mm shows consistency with your 24mm dedication on dedicated cameras
@@ -1579,18 +1560,18 @@ With a young child, this style is PERFECT - it captures the experience, not just
 
 **For growth:** Challenge yourself occasionally, but never at the expense of capturing the moment. The best photo technique is the one that gets you the shot while your child is still willing to cooperate.
 
-**Mobile insight:** Your 15,528 mobile photos aren't just "backup snapshots" - they show intentional focal length choices (ultra-wide for drama, 23mm for storytelling, 69mm for portraits). You're already a multi-focal-length photographer; SEL2070G brings that same versatility to your dedicated camera with superior image quality.
+**Mobile insight:** Your 15,528 mobile photos aren't just "backup snapshots" - they show intentional focal length choices matching your dedicated camera style (ultra-wide for drama, 23mm for storytelling, 69mm for portraits). You're already a multi-focal-length photographer; SEL2070G brings that same versatility to your dedicated camera with superior image quality.
 
 ---
 
 ## Notes
 
-- Analysis based on 72 photo collections, 40,000+ dedicated camera photos with EXIF data
-- Mobile phone analysis: 15,528 photos across 12 devices (2006-2026)
-- **Total dataset: 55,000+ photos with focal length data**
+- Analysis based on 72 photo collections totaling 40,000+ dedicated camera photos with EXIF data
+- Mobile phone analysis: 15,528 photos across 12 devices spanning 2006-2026
+- **Combined dataset: 55,528 total photos with focal length data**
 - All focal lengths in 35mm equivalent
 - Data spans 21 years (2004-2025) for dedicated cameras, 20 years (2006-2026) for mobile phones
 - Budapest trip (87% at 75mm) was portrait-focused using SAL1650 lens - not representative of typical travel patterns
 - **Sony SEL2070G specifically recommended as optimal match for documented shooting style**
-- Mobile phone usage shows 75% at 23-29mm primary wide, validating your wide-angle preference across ALL cameras
+- Mobile phone usage: 15,528 photos showing 75% at 23-29mm primary wide angle, validating your consistent wide-angle preference across ALL photography platforms
 - Samsung S25 current usage: 3,296 photos in <1 year showing mobile as primary daily camera (64% at 23mm, 15% at 69mm, 8% at 13mm)
