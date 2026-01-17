@@ -21,15 +21,19 @@
 - **90-95% coverage:** Handles nearly all your documented shooting patterns with ONE lens
 - **Perfect ecosystem fit:** Mobile (13mm ultra-wide) → SEL2070G (20-70mm) → 85mm prime (portraits) → HX90 (telephoto backup)
 
-**Camera Body: Sony A7C II** - ~$2,200-2,500
+**Camera Body: Sony A7C II or A7 IV** - ~$2,200-2,500
 
-**Why this body:**
-- **Lightest full-frame:** 514g - essential when traveling with a 4-year-old
-- **Compact form factor:** Smallest A7 body matches your mobile-first portability preference (28% mobile usage)
+**Why these bodies:**
 - **33MP sweet spot:** Perfect resolution balance - high quality without overkill file sizes
 - **Excellent high-ISO:** Clean ISO 6400 compensates for f/4 lens in low light
 - **AI autofocus:** Reliable tracking for moving children
-- **Travel-optimized:** 7-stop IBIS, weather sealing, dual card slots, vari-angle screen
+- **Travel-optimized:** IBIS, weather sealing, dual card slots, vari-angle screen
+
+**Choose A7C II if:** Lightest weight (514g) and smallest size are priorities for travel with child
+
+**Choose A7 IV if:** You prefer traditional DSLR-style grip and more substantial feel (658g, better ergonomics)
+
+**Important:** Both cameras have identical sensor/AF/features. Main difference is ergonomics vs portability trade-off. Try both in person before deciding - grip comfort is highly subjective.
 
 ### 📊 Key Findings from Your Data
 
@@ -50,15 +54,24 @@
 
 ### 🎒 Your Complete Kit Strategy
 
-**Recommended Primary System:**
-1. **Sony A7C II body** (~$2,200-2,500, 514g) - Compact full-frame camera
-2. **SEL2070G (20-70mm f/4)** (~$1,100, 488g) - Primary lens, stays on camera
-3. **85mm f/1.8 prime** (already own, 371g) - Dedicated portrait sessions
-4. **Mobile phone** (Samsung S25) - Ultra-wide (13mm) + convenience shots
-5. **HX90 backup camera** (already own) - Telephoto safety net when needed
+**Recommended Primary System (Two Equally Valid Options):**
 
-**Total Investment:** ~$3,300-3,600 for camera + lens (1,002g primary system)
+**Option A: Compact Priority (A7C II)**
+1. **Sony A7C II body** (~$2,200-2,500, 514g) - Lightest full-frame
+2. **SEL2070G (20-70mm f/4)** (~$1,100, 488g) - Primary lens
+3. **85mm f/1.8 prime** (already own, 371g) - Portraits
+4. **Mobile + HX90** (already own) - Ultra-wide + telephoto
+- **Total:** ~$3,300-3,600 | **Weight:** 1,002g primary system
+
+**Option B: Ergonomics Priority (A7 IV)**
+1. **Sony A7 IV body** (~$2,300-2,500, 658g) - Traditional grip
+2. **SEL2070G (20-70mm f/4)** (~$1,100, 488g) - Primary lens
+3. **85mm f/1.8 prime** (already own, 371g) - Portraits
+4. **Mobile + HX90** (already own) - Ultra-wide + telephoto
+- **Total:** ~$3,400-3,600 | **Weight:** 1,146g primary system
+
 **Coverage:** 95%+ of your documented photography needs
+**Key difference:** 144g weight vs better handling comfort - try both in store
 
 ### 📸 What This Document Includes
 
@@ -71,7 +84,7 @@
 - **Travel photography tips** - 13 practical sections for casual photography with family
 - **Your photographic voice validated** - Why your wide-angle consistency is a strength, not a limitation
 
-**Bottom line:** You're a wide-angle environmental storyteller. The A7C II + SEL2070G (20-70mm f/4 G) combination is purpose-built for your documented style - compact, capable, and perfectly balanced for travel photography with family.
+**Bottom line:** You're a wide-angle environmental storyteller. Either A7C II or A7 IV paired with SEL2070G (20-70mm f/4 G) is purpose-built for your documented style. Choose A7C II for maximum portability (514g) or A7 IV for better ergonomics (658g) - both deliver identical image quality and features. Try both in person to decide which grip feels right.
 
 ---
 
@@ -120,6 +133,7 @@
     - [Optimal for Your Use Case:](#optimal-for-your-use-case)
     - [Investment Analysis:](#investment-analysis)
   - [🥈 Alternative: **Sony A7 IV**](#-alternative-sony-a7-iv)
+    - [⚠️ **Important Considerations: A7C II vs A7 IV**](#️-important-considerations-a7c-ii-vs-a7-iv)
   - [🥉 Consider: **Sony A7 V** (If Budget Allows)](#-consider-sony-a7-v-if-budget-allows)
   - [❌ NOT Recommended: **Sony A7R Series** (A7R V, A7R IV)](#-not-recommended-sony-a7r-series-a7r-v-a7r-iv)
   - [📊 Camera Body Comparison Table](#-camera-body-comparison-table)
@@ -932,11 +946,12 @@ Based on 55,528 photos analyzed across 21 years, your camera body needs are clea
 **Priority Features (Must-Have):**
 
 1. **Excellent wide-angle performance** - 65-80% of your shots at 20-35mm
-2. **Lightweight for travel** - Carrying a 4-year-old + camera gear
-3. **Good autofocus** - Moving children don't wait for manual focus
-4. **Solid high-ISO performance** - f/4 lens means you'll use ISO 3200-6400
-5. **Reliable battery life** - Travel days are long, charging opportunities limited
-6. **Weather sealing** - Travel conditions vary, protection is practical
+2. **Comfortable ergonomics** - Must feel good in hand for all-day shooting
+3. **Lightweight for travel** - Carrying a 4-year-old + camera gear (but not at expense of comfort)
+4. **Good autofocus** - Moving children don't wait for manual focus
+5. **Solid high-ISO performance** - f/4 lens means you'll use ISO 3200-6400
+6. **Reliable battery life** - Travel days are long, charging opportunities limited
+7. **Weather sealing** - Travel conditions vary, protection is practical
 
 **Nice-to-Have Features:**
 
@@ -1047,6 +1062,88 @@ Based on 55,528 photos analyzed across 21 years, your camera body needs are clea
 
 **Data-based verdict:** Your 28% mobile usage + travel focus suggests you value compactness → **A7C II edges ahead**.
 
+#### ⚠️ **Important Considerations: A7C II vs A7 IV**
+
+**Your Concerns Are Valid - Here's the Reality:**
+
+**1. Ergonomics & Handling (A7C II "Too Small" Concern):**
+
+**A7C II Grip Reality:**
+- **Shallow grip depth** - Some find it cramped, especially with larger lenses
+- **Rangefinder-style body** - Different from traditional DSLR ergonomics
+- **Smaller front grip** - Less to hold onto compared to A7 IV
+- **Better with smaller lenses** - Works great with SEL2070G (488g), less ideal with heavy telephotos
+
+**Who struggles with A7C II grip:**
+- Photographers with larger hands (though you mentioned yours aren't big)
+- Those upgrading from DSLR-style cameras (muscle memory expects deeper grip)
+- Users who frequently shoot with heavy lenses (24-70mm f/2.8 GM at 886g)
+- Anyone who values tactile controls over compact size
+
+**Who loves A7C II grip:**
+- Mirrorless-first shooters (no DSLR habits to break)
+- Street/travel photographers prioritizing low profile
+- Users pairing with compact lenses (like SEL2070G f/4)
+- Those coming from compact cameras or smartphones
+
+**Practical solution if concerned:** Try both in a camera store before buying. The A7C II feels VERY different from A7 IV - this is highly personal.
+
+**2. Build Quality & Robustness (A7 IV More Robust Concern):**
+
+**Build Quality Comparison:**
+
+| Aspect | A7C II | A7 IV | Verdict |
+|--------|--------|-------|---------|
+| **Weather sealing** | ✅ Full sealing | ✅ Full sealing | **Equal** - both weather-sealed |
+| **Magnesium alloy body** | ✅ Yes | ✅ Yes | **Equal** - same materials |
+| **Shutter durability** | 200,000 cycles | 200,000 cycles | **Equal** |
+| **Port covers** | Plastic | Metal | **A7 IV better** |
+| **Button feel** | Compact/tight | Larger/more tactile | **A7 IV better** |
+| **Overall robustness** | Very good | Excellent | **A7 IV slightly better** |
+
+**Reality Check:**
+
+- **Both are professional-grade cameras** - Neither is "fragile"
+- **Weather sealing identical** - Both handle rain, dust, light snow
+- **A7C II is NOT a "toy camera"** - Same internal construction as A7 IV
+- **Main difference: Size, not strength** - Compact doesn't mean weak
+
+**Where A7 IV feels more robust:**
+- **Metal port covers** vs plastic on A7C II (HDMI, USB-C, mic)
+- **Larger buttons** - easier to press with gloves, less accidental presses
+- **Deeper grip** - feels more "planted" in hand during active shooting
+- **Psychological factor** - bigger = feels more substantial (even if specs are similar)
+
+**Where concerns are overstated:**
+- A7C II has same magnesium alloy chassis
+- Same shutter mechanism and durability rating
+- Same lens mount strength
+- Both cameras can handle professional use
+
+**For Your Use Case (Casual Travel Photography with Family):**
+
+**A7C II is sufficiently robust if:**
+- ✅ You're not shooting in extreme conditions (Antarctic expedition, monsoon)
+- ✅ Primary use is travel/family photography (not professional sports/wildlife)
+- ✅ You care about carrying lighter gear while chasing a 4-year-old
+- ✅ You pair with lighter lenses (SEL2070G is perfect match)
+
+**Choose A7 IV if:**
+- ⚠️ You value the "feel" of a substantial camera body
+- ⚠️ You want the most comfortable all-day handling
+- ⚠️ The 144g weight penalty doesn't concern you
+- ⚠️ You prefer traditional DSLR-style ergonomics
+
+**Honest Assessment for Your Situation:**
+
+**Ergonomics:** The A7C II grip IS smaller - this is real, not imagined. If you've never held a compact rangefinder-style camera, it WILL feel different. However, with the lightweight SEL2070G (488g), the system is well-balanced. With heavier lenses, the grip becomes more noticeable.
+
+**Robustness:** The difference is MINIMAL for real-world durability. Both cameras will survive normal travel photography abuse. The A7 IV's slight edge (metal port covers, larger buttons) matters more for professional daily use than casual travel shooting.
+
+**Recommendation:** If possible, **handle both cameras in a store** before deciding. The grip size difference is subjective - what feels cramped to one person feels perfect to another. Your data shows you value portability (28% mobile usage), but ergonomics trump weight if you can't comfortably hold the camera.
+
+**Safe middle ground:** A7 IV offers peace of mind on both concerns (better grip, slightly more robust feel) for only ~$100-200 more and 144g extra weight. Given you're investing $3,300-3,600 total, the A7 IV premium might be worth it if the grip concern is genuine.
+
 ---
 
 ### 🥉 Consider: **Sony A7 V** (If Budget Allows)
@@ -1127,20 +1224,30 @@ Based on 55,528 photos analyzed across 21 years, your camera body needs are clea
 
 ### 🎯 Final Camera Body Recommendation
 
-**Buy the Sony A7C II**
+**Buy Either Sony A7C II OR Sony A7 IV (Your Choice)**
 
-**Your data supports this choice:**
+**Both cameras are excellent choices - the decision comes down to personal preference:**
 
-1. **Compact = practical** (28% mobile usage shows you value portability)
-2. **33MP = sufficient** (no evidence of needing higher resolution)
-3. **Travel-optimized** (21 years of travel photography, now with 4-year-old)
-4. **Budget-smart** (~$2,200-2,500 leaves room for SEL2070G lens investment)
-5. **Perfectly matched to SEL2070G** (balanced compact system)
+**Choose A7C II (~$2,200-2,500, 514g) if:**
+1. **Portability is your top priority** - Lightest full-frame available
+2. **You're comfortable with compact cameras** - No DSLR muscle memory
+3. **Weight matters more than grip size** - Every gram counts with a 4-year-old
+4. **You pair mainly with light lenses** - SEL2070G (488g) balances well
+5. **Budget-conscious** - Save $100-200 vs A7 IV
 
-**Your Complete Recommended Kit:**
+**Choose A7 IV (~$2,300-2,500, 658g) if:**
+1. **Grip comfort is your top priority** - Traditional DSLR-style ergonomics
+2. **You want the most comfortable all-day handling** - Deeper grip, better button layout
+3. **The 144g penalty doesn't concern you** - Still reasonable for travel
+4. **You value the "substantial feel"** - Metal port covers, larger body inspires confidence
+5. **Peace of mind matters** - Better ergonomics = less hand fatigue on long shooting days
+
+**Critical: Try both in person before buying** - The grip difference is significant and highly subjective. What feels "too small" to one person feels "perfect" to another.
+
+**Your Complete Recommended Kit (Two Options):**
 
 ```
-Camera Ecosystem:
+Option A: Maximum Portability (A7C II)
 
 Sony A7C II (514g)                    ~$2,200-2,500
 + SEL2070G 20-70mm f/4 (488g)         ~$1,100
@@ -1149,15 +1256,24 @@ Sony A7C II (514g)                    ~$2,200-2,500
 + HX90 backup (24-720mm)                  $0 (already own)
 ────────────────────────────────────────────────
 Total primary system: 1,002g            ~$3,300-3,600
+
+Option B: Better Ergonomics (A7 IV)
+
+Sony A7 IV (658g)                     ~$2,300-2,500
++ SEL2070G 20-70mm f/4 (488g)         ~$1,100
++ 85mm f/1.8 prime (371g)              ~$600 (already own)
++ Mobile phone (13/23/69mm)               $0 (already own)
++ HX90 backup (24-720mm)                  $0 (already own)
+────────────────────────────────────────────────
+Total primary system: 1,146g            ~$3,400-3,600
 ```
 
-**This setup covers:**
+**Both setups cover:**
 - 95%+ of your documented photography needs
-- Lightest full-frame system for travel
 - Professional image quality where it matters
 - Casual shooting style without professional overkill
 
-**Alternative if you prefer traditional grip:** A7 IV (+$200, +144g)
+**Key difference:** 144g weight difference vs significantly better grip comfort - personal preference determines which is right for you.
 
 **Not recommended:** A7R series (overkill resolution, wrong tool for your needs)
 
