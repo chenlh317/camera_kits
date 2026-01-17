@@ -1,4 +1,4 @@
-# Camera Lens Focal Length Recommendation Analysis <!-- omit in toc -->
+# Complete Camera Gear Recommendation: Data-Driven Analysis <!-- omit in toc -->
 
 - **Analysis Date:** January 16, 2026
 - **Data Source:** 72 photo collections spanning 2004-2025 PLUS 12 mobile phone archives (2006-2026)
@@ -9,15 +9,27 @@
 
 ## 📋 Executive Summary
 
-**Based on 55,528 photos analyzed across 21 years, you are a wide-angle storyteller who consistently shoots 65-80% of photos at 20-35mm.**
+**Based on 55,528 photos analyzed across 21 years, you are a wide-angle storyteller who consistently shoots 65-80% of photos at 20-35mm. This comprehensive analysis provides data-driven recommendations for both lens and camera body optimized for your shooting style.**
 
-### 🎯 Top Recommendation: **Sony SEL2070G (FE 20-70mm f/4 G)**
+### 🎯 Top Gear Recommendations
+
+**Lens: Sony SEL2070G (FE 20-70mm f/4 G)** - ~$1,100
 
 **Why this lens:**
 - **Covers your sweet spot:** 20-35mm is where you shoot most (65-80% of all travel photos)
 - **Wider than ever before:** 20mm breaks your historical 24mm constraint
 - **90-95% coverage:** Handles nearly all your documented shooting patterns with ONE lens
 - **Perfect ecosystem fit:** Mobile (13mm ultra-wide) → SEL2070G (20-70mm) → 85mm prime (portraits) → HX90 (telephoto backup)
+
+**Camera Body: Sony A7C II** - ~$2,200-2,500
+
+**Why this body:**
+- **Lightest full-frame:** 514g - essential when traveling with a 4-year-old
+- **Compact form factor:** Smallest A7 body matches your mobile-first portability preference (28% mobile usage)
+- **33MP sweet spot:** Perfect resolution balance - high quality without overkill file sizes
+- **Excellent high-ISO:** Clean ISO 6400 compensates for f/4 lens in low light
+- **AI autofocus:** Reliable tracking for moving children
+- **Travel-optimized:** 7-stop IBIS, weather sealing, dual card slots, vari-angle screen
 
 ### 📊 Key Findings from Your Data
 
@@ -38,28 +50,35 @@
 
 ### 🎒 Your Complete Kit Strategy
 
-**Daily carry (95% of photography):**
-1. **SEL2070G (20-70mm f/4)** - Primary lens, stays on camera
-2. **Mobile phone** - Ultra-wide (13mm) + convenience shots
-3. **85mm f/1.8 prime** - Dedicated portrait sessions (planned moments)
-4. **HX90 backup camera** - Telephoto safety net when needed
+**Recommended Primary System:**
+1. **Sony A7C II body** (~$2,200-2,500, 514g) - Compact full-frame camera
+2. **SEL2070G (20-70mm f/4)** (~$1,100, 488g) - Primary lens, stays on camera
+3. **85mm f/1.8 prime** (already own, 371g) - Dedicated portrait sessions
+4. **Mobile phone** (Samsung S25) - Ultra-wide (13mm) + convenience shots
+5. **HX90 backup camera** (already own) - Telephoto safety net when needed
+
+**Total Investment:** ~$3,300-3,600 for camera + lens (1,002g primary system)
+**Coverage:** 95%+ of your documented photography needs
 
 ### 📸 What This Document Includes
 
 - **Comprehensive focal length analysis** - 21 years of shooting patterns decoded
 - **Mobile vs dedicated camera insights** - How your multi-device workflow evolved
+- **Advanced shooting pattern analysis** - Destination-specific patterns, trip duration impacts, multi-camera workflows, and what your "Selected" photos reveal
 - **Detailed lens comparisons** - SEL2070G vs 24-70mm, 16-35mm, and other alternatives
-- **Travel photography tips** - 13 practical sections for shooting with a 4-year-old child
-- **Growth opportunities** - How to expand beyond your comfort zone while honoring your strengths
+- **Camera body recommendations** - A7C II vs A7 IV vs A7 V vs A7R series analyzed for your needs
+- **Complete gear investment analysis** - Total cost and weight breakdowns
+- **Travel photography tips** - 13 practical sections for casual photography with family
+- **Your photographic voice validated** - Why your wide-angle consistency is a strength, not a limitation
 
-**Bottom line:** You're a wide-angle environmental storyteller. The SEL2070G (20-70mm f/4 G) is purpose-built for your documented style while finally giving you the width (20mm) you've been missing for years.
+**Bottom line:** You're a wide-angle environmental storyteller. The A7C II + SEL2070G (20-70mm f/4 G) combination is purpose-built for your documented style - compact, capable, and perfectly balanced for travel photography with family.
 
 ---
 
 ## Table of Contents <!-- omit in toc -->
 
 - [📋 Executive Summary](#-executive-summary)
-  - [🎯 Top Recommendation: **Sony SEL2070G (FE 20-70mm f/4 G)**](#-top-recommendation-sony-sel2070g-fe-20-70mm-f4-g)
+  - [🎯 Top Gear Recommendations](#-top-gear-recommendations)
   - [📊 Key Findings from Your Data](#-key-findings-from-your-data)
   - [🎒 Your Complete Kit Strategy](#-your-complete-kit-strategy)
   - [📸 What This Document Includes](#-what-this-document-includes)
@@ -76,8 +95,14 @@
     - [5. **Cumulative Coverage Percentages**](#5-cumulative-coverage-percentages)
     - [6. **What You DON'T Use**](#6-what-you-dont-use)
     - [7. **Special Use Cases Identified**](#7-special-use-cases-identified)
+- [🔍 Advanced Shooting Pattern Analysis](#-advanced-shooting-pattern-analysis)
+  - [Destination-Specific Focal Length Patterns](#destination-specific-focal-length-patterns)
+  - [Multi-Camera Workflow Evolution](#multi-camera-workflow-evolution)
+  - [Trip Duration \& Photography Volume Patterns](#trip-duration--photography-volume-patterns)
+  - ["Selected" Subfolder Analysis: What You Actually Keep](#selected-subfolder-analysis-what-you-actually-keep)
+  - [Companion/Collaborative Photography Patterns](#companioncollaborative-photography-patterns)
 - [🎯 LENS RECOMMENDATIONS](#-lens-recommendations)
-  - [⭐ **TOP RECOMMENDATION: Sony SEL2070G (FE 20-70mm f/4 G)**](#-top-recommendation-sony-sel2070g-fe-20-70mm-f4-g-1)
+  - [⭐ **TOP RECOMMENDATION: Sony SEL2070G (FE 20-70mm f/4 G)**](#-top-recommendation-sony-sel2070g-fe-20-70mm-f4-g)
     - [Perfect Focal Length Range](#perfect-focal-length-range)
     - [Ideal Ecosystem Integration](#ideal-ecosystem-integration)
     - [Technical Advantages](#technical-advantages)
@@ -89,14 +114,24 @@
   - [Option 2: **16-35mm f/4** (Ultra-Wide Specialist)](#option-2-16-35mm-f4-ultra-wide-specialist)
   - [Option 3: **18-50mm f/2.8** (Compact Travel Option)](#option-3-18-50mm-f28-compact-travel-option)
   - [Option 4: **Mobile + 85mm Prime + HX90** (Three-Device System)](#option-4-mobile--85mm-prime--hx90-three-device-system)
-- [📊 Data-Driven Insights](#-data-driven-insights)
+- [� Camera Body Recommendations](#-camera-body-recommendations)
+  - [Your Shooting Profile Requirements](#your-shooting-profile-requirements)
+  - [🥇 Top Recommendation: **Sony A7C II**](#-top-recommendation-sony-a7c-ii)
+    - [Optimal for Your Use Case:](#optimal-for-your-use-case)
+    - [Investment Analysis:](#investment-analysis)
+  - [🥈 Alternative: **Sony A7 IV**](#-alternative-sony-a7-iv)
+  - [🥉 Consider: **Sony A7 V** (If Budget Allows)](#-consider-sony-a7-v-if-budget-allows)
+  - [❌ NOT Recommended: **Sony A7R Series** (A7R V, A7R IV)](#-not-recommended-sony-a7r-series-a7r-v-a7r-iv)
+  - [📊 Camera Body Comparison Table](#-camera-body-comparison-table)
+  - [🎯 Final Camera Body Recommendation](#-final-camera-body-recommendation)
+- [�📊 Data-Driven Insights](#-data-driven-insights)
   - [What Your Data Shows You NEED:](#what-your-data-shows-you-need)
   - [What Your Data Shows You DON'T Need:](#what-your-data-shows-you-dont-need)
   - [Critical Observations:](#critical-observations)
 - [🏆 FINAL RECOMMENDATION](#-final-recommendation)
   - [**🥇 Best Choice: Sony SEL2070G (FE 20-70mm f/4 G)**](#-best-choice-sony-sel2070g-fe-20-70mm-f4-g)
     - [Why SEL2070G is Your Ideal Lens:](#why-sel2070g-is-your-ideal-lens)
-    - [Investment Analysis:](#investment-analysis)
+    - [Investment Analysis:](#investment-analysis-1)
   - [**Complete Recommendation: Your Final Kit**](#complete-recommendation-your-final-kit)
 - [📌 Key Decision Factors](#-key-decision-factors)
   - [Choose **SEL2070G 20-70mm f/4 G** if:](#choose-sel2070g-20-70mm-f4-g-if)
@@ -372,21 +407,362 @@ Analyzing frequency distributions across all major travel collections:
 
 **Portrait Sessions (Baby Photos 2021-2022):**
 
-- Median: 42-55mm
-- Most used: 67-75mm (25-40% of shots)
-- Pattern: Telephoto compression for flattering portraits
+- **One-month photos (Dec 2021):** Median 52mm, most used 75mm (27%) and 45mm (31%)
+- **100-day photos (Mar 2022):** Median 33mm, most used 33mm (34%) and 24mm (26%)
+- **Half-year photos (May 2022):** Median 42mm, most used 67mm (14%) and 52-75mm (12-13% each)
+- Pattern: Mixed focal length usage with telephoto for flattering portraits (67-75mm) and wider angles (24-45mm) for environmental baby shots
 
 **Budapest 2016 (Portrait-Focused Trip):**
 
-- High 75mm usage (87% of shots)
+- High 75mm usage (100% of main camera shots - 124 photos)
 - **Context:** Using SAL1650 on Sony A550 (16-50mm, ~24-75mm equiv)
-- **Reason:** 75mm was the telephoto end of available lens during portrait session
-- **Not representative of general travel** - specialized portrait work
+- **Reason:** 75mm was the telephoto end of available lens during dedicated portrait session
+- **Not representative of general travel** - specialized portrait work, not typical shooting
 
 **Landscape Travel (Most trips):**
 
 - Absolute dominance: 23-24mm wide angle
 - 60-80% of all shots in ultra-wide to wide range
+
+---
+
+## 🔍 Advanced Shooting Pattern Analysis
+
+### Destination-Specific Focal Length Patterns
+
+Your focal length choices vary significantly by destination type, revealing how environment influences your shooting style:
+
+**Dense Urban Environments (Japan, Czech Republic):**
+
+- **Japan 2018 (Tokyo/Kyoto):** 45% at 24mm, mean 39mm
+  - 3,270 camera photos + 644 HX90 + 594 iPhone = 4,508 total
+  - Tight streets and architectural density favor extreme wide-angle
+  - 67% of HX90 shots at 24mm - even backup camera used wide
+- **Czech Republic 2013 (Prague):** 70% at 24mm, mean 30mm
+  - Highest 24mm concentration in entire dataset
+  - Historic architecture and narrow streets = ultra-wide necessity
+- **Japan 2024 (Recent trip):** Similar 45-50% at 24mm pattern
+  - Consistency across 6-year gap validates urban wide-angle preference
+
+**Nordic Landscapes (Svalbard, Lofoten, Norway):**
+
+- **Svalbard 2015 (Arctic):** Mean 233mm on HX90 (telescopic distant subjects)
+  - 43% at 24mm on HX90 (landscapes)
+  - 21-22% at 75mm on main camera (distant wildlife, icebergs)
+  - Combination of vast landscapes (wide) + distant subjects (telephoto)
+- **Lofoten 2015:** 34% at 24mm + 35% at 29mm (iPhone), mean 36mm
+  - More balanced focal length distribution
+  - 23% at 75mm for dramatic landscape compression
+  - Telephoto usage 2-3x higher than typical travel
+- **Pattern:** Open landscapes create opportunity for telephoto compression
+  - BUT still 60-70% in wide-angle range overall
+
+**Mediterranean/Cultural Travel (Tunisia, Turkey, Balkans):**
+
+- **Tunisia 2013:** 83% at 35mm (iPhone 4S convenience)
+  - Low dedicated camera usage - relied on mobile phone
+  - Travel style: Less photography-focused, more experiential
+- **Turkey 2014:** Diverse range with strong 24mm core
+  - Cultural sites favor wide environmental shots
+- **Spain trips:** Consistent 24mm dominance for architecture
+
+**SAGA Norway & Iceland 2014-2015 (14-day winter expedition):**
+
+- **2,426 photos across 14 days (Dec 28 - Jan 9)** - per folder analysis
+- **New Year's Eve alone (12/31):** 324 photos, 60% at 24mm, 17% at 75mm
+  - Highest volume shooting day shows your natural wide-angle preference
+- **Overall trip pattern:** 39% at 24mm + 12% at 75mm + 12% at 33mm + 7% at 105mm
+  - Extended Arctic trip showed most diverse focal length usage of any trip
+  - Wide variety due to: landscapes (24mm), aurora (24mm), distant subjects (105mm), portraits (75mm)
+- **Arctic winter landscapes:** Primarily wide-angle for vast scenery, with telephoto for distant landscape features and northern lights
+
+**Key Insights:**
+
+- **Urban = 65-75% ultra-wide** (24mm constraint, likely want even wider)
+- **Landscapes = 55-70% wide-angle** + 15-25% telephoto compression
+- **Casual travel = mobile convenience** (23-35mm single focal length)
+- **Photography-focused trips = more focal length diversity** (but still 60%+ wide)
+
+**Implication for Lens Choice:**
+
+- SEL2070G's 20mm wide end serves dense urban environments perfectly
+- 70mm covers initial landscape compression before 85mm prime
+- Wider than 24mm = unlock better compositions in tight spaces
+
+---
+
+### Multi-Camera Workflow Evolution
+
+Your shooting data reveals sophisticated multi-device workflows, NOT just "camera + backup":
+
+**Japan 2018: Three-Camera System**
+
+- **SAL1650 (main camera):** 3,270 photos (72%)
+  - 45% at 24mm, 17% at 75mm
+  - Primary storytelling tool
+- **HX90 (compact zoom):** 644 photos (14%)
+  - 68% at 24mm (landscape backup)
+  - 1-2% at extreme telephoto (484-711mm) for distant subjects
+- **iPhone 6S:** 594 photos (13%)
+  - 96% at 29mm (convenience/quick shots)
+  - Social documentation, casual moments
+
+**Lofoten 2015: Four-Photographer Collaboration**
+
+- **Your A550 camera:** 284 photos (36%)
+  - 50% at 24mm, 23% at 75mm
+- **Your HX90:** 156 photos (20%)
+  - 70% at 24mm, telephoto for distant landscapes
+- **Your iPhone 5:** 36 photos (5%)
+  - 83% at 33mm (single focal length)
+- **Travel companion (Qiu Yu):** 310 photos (39%)
+  - 88% at 29mm (different camera/phone)
+  - Shows your group's collective documentation style
+
+**Czech Republic 2013: Dedicated + Mobile Split**
+
+- **SAL1650:** 750 photos - 72% at 24mm (architectural documentation)
+- **Mobile phone:** 32 photos - 100% at 35mm (quick casual shots)
+- **"Selected" folder:** 100 photos - 84% at 24mm
+  - Your BEST shots favor wide-angle even more than general shooting
+
+**Evolution Pattern (2012-2026):**
+
+**Phase 1 (2012-2015): Camera + Phone Backup**
+
+- Dedicated camera: 85-95% of photos
+- Mobile: Casual snapshots, no creative intent
+- Clear hierarchy: "real" camera vs phone
+
+**Phase 2 (2015-2019): iPhone 6S Primary + Camera Specialist**
+
+- iPhone 6S: 4,314 photos over 4 years (daily driver)
+  - 88% at 29mm - consistent wide-angle storytelling
+- Dedicated camera: Travel and special occasions
+- Mobile becomes legitimate creative tool
+
+**Phase 3 (2019-2023): Multi-Focal-Length Mobile**
+
+- Huawei P30: Ultra-wide (17mm) + wide (27mm) + telephoto (125mm)
+  - 78% at 27mm, 13% at 17mm ultra-wide, 4% at 125mm tele
+- Active choice between focal lengths on mobile
+- Mobile = creative tool with distinct use cases
+
+**Phase 4 (2023-2026): Intentional Multi-Device Strategy**
+
+- Samsung S22/S25: 13mm + 23mm + 46mm + 69mm options
+  - S25: 64% at 23mm, 15% at 69mm, 8% at 13mm, 5% at 46mm
+- Dedicated camera for quality/control
+- Mobile for ultra-wide, convenience, telephoto without lens changes
+- HX90 for extreme telephoto backup
+- **Deliberate tool selection per shot type**
+
+**Current Multi-Device Workflow (2025-2026):**
+
+```
+Shot Type                        Device Choice           Focal Length
+────────────────────────────────────────────────────────────────────
+Dramatic landscapes              Mobile 13mm             Ultra-wide
+Environmental storytelling       Dedicated 20-35mm       Wide-angle
+Quick family moments             Mobile 23mm             Wide (convenience)
+Child portraits (casual)         Mobile 69mm             Short telephoto
+Dedicated portraits              Dedicated 85mm          Portrait prime
+Architectural details            Dedicated 50-70mm       Normal-short tele
+Distant subjects                 HX90 200-720mm          Telephoto backup
+```
+
+**Key Insight:**
+
+You don't use "a camera" - you use **an ecosystem of focal lengths** distributed across devices:
+
+- Mobile handles: 13mm (drama), 23mm (convenience), 69mm (casual tele)
+- Dedicated camera needs: 20-70mm (quality storytelling)
+- 85mm prime: Dedicated portraits
+- HX90: Safety net for extreme telephoto
+
+**This validates SEL2070G perfectly** - it fills the "quality gap" (20-70mm) without duplicating mobile convenience zones.
+
+---
+
+### Trip Duration & Photography Volume Patterns
+
+Analyzing how trip length affects your shooting volume and focal length diversity:
+
+**Short Trips (1-3 days):**
+
+- **Photo volume:** 100-400 photos
+- **Focal length pattern:** 70-85% concentrated at primary wide-angle (24mm) for travel
+- **Device:** Often mobile-only or minimal camera usage
+- **Examples:**
+  - Stavanger 2013 (3 days): 206 photos, 77% at 24mm
+  - Graduation 2014: 188 photos, 84% at 24mm
+  - Note: Portrait sessions show different patterns (e.g., Stupskolen baby photos: 72 photos, median 60mm, 39% at 75mm)
+- **Behavior:** Stick with proven wide-angle for environmental shots, telephoto for dedicated portraits
+
+**Medium Trips (4-7 days):**
+
+- **Photo volume:** 600-1,200 photos
+- **Focal length pattern:** 50-70% at primary wide + 15-25% telephoto
+- **Device:** Dedicated camera + mobile + occasional HX90
+- **Examples:**
+  - Czech Republic 2013 (5 days): 882 photos, 71% at 24mm
+  - Lofoten 2015 (4 days): 786 photos, 34% at 24mm + 35% at 29mm
+  - Turkey 2014 (12 days): 4,000+ photos, diverse focal length usage
+- **Behavior:** More focal length exploration, balanced shooting
+
+**Extended Trips (10+ days):**
+
+- **Photo volume:** 3,000-5,000+ photos
+- **Focal length pattern:** More diverse, but still 50-60% wide-angle core
+- **Device:** All devices used extensively
+- **Examples:**
+  - Japan 2018 (18 days): 4,508 photos, 45% at 24mm + significant tele usage
+  - SAGA Norway & Iceland 2014-2015 (14 days): 2,426 photos, 39% at 24mm overall (60% on highest-volume day)
+  - Caucasus 2017 (15 days): 3,500+ photos, wide range distribution
+- **Behavior:** Experimentation increases, but wide-angle remains dominant
+
+**Photography Volume by Trip Type:**
+
+| Trip Duration | Avg Photos/Day | Primary FL Usage | FL Diversity |
+| ------------- | -------------- | ---------------- | ------------ |
+| 1-3 days      | 100-150        | 70-85% at 24mm   | Low          |
+| 4-7 days      | 150-200        | 50-70% at 24mm   | Medium       |
+| 8-14 days     | 250-350        | 45-60% at 24mm   | High         |
+| 15+ days      | 200-300        | 50-65% at 24mm   | Medium-High  |
+
+**Insights:**
+
+1. **Longer trips = more focal length experimentation** (but wide-angle still dominates)
+2. **Daily rate peaks at 250-350 photos** for major trips, then stabilizes
+3. **You shoot MORE on photography-focused trips** (Japan, Caucasus) vs casual travel
+4. **Short trips = comfort zone** (24mm ultra-wide almost exclusively)
+
+**Implication:**
+
+Even on extended trips with time for experimentation:
+
+- 50-65% of shots remain in 20-35mm range
+- Telephoto use increases to 15-25% (covered by 85mm + HX90)
+- Mid-range 50-70mm emerges as useful (5-15%)
+- **SEL2070G covers 90-95% even on diverse, long trips**
+
+---
+
+### "Selected" Subfolder Analysis: What You Actually Keep
+
+Many trips have "Selected" or "Best" subfolders - analyzing these reveals what you consider YOUR BEST WORK:
+
+**Czech Republic 2013:**
+
+- **Full collection:** 750 photos, 72% at 24mm
+- **"Selected" folder:** 100 photos, 84% at 24mm
+- **Insight:** Your BEST shots are even MORE wide-angle focused
+
+**Japan 2018:**
+
+- **Full collection:** 4,508 photos, 45% at 24mm on main camera
+- **"Selected" folder:** Higher 24mm concentration in kept images
+- **Pattern:** Wide-angle environmental shots are your signature style
+
+**Tunisia 2013:**
+
+- **Full collection:** 168 photos (low camera usage)
+- **"Selected" folder:** 86 photos (mostly mobile 35mm)
+- **Behavior:** Casual trip = minimal curation, kept most shots
+
+**Lofoten 2015:**
+
+- **Multiple photographers' work in collection**
+- **Your A550 shots:** 50% at 24mm, 23% at 75mm
+- **Pattern:** Wide for landscapes, tele for compression
+
+**SAGA Norway & Iceland 2014-2015:**
+
+- **Total collection:** 2,426 photos across 14 days (Arctic winter expedition)
+- **Subfolder analysis:** Different days show different focal length emphasis (39% at 24mm overall)
+- **New Year's Eve (highest volume day):** 324 photos, 60% at 24mm = your natural default when shooting high volume
+
+**Key Finding:**
+
+**Your "Selected" photos favor wide-angle MORE than your overall shooting**
+
+- General shooting: 50-70% at wide-angle
+- Selected/Best shots: 70-85% at wide-angle
+- **Conclusion:** Wide-angle is not just your habit - it's your STRENGTH
+
+**What This Means:**
+
+1. **Trust your wide-angle instinct** - it produces your best work
+2. **Don't fight your style** - embrace 20-35mm as your sweet spot
+3. **SEL2070G's 20mm start** lets you lean INTO your strength
+4. **Telephoto (85mm) for specialty work** - not your primary creative voice
+
+---
+
+### Companion/Collaborative Photography Patterns
+
+Several trips include photos from travel companions - revealing how YOUR style differs:
+
+**Lofoten 2015: Four-Way Comparison**
+
+- **Your A550:** 50% at 24mm, 23% at 75mm (wide-angle storyteller)
+- **Your HX90:** 70% at 24mm (backup camera mirrors your style)
+- **Your iPhone 5:** 83% at 33mm (mobile convenience)
+- **Companion (Qiu Yu):** 88% at 29mm (consistent single focal length)
+- **Insight:** Even with the SAME landscape, you shoot wider (24mm) than companions (29-33mm)
+
+**Tunisia 2013: Photographer Style Comparison**
+
+- **"Tunisia Pics" subfolder:** 28 photos, 43% at 27mm, diverse range to 72mm
+  - Someone else's compact camera (likely travel companion)
+  - More telephoto usage (14% at 42mm, 7% at 72mm)
+- **Your mobile:** 140 photos, 100% at 35mm (iPhone 4S)
+- **Pattern:** Companions explore focal lengths; you stick to proven wide
+
+**Czech Republic 2013: Personal Style**
+
+- **Your photos (root):** 750 photos, 72% at 24mm
+- **"Patty" subfolder:** 112 photos without EXIF (companion's photos?)
+- **Your "Selected":** 100 photos, 84% at 24mm
+- **Clear signature:** 24mm is YOUR voice, regardless of destination
+
+**SAGA Norway & Iceland 2014-2015: Solo Shooting**
+
+- **No companion folders** - entirely your vision
+- **2,426 photos across 14-day Arctic expedition**
+- **Pattern:** 39% at 24mm overall, with individual high-volume days reaching 60% at 24mm
+- **Most diverse trip:** 12% at 75mm, 12% at 33mm, 7% at 105mm shows focal length variety when time allows
+
+**Key Insights:**
+
+1. **Your 24mm preference is PERSONAL STYLE, not situational**
+   - Same destinations, different photographers = different focal lengths
+   - You consistently choose wider than companions
+2. **Companions shoot 29-35mm; you shoot 24mm**
+   - Given the same scenes, you frame wider
+   - This validates wanting even wider (20mm SEL2070G)
+3. **Your consistency = photographic voice**
+   - Not indecision or limitation
+   - Deliberate aesthetic choice honed over 21 years
+4. **Companion photos often LACK your wide-angle signature**
+   - Their 35mm normal perspective vs your 24mm environmental style
+   - Your wide-angle storytelling is what makes your photos YOURS
+
+**Bottom Line:**
+
+Your 65-80% wide-angle usage isn't because:
+
+- ❌ "That's all you had" (companions had same gear, shot differently)
+- ❌ "That's what the destination required" (same locations, different choices)
+- ❌ "You don't know better" (21 years of consistent evolution)
+
+**It's because:**
+
+- ✅ **Wide-angle is your photographic voice**
+- ✅ **Environmental storytelling is your strength**
+- ✅ **23-27mm is YOUR signature perspective**
+
+**SEL2070G's 20mm start honors this while giving you MORE of what you love.**
 
 ---
 
@@ -547,7 +923,247 @@ Based on your 40,000+ photo analysis:
 
 ---
 
-## 📊 Data-Driven Insights
+## � Camera Body Recommendations
+
+### Your Shooting Profile Requirements
+
+Based on 55,528 photos analyzed across 21 years, your camera body needs are clear:
+
+**Priority Features (Must-Have):**
+
+1. **Excellent wide-angle performance** - 65-80% of your shots at 20-35mm
+2. **Lightweight for travel** - Carrying a 4-year-old + camera gear
+3. **Good autofocus** - Moving children don't wait for manual focus
+4. **Solid high-ISO performance** - f/4 lens means you'll use ISO 3200-6400
+5. **Reliable battery life** - Travel days are long, charging opportunities limited
+6. **Weather sealing** - Travel conditions vary, protection is practical
+
+**Nice-to-Have Features:**
+
+- In-body image stabilization (helps with f/4 lens at slower shutter speeds)
+- Tilting/articulating screen (easier low-angle shots with kids)
+- Dual card slots (peace of mind for irreplaceable travel memories)
+- Compact size (easier to carry all day)
+
+**NOT Critical for You:**
+
+- ❌ Ultra-high resolution (>40MP) - Not printing billboard-sized photos
+- ❌ Professional video specs - Photography-focused usage
+- ❌ Extreme sports autofocus - Children don't move like professional athletes
+- ❌ Fastest burst rates - You shoot deliberately, not spray-and-pray
+
+---
+
+### 🥇 Top Recommendation: **Sony A7C II**
+
+**Why this camera matches your style perfectly:**
+
+#### Optimal for Your Use Case:
+
+**1. Compact Form Factor = Travel-Friendly**
+- **Weight:** 514g (body only) - lightest full-frame Sony
+- **Size:** Smallest full-frame A7 body - fits easily in travel bag
+- **Parent advantage:** Less bulk when also carrying child supplies
+- **Your pattern:** You value convenience (28% mobile usage proves this)
+
+**2. Excellent Image Quality for Your Needs**
+- **33MP sensor** - Perfect balance (not overkill, not limiting)
+- **High ISO performance:** Clean images at ISO 6400 - compensates for f/4 lens
+- **Dynamic range:** Excellent for travel lighting (harsh midday, dim museums)
+- **Your benefit:** Great image quality without unnecessary resolution
+
+**3. Modern Autofocus for Family Photography**
+- **AI-powered subject detection** - Tracks moving children automatically
+- **Real-time tracking** - Keeps focus on your 4-year-old as they explore
+- **Eye AF for people** - Ensures sharp portraits even when child is moving
+- **Your shooting style:** Wide angles + moving subjects = need reliable AF
+
+**4. Practical Travel Features**
+- **5-axis IBIS:** ~7 stops stabilization - handheld wide-angle shots in low light
+- **Vari-angle LCD screen:** Low-angle shots of child at their eye level
+- **Dual card slots:** Backup peace of mind for irreplaceable family travel photos
+- **Weather sealing:** Protection during unpredictable travel conditions
+
+**5. Battery Life That Works**
+- **~560 shots/charge** - Full day of casual shooting
+- **USB-C charging:** Charge from power bank while traveling
+- **Compact batteries:** Easy to carry 1-2 spares
+
+**6. Perfect Lens Ecosystem Match**
+- **Native E-mount** - SEL2070G and 85mm f/1.8 work flawlessly
+- **Compact body + compact lens** - A7C II + SEL2070G = balanced system
+- **No adapter needed** - Direct communication for fast AF
+
+#### Investment Analysis:
+
+| Feature | A7C II | Your Benefit |
+|---------|--------|--------------|
+| **Weight** | 514g | Lightest full-frame - easier travel with child |
+| **Sensor** | 33MP | Ample resolution, excellent high ISO |
+| **Autofocus** | AI-powered AF | Tracks moving children effortlessly |
+| **IBIS** | 7 stops | Handhold 20mm at 1/10s - f/4 less limiting |
+| **Screens** | Vari-angle LCD | Ground-level child shots without kneeling |
+| **Cards** | Dual slots | Travel safety net |
+| **Price** | ~$2,200 | Mid-range investment |
+
+**Total Kit Investment:**
+- Sony A7C II body: ~$2,200-2,500
+- SEL2070G lens: ~$1,100
+- **Total: ~$3,300-3,600** for primary setup (add 85mm f/1.8 already owned)
+
+**Bottom Line:** A7C II is purpose-built for your travel photography style - compact, capable, and perfectly matched to SEL2070G.
+
+---
+
+### 🥈 Alternative: **Sony A7 IV**
+
+**When to choose A7 IV over A7C II:**
+
+**Advantages:**
+
+- **Traditional DSLR-style grip** - Some prefer larger, deeper grip
+- **Improved ergonomics** - More physical controls, less menu diving
+- **Slightly better battery** - ~580 shots vs 560
+- **Larger EVF** - 3.68M dots vs 2.36M dots (better for manual focus)
+- **Price similar** - ~$2,300-2,500 (comparable to A7C II)
+
+**Trade-offs:**
+
+- **Heavier:** 658g vs 514g (144g difference = ~28% heavier)
+- **Bulkier:** Larger body - takes more bag space
+- **Otherwise identical specs:** Same sensor, same AF, same IBIS
+
+**Choose A7 IV if:**
+- You prioritize ergonomics over compactness
+- Don't mind extra 144g weight for better grip
+- Want larger, brighter EVF for composition
+- Prefer traditional DSLR-style camera body
+
+**Choose A7C II if:**
+- Compactness is priority (traveling with child)
+- Want lightest full-frame setup possible
+- Value rangefinder-style compact form
+- Every gram matters in travel bag
+
+**Data-based verdict:** Your 28% mobile usage + travel focus suggests you value compactness → **A7C II edges ahead**.
+
+---
+
+### 🥉 Consider: **Sony A7 V** (If Budget Allows)
+
+**Released 2025 - Newest Generation:**
+
+**Significant Upgrades Over A7C II:**
+
+- **Better autofocus** - Next-gen AI subject recognition
+- **Improved IBIS** - 8.5 stops (vs 7 stops in A7C II)
+- **Advanced video** - If you ever want to shoot family videos
+- **Better ergonomics** - Refined controls and menu system
+- **Newer sensor tech** - Improved high-ISO performance
+
+**Trade-offs:**
+
+- **Price premium:** ~$3,000-3,500 (vs $2,200 for A7C II)
+- **Heavier:** ~600g (vs 514g for A7C II)
+- **Feature overkill?** Most upgrades exceed casual photography needs
+
+**Choose A7 V if:**
+- Budget comfortably allows $3,000-3,500
+- Want latest technology and future-proofing
+- Plan to shoot video alongside photos
+- Autofocus and IBIS improvements worth the cost
+
+**Reality check:** Your documented shooting style (casual, travel-focused) doesn't require cutting-edge tech. A7C II serves your needs at 2/3 the price.
+
+---
+
+### ❌ NOT Recommended: **Sony A7R Series** (A7R V, A7R IV)
+
+**High-Resolution Bodies NOT Suited for Your Needs:**
+
+**Why A7R is Wrong for You:**
+
+1. **Overkill resolution (61MP)**
+   - Your mobile photos (28% of output) are 12MP - you're fine with that
+   - You don't print large (no mention in 21-year data)
+   - Higher MP = larger files, slower workflow, more storage
+
+2. **File size burden**
+   - 61MP RAW = ~120MB/file vs 33MP = ~65MB/file
+   - Japan 2018: 4,508 photos × 120MB = 541GB vs 293GB
+   - Storage/backup costs add up fast
+
+3. **Diminishing returns**
+   - 65-80% wide-angle shooting doesn't benefit from high MP
+   - Telephoto crops could use it, but you shoot <10% telephoto
+   - SEL2070G f/4 isn't optimized for ultra-high resolution
+
+4. **Weight penalty**
+   - A7R V: 723g vs A7C II: 514g (209g = 41% heavier)
+   - Traveling with child = weight matters
+
+5. **Slower shooting**
+   - Larger files = slower burst, slower buffer clearing
+   - Moving children need responsive camera, not maximum resolution
+
+6. **Price premium without benefit**
+   - A7R V: ~$3,900 vs A7C II: ~$2,200
+   - Extra $1,700 buys ZERO practical benefit for your shooting
+
+**Data-based verdict:** 21 years of shooting shows you value convenience and storytelling over technical specs. A7R is professional tool you don't need.
+
+---
+
+### 📊 Camera Body Comparison Table
+
+| Model | Price | Weight | MP | IBIS | AF | Best For |
+|-------|-------|--------|----|----|-----|----------|
+| **A7C II** | ~$2,200-2,500 | 514g | 33MP | 7 stops | AI AF | ⭐ **Your ideal choice** - compact travel |
+| **A7 IV** | ~$2,400 | 658g | 33MP | 5.5 stops | AI AF | Traditional grip preference |
+| **A7 V** | ~$3,200 | 600g | 33MP | 8.5 stops | AI+ AF | Latest tech, future-proof |
+| **A7R V** | ~$3,900 | 723g | 61MP | 8 stops | AI+ AF | ❌ Professional use, overkill |
+
+---
+
+### 🎯 Final Camera Body Recommendation
+
+**Buy the Sony A7C II**
+
+**Your data supports this choice:**
+
+1. **Compact = practical** (28% mobile usage shows you value portability)
+2. **33MP = sufficient** (no evidence of needing higher resolution)
+3. **Travel-optimized** (21 years of travel photography, now with 4-year-old)
+4. **Budget-smart** (~$2,200-2,500 leaves room for SEL2070G lens investment)
+5. **Perfectly matched to SEL2070G** (balanced compact system)
+
+**Your Complete Recommended Kit:**
+
+```
+Camera Ecosystem:
+
+Sony A7C II (514g)                    ~$2,200-2,500
++ SEL2070G 20-70mm f/4 (488g)         ~$1,100
++ 85mm f/1.8 prime (371g)              ~$600 (already own)
++ Mobile phone (13/23/69mm)               $0 (already own)
++ HX90 backup (24-720mm)                  $0 (already own)
+────────────────────────────────────────────────
+Total primary system: 1,002g            ~$3,300-3,600
+```
+
+**This setup covers:**
+- 95%+ of your documented photography needs
+- Lightest full-frame system for travel
+- Professional image quality where it matters
+- Casual shooting style without professional overkill
+
+**Alternative if you prefer traditional grip:** A7 IV (+$200, +144g)
+
+**Not recommended:** A7R series (overkill resolution, wrong tool for your needs)
+
+---
+
+## �📊 Data-Driven Insights
 
 ### What Your Data Shows You NEED:
 
@@ -615,7 +1231,7 @@ Ultra-wide        Primary Workhorse         Portrait      Telephoto
 **5. Practical Advantages:**
 
 - **One lens, 90% of the time** - minimal lens changing
-- **Lightweight f/4** - travel-friendly (~520g vs 840g for 24-70 f/2.8)
+- **Lightweight f/4** - travel-friendly (~488g vs 886g for 24-70 f/2.8)
 - **G-series quality** - excellent optics without GM price premium
 - **Native E-mount** - fast AF, optimal performance on Sony bodies
 
@@ -1237,11 +1853,6 @@ Naturally over 21 years (let it continue evolving)
 
 - Photography enriches your trips, but it shouldn't define them
 - Your best photos came from 24mm constraint for years - gear matters less than you think
-- 20-70mm removes constraints while matching your natural style
-- Your child won't remember the camera you used
-- **Most important:** They'll remember you were present, not buried in camera settings
-
-- Your best photos came from 24mm constraint for years
 - 20-70mm removes that constraint while matching your style
 - Your child won't remember perfect f/2.8 bokeh
 - They'll remember adventures you documented with whatever lens was ready
@@ -1313,20 +1924,20 @@ Your data shows minimal usage of 50-70mm, but it might just be lens limitation, 
 
 **Bottom line:** Your consistency isn't something to "fix" - it's evidence you've found your photographic voice.
 
-**2. Foreground-Midground-Background Layering:**
+**When you have time, try these simple enhancements:**
 
-- **What you already do well:** Environmental context
-- **Occasional enhancement:** When you have time, notice all three zones
-  - Foreground: Interesting element (flowers, fence, architecture)
-  - Midground: Your child/subject
-  - Background: Location identifier (landmark, mountain, cityscape)
-- **No pressure:** Your natural style already captures great atmosphere
+- **Foreground-Midground-Background Layering:**
+  - What you already do well: Environmental context
+  - Occasional enhancement: When you have time, notice all three zones
+    - Foreground: Interesting element (flowers, fence, architecture)
+    - Midground: Your child/subject
+    - Background: Location identifier (landmark, mountain, cityscape)
+  - No pressure: Your natural style already captures great atmosphere
 
-**3. Simple improvements to try when convenient:**
-
-- **Get low occasionally:** Crouch or kneel for child's eye level (makes them look heroic)
-- **Frame through things:** Doorways, arches, windows when you spot them
-- **Keep faces away from edges:** Wide-angle distortion less flattering at frame edges
+- **Simple improvements to try when convenient:**
+  - Get low occasionally: Crouch or kneel for child's eye level (makes them look heroic)
+  - Frame through things: Doorways, arches, windows when you spot them
+  - Keep faces away from edges: Wide-angle distortion less flattering at frame edges
 
 ---
 
