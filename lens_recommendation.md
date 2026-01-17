@@ -5,8 +5,64 @@
 - **Total Photos Analyzed:** 55,528 with 35mm equivalent focal length data (40,000+ dedicated camera + 15,528 mobile)
 - **Mobile Phone Photos:** 15,528 spanning 20 years across 12 devices (Samsung, Nokia, iPhone, Huawei)
 
+---
+
+## 📋 Executive Summary
+
+**Based on 55,528 photos analyzed across 21 years, you are a wide-angle storyteller who consistently shoots 65-80% of photos at 20-35mm.**
+
+### 🎯 Top Recommendation: **Sony SEL2070G (FE 20-70mm f/4 G)**
+
+**Why this lens:**
+- **Covers your sweet spot:** 20-35mm is where you shoot most (65-80% of all travel photos)
+- **Wider than ever before:** 20mm breaks your historical 24mm constraint
+- **90-95% coverage:** Handles nearly all your documented shooting patterns with ONE lens
+- **Perfect ecosystem fit:** Mobile (13mm ultra-wide) → SEL2070G (20-70mm) → 85mm prime (portraits) → HX90 (telephoto backup)
+
+### 📊 Key Findings from Your Data
+
+**Your Shooting Evolution (2004-2025):**
+- **Early years (2004-2009):** 35-50mm normal lens era
+- **Transition (2012-2016):** 24mm wide-angle revolution (50-75% at 24mm)
+- **Recent years (2017-2025):** 23-27mm ultra-wide dominance (65-80% of shots)
+
+**Mobile Phone Integration (15,528 photos, 2006-2026):**
+- **75% shot at 23-29mm** - mirrors your 24mm dedication on dedicated cameras
+- **28% of total photography** - mobile is now a primary camera, not backup
+- **Samsung S25 usage:** 64% at 23mm, 15% at 69mm (3x tele), 8% at 13mm (ultra-wide)
+
+**What You Don't Need:**
+- ❌ **70-200mm telephoto zoom** - 85mm prime covers portraits, HX90 covers distant subjects
+- ❌ **Ultra-wide zoom (10-18mm)** - Mobile phone 13mm handles this superbly
+- ❌ **24-105mm** - Dead zone at 50-70mm, doesn't go wide enough (24mm still limiting)
+
+### 🎒 Your Complete Kit Strategy
+
+**Daily carry (95% of photography):**
+1. **SEL2070G (20-70mm f/4)** - Primary lens, stays on camera
+2. **Mobile phone** - Ultra-wide (13mm) + convenience shots
+3. **85mm f/1.8 prime** - Dedicated portrait sessions (planned moments)
+4. **HX90 backup camera** - Telephoto safety net when needed
+
+### 📸 What This Document Includes
+
+- **Comprehensive focal length analysis** - 21 years of shooting patterns decoded
+- **Mobile vs dedicated camera insights** - How your multi-device workflow evolved
+- **Detailed lens comparisons** - SEL2070G vs 24-70mm, 16-35mm, and other alternatives
+- **Travel photography tips** - 13 practical sections for shooting with a 4-year-old child
+- **Growth opportunities** - How to expand beyond your comfort zone while honoring your strengths
+
+**Bottom line:** You're a wide-angle environmental storyteller. The SEL2070G (20-70mm f/4 G) is purpose-built for your documented style while finally giving you the width (20mm) you've been missing for years.
+
+---
+
 ## Table of Contents <!-- omit in toc -->
 
+- [📋 Executive Summary](#-executive-summary)
+  - [🎯 Top Recommendation: **Sony SEL2070G (FE 20-70mm f/4 G)**](#-top-recommendation-sony-sel2070g-fe-20-70mm-f4-g)
+  - [📊 Key Findings from Your Data](#-key-findings-from-your-data)
+  - [🎒 Your Complete Kit Strategy](#-your-complete-kit-strategy)
+  - [📸 What This Document Includes](#-what-this-document-includes)
 - [Your Current/Planned Gear Context](#your-currentplanned-gear-context)
 - [Comprehensive Analysis: 21 Years of Photography Data](#comprehensive-analysis-21-years-of-photography-data)
   - [Overall Statistics: Evolution Over Time](#overall-statistics-evolution-over-time)
