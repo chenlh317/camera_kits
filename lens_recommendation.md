@@ -21,7 +21,7 @@ Plus, an appendix with 13 practical photography tips for traveling with a young 
 
 ### 🎯 Top Gear Recommendations
 
-**Four Excellent Lens Strategies (Choose Based on Your Priorities):**
+**Three Top Lens Strategies (Plus One Alternative - Choose Based on Your Priorities):**
 
 ---
 
@@ -36,6 +36,10 @@ Plus, an appendix with 13 practical photography tips for traveling with a young 
 
 **Choose this if:** Optical quality in 20-70mm is paramount;
 you're okay keeping HX90 as telephoto backup.
+
+> 💡 **Note:** Options 1A and 1C have the **same initial purchase** (SEL2070G ~$1,100).
+> The only difference is your future plan: 1A keeps HX90 long-term,
+> while 1C plans to add Tamron superzoom when a safari/wildlife trip is booked.
 
 ---
 
@@ -55,7 +59,7 @@ kit simplification matters; you accept the optical compromises
 
 ---
 
-**🌟 Option 1C: Two-Lens Flexibility Strategy** - ~$1,100 now + ~$1,200 later | **Staged Investment**
+**🌟 Option 1C: Two-Lens Flexibility Strategy** - ~$1,100 now + ~$1,000-1,300 later | **Staged Investment**
 
 **Why this strategy:**
 - **Buy SEL2070G now:** G-series quality for 95%+ of city trips where 70mm is sufficient
@@ -123,13 +127,14 @@ for details).
 4. **Mobile + HX90** (already own) - Ultra-wide + telephoto backup
 - **Total:** ~$3,300-3,600 | **Devices:** 3 (camera + HX90 + mobile)
 - **Best for:** Maximum optical quality in your 85-90% shooting zone
+- 💡 **Same initial purchase as Option 1C** — difference is only in future telephoto strategy
 
 **Option 1B: Sigma 20-200mm + Retire HX90 (Simplified Kit)** → *See [Option 1B](#-option-1b-sigma-20-200mm-f35-63-dg-dn---best-kit-simplification)*
 1. **Sony A7C II or A7 IV body** (~$2,200-2,500)
-2. **Sigma 20-200mm f/3.5-6.3 DG DN** (~$1,000, ~570g) - Primary lens
+2. **Sigma 20-200mm f/3.5-6.3 DG DN** (~$900-1,100, ~570g) - Primary lens
 3. **85mm f/1.8 prime** (already own, 371g) - Low-light portraits
 4. **Mobile** (already own) - Ultra-wide + convenience
-- **Total:** ~$3,200-3,500 | **Devices:** 2 (retire HX90)
+- **Total:** ~$3,100-3,600 | **Devices:** 2 (retire HX90)
 - **Best for:** Kit simplification—but **significant optical compromises**
   (see LensTip review findings)
 
@@ -138,25 +143,17 @@ for details).
 2. **SEL2070G (20-70mm f/4 G)** (~$1,100, 488g) - Primary lens for city trips (95%)
 3. **85mm f/1.8 prime** (already own, 371g) - Portraits
 4. **Mobile + HX90** (already own) - Ultra-wide + city telephoto backup
-5. **Tamron 25-200mm** (~$1,200) - Buy later when safari/wildlife trip planned
-- **Immediate Total:** ~$3,300-3,600 | **Eventual Total:** ~$4,500-4,800
+5. **Tamron 25-200mm** (~$1,000-1,300) - Buy later when safari/wildlife trip planned
+- **Immediate Total:** ~$3,300-3,600 | **Eventual Total:** ~$4,300-4,900
 - **Best for:** Best quality NOW + defer superzoom cost
   + avoid optical compromises
-
-**Option 1D: 16-35mm f/4 + 85mm Prime (Ultra-Wide Specialist)** → *See [Option 1D](#option-1d-16-35mm-f4-ultra-wide-specialist)*
-1. **Sony A7C II or A7 IV body** (~$2,200-2,500)
-2. **Sony FE 16-35mm f/4 G** (~$1,100, ~518g) - Ultra-wide primary lens
-3. **85mm f/1.8 prime** (already own, 371g) - Portraits + mid-telephoto
-4. **Mobile** (already own) - 23-69mm convenience coverage
-- **Total:** ~$3,300-3,600 | **Devices:** 2 (retire HX90)
-- **Best for:** Ultra-wide specialization (but accepts 35-85mm gap)
+- 💡 **Same initial purchase as Option 1A** — you can decide later whether to add Tamron
 
 **Coverage:** All options provide 95%+ of your documented photography needs
 
 **Key Decision:**
 - **Quality in 20-70mm:** Option 1A or **Option 1C** (G-series excellence)
 - **Kit simplification now:** Option 1B (with optical trade-offs)
-- **Ultra-wide specialization:** Option 1D (accepts 35-85mm gap)
 - **Financial flexibility + no compromises:** **🌟 Option 1C** (staged purchase)
 
 ### 📸 What This Document Includes
@@ -184,11 +181,11 @@ For lens choice:
 | **1A** | SEL2070G (20-70mm f/4 G)    | Best optical quality in your 85-90% zone |
 | **1B** | Sigma 20-200mm f/3.5-6.3    | Kit simplification + retire HX90         |
 | **1C** | SEL2070G now + Tamron later | Staged investment + flexibility          |
-| **1D** | 16-35mm f/4 + 85mm prime    | Ultra-wide focus + accept 35-85mm gap    |
+| **3**  | 16-35mm f/4 + 85mm prime    | *Alternative:* Ultra-wide specialization |
 
-All four are valid strategies - the decision depends on whether you prioritize
-optical excellence (1A), kit simplification (1B),
-staged flexibility (1C), or ultra-wide specialization (1D).
+All three top strategies (1A, 1B, 1C) are equally valid - the decision depends on whether you prioritize
+optical excellence (1A), kit simplification (1B), or staged flexibility (1C).
+Option 3 is an alternative for landscape-focused photographers who accept a 35-85mm gap.
 
 ---
 
@@ -219,7 +216,7 @@ staged flexibility (1C), or ultra-wide specialization (1D).
   - ["Selected" Subfolder Analysis: What You Actually Keep](#selected-subfolder-analysis-what-you-actually-keep)
   - [Companion/Collaborative Photography Patterns](#companioncollaborative-photography-patterns)
 - [🎯 LENS RECOMMENDATIONS](#-lens-recommendations)
-  - [⭐ **TOP RECOMMENDATIONS: Four Excellent Options**](#-top-recommendations-four-excellent-options)
+  - [⭐ **TOP RECOMMENDATIONS: Three Excellent Options**](#-top-recommendations-three-excellent-options)
   - [⭐ **Option 1A: Sony SEL2070G (FE 20-70mm f/4 G)** - Best Quality in Primary Zone](#-option-1a-sony-sel2070g-fe-20-70mm-f4-g---best-quality-in-primary-zone)
     - [Perfect Focal Length Range](#perfect-focal-length-range)
     - [Ideal Ecosystem Integration](#ideal-ecosystem-integration)
@@ -241,7 +238,7 @@ staged flexibility (1C), or ultra-wide specialization (1D).
     - [Why Tamron Over Sigma for Phase 2](#why-tamron-over-sigma-for-phase-2)
 - [Alternative Options](#alternative-options)
   - [Option 2: **24-70mm f/2.8 or f/4** (Most Versatile)](#option-2-24-70mm-f28-or-f4-most-versatile)
-  - [Option 1D: **16-35mm f/4** (Ultra-Wide Specialist)](#option-1d-16-35mm-f4-ultra-wide-specialist)
+  - [Option 3: **16-35mm f/4** (Ultra-Wide Specialist)](#option-3-16-35mm-f4-ultra-wide-specialist)
   - [Option 4: **18-50mm f/2.8** (Compact Travel Option)](#option-4-18-50mm-f28-compact-travel-option)
   - [Option 5: **Mobile + 85mm Prime + HX90** (Three-Device System)](#option-5-mobile--85mm-prime--hx90-three-device-system)
 - [📚 Reference: Superzoom Lens Comparison (Sigma vs Tamron)](#-reference-superzoom-lens-comparison-sigma-vs-tamron)
@@ -251,7 +248,7 @@ staged flexibility (1C), or ultra-wide specialization (1D).
   - [Detailed: Sigma 20-200mm f/3.5-6.3 DG DN Contemporary](#detailed-sigma-20-200mm-f35-63-dg-dn-contemporary)
   - [Detailed: Tamron 25-200mm f/2.8-5.6 Di III VXD G2](#detailed-tamron-25-200mm-f28-56-di-iii-vxd-g2)
   - [🎯 Recommendation: Sigma vs Tamron for Your Use Case](#-recommendation-sigma-vs-tamron-for-your-use-case)
-  - [📊 Complete Kit Comparison: Four Strategies](#-complete-kit-comparison-four-strategies)
+  - [📊 Complete Kit Comparison: Three Strategies](#-complete-kit-comparison-three-strategies)
   - [Final Verdict on Superzoom Strategy](#final-verdict-on-superzoom-strategy)
 - [🎒 Practicality Reality Check: Two Zooms (20-70mm + 70-200mm) on Non-Photography Trips](#-practicality-reality-check-two-zooms-20-70mm--70-200mm-on-non-photography-trips)
     - [The Two-Zoom Dream vs. Reality](#the-two-zoom-dream-vs-reality)
@@ -280,11 +277,11 @@ staged flexibility (1C), or ultra-wide specialization (1D).
   - [Choose **16-35mm f/4** if:](#choose-16-35mm-f4-if)
 - [⚠️ Critical Insights About Your Photography](#️-critical-insights-about-your-photography)
 - [Conclusion](#conclusion)
-  - [**Four Excellent Strategies - Quick Summary**](#four-excellent-strategies---quick-summary)
+  - [**Three Excellent Strategies - Quick Summary**](#three-excellent-strategies---quick-summary)
   - [**Alternative Strategies**](#alternative-strategies)
 - [📌 Quick Reference Summary](#-quick-reference-summary)
 - [🎯 Bottom Line: Your Optimal Lens Strategy](#-bottom-line-your-optimal-lens-strategy)
-  - [Your Four Validated Strategies](#your-four-validated-strategies)
+  - [Your Three Top Strategies (Plus Alternative)](#your-three-top-strategies-plus-alternative)
 - [Notes](#notes)
 - [Appendix: Photography Tips Based on Your Usage Patterns](#appendix-photography-tips-based-on-your-usage-patterns)
   - [🌍 Travel Photography with Kids: Practical Insights](#-travel-photography-with-kids-practical-insights)
@@ -356,7 +353,7 @@ Korea, China, Norway, and many more), here are the definitive findings:
 
 ### Mobile Phone Photography Evolution (2006-2026)
 
-Analysis of **15,000+ mobile phone photos** across 12 devices
+Analysis of **15,528 mobile phone photos** across 12 devices
 reveals your smartphone usage patterns:
 
 **Early Mobile Era (2006-2012): Feature Phones**
@@ -708,15 +705,15 @@ NOT just "camera + backup":
 **Current Multi-Device Workflow (2025-2026):**
 
 ```
-Shot Type                        Device Choice           Focal Length
-────────────────────────────────────────────────────────────────────
-Dramatic landscapes              Mobile 13mm             Ultra-wide
-Environmental storytelling       Dedicated 20-35mm       Wide-angle
-Quick family moments             Mobile 23mm             Wide (convenience)
-Child portraits (casual)         Mobile 69mm             Short telephoto
-Dedicated portraits              Dedicated 85mm          Portrait prime
-Architectural details            Dedicated 50-70mm       Normal-short tele
-Distant subjects                 HX90 200-720mm          Telephoto backup
+Shot Type                     Device Choice          Focal Length
+───────────────────────────────────────────────────────────────────────────
+Dramatic landscapes           Mobile 13mm            Ultra-wide
+Environmental storytelling    Dedicated 20-35mm      Wide-angle
+Quick family moments          Mobile 23mm            Wide (convenience)
+Child portraits (casual)      Mobile 69mm            Short telephoto
+Dedicated portraits           Dedicated 85mm         Portrait prime
+Architectural details         Dedicated 50-70mm      Normal-short tele
+Distant subjects              HX90 200-720mm         Telephoto backup
 ```
 
 **Key Insight:**
@@ -922,17 +919,20 @@ Your 65-80% wide-angle usage isn't because:
 
 ## 🎯 LENS RECOMMENDATIONS
 
-### ⭐ **TOP RECOMMENDATIONS: Four Excellent Options**
+### ⭐ **TOP RECOMMENDATIONS: Three Excellent Options**
 
 **Based on your 55,528 photos analyzed,
-you have four excellent lens strategies:**
+you have three excellent lens strategies:**
 
 | Rank    | Lens / Strategy                      | Price       | Best For                                                  |
 | ------- | ------------------------------------ | ----------- | --------------------------------------------------------- |
 | **#1A** | Sony SEL2070G (20-70mm f/4 G)        | ~$1,100     | Maximum quality in 20-70mm (your 85-90% zone)             |
-| **#1B** | Sigma 20-200mm f/3.5-6.3 DG DN       | ~$1,000     | Kit simplification + retire HX90 (but optical trade-offs) |
+| **#1B** | Sigma 20-200mm f/3.5-6.3 DG DN       | ~$900-1,100 | Kit simplification + retire HX90 (but optical trade-offs) |
 | **#1C** | SEL2070G now + Tamron 25-200mm later | ~$1,100 now | Staged investment + right tool for each trip type         |
-| **#1D** | 16-35mm f/4 + 85mm prime             | ~$1,100     | Ultra-wide specialization (accepts 35-85mm gap)           |
+
+> 💡 **Practical Note:** Options 1A and 1C start with the **same purchase** (SEL2070G ~$1,100).
+> Buy the SEL2070G now, then decide later whether to keep HX90 long-term (1A)
+> or add Tamron when a safari/wildlife trip materializes (1C).
 
 ---
 
@@ -1068,16 +1068,16 @@ but with important trade-offs:**
 
 **Main Setup (95%+ coverage):**
 
-1. **Sigma 20-200mm f/3.5-6.3 DG DN** (~$1,000, ~570g) - Primary lens, stays on camera
-2. **85mm f/1.8 prime** - Low-light portraits, shallow DOF work
-3. **Mobile 13mm ultra-wide** - Occasional dramatic wide perspectives
-4. **HX90** - RETIRED (no longer needed)
+1. **Sigma 20-200mm f/3.5-6.3 DG DN** (~$900-1,100, ~570g) - Primary lens, stays on camera.
+2. **85mm f/1.8 prime** - Low-light portraits, shallow DOF work.
+3. **Mobile 13mm ultra-wide** - Occasional dramatic wide perspectives.
+4. **HX90** - RETIRED (no longer needed).
 
 **Lens Usage Prediction:**
 
-- **Sigma 20-200mm:** 90-95% of dedicated camera shots
-- **85mm prime:** 5-10% (low-light portrait work)
-- **Mobile phone:** 15-25% (ultra-wide convenience shots)
+- **Sigma 20-200mm:** 90-95% of dedicated camera shots.
+- **85mm prime:** 5-10% (low-light portrait work).
+- **Mobile phone:** 15-25% (ultra-wide convenience shots).
 
 **Bottom Line:** Sigma 20-200mm offers excellent kit simplification
 and dramatically improves telephoto quality—
@@ -1089,6 +1089,10 @@ in your primary 20-70mm zone where you take 85-90% of shots.
 ---
 
 ### ⭐ **Option 1C: Two-Lens Flexibility Strategy (SEL2070G Now + Superzoom Later)**
+
+> 💡 **Note:** Option 1C has the **same initial purchase as Option 1A** (SEL2070G ~$1,100).
+> The difference is purely in your future telephoto strategy.
+> You can start with SEL2070G and decide later which path to take.
 
 **This approach addresses concerns about superzoom optical compromises while maintaining future flexibility:**
 
@@ -1105,16 +1109,16 @@ if you might not need it for years?**
 #### The Strategy
 
 **Phase 1: Buy SEL2070G Now (~$1,100)**
-- Covers 95%+ of your city travel photography needs
-- G-series optical excellence in your 20-70mm sweet spot
-- No distortion, vignetting, or edge sharpness concerns
-- Keep HX90 as backup for rare city telephoto moments
+- Covers 95%+ of your city travel photography needs.
+- G-series optical excellence in your 20-70mm sweet spot.
+- No distortion, vignetting, or edge sharpness concerns.
+- Keep HX90 as backup for rare city telephoto moments.
 
-**Phase 2: Buy Tamron 25-200mm Later (When Needed, ~$1,200)**
-- Purchase only when you have a safari, wildlife, or sports trip planned
-- Tamron has faster aperture (f/2.8-5.6) than Sigma (f/3.5-6.3)
-- Better low-light performance at telephoto end
-- Could be months or years away — defer the expense
+**Phase 2: Buy Tamron 25-200mm Later (When Needed, ~$1,000-1,300)**
+- Purchase only when you have a safari, wildlife, or sports trip planned.
+- Tamron has faster aperture (f/2.8-5.6) than Sigma (f/3.5-6.3).
+- Better low-light performance at telephoto end.
+- Could be months or years away — defer the expense.
 
 **Trip-by-Trip Lens Selection:**
 
@@ -1128,51 +1132,55 @@ if you might not need it for years?**
 #### Why This Makes Sense for You
 
 **1. Your Data Supports This:**
-- 65-80% of shots at 20-35mm (city street/architecture)
-- Telephoto usage concentrates on specific trip types (Svalbard wildlife: 22% at 75mm)
-- Most travel is city-based where 70mm is sufficient
+- 65-80% of shots at 20-35mm (city street/architecture).
+- Telephoto usage concentrates on specific trip types (Svalbard wildlife: 22% at 75mm).
+- Most travel is city-based where 70mm is sufficient.
 
 **2. HX90 as City Telephoto Backup:**
-- For rare moments like "interesting thing happening far away"
-- You're "recording" not "photographing artistically" — HX90 suffices
-- No need to carry superzoom on every city trip "just in case"
+- For rare moments like "interesting thing happening far away".
+- You're "recording" not "photographing artistically" — HX90 suffices.
+- No need to carry superzoom on every city trip "just in case".
 
 **3. Financial Flexibility:**
-- Spend ~$1,100 now instead of ~$2,000-2,300
-- Defer ~$1,200 superzoom purchase until actually needed
-- If safari trip never materializes, you've saved money
-- If it does, buy the right tool at the right time
+- Spend ~$1,100 now instead of ~$2,000-2,300.
+- Defer ~$1,200 superzoom purchase until actually needed.
+- If safari trip never materializes, you've saved money.
+- If it does, buy the right tool at the right time.
 
 **4. Avoids Superzoom Compromises:**
-- No Sigma's severe 20mm distortion (-8.55%) on your primary lens
-- No vignetting concerns at wide end
-- No "weak 200mm" compromising telephoto shots when you DO need them
-- Tamron's f/2.8-5.6 better than Sigma's f/3.5-6.3
+- No Sigma's severe 20mm distortion (-8.55%) on your primary lens.
+- No vignetting concerns at wide end.
+- No "weak 200mm" compromising telephoto shots when you DO need them.
+- Tamron's f/2.8-5.6 better than Sigma's f/3.5-6.3.
 
 #### Complete Kit Analysis
 
 **Immediate Purchase:**
 ```
-SEL2070G (20-70mm f/4 G)    ~$1,100    488g    Primary lens for 95% of trips
-85mm f/1.8 prime            (owned)    371g    Low-light portraits
-HX90                        (owned)    245g    City telephoto backup
-Mobile                      (owned)    —       Ultra-wide + convenience
-────────────────────────────────────────────────────────────
-Total immediate investment: ~$1,100
+Lens/Device                   Cost        Weight   Role
+───────────────────────────────────────────────────────────────────────────
+SEL2070G (20-70mm f/4 G)      ~$1,100     488g     Primary lens for 95% of trips
+85mm f/1.8 prime              (owned)     371g     Low-light portraits
+HX90                          (owned)     245g     City telephoto backup
+Mobile                        (owned)     —        Ultra-wide + convenience
+───────────────────────────────────────────────────────────────────────────
+Total immediate investment:   ~$1,100
 ```
 
 **Future Purchase (When Needed):**
 ```
-Tamron 25-200mm f/2.8-5.6   ~$1,200    ~570g   Safari/wildlife/sports trips
-────────────────────────────────────────────────────────────
-Total eventual investment: ~$2,300 (but can defer indefinitely)
+Lens/Device                   Cost        Weight   Role
+───────────────────────────────────────────────────────────────────────────
+Tamron 25-200mm f/2.8-5.6     ~$1,000-1,300  ~570g    Safari/wildlife/sports trips
+───────────────────────────────────────────────────────────────────────────
+Total eventual investment:    ~$2,100-2,400 (but can defer indefinitely)
 ```
 
 #### Trade-offs vs Other Options
 
 | Factor                    | Option 1A (SEL2070G only) | Option 1B (Sigma now) | **Option 1C (Staged)**       |
 | ------------------------- | ------------------------- | --------------------- | ---------------------------- |
-| **Immediate cost**        | ~$1,100                   | ~$1,000               | **~$1,100**                  |
+| **Immediate cost**        | ~$1,100                   | ~$900-1,100           | **~$1,100**                  |
 | **20-70mm quality**       | ⭐ Excellent               | Good (compromised)    | **⭐ Excellent**              |
 | **Telephoto quality**     | HX90 (1-inch)             | Full-frame            | **Full-frame (when bought)** |
 | **Kit simplicity**        | 3 devices                 | ⭐ 2 devices           | 3 devices (for now)          |
@@ -1180,34 +1188,34 @@ Total eventual investment: ~$2,300 (but can defer indefinitely)
 | **Safari readiness**      | ❌ HX90 only               | ⭐ Ready               | ⚠️ Need to buy Tamron         |
 | **Optical compromises**   | None                      | Significant           | **None**                     |
 | **Financial flexibility** | Good                      | Good                  | **⭐ Best**                   |
-| **Future-proof**          | May need 70-200mm         | Complete              | **Deferred but covered**     |
+| **Future-proof**          | May need 70-200mm         | Complete              | **Deferred but covered.**    |
 
 #### When to Buy the Superzoom
 
 **Buy Tamron 25-200mm when:**
-- ✅ Safari or wildlife trip is booked
-- ✅ Child's sports events become frequent
-- ✅ You find yourself wanting more telephoto reach consistently
-- ✅ HX90 telephoto quality is frustrating you
+- ✅ Safari or wildlife trip is booked.
+- ✅ Child's sports events become frequent.
+- ✅ You find yourself wanting more telephoto reach consistently.
+- ✅ HX90 telephoto quality is frustrating you.
 
 **Don't rush to buy if:**
-- ❌ No specific telephoto-heavy trip planned
-- ❌ HX90 is covering your occasional telephoto needs adequately
-- ❌ Your trips remain primarily city-focused
+- ❌ No specific telephoto-heavy trip planned.
+- ❌ HX90 is covering your occasional telephoto needs adequately.
+- ❌ Your trips remain primarily city-focused.
 
 #### Why Tamron Over Sigma for Phase 2
 
 If you eventually buy a superzoom, **Tamron 25-200mm f/2.8-5.6** is preferable:
-- **Faster aperture throughout:** f/2.8 at 25mm vs Sigma's f/3.5 at 20mm
-- **Better telephoto aperture:** f/5.6 at 200mm vs Sigma's f/6.3
+- **Faster aperture throughout:** f/2.8 at 25mm vs Sigma's f/3.5 at 20mm.
+- **Better telephoto aperture:** f/5.6 at 200mm vs Sigma's f/6.3.
 - **VXD linear motor AF:** Fast, accurate for moving subjects
-  (wildlife, sports)
-- **5mm narrower at wide end (25mm vs 20mm):** Acceptable since SEL2070G handles wide-angle
+  (wildlife, sports).
+- **5mm narrower at wide end (25mm vs 20mm):** Acceptable since SEL2070G handles wide-angle.
 
 The 25mm wide end isn't a problem because:
-- You're NOT using this for city travel (SEL2070G handles that)
-- Safari/wildlife rarely needs ultra-wide
-- You're optimizing for telephoto performance, not wide-angle
+- You're NOT using this for city travel (SEL2070G handles that).
+- Safari/wildlife rarely needs ultra-wide.
+- You're optimizing for telephoto performance, not wide-angle.
 
 **Bottom Line:** This staged approach gives you
 **best-in-class quality for 95% of your trips now**,
@@ -1239,7 +1247,7 @@ Your instinct is correct—this is a smart, financially flexible strategy.
 
 ---
 
-### Option 1D: **16-35mm f/4** (Ultra-Wide Specialist)
+### Option 3: **16-35mm f/4** (Ultra-Wide Specialist)
 
 **Pros:**
 
@@ -1322,25 +1330,25 @@ for those considering Option 1B (Sigma 20-200mm).**
 
 **1. Higher Quality in 70-200mm Range Than HX90**
 
-- **HX90 reality:** 1-inch sensor, small aperture at telephoto end
-- **These lenses:** Full-frame quality at 70-200mm on A7C II/A7 IV
-- **Image quality jump:** Dramatic improvement for telephoto shots
-- **Low-light advantage:** f/5.6-6.3 at 200mm >> HX90's effective aperture at equivalent focal length
+- **HX90 reality:** 1-inch sensor, small aperture at telephoto end.
+- **These lenses:** Full-frame quality at 70-200mm on A7C II/A7 IV.
+- **Image quality jump:** Dramatic improvement for telephoto shots.
+- **Low-light advantage:** f/5.6-6.3 at 200mm >> HX90's effective aperture at equivalent focal length.
 
 **2. Skip Investing in 70-200mm Later**
 
-- **Traditional approach:** SEL2070G (20-70mm) + eventually 70-200mm f/4 (~$1,500 + ~$1,400 = ~$2,900)
-- **Superzoom approach:** One lens covers 20-200mm or 25-200mm (~$900-1,300)
+- **Traditional approach:** SEL2070G (20-70mm) + eventually 70-200mm f/4 (~$1,500 + ~$1,400 = ~$2,900).
+- **Superzoom approach:** One lens covers 20-200mm or 25-200mm (~$900-1,300).
 - **Cost savings:** Potentially ~$1,600 saved
-  if you never buy 70-200mm
-- **Simplicity:** One lens instead of two for travel
+  if you never buy 70-200mm.
+- **Simplicity:** One lens instead of two for travel.
 
 **3. Retire the HX90**
 
-- **Current HX90 role:** 24-720mm backup for telephoto (2-5% of shots)
-- **Superzoom coverage:** 70-200mm range with full-frame quality
-- **What you lose:** 200-720mm extreme telephoto (very rare use per your data)
-- **What you gain:** One less device, better quality telephoto, simpler kit
+- **Current HX90 role:** 24-720mm backup for telephoto (2-5% of shots).
+- **Superzoom coverage:** 70-200mm range with full-frame quality.
+- **What you lose:** 200-720mm extreme telephoto (very rare use per your data).
+- **What you gain:** One less device, better quality telephoto, simpler kit.
 
 ### 📊 Data-Based Analysis: Do You Need 200mm?
 
@@ -1363,21 +1371,21 @@ and 200mm+ is extremely rare (<2%).
 
 **Pros:**
 
-- ✅ **20mm wide end** - Matches your proven preference (same as SEL2070G)
-- ✅ **200mm telephoto** - Eliminates 70-200mm lens need, replaces HX90 role
-- ✅ **10x zoom range** - One lens covers nearly everything
-- ✅ **Full-frame quality** - Massive upgrade over HX90's 1-inch sensor at telephoto
-- ✅ **Compact for range** - Contemporary line prioritizes portability
-- ✅ **Better low-light** - f/3.5 at wide end vs HX90's smaller sensor
-- ✅ **Very good center sharpness** - Excellent resolution from 20-100mm (per LensTip testing)
-- ✅ **Silent, accurate autofocus** - Quick AF with low focus breathing
-- ✅ **1:2 macro mode** - Added versatility for close-up work
+- ✅ **20mm wide end** - Matches your proven preference (same as SEL2070G).
+- ✅ **200mm telephoto** - Eliminates 70-200mm lens need, replaces HX90 role.
+- ✅ **10x zoom range** - One lens covers nearly everything.
+- ✅ **Full-frame quality** - Massive upgrade over HX90's 1-inch sensor at telephoto.
+- ✅ **Compact for range** - Contemporary line prioritizes portability.
+- ✅ **Better low-light** - f/3.5 at wide end vs HX90's smaller sensor.
+- ✅ **Very good center sharpness** - Excellent resolution from 20-100mm (per LensTip testing).
+- ✅ **Silent, accurate autofocus** - Quick AF with low focus breathing.
+- ✅ **1:2 macro mode** - Added versatility for close-up work.
 
 **Cons:**
 
-- ⚠️ **Slower aperture at telephoto** - f/6.3 at 200mm (vs f/4 on premium zooms)
-- ⚠️ **No 200-720mm** - Loses HX90's extreme telephoto (rarely needed per data)
-- ⚠️ **f/3.5-6.3 variable aperture** - Less consistent than f/4 constant aperture
+- ⚠️ **Slower aperture at telephoto** - f/6.3 at 200mm (vs f/4 on premium zooms).
+- ⚠️ **No 200-720mm** - Loses HX90's extreme telephoto (rarely needed per data).
+- ⚠️ **f/3.5-6.3 variable aperture** - Less consistent than f/4 constant aperture.
 
 **⚠️ Critical Optical Concerns (from LensTip technical review, Jan 2026):**
 
@@ -1421,63 +1429,65 @@ the SEL2070G remains the better choice for your primary 20-70mm zone.
 
 **Pros:**
 
-- ✅ **Faster aperture** - f/2.8 at 25mm, f/5.6 at 200mm (better than Sigma)
-- ✅ **Excellent build quality** - G2 generation improvements
-- ✅ **VXD linear motor AF** - Fast, accurate autofocus for moving children
-- ✅ **Tamron quality** - Known for excellent superzoom optical performance
-- ✅ **Full-frame 200mm quality** - Dramatically better than HX90 at telephoto
+- ✅ **Faster aperture** - f/2.8 at 25mm, f/5.6 at 200mm (better than Sigma).
+- ✅ **Excellent build quality** - G2 generation improvements.
+- ✅ **VXD linear motor AF** - Fast, accurate autofocus for moving children.
+- ✅ **Tamron quality** - Known for excellent superzoom optical performance.
+- ✅ **Full-frame 200mm quality** - Dramatically better than HX90 at telephoto.
 
 **Cons:**
 
-- ⚠️ **25mm wide end** - 5mm narrower than your preferred 20mm (same as old 24mm constraint)
-- ⚠️ **Repeats 24-25mm limitation** - Doesn't break your historical wide-angle constraint
-- ⚠️ **Still variable aperture** - Though faster than Sigma
-- ⚠️ **No 200-720mm** - Loses extreme telephoto reach
+- ⚠️ **25mm wide end** - 5mm narrower than your preferred 20mm (same as old 24mm constraint).
+- ⚠️ **Repeats 24-25mm limitation** - Doesn't break your historical wide-angle constraint.
+- ⚠️ **Still variable aperture** - Though faster than Sigma.
+- ⚠️ **No 200-720mm** - Loses extreme telephoto reach.
 
 **Data-based coverage:** 90-95% coverage, but wide end doesn't improve on your 24mm history
 
 ### 🎯 Recommendation: Sigma vs Tamron for Your Use Case
 
 **Choose Sigma 20-200mm if:**
-- ✅ **You value the 20mm wide end** (matches SEL2070G, breaks your 24mm constraint)
-- ✅ You accept f/6.3 at telephoto end (IBIS + high ISO compensate)
-- ✅ You want maximum zoom range (10x vs 8x)
-- ✅ Price matters (~$100-200 cheaper expected)
-- **Best for your documented shooting style** - 20mm wide end aligns with your data
+- ✅ **You value the 20mm wide end** (matches SEL2070G, breaks your 24mm constraint).
+- ✅ You accept f/6.3 at telephoto end (IBIS + high ISO compensate).
+- ✅ You want maximum zoom range (10x vs 8x).
+- ✅ Price matters (~$100-200 cheaper expected).
+- **Best for your documented shooting style** - 20mm wide end aligns with your data.
 
 **Choose Tamron 25-200mm if:**
-- ⚠️ You prioritize faster aperture throughout the range
-- ⚠️ You can accept 25mm wide end (same as your historical 24mm constraint)
-- ⚠️ You value Tamron's VXD AF motor speed
-- **Less ideal for you as primary lens** - Wide end doesn't improve your constraint
-- ✅ **Excellent for Option 1C** - Buy later when safari/wildlife trip is planned
+- ⚠️ You prioritize faster aperture throughout the range.
+- ⚠️ You can accept 25mm wide end (same as your historical 24mm constraint).
+- ⚠️ You value Tamron's VXD AF motor speed.
+- **Less ideal for you as primary lens** - Wide end doesn't improve your constraint.
+- ✅ **Excellent for Option 1C** - Buy later when safari/wildlife trip is planned.
 
-### 📊 Complete Kit Comparison: Four Strategies
+### 📊 Complete Kit Comparison: Three Strategies
 
 **Option 1A: SEL2070G + 85mm + HX90 (Maximum Quality at 20-70mm)**
 
 ```
-Lens/Device          Range           Weight    Cost       Role
-─────────────────────────────────────────────────────────────────
-SEL2070G             20-70mm f/4     488g      ~$1,100    Primary (90%)
-85mm f/1.8           85mm f/1.8     371g      (owned)    Portraits (5-10%)
-HX90                 24-720mm       245g      (owned)    Telephoto backup (2-5%)
-Mobile               13-69mm        N/A       (owned)    Ultra-wide + convenience
-─────────────────────────────────────────────────────────────────
-Total primary kit:                   859g      ~$1,100    Devices: 3
+Lens/Device           Range              Weight    Cost        Role
+───────────────────────────────────────────────────────────────────────────
+SEL2070G              20-70mm f/4        488g      ~$1,100     Primary (90%)
+85mm f/1.8            85mm f/1.8         371g      (owned)     Portraits (5-10%)
+HX90                  24-720mm           245g      (owned)     Telephoto backup (2-5%)
+Mobile                13-69mm            N/A       (owned)     Ultra-wide + convenience
+───────────────────────────────────────────────────────────────────────────
+Total primary kit:                       859g      ~$1,100     Devices: 3
+
 Coverage: 95%+ | Requires: HX90 for 70-200mm quality alternative
 ```
 
 **Option 1B: Sigma 20-200mm + 85mm (Simplified Kit—With Trade-offs)**
 
 ```
-Lens/Device          Range           Weight    Cost       Role
-─────────────────────────────────────────────────────────────────
-Sigma 20-200mm       20-200mm f/3.5-6.3  ~570g  ~$1,000   Primary (95%)
-85mm f/1.8           85mm f/1.8     371g      (owned)    Low-light portraits
-Mobile               13-69mm        N/A       (owned)    Ultra-wide + convenience
-─────────────────────────────────────────────────────────────────
-Total primary kit:                   ~570g     ~$1,000    Devices: 2 (retire HX90)
+Lens/Device           Range              Weight    Cost        Role
+───────────────────────────────────────────────────────────────────────────
+Sigma 20-200mm        20-200mm f/3.5-6.3 ~570g     ~$900-1,100 Primary (95%)
+85mm f/1.8            85mm f/1.8         371g      (owned)     Low-light portraits
+Mobile                13-69mm            N/A       (owned)     Ultra-wide + convenience
+───────────────────────────────────────────────────────────────────────────
+Total primary kit:                       ~570g     ~$900-1,100 Devices: 2 (retire HX90)
+
 Coverage: 95%+ | Benefit: Full-frame quality at 70-200mm
 ⚠️ Trade-off: Optical compromises at 20mm and 200mm (per LensTip review)
 ```
@@ -1486,35 +1496,23 @@ Coverage: 95%+ | Benefit: Full-frame quality at 70-200mm
 
 ```
 Phase 1 - Buy Now (City Travel):
-Lens/Device          Range           Weight    Cost       Role
-─────────────────────────────────────────────────────────────────
-SEL2070G             20-70mm f/4     488g      ~$1,100    Primary (95% of trips)
-85mm f/1.8           85mm f/1.8     371g      (owned)    Portraits (5-10%)
-HX90                 24-720mm       245g      (owned)    Telephoto backup (rare)
-Mobile               13-69mm        N/A       (owned)    Ultra-wide + convenience
-─────────────────────────────────────────────────────────────────
-Total primary kit:                   859g      ~$1,100    Devices: 3
+
+Lens/Device           Range              Weight    Cost        Role
+───────────────────────────────────────────────────────────────────────────
+SEL2070G              20-70mm f/4        488g      ~$1,100     Primary (95% of trips)
+85mm f/1.8            85mm f/1.8         371g      (owned)     Portraits (5-10%)
+HX90                  24-720mm           245g      (owned)     Telephoto backup (rare)
+Mobile                13-69mm            N/A       (owned)     Ultra-wide + convenience
+───────────────────────────────────────────────────────────────────────────
+Total primary kit:                       859g      ~$1,100     Devices: 3
 
 Phase 2 - Buy Later (Safari/Wildlife Trips):
-Tamron 25-200mm      25-200mm f/2.8-5.6  ~570g  ~$1,200   Safari primary lens
-─────────────────────────────────────────────────────────────────
-Coverage: 100% | Choose lens per trip type | Eventual total: ~$2,300
+
+Tamron 25-200mm       25-200mm f/2.8-5.6 ~570g     ~$1,000-1,300   Safari primary lens
+───────────────────────────────────────────────────────────────────────────
+Coverage: 100% | Choose lens per trip type | Eventual total: ~$2,100-2,400
+
 ✅ Benefit: G-series quality now, superzoom quality later when actually needed
-```
-
-**Option 1D: 16-35mm f/4 + 85mm Prime (Ultra-Wide Specialist)**
-
-```
-Lens/Device          Range           Weight    Cost       Role
-─────────────────────────────────────────────────────────────────
-16-35mm f/4 G        16-35mm f/4     ~518g     ~$1,100    Primary ultra-wide (70-80%)
-85mm f/1.8           85mm f/1.8     371g      (owned)    Portraits + mid-tele (15-25%)
-Mobile               13-69mm        N/A       (owned)    35-85mm gap coverage + convenience
-─────────────────────────────────────────────────────────────────
-Total primary kit:                   ~889g     ~$1,100    Devices: 2 (retire HX90)
-Coverage: 85-90% | Gap: 35-85mm (covered by mobile 46-69mm + 85mm prime)
-✅ Benefit: Widest option (16mm) for dramatic landscapes
-⚠️ Trade-off: Accepts 35-85mm focal length gap
 ```
 
 **Key Trade-offs (Four-Way Comparison):**
@@ -1530,34 +1528,34 @@ Coverage: 85-90% | Gap: 35-85mm (covered by mobile 46-69mm + 85mm prime)
 | **Low-light wide**     | f/4 constant             | f/3.5 (slightly better)           | f/4 constant                     |
 | **Low-light tele**     | HX90 struggles           | f/6.3 + full-frame (better)       | ⭐ f/5.6 + full-frame (best)      |
 | **Vignetting**         | ⭐ Well-controlled        | Heavy on full frame*              | ⭐ Well-controlled (both lenses)  |
-| **Cost NOW**           | ~$1,100                  | ~$1,000                           | ~$1,100                          |
-| **Cost EVENTUAL**      | ~$1,100 (may add 70-200) | ~$1,000 (complete)                | ~$2,300 (if safari trip planned) |
+| **Cost NOW**           | ~$1,100                  | ~$900-1,100                       | ~$1,100                          |
+| **Cost EVENTUAL**      | ~$1,100 (may add 70-200) | ~$900-1,100 (complete)            | ~$2,100-2,400 (if safari planned)|
 | **Trip flexibility**   | One kit always           | One kit always                    | ⭐ Right lens for each trip       |
 
 *Per LensTip technical review, Jan 2026. Software correction handles most issues automatically.
 
-**Option 1D (16-35mm f/4 + 85mm prime):** Not included in table above as it's a specialized ultra-wide setup that accepts a 35-85mm gap. Best for landscape-focused photographers who prioritize the widest possible field of view (16mm) over versatility. See [Option 1D](#option-1d-16-35mm-f4-ultra-wide-specialist) for details.
+**Option 3 (16-35mm f/4 + 85mm prime):** Not included in table above as it's a specialized ultra-wide setup that accepts a 35-85mm gap. Best for landscape-focused photographers who prioritize the widest possible field of view (16mm) over versatility. See [Option 3](#option-3-16-35mm-f4-ultra-wide-specialist) for details.
 
 ### Final Verdict on Superzoom Strategy
 
 **Consider Option 1B (Sigma 20-200mm) IF:**
 
-1. ✅ **Higher 70-200mm quality matters NOW** - HX90's small sensor limits telephoto quality
-2. ✅ **You want to retire HX90** - Simplify to one main lens
-3. ✅ **You rarely use 200mm+** - Your data shows <2% usage above 200mm
-4. ✅ **You value kit simplicity** - One superzoom vs SEL2070G + HX90 combo
-5. ✅ **You want to avoid future 70-200mm purchase** - Complete coverage now
-6. ✅ **You shoot primarily for memories, not pixel-peeping** - Casual travel/family photography
-7. ✅ **You accept software distortion correction** - Modern cameras handle this automatically
+1. ✅ **Higher 70-200mm quality matters NOW** - HX90's small sensor limits telephoto quality.
+2. ✅ **You want to retire HX90** - Simplify to one main lens.
+3. ✅ **You rarely use 200mm+** - Your data shows <2% usage above 200mm.
+4. ✅ **You value kit simplicity** - One superzoom vs SEL2070G + HX90 combo.
+5. ✅ **You want to avoid future 70-200mm purchase** - Complete coverage now.
+6. ✅ **You shoot primarily for memories, not pixel-peeping** - Casual travel/family photography.
+7. ✅ **You accept software distortion correction** - Modern cameras handle this automatically.
 
 **Stick with SEL2070G IF:**
 
-1. ✅ **Optical quality at 20-70mm is priority** - G-series beats superzoom at this range
-2. ✅ **You shoot architecture with critical straight lines** - Sigma's 20mm distortion may bother you
-3. ✅ **You want edge-to-edge sharpness without compromise** - Superzoom has inherent trade-offs
-4. ✅ **You want 200-720mm option** - Keep HX90 for rare extreme telephoto
-5. ✅ **f/4 constant aperture matters** - More predictable exposure
-6. ✅ **You may still buy 70-200mm later** - SEL2070G + 70-200 f/4 = premium two-lens kit
+1. ✅ **Optical quality at 20-70mm is priority** - G-series beats superzoom at this range.
+2. ✅ **You shoot architecture with critical straight lines** - Sigma's 20mm distortion may bother you.
+3. ✅ **You want edge-to-edge sharpness without compromise** - Superzoom has inherent trade-offs.
+4. ✅ **You want 200-720mm option** - Keep HX90 for rare extreme telephoto.
+5. ✅ **f/4 constant aperture matters** - More predictable exposure.
+6. ✅ **You may still buy 70-200mm later** - SEL2070G + 70-200 f/4 = premium two-lens kit.
 
 **🔍 Updated Assessment After LensTip Review (Jan 2026):**
 
@@ -1587,12 +1585,12 @@ The Sigma 20-200mm remains compelling for your use case IF:
 - If you later want premium telephoto, adding a 70-200mm f/4 gives you best-in-class at both ranges
 
 **Consider Option 1C (Two-Lens Flexibility Strategy) IF:**
-- Most of your trips are city travel where 70mm is sufficient
-- Safari/wildlife trips are planned events (you know months ahead)
-- You want G-series quality NOW without optical compromises
-- You prefer buying the right tool when actually needed
-- HX90 is adequate for rare city telephoto shots (2-5% of shots)
-- You may not need a superzoom for years—defer the investment
+- Most of your trips are city travel where 70mm is sufficient.
+- Safari/wildlife trips are planned events (you know months ahead).
+- You want G-series quality NOW without optical compromises.
+- You prefer buying the right tool when actually needed.
+- HX90 is adequate for rare city telephoto shots (2-5% of shots).
+- You may not need a superzoom for years—defer the investment.
 
 **Bottom Line:**
 - **Maximum quality at 20-70mm:** SEL2070G + HX90 (Option 1A)
@@ -1773,28 +1771,28 @@ your camera body needs are clear:
 
 **Priority Features (Must-Have):**
 
-1. **Excellent wide-angle performance** - 65-80% of your shots at 20-35mm
-2. **Comfortable ergonomics** - Must feel good in hand for all-day shooting
+1. **Excellent wide-angle performance** - 65-80% of your shots at 20-35mm.
+2. **Comfortable ergonomics** - Must feel good in hand for all-day shooting.
 3. **Lightweight for travel** - Carrying a 4-year-old + camera gear
-   (but not at expense of comfort)
-4. **Good autofocus** - Moving children don't wait for manual focus
-5. **Solid high-ISO performance** - f/4 lens means you'll use ISO 3200-6400
-6. **Reliable battery life** - Travel days are long, charging opportunities limited
-7. **Weather sealing** - Travel conditions vary, protection is practical
+   (but not at expense of comfort).
+4. **Good autofocus** - Moving children don't wait for manual focus.
+5. **Solid high-ISO performance** - f/4 lens means you'll use ISO 3200-6400.
+6. **Reliable battery life** - Travel days are long, charging opportunities limited.
+7. **Weather sealing** - Travel conditions vary, protection is practical.
 
 **Nice-to-Have Features:**
 
-- In-body image stabilization (helps with f/4 lens at slower shutter speeds)
-- Tilting/articulating screen (easier low-angle shots with kids)
-- Dual card slots (peace of mind for irreplaceable travel memories)
-- Compact size (easier to carry all day)
+- In-body image stabilization (helps with f/4 lens at slower shutter speeds).
+- Tilting/articulating screen (easier low-angle shots with kids).
+- Dual card slots (peace of mind for irreplaceable travel memories).
+- Compact size (easier to carry all day).
 
 **NOT Critical for You:**
 
-- ❌ Ultra-high resolution (>40MP) - Not printing billboard-sized photos
-- ❌ Professional video specs - Photography-focused usage
-- ❌ Extreme sports autofocus - Children don't move like professional athletes
-- ❌ Fastest burst rates - You shoot deliberately, not spray-and-pray
+- ❌ Ultra-high resolution (>40MP) - Not printing billboard-sized photos.
+- ❌ Professional video specs - Photography-focused usage.
+- ❌ Extreme sports autofocus - Children don't move like professional athletes.
+- ❌ Fastest burst rates - You shoot deliberately, not spray-and-pray.
 
 ---
 
@@ -1805,38 +1803,38 @@ your camera body needs are clear:
 #### Optimal for Your Use Case:
 
 **1. Compact Form Factor = Travel-Friendly**
-- **Weight:** 514g (body only) - lightest full-frame Sony
-- **Size:** Smallest full-frame A7 body - fits easily in travel bag
-- **Parent advantage:** Less bulk when also carrying child supplies
-- **Your pattern:** You value convenience (28% mobile usage proves this)
+- **Weight:** 514g (body only) - lightest full-frame Sony.
+- **Size:** Smallest full-frame A7 body - fits easily in travel bag.
+- **Parent advantage:** Less bulk when also carrying child supplies.
+- **Your pattern:** You value convenience (28% mobile usage proves this).
 
 **2. Excellent Image Quality for Your Needs**
-- **33MP sensor** - Perfect balance (not overkill, not limiting)
-- **High ISO performance:** Clean images at ISO 6400 - compensates for f/4 lens
-- **Dynamic range:** Excellent for travel lighting (harsh midday, dim museums)
-- **Your benefit:** Great image quality without unnecessary resolution
+- **33MP sensor** - Perfect balance (not overkill, not limiting).
+- **High ISO performance:** Clean images at ISO 6400 - compensates for f/4 lens.
+- **Dynamic range:** Excellent for travel lighting (harsh midday, dim museums).
+- **Your benefit:** Great image quality without unnecessary resolution.
 
 **3. Modern Autofocus for Family Photography**
-- **AI-powered subject detection** - Tracks moving children automatically
-- **Real-time tracking** - Keeps focus on your 4-year-old as they explore
-- **Eye AF for people** - Ensures sharp portraits even when child is moving
-- **Your shooting style:** Wide angles + moving subjects = need reliable AF
+- **AI-powered subject detection** - Tracks moving children automatically.
+- **Real-time tracking** - Keeps focus on your 4-year-old as they explore.
+- **Eye AF for people** - Ensures sharp portraits even when child is moving.
+- **Your shooting style:** Wide angles + moving subjects = need reliable AF.
 
 **4. Practical Travel Features**
-- **5-axis IBIS:** ~7 stops stabilization - handheld wide-angle shots in low light
-- **Vari-angle LCD screen:** Low-angle shots of child at their eye level
-- **Dual card slots:** Backup peace of mind for irreplaceable family travel photos
-- **Weather sealing:** Protection during unpredictable travel conditions
+- **5-axis IBIS:** ~7 stops stabilization - handheld wide-angle shots in low light.
+- **Vari-angle LCD screen:** Low-angle shots of child at their eye level.
+- **Dual card slots:** Backup peace of mind for irreplaceable family travel photos.
+- **Weather sealing:** Protection during unpredictable travel conditions.
 
 **5. Battery Life That Works**
-- **~560 shots/charge** - Full day of casual shooting
-- **USB-C charging:** Charge from power bank while traveling
-- **Compact batteries:** Easy to carry 1-2 spares
+- **~560 shots/charge** - Full day of casual shooting.
+- **USB-C charging:** Charge from power bank while traveling.
+- **Compact batteries:** Easy to carry 1-2 spares.
 
 **6. Perfect Lens Ecosystem Match**
-- **Native E-mount** - SEL2070G and 85mm f/1.8 work flawlessly
-- **Compact body + compact lens** - A7C II + SEL2070G = balanced system
-- **No adapter needed** - Direct communication for fast AF
+- **Native E-mount** - SEL2070G and 85mm f/1.8 work flawlessly.
+- **Compact body + compact lens** - A7C II + SEL2070G = balanced system.
+- **No adapter needed** - Direct communication for fast AF.
 
 #### Investment Analysis:
 
@@ -1866,29 +1864,29 @@ compact, capable, and perfectly matched to SEL2070G.
 
 **Advantages:**
 
-- **Traditional DSLR-style grip** - Some prefer larger, deeper grip
-- **Improved ergonomics** - More physical controls, less menu diving
-- **Slightly better battery** - ~580 shots vs 560
-- **Larger EVF** - 3.68M dots vs 2.36M dots (better for manual focus)
-- **Price similar** - ~$2,300-2,500 (comparable to A7C II)
+- **Traditional DSLR-style grip** - Some prefer larger, deeper grip.
+- **Improved ergonomics** - More physical controls, less menu diving.
+- **Slightly better battery** - ~580 shots vs 560.
+- **Larger EVF** - 3.68M dots vs 2.36M dots (better for manual focus).
+- **Price similar** - ~$2,300-2,500 (comparable to A7C II).
 
 **Trade-offs:**
 
-- **Heavier:** 658g vs 514g (144g difference = ~28% heavier)
-- **Bulkier:** Larger body - takes more bag space
-- **Otherwise identical specs:** Same sensor, same AF, same IBIS
+- **Heavier:** 658g vs 514g (144g difference = ~28% heavier).
+- **Bulkier:** Larger body - takes more bag space.
+- **Otherwise identical specs:** Same sensor, same AF, same IBIS.
 
 **Choose A7 IV if:**
-- You prioritize ergonomics over compactness
-- Don't mind extra 144g weight for better grip
-- Want larger, brighter EVF for composition
-- Prefer traditional DSLR-style camera body
+- You prioritize ergonomics over compactness.
+- Don't mind extra 144g weight for better grip.
+- Want larger, brighter EVF for composition.
+- Prefer traditional DSLR-style camera body.
 
 **Choose A7C II if:**
-- Compactness is priority (traveling with child)
-- Want lightest full-frame setup possible
-- Value rangefinder-style compact form
-- Every gram matters in travel bag
+- Compactness is priority (traveling with child).
+- Want lightest full-frame setup possible.
+- Value rangefinder-style compact form.
+- Every gram matters in travel bag.
 
 **Data-based verdict:** Your 28% mobile usage + travel focus
 suggests you value compactness → **A7C II edges ahead**.
@@ -1900,22 +1898,22 @@ suggests you value compactness → **A7C II edges ahead**.
 **1. Ergonomics & Handling (A7C II "Too Small" Concern):**
 
 **A7C II Grip Reality:**
-- **Shallow grip depth** - Some find it cramped, especially with larger lenses
-- **Rangefinder-style body** - Different from traditional DSLR ergonomics
-- **Smaller front grip** - Less to hold onto compared to A7 IV
-- **Better with smaller lenses** - Works great with SEL2070G (488g), less ideal with heavy telephotos
+- **Shallow grip depth** - Some find it cramped, especially with larger lenses.
+- **Rangefinder-style body** - Different from traditional DSLR ergonomics.
+- **Smaller front grip** - Less to hold onto compared to A7 IV.
+- **Better with smaller lenses** - Works great with SEL2070G (488g), less ideal with heavy telephotos.
 
 **Who struggles with A7C II grip:**
-- Photographers with larger hands (though you mentioned yours aren't big)
-- Those upgrading from DSLR-style cameras (muscle memory expects deeper grip)
-- Users who frequently shoot with heavy lenses (24-70mm f/2.8 GM at 886g)
-- Anyone who values tactile controls over compact size
+- Photographers with larger hands (though you mentioned yours aren't big).
+- Those upgrading from DSLR-style cameras (muscle memory expects deeper grip).
+- Users who frequently shoot with heavy lenses (24-70mm f/2.8 GM at 886g).
+- Anyone who values tactile controls over compact size.
 
 **Who loves A7C II grip:**
-- Mirrorless-first shooters (no DSLR habits to break)
-- Street/travel photographers prioritizing low profile
-- Users pairing with compact lenses (like SEL2070G f/4)
-- Those coming from compact cameras or smartphones
+- Mirrorless-first shooters (no DSLR habits to break).
+- Street/travel photographers prioritizing low profile.
+- Users pairing with compact lenses (like SEL2070G f/4).
+- Those coming from compact cameras or smartphones.
 
 **Practical solution if concerned:** Try both in a camera store before buying. The A7C II feels VERY different from A7 IV - this is highly personal.
 
@@ -1940,30 +1938,30 @@ suggests you value compactness → **A7C II edges ahead**.
 - **Main difference: Size, not strength** - Compact doesn't mean weak
 
 **Where A7 IV feels more robust:**
-- **Metal port covers** vs plastic on A7C II (HDMI, USB-C, mic)
-- **Larger buttons** - easier to press with gloves, less accidental presses
-- **Deeper grip** - feels more "planted" in hand during active shooting
-- **Psychological factor** - bigger = feels more substantial (even if specs are similar)
+- **Metal port covers** vs plastic on A7C II (HDMI, USB-C, mic).
+- **Larger buttons** - easier to press with gloves, less accidental presses.
+- **Deeper grip** - feels more "planted" in hand during active shooting.
+- **Psychological factor** - bigger = feels more substantial (even if specs are similar).
 
 **Where concerns are overstated:**
-- A7C II has same magnesium alloy chassis
-- Same shutter mechanism and durability rating
-- Same lens mount strength
-- Both cameras can handle professional use
+- A7C II has same magnesium alloy chassis.
+- Same shutter mechanism and durability rating.
+- Same lens mount strength.
+- Both cameras can handle professional use.
 
 **For Your Use Case (Casual Travel Photography with Family):**
 
 **A7C II is sufficiently robust if:**
-- ✅ You're not shooting in extreme conditions (Antarctic expedition, monsoon)
-- ✅ Primary use is travel/family photography (not professional sports/wildlife)
-- ✅ You care about carrying lighter gear while chasing a 4-year-old
-- ✅ You pair with lighter lenses (SEL2070G is perfect match)
+- ✅ You're not shooting in extreme conditions (Antarctic expedition, monsoon).
+- ✅ Primary use is travel/family photography (not professional sports/wildlife).
+- ✅ You care about carrying lighter gear while chasing a 4-year-old.
+- ✅ You pair with lighter lenses (SEL2070G is perfect match).
 
 **Choose A7 IV if:**
-- ⚠️ You value the "feel" of a substantial camera body
-- ⚠️ You want the most comfortable all-day handling
-- ⚠️ The 144g weight penalty doesn't concern you
-- ⚠️ You prefer traditional DSLR-style ergonomics
+- ⚠️ You value the "feel" of a substantial camera body.
+- ⚠️ You want the most comfortable all-day handling.
+- ⚠️ The 144g weight penalty doesn't concern you.
+- ⚠️ You prefer traditional DSLR-style ergonomics.
 
 **Honest Assessment for Your Situation:**
 
@@ -1991,23 +1989,23 @@ the A7 IV premium might be worth it if the grip concern is genuine.
 
 **Significant Upgrades Over A7C II:**
 
-- **Better autofocus** - Next-gen AI subject recognition
-- **Improved IBIS** - 8.5 stops (vs 7 stops in A7C II)
-- **Advanced video** - If you ever want to shoot family videos
-- **Better ergonomics** - Refined controls and menu system
-- **Newer sensor tech** - Improved high-ISO performance
+- **Better autofocus** - Next-gen AI subject recognition.
+- **Improved IBIS** - 8.5 stops (vs 7 stops in A7C II).
+- **Advanced video** - If you ever want to shoot family videos.
+- **Better ergonomics** - Refined controls and menu system.
+- **Newer sensor tech** - Improved high-ISO performance.
 
 **Trade-offs:**
 
-- **Price premium:** ~$3,000-3,500 (vs $2,200 for A7C II)
-- **Heavier:** ~600g (vs 514g for A7C II)
-- **Feature overkill?** Most upgrades exceed casual photography needs
+- **Price premium:** ~$3,000-3,500 (vs $2,200 for A7C II).
+- **Heavier:** ~600g (vs 514g for A7C II).
+- **Feature overkill?** Most upgrades exceed casual photography needs.
 
 **Choose A7 V if:**
-- Budget comfortably allows $3,000-3,500
-- Want latest technology and future-proofing
-- Plan to shoot video alongside photos
-- Autofocus and IBIS improvements worth the cost
+- Budget comfortably allows $3,000-3,500.
+- Want latest technology and future-proofing.
+- Plan to shoot video alongside photos.
+- Autofocus and IBIS improvements worth the cost.
 
 **Reality check:** Your documented shooting style (casual, travel-focused) doesn't require cutting-edge tech. A7C II serves your needs at 2/3 the price.
 
@@ -2020,31 +2018,31 @@ the A7 IV premium might be worth it if the grip concern is genuine.
 **Why A7R is Wrong for You:**
 
 1. **Overkill resolution (61MP)**
-   - Your mobile photos (28% of output) are 12MP - you're fine with that
-   - You don't print large (no mention in 21-year data)
-   - Higher MP = larger files, slower workflow, more storage
+   - Your mobile photos (28% of output) are 12MP - you're fine with that.
+   - You don't print large (no mention in 21-year data).
+   - Higher MP = larger files, slower workflow, more storage.
 
 2. **File size burden**
-   - 61MP RAW = ~120MB/file vs 33MP = ~65MB/file
-   - Japan 2018: 4,508 photos × 120MB = 541GB vs 293GB
-   - Storage/backup costs add up fast
+   - 61MP RAW = ~120MB/file vs 33MP = ~65MB/file.
+   - Japan 2018: 4,508 photos × 120MB = 541GB vs 293GB.
+   - Storage/backup costs add up fast.
 
 3. **Diminishing returns**
-   - 65-80% wide-angle shooting doesn't benefit from high MP
-   - Telephoto crops could use it, but you shoot <10% telephoto
-   - SEL2070G f/4 isn't optimized for ultra-high resolution
+   - 65-80% wide-angle shooting doesn't benefit from high MP.
+   - Telephoto crops could use it, but you shoot <10% telephoto.
+   - SEL2070G f/4 isn't optimized for ultra-high resolution.
 
 4. **Weight penalty**
-   - A7R V: 723g vs A7C II: 514g (209g = 41% heavier)
-   - Traveling with child = weight matters
+   - A7R V: 723g vs A7C II: 514g (209g = 41% heavier).
+   - Traveling with child = weight matters.
 
 5. **Slower shooting**
-   - Larger files = slower burst, slower buffer clearing
-   - Moving children need responsive camera, not maximum resolution
+   - Larger files = slower burst, slower buffer clearing.
+   - Moving children need responsive camera, not maximum resolution.
 
 6. **Price premium without benefit**
-   - A7R V: ~$3,900 vs A7C II: ~$2,200
-   - Extra $1,700 buys ZERO practical benefit for your shooting
+   - A7R V: ~$3,900 vs A7C II: ~$2,200.
+   - Extra $1,700 buys ZERO practical benefit for your shooting.
 
 **Data-based verdict:** 21 years of shooting shows you value convenience and storytelling over technical specs. A7R is professional tool you don't need.
 
@@ -2054,8 +2052,8 @@ the A7 IV premium might be worth it if the grip concern is genuine.
 
 | Model      | Price         | Weight | MP   | IBIS      | AF     | Best For                                 |
 | ---------- | ------------- | ------ | ---- | --------- | ------ | ---------------------------------------- |
-| **A7C II** | ~$2,200-2,500 | 514g   | 33MP | 7 stops   | AI AF  | ⭐ **Your ideal choice** - compact travel |
-| **A7 IV**  | ~$2,400       | 658g   | 33MP | 5.5 stops | AI AF  | Traditional grip preference              |
+| **A7C II** | ~$2,200-2,500 | 514g   | 33MP | 7 stops   | AI AF  | ⭐ **Top choice** - compact travel         |
+| **A7 IV**  | ~$2,300-2,500 | 658g   | 33MP | 5.5 stops | AI AF  | Traditional grip preference              |
 | **A7 V**   | ~$3,200       | 600g   | 33MP | 8.5 stops | AI+ AF | Latest tech, future-proof                |
 | **A7R V**  | ~$3,900       | 723g   | 61MP | 8 stops   | AI+ AF | ❌ Professional use, overkill             |
 
@@ -2068,51 +2066,57 @@ the A7 IV premium might be worth it if the grip concern is genuine.
 **Both cameras are excellent choices - the decision comes down to personal preference:**
 
 **Choose A7C II (~$2,200-2,500, 514g) if:**
-1. **Portability is your top priority** - Lightest full-frame available
-2. **You're comfortable with compact cameras** - No DSLR muscle memory
-3. **Weight matters more than grip size** - Every gram counts with a 4-year-old
-4. **You pair mainly with light lenses** - SEL2070G (488g) balances well
-5. **Budget-conscious** - Save $100-200 vs A7 IV
+1. **Portability is your top priority** - Lightest full-frame available.
+2. **You're comfortable with compact cameras** - No DSLR muscle memory.
+3. **Weight matters more than grip size** - Every gram counts with a 4-year-old.
+4. **You pair mainly with light lenses** - SEL2070G (488g) balances well.
+5. **Budget-conscious** - Save $100-200 vs A7 IV.
 
 **Choose A7 IV (~$2,300-2,500, 658g) if:**
-1. **Grip comfort is your top priority** - Traditional DSLR-style ergonomics
-2. **You want the most comfortable all-day handling** - Deeper grip, better button layout
-3. **The 144g weight penalty doesn't concern you** - Still reasonable for travel
-4. **You value a substantial feel** - Metal port covers, larger body inspires confidence
-5. **Peace of mind matters** - Better ergonomics = less hand fatigue on long shooting days
+1. **Grip comfort is your top priority** - Traditional DSLR-style ergonomics.
+2. **You want the most comfortable all-day handling** - Deeper grip, better button layout.
+3. **The 144g weight penalty doesn't concern you** - Still reasonable for travel.
+4. **You value a substantial feel** - Metal port covers, larger body inspires confidence.
+5. **Peace of mind matters** - Better ergonomics = less hand fatigue on long shooting days.
 
 **Critical: Try both in person before buying** - The grip difference is significant and highly subjective. What feels "too small" to one person feels "perfect" to another.
 
-**Your Complete Recommended Kit (Four Lens Strategies):**
+**Your Complete Recommended Kit (Three Top Lens Strategies):**
 
-The camera body options below work with any of the four lens strategies (1A, 1B, 1C, or 1D).
+The camera body options below work with any of the three top lens strategies (1A, 1B, or 1C).
+Option 3 (16-35mm f/4 + 85mm) is also compatible if you prefer ultra-wide specialization.
 
 ```
 Camera Body Option A: Maximum Portability (A7C II)
 
-Sony A7C II (514g)                    ~$2,200-2,500
-+ SEL2070G 20-70mm f/4 (488g)         ~$1,100
-+ 85mm f/1.8 prime (371g)              ~$600 (already own)
-+ Mobile phone (13/23/69mm)               $0 (already own)
-+ HX90 backup (24-720mm)                  $0 (already own)
-────────────────────────────────────────────────
-Total primary system: 1,002g            ~$3,300-3,600
+Component                          Cost              Weight
+───────────────────────────────────────────────────────────────────────────
+Sony A7C II                        ~$2,200-2,500     514g
+SEL2070G 20-70mm f/4               ~$1,100           488g
+85mm f/1.8 prime                   (owned)           371g
+Mobile phone (13/23/69mm)          (owned)           —
+HX90 backup (24-720mm)             (owned)           —
+───────────────────────────────────────────────────────────────────────────
+Total primary system:              ~$3,300-3,600     1,002g
+
 
 Camera Body Option B: Better Ergonomics (A7 IV)
 
-Sony A7 IV (658g)                     ~$2,300-2,500
-+ SEL2070G 20-70mm f/4 (488g)         ~$1,100
-+ 85mm f/1.8 prime (371g)              ~$600 (already own)
-+ Mobile phone (13/23/69mm)               $0 (already own)
-+ HX90 backup (24-720mm)                  $0 (already own)
-────────────────────────────────────────────────
-Total primary system: 1,146g            ~$3,400-3,600
+Component                          Cost              Weight
+───────────────────────────────────────────────────────────────────────────
+Sony A7 IV                         ~$2,300-2,500     658g
+SEL2070G 20-70mm f/4               ~$1,100           488g
+85mm f/1.8 prime                   (owned)           371g
+Mobile phone (13/23/69mm)          (owned)           —
+HX90 backup (24-720mm)             (owned)           —
+───────────────────────────────────────────────────────────────────────────
+Total primary system:              ~$3,400-3,600     1,146g
 ```
 
 **Both setups cover:**
-- 95%+ of your documented photography needs
-- Professional image quality where it matters
-- Casual shooting style without professional overkill
+- 95%+ of your documented photography needs.
+- Professional image quality where it matters.
+- Casual shooting style without professional overkill.
 
 **Key difference:** 144g weight difference vs significantly better grip comfort - personal preference determines which is right for you.
 
@@ -2122,14 +2126,18 @@ Total primary system: 1,146g            ~$3,400-3,600
 
 ## 🎯 Decision Guide: Choose Your Strategy
 
+> 💡 **Practical Note:** Options 1A and 1C have the **same initial purchase** (SEL2070G ~$1,100).
+> You don't need to decide between them now—buy the SEL2070G, use it, and decide later
+> whether to keep HX90 indefinitely (1A) or add Tamron when a safari trip is planned (1C).
+
 ### Choose **SEL2070G 20-70mm f/4 G** (Options 1A or 1C) if:
 
-- ✅ **Optical quality at 20-70mm is paramount** - G-series excellence in your 85-90% zone
-- ✅ You've been constrained by 24mm and want wider (20mm)
-- ✅ You're okay keeping HX90 as telephoto backup (2-5% usage)
-- ✅ **f/4 constant aperture matters** - predictable exposure
-- ✅ Budget: ~$1,100 is acceptable
-- ✅ **Best for:** Maximum quality in your primary shooting zone
+- ✅ **Optical quality at 20-70mm is paramount** - G-series excellence in your 85-90% zone.
+- ✅ You've been constrained by 24mm and want wider (20mm).
+- ✅ You're okay keeping HX90 as telephoto backup (2-5% usage).
+- ✅ **f/4 constant aperture matters** - predictable exposure.
+- ✅ Budget: ~$1,100 is acceptable.
+- ✅ **Best for:** Maximum quality in your primary shooting zone.
 
 ### Choose **Sigma 20-200mm f/3.5-6.3 DG DN** (Option 1B) if:
 
@@ -2138,37 +2146,37 @@ Total primary system: 1,146g            ~$3,400-3,600
 - ✅ **You want to skip future 70-200mm investment** - complete coverage now
 - ✅ **Kit simplification is priority** - one lens covers 95%+
 - ✅ **You shoot primarily for memories** - not pixel-peeping or large prints
-- ✅ **You accept software distortion correction** - cameras handle this automatically
-- ⚠️ You accept the trade-offs: severe 20mm distortion, weaker 200mm edges, heavy vignetting
-- ✅ Budget: ~$900-1,100 (similar to SEL2070G)
-- ✅ **Best for:** Simpler kit with dramatically better telephoto—but **read the LensTip review** to understand optical compromises
+- ✅ **You accept software distortion correction** - cameras handle this automatically.
+- ⚠️ You accept the trade-offs: severe 20mm distortion, weaker 200mm edges, heavy vignetting.
+- ✅ Budget: ~$900-1,100 (similar to SEL2070G).
+- ✅ **Best for:** Simpler kit with dramatically better telephoto—but **read the LensTip review** to understand optical compromises.
 
 ### Choose **Two-Lens Flexibility Strategy** (Option 1C) if:
 
-- ✅ **Most trips are city travel** - don't need telephoto beyond 70mm
-- ✅ **You want G-series quality now** - no compromises at 20-70mm
-- ✅ **Safari/wildlife trips are predictable** - you know months ahead
-- ✅ **You prefer staged investment** - ~$1,100 now, ~$1,200 later (only if needed)
-- ✅ **HX90 is adequate for rare city telephoto** - acceptable quality for 2-5% of shots
-- ✅ **You may not need superzoom for years** - defer the cost indefinitely
-- ✅ **When you DO need telephoto, you want quality** - Tamron f/2.8-5.6 beats Sigma f/3.5-6.3
-- ✅ Budget: ~$1,100 now (superzoom can wait)
-- ✅ **Best for:** Photographers who mostly travel cities and prefer buying the right tool when actually needed
+- ✅ **Most trips are city travel** - don't need telephoto beyond 70mm.
+- ✅ **You want G-series quality now** - no compromises at 20-70mm.
+- ✅ **Safari/wildlife trips are predictable** - you know months ahead.
+- ✅ **You prefer staged investment** - ~$1,100 now, ~$1,000-1,300 later (only if needed).
+- ✅ **HX90 is adequate for rare city telephoto** - acceptable quality for 2-5% of shots.
+- ✅ **You may not need superzoom for years** - defer the cost indefinitely.
+- ✅ **When you DO need telephoto, you want quality** - Tamron f/2.8-5.6 beats Sigma f/3.5-6.3.
+- ✅ Budget: ~$1,100 now (superzoom ~$1,000-1,300 can wait).
+- ✅ **Best for:** Photographers who mostly travel cities and prefer buying the right tool when actually needed.
 
 ### Choose **24-70mm f/2.8 GM** if:
 
-- ⚠️ You absolutely need f/2.8 for low-light work
-- ⚠️ Don't mind the extra weight (886g vs 488g)
-- ⚠️ Budget allows $2,200
-- ⚠️ Willing to repeat 24mm limitation
-- ⚠️ **Not recommended for you**
+- ⚠️ You absolutely need f/2.8 for low-light work.
+- ⚠️ Don't mind the extra weight (886g vs 488g).
+- ⚠️ Budget allows $2,200.
+- ⚠️ Willing to repeat 24mm limitation.
+- ⚠️ **Not recommended for you.**
 
 ### Choose **16-35mm f/4** if:
 
-- ⚠️ You prioritize ultra-wide over versatility
-- ⚠️ Don't mind carrying multiple lenses
-- ⚠️ Willing to accept 35-85mm gap
-- ⚠️ **Less ideal for your travel style**
+- ⚠️ You prioritize ultra-wide over versatility.
+- ⚠️ Don't mind carrying multiple lenses.
+- ⚠️ Willing to accept 35-85mm gap.
+- ⚠️ **Less ideal for your travel style.**
 
 ---
 
@@ -2176,52 +2184,52 @@ Total primary system: 1,146g            ~$3,400-3,600
 
 1. **24mm was your constraint, not your preference**
 
-   - You shot 40-70% at 24mm because it was your ONLY wide option
-   - Given 20mm, you'll likely use it MORE than 24mm
+   - You shot 40-70% at 24mm because it was your ONLY wide option.
+   - Given 20mm, you'll likely use it MORE than 24mm.
    - Mobile data shows you use 13mm ultra-wide 5-8% consistently
-     (Samsung S22/S25)
+     (Samsung S22/S25).
    - When given 17-18mm ultra-wide on Huawei phones,
-     you used it 13-14% of time
-   - **Conclusion:** You actively seek wider than 23-24mm when available
+     you used it 13-14% of time.
+   - **Conclusion:** You actively seek wider than 23-24mm when available.
 
 2. **Budapest 75mm usage is misleading**
 
-   - This was a portrait session, not typical travel
-   - 75mm was the far end of your SAL1650 lens at the time
-   - Not representative of your normal shooting patterns
-   - Your 85mm prime now covers this specialized need
+   - This was a portrait session, not typical travel.
+   - 75mm was the far end of your SAL1650 lens at the time.
+   - Not representative of your normal shooting patterns.
+   - Your 85mm prime now covers this specialized need.
 
 3. **Your kit has evolved perfectly FOR the 20-70mm range**
 
-   - Mobile handles ultra-wide (13mm) - 8% of Samsung S25 photos
-   - Mobile handles standard wide (23mm) - 64% of Samsung S25 photos
-   - Mobile handles 3x telephoto (69mm) - 15% of Samsung S25 photos
-   - 85mm prime handles dedicated portraits
-   - HX90 handles extreme telephoto (24-720mm backup)
+   - Mobile handles ultra-wide (13mm) - 8% of Samsung S25 photos.
+   - Mobile handles standard wide (23mm) - 64% of Samsung S25 photos.
+   - Mobile handles 3x telephoto (69mm) - 15% of Samsung S25 photos.
+   - 85mm prime handles dedicated portraits.
+   - HX90 handles extreme telephoto (24-720mm backup).
    - **SEL2070G fills the quality gap:**
-     20-70mm for serious photography
+     20-70mm for serious photography.
 
 4. **Single lens workflow matches your style**
 
-   - 90-95% of shots in 20-70mm range
+   - 90-95% of shots in 20-70mm range.
    - You prefer convenience
-     (evidenced by 15,528 mobile photos = 28% of total output)
-   - Mobile usage accelerating: 3,296 photos in <1 year on Samsung S25
-   - Lens changing minimized = better travel experience
+     (evidenced by 15,528 mobile photos = 28% of total output).
+   - Mobile usage accelerating: 3,296 photos in <1 year on Samsung S25.
+   - Lens changing minimized = better travel experience.
 
 5. **Mobile phone is your SECOND camera, not backup**
 
-   - 15,528 mobile photos with intentional focal length choices
-   - 75% shot at primary wide (23-29mm) - deliberate storytelling choice
-   - Multi-camera phones: You actively switch between ultra-wide, wide, telephoto
-   - Samsung S25: Most balanced usage (64% primary, 15% tele, 8% ultra-wide, 5% mid-range)
-   - This isn't "phone snapshot" behavior - it's intentional photography
+   - 15,528 mobile photos with intentional focal length choices.
+   - 75% shot at primary wide (23-29mm) - deliberate storytelling choice.
+   - Multi-camera phones: You actively switch between ultra-wide, wide, telephoto.
+   - Samsung S25: Most balanced usage (64% primary, 15% tele, 8% ultra-wide, 5% mid-range).
+   - This isn't "phone snapshot" behavior - it's intentional photography.
 
 ---
 
 ## Conclusion
 
-### **Four Excellent Strategies - Quick Summary**
+### **Three Excellent Strategies - Quick Summary**
 
 Based on **55,528 photos analyzed** across 21 years,
 here's the bottom line:
@@ -2236,7 +2244,7 @@ here's the bottom line:
 | Staged investment / defer costs            | **Two-Lens Strategy (1C)** | [Option 1C](#-option-1c-two-lens-flexibility-strategy-sel2070g-now--superzoom-later)  |
 | Right tool for each trip type              | **Two-Lens Strategy (1C)** | [Option 1C](#-option-1c-two-lens-flexibility-strategy-sel2070g-now--superzoom-later)  |
 | Avoid all superzoom compromises            | **Two-Lens Strategy (1C)** | [Option 1C](#-option-1c-two-lens-flexibility-strategy-sel2070g-now--superzoom-later)  |
-| Ultra-wide specialization (landscapes)     | **16-35mm f/4 (1D)**       | [Option 1D](#option-1d-16-35mm-f4-ultra-wide-specialist)                              |
+| Ultra-wide specialization (landscapes)     | **16-35mm f/4 (Option 3)** | [Option 3](#option-3-16-35mm-f4-ultra-wide-specialist)                                |
 
 ### **Alternative Strategies**
 
@@ -2246,21 +2254,21 @@ here's the bottom line:
 
 ## 📌 Quick Reference Summary
 
-1. **Your shooting evolved**: Normal (35mm) → Wide (24mm) → Ultra-wide (13-23mm)
-2. **24mm was historically your widest** - both SEL2070G and Sigma 20-200mm give you 20mm
-3. **85mm prime eliminates dedicated portrait lens need** - portraits fully covered
-4. **Mobile phone is a capable ultra-wide** - 13mm handles dramatic wide shots
-5. **HX90 can be retired** with Sigma 20-200mm (or kept with SEL2070G / Two-Lens Strategy)
-6. **50-70mm is your "dead zone"** - minimal documented usage (but nice to have)
-7. **Trip types are predictable** - city travel vs. safari/wildlife trips are planned differently
+1. **Your shooting evolved**: Normal (35mm) → Wide (24mm) → Ultra-wide (13-23mm).
+2. **24mm was historically your widest** - both SEL2070G and Sigma 20-200mm give you 20mm.
+3. **85mm prime eliminates dedicated portrait lens need** - portraits fully covered.
+4. **Mobile phone is a capable ultra-wide** - 13mm handles dramatic wide shots.
+5. **HX90 can be retired** with Sigma 20-200mm (or kept with SEL2070G / Two-Lens Strategy).
+6. **50-70mm is your "dead zone"** - minimal documented usage (but nice to have).
+7. **Trip types are predictable** - city travel vs. safari/wildlife trips are planned differently.
 
-**Four Equally Valid Bottom Lines:**
+**Three Top Strategies (Plus One Alternative):**
 
-- **Best optical quality at 20-70mm:** SEL2070G (Options 1A/1C - G-series excellence in your 85-90% zone)
-- **Best kit simplification:** Sigma 20-200mm (Option 1B - retire HX90 + full-frame telephoto—but with optical trade-offs)
-- **Best flexibility with staged investment:** Two-Lens Strategy (Option 1C - SEL2070G now + Tamron later when needed)
-- **Best ultra-wide specialization:** 16-35mm f/4 + 85mm prime (Option 1D - accept 35-85mm gap)
-- **All four break your 24mm constraint** with 16-20mm wide end
+- **Best optical quality at 20-70mm:** SEL2070G (Options 1A/1C - G-series excellence in your 85-90% zone).
+- **Best kit simplification:** Sigma 20-200mm (Option 1B - retire HX90 + full-frame telephoto—but with optical trade-offs).
+- **Best flexibility with staged investment:** Two-Lens Strategy (Option 1C - SEL2070G now + Tamron later when needed).
+- **Alternative - ultra-wide specialization:** 16-35mm f/4 + 85mm prime (Option 3 - accept 35-85mm gap).
+- **All break your 24mm constraint** with 16-20mm wide end.
 
 ---
 
@@ -2279,14 +2287,17 @@ who values **environmental context** over **isolated subjects**.
 
 With a young child, this style is PERFECT - it captures the experience, not just the subject.
 
-### Your Four Validated Strategies
+### Your Three Top Strategies (Plus Alternative)
+
+> 💡 **Practical tip:** Options 1A and 1C are the **same initial purchase** (SEL2070G ~$1,100).
+> Buy the SEL2070G now, then decide later whether to keep HX90 for telephoto (1A) or add Tamron for safari trips (1C).
 
 | Option | Strategy                    | Why It Works for You                                                            |
 | ------ | --------------------------- | ------------------------------------------------------------------------------- |
 | **1A** | SEL2070G (20-70mm f/4 G)    | Best optics in your 85-90% zone, light enough for travel with a 4-year-old      |
 | **1B** | Sigma 20-200mm f/3.5-6.3    | Kit simplification, retire HX90, full-frame telephoto (with optical trade-offs) |
 | **1C** | SEL2070G now + Tamron later | Staged investment—best quality now, add telephoto when safari trips happen      |
-| **1D** | 16-35mm f/4 + 85mm prime    | Ultra-wide specialization, accept 35-85mm gap                                   |
+| **3**  | 16-35mm f/4 + 85mm prime    | *Alternative:* Ultra-wide specialization, accept 35-85mm gap                    |
 
 **Most important tip:** The photos you'll treasure most aren't the technically perfect ones -
 they're the ones that captured genuine moments.
@@ -2315,11 +2326,12 @@ to your dedicated camera with superior image quality.
 - All focal lengths in 35mm equivalent
 - Data spans 21 years (2004-2025) for dedicated cameras, 20 years (2006-2026) for mobile phones
 - Budapest trip (87% at 75mm) was portrait-focused using SAL1650 lens - not representative of typical travel patterns
-- **Four lens strategies recommended as optimal matches for documented shooting style:**
+- **Three top lens strategies recommended as optimal matches for documented shooting style:**
   - **Option 1A - SEL2070G:** Best optical quality at 20-70mm (your 85-90% zone) + keep HX90
   - **Option 1B - Sigma 20-200mm:** Best kit simplification + full-frame telephoto—but with optical trade-offs per LensTip review
   - **Option 1C - Two-Lens Flexibility:** SEL2070G now + Tamron 25-200mm later when safari/wildlife trips are planned
-  - **Option 1D - 16-35mm f/4 + 85mm prime:** Ultra-wide specialization (accepts 35-85mm gap)
+- **Alternative strategy:**
+  - **Option 3 - 16-35mm f/4 + 85mm prime:** Ultra-wide specialization (accepts 35-85mm gap)
 - Mobile phone usage: 15,528 photos showing 75% at 23-29mm primary wide angle,
   validating your consistent wide-angle preference across ALL photography platforms
 - Samsung S25 current usage: 3,296 photos in <1 year showing mobile as primary daily camera (64% at 23mm, 15% at 69mm, 8% at 13mm)
@@ -2370,39 +2382,39 @@ Your usage data reveals you've naturally evolved a brilliant workflow:
 
 **When to use:**
 
-- Spontaneous kid moments (they won't wait for you to change lenses)
-- Crowded tourist spots (safer, less conspicuous)
-- Quick family selfies and group shots
-- Ultra-wide environmental scenes (13mm)
-- Child portraits without carrying 85mm (use 69mm 3x zoom)
+- Spontaneous kid moments (they won't wait for you to change lenses).
+- Crowded tourist spots (safer, less conspicuous).
+- Quick family selfies and group shots.
+- Ultra-wide environmental scenes (13mm).
+- Child portraits without carrying 85mm (use 69mm 3x zoom).
 
 **Your proven pattern (Samsung S25 data):**
 
-- **64% at 23mm** - standard wide environmental storytelling
-- **15% at 69mm** - child portraits and details (3x telephoto)
-- **8% at 13mm** - dramatic ultra-wide landscapes
-- **5% at 46mm** - mid-range portraits (2x zoom)
-- **Volume:** 3,296 photos in <1 year = ~3,200 photos/year
-- **Your mobile contribution:** 28% of total photography (15,528 of 55,528 total photos)
-- **Pro tip:** With a 4-year-old, the best camera is the one ready NOW
-- **Reality:** You're shooting MORE on mobile recently - embrace it
+- **64% at 23mm** - standard wide environmental storytelling.
+- **15% at 69mm** - child portraits and details (3x telephoto).
+- **8% at 13mm** - dramatic ultra-wide landscapes.
+- **5% at 46mm** - mid-range portraits (2x zoom).
+- **Volume:** 3,296 photos in <1 year = ~3,200 photos/year.
+- **Your mobile contribution:** 28% of total photography (15,528 of 55,528 total photos).
+- **Pro tip:** With a 4-year-old, the best camera is the one ready NOW.
+- **Reality:** You're shooting MORE on mobile recently - embrace it.
 
 **Dedicated Camera (20-70mm recommended): The "Quality Shots" Tool**
 
 **When to use:**
 
-- Planned photo opportunities (sunrise/sunset, landmarks)
-- Indoor museums, churches (better low-light than mobile)
-- Deliberate compositions you want to print
-- When you have time to set up the shot
+- Planned photo opportunities (sunrise/sunset, landmarks).
+- Indoor museums, churches (better low-light than mobile).
+- Deliberate compositions you want to print.
+- When you have time to set up the shot.
 
-- **Your pattern:** 50-70% of shots at 20-35mm when using dedicated camera
+- **Your pattern:** 50-70% of shots at 20-35mm when using dedicated camera.
 
 **Workflow Tip for Parents:**
 
-1. Start each day with mobile phone only (museums, walking tours with kid)
-2. Bring dedicated camera for specific photo objectives (sunset spots, special locations)
-3. Don't carry both all day - you'll resent the weight when carrying a tired 4-year-old
+1. Start each day with mobile phone only (museums, walking tours with kid).
+2. Bring dedicated camera for specific photo objectives (sunset spots, special locations).
+3. Don't carry both all day - you'll resent the weight when carrying a tired 4-year-old.
 
 ---
 
@@ -2414,58 +2426,58 @@ Based on your historical usage, here's when to use what:
 
 **Best for:**
 
-- Hotel room/Airbnb "lifestyle" shots with kid
-- Narrow European streets with family
-- Beach/park scenes showing environment
-- "Making breakfast together" travel memories
+- Hotel room/Airbnb "lifestyle" shots with kid.
+- Narrow European streets with family.
+- Beach/park scenes showing environment.
+- "Making breakfast together" travel memories.
 
-- **Composition tip:** Place child 1/3 into frame, let environment tell the story
-- **Your pattern:** This is your absolute comfort zone - trust your instincts
+- **Composition tip:** Place child 1/3 into frame, let environment tell the story.
+- **Your pattern:** This is your absolute comfort zone - trust your instincts.
 
 **27-35mm (Wide-Normal) - 15-25% of your shots**
 
 **Best for:**
 
-- Candid moments at restaurants (child eating gelato, breakfast scenes)
-- Museum interiors with child looking at exhibits
-- Market shopping with kid in tow
-- Train/bus travel moments
+- Candid moments at restaurants (child eating gelato, breakfast scenes).
+- Museum interiors with child looking at exhibits.
+- Market shopping with kid in tow.
+- Train/bus travel moments.
 
-- **Parent advantage:** Natural perspective, not too wide/distorted for faces
-- **Your pattern:** Secondary focal length, works when 24mm too wide
+- **Parent advantage:** Natural perspective, not too wide/distorted for faces.
+- **Your pattern:** Secondary focal length, works when 24mm too wide.
 
 **50-70mm (Short Telephoto) - 10-15% of your shots**
 
 **Best for:**
 
-- Slightly compressed portraits of child at landmarks
-- Details: child's hands holding local snacks, examining souvenirs
-- Transition range before switching to 85mm prime
+- Slightly compressed portraits of child at landmarks.
+- Details: child's hands holding local snacks, examining souvenirs.
+- Transition range before switching to 85mm prime.
 
-- **Your pattern:** Light usage - only when you want modest compression
-- **With 4-year-old:** Good for "across the piazza" candid shots without disturbing play
+- **Your pattern:** Light usage - only when you want modest compression.
+- **With 4-year-old:** Good for "across the piazza" candid shots without disturbing play.
 
 **75-85mm (Portrait Range) - 5-10% with prime lens**
 
 **Best for:**
 
-- Formal family portraits at iconic locations
-- Isolated shots of child exploring (background blur)
-- Details: expressions, reactions to new experiences
+- Formal family portraits at iconic locations.
+- Isolated shots of child exploring (background blur).
+- Details: expressions, reactions to new experiences.
 
-- **Your pattern:** Dedicated portrait moments, not everyday snapshots
-- **Parent reality:** Requires child cooperation - use sparingly on travel days
+- **Your pattern:** Dedicated portrait moments, not everyday snapshots.
+- **Parent reality:** Requires child cooperation - use sparingly on travel days.
 
 **100mm+ (Telephoto) - <5% using HX90**
 
 **Best for:**
 
-- Wildlife spotting (reindeer in Norway, birds in parks)
-- Distant architectural details
-- Street performances child is watching
+- Wildlife spotting (reindeer in Norway, birds in parks).
+- Distant architectural details.
+- Street performances child is watching.
 
-- **Your pattern:** Rare use, HX90 backup sufficient
-- **Leave it at hotel unless:** Safari, wildlife parks, or specific telephoto objectives
+- **Your pattern:** Rare use, HX90 backup sufficient.
+- **Leave it at hotel unless:** Safari, wildlife parks, or specific telephoto objectives.
 
 ---
 
@@ -2477,28 +2489,28 @@ Your data reveals evolution toward **efficiency and spontaneity** - perfect for 
 
 **Bring ONLY SEL2070G (20-70mm):**
 
-- Covers 90-95% of your documented shooting style
-- Less weight = more patience with tired kid
-- No lens changing = fewer missed moments
-- Weatherproof (one less thing to worry about)
+- Covers 90-95% of your documented shooting style.
+- Less weight = more patience with tired kid.
+- No lens changing = fewer missed moments.
+- Weatherproof (one less thing to worry about).
 
 **When to Bring the 85mm Prime:**
 
-- Planned portrait sessions (golden hour at landmark)
-- Professional family photos (anniversary dinner, special outfit day)
-- Hotel room portrait sessions (rainy day activity)
-- **Reality check:** Maybe 1-2 outings per week-long trip
+- Planned portrait sessions (golden hour at landmark).
+- Professional family photos (anniversary dinner, special outfit day).
+- Hotel room portrait sessions (rainy day activity).
+- **Reality check:** Maybe 1-2 outings per week-long trip.
 
 **The Mobile-First Mindset:**
 
-- Your Samsung S25 data: 3,296 photos in <1 year at 3,200+/year rate
-- Mobile now represents 28% of your total photography (and growing)
-- Huawei P30 (2019-2023): 1,940 photos - mobile as serious creative tool
-- Samsung S22 + S25 (2022-2026): 8,324 photos - mobile dominance accelerating
-- With kids: mobile is often the ONLY camera you'll use on "survival days"
-- **Pro tip:** Some days are about experiencing, not photographing - mobile is enough
+- Your Samsung S25 data: 3,296 photos in <1 year at 3,200+/year rate.
+- Mobile now represents 28% of your total photography (and growing).
+- Huawei P30 (2019-2023): 1,940 photos - mobile as serious creative tool.
+- Samsung S22 + S25 (2022-2026): 8,324 photos - mobile dominance accelerating.
+- With kids: mobile is often the ONLY camera you'll use on "survival days".
+- **Pro tip:** Some days are about experiencing, not photographing - mobile is enough.
 - **Data reality:** You're already shooting 64% of mobile photos at 23mm
-  (same as your 24mm dedication with dedicated camera)
+  (same as your 24mm dedication with dedicated camera).
 
 ---
 
@@ -2508,30 +2520,30 @@ Your data reveals evolution toward **efficiency and spontaneity** - perfect for 
 
 ✅ **DO:**
 
-- Get low (child's eye level) for engaging environmental portraits
-- Use leading lines (cobblestone streets, museum corridors) to draw eye to child
-- Frame child in doorways, arches, windows for context
-- Embrace wide distortion for drama (looking up at cathedrals with kid)
+- Get low (child's eye level) for engaging environmental portraits.
+- Use leading lines (cobblestone streets, museum corridors) to draw eye to child.
+- Frame child in doorways, arches, windows for context.
+- Embrace wide distortion for drama (looking up at cathedrals with kid).
 
 ❌ **DON'T:**
 
-- Put faces too close to edges (wide-angle distortion unflatters)
-- Center child in frame every time (boring composition)
-- Ignore foreground (wide angle needs layered composition)
+- Put faces too close to edges (wide-angle distortion unflatters).
+- Center child in frame every time (boring composition).
+- Ignore foreground (wide angle needs layered composition).
 
 **At 50-85mm (your occasional range):**
 
 ✅ **DO:**
 
-- Use background blur to isolate child at busy tourist sites
-- Compress perspective to bring distant backgrounds closer
-- Capture genuine expressions from a distance (child unaware)
-- Create "layers" - child, mid-ground activity, background landmark
+- Use background blur to isolate child at busy tourist sites.
+- Compress perspective to bring distant backgrounds closer.
+- Capture genuine expressions from a distance (child unaware).
+- Create "layers" - child, mid-ground activity, background landmark.
 
 ❌ **DON'T:**
 
-- Expect to capture full-body shots in tight spaces
-- Use these focal lengths for environmental context (too tight)
+- Expect to capture full-body shots in tight spaces.
+- Use these focal lengths for environmental context (too tight).
 
 ---
 
@@ -2542,27 +2554,27 @@ Your SAL1650 experience (24-75mm f/2.8) shows you have experience with fast aper
 **Managing f/4 Maximum Aperture (SEL2070G):**
 
 - ✅ Coming from SAL1650 f/2.8: Only 2/3 stop difference to f/4 -
-  minimal practical impact
-- ✅ Modern cameras excel at high ISO (confidently use ISO 1600-6400 to compensate)
-- ✅ Image stabilization helps (2-3 stops advantage)
-- ✅ Wide angles (20-24mm) more forgiving for handholding
-- ⚠️ Indoor museums/churches: bump ISO, accept minor grain
-- ⚠️ Restaurants at night: use mobile phone (f/1.8-2.0) or 85mm prime (f/1.8)
+  minimal practical impact.
+- ✅ Modern cameras excel at high ISO (confidently use ISO 1600-6400 to compensate).
+- ✅ Image stabilization helps (2-3 stops advantage).
+- ✅ Wide angles (20-24mm) more forgiving for handholding.
+- ⚠️ Indoor museums/churches: bump ISO, accept minor grain.
+- ⚠️ Restaurants at night: use mobile phone (f/1.8-2.0) or 85mm prime (f/1.8).
 - 💡 Your SAL1650 f/2.8 experience means you understand fast aperture benefits -
   f/4 is a reasonable trade-off for significantly wider focal range
-  (20mm vs 24mm start)
+  (20mm vs 24mm start).
 
 **When Kids Won't Stay Still:**
 
-- **Fast shutter priority:** 1/200s minimum for moving 4-year-old
-- **Raise ISO:** Better a grainy sharp photo than blurry "perfect" exposure
-- **Your historical pattern:** You prefer available light over flash (minimal flash usage in data)
+- **Fast shutter priority:** 1/200s minimum for moving 4-year-old.
+- **Raise ISO:** Better a grainy sharp photo than blurry "perfect" exposure.
+- **Your historical pattern:** You prefer available light over flash (minimal flash usage in data).
 
 **Restaurant Photography Reality:**
 
-- Mobile phone often better (always-available, brighter aperture, HDR mode)
-- Your data confirms high mobile usage - lean into this for casual dining
-- Save dedicated camera for well-lit outdoor cafes
+- Mobile phone often better (always-available, brighter aperture, HDR mode).
+- Your data confirms high mobile usage - lean into this for casual dining.
+- Save dedicated camera for well-lit outdoor cafes.
 
 ---
 
@@ -2572,11 +2584,13 @@ Your SAL1650 experience (24-75mm f/2.8) shows you have experience with fast aper
 ```
 Essential Kit:
 
-- ✅ Camera body + SEL2070G (20-70mm) - stays on camera
-- ✅ Mobile phone - pocket/easy access
-- ✅ One extra battery
-- ✅ Small lens cloth
-
+Item                                          Notes
+─────────────────────────────────────────────────────────────
+✅ Camera body + SEL2070G (20-70mm)            Stays on camera
+✅ Mobile phone                                Pocket/easy access
+✅ One extra battery                           —
+✅ Small lens cloth                            —
+─────────────────────────────────────────────────────────────
 Total weight: ~1kg camera gear
 ```
 
@@ -2584,12 +2598,12 @@ Total weight: ~1kg camera gear
 ```
 Enhanced Kit:
 
-✅ Add 85mm f/1.8 prime (portraits, golden hour)
-
-OR
-
-✅ Add HX90 compact (wildlife day, telephoto objectives)
-
+Item                                          Notes
+─────────────────────────────────────────────────────────────
+✅ Add 85mm f/1.8 prime                        Portraits, golden hour
+                    OR
+✅ Add HX90 compact                            Wildlife day, telephoto objectives
+─────────────────────────────────────────────────────────────
 Total weight: ~1.3kg camera gear
 ```
 
@@ -2613,24 +2627,24 @@ Your wide-angle preference naturally suits candid family documentation:
 
 **Example moments:**
 
-- Child feeding pigeons in Venice's St. Mark's Square (24mm wide)
-- Examining pastries in Parisian bakery window (27mm)
-- Running through Kyoto temple gardens (20mm for drama)
-- Playing in Oslo's Vigeland Park fountains (24mm)
+- Child feeding pigeons in Venice's St. Mark's Square (24mm wide).
+- Examining pastries in Parisian bakery window (27mm).
+- Running through Kyoto temple gardens (20mm for drama).
+- Playing in Oslo's Vigeland Park fountains (24mm).
 
 **The "Decisive Moment" Approach:**
 
-- **Your advantage:** Wide angle = more forgiveness for precise focus
-- **Pre-focus** on zone where child will be (playground, fountain, statue)
-- **Continuous shooting** when action happens (kid running, jumping)
-- **Your 20-70mm range:** Perfect for this style - enough reach, wide enough for context
+- **Your advantage:** Wide angle = more forgiveness for precise focus.
+- **Pre-focus** on zone where child will be (playground, fountain, statue).
+- **Continuous shooting** when action happens (kid running, jumping).
+- **Your 20-70mm range:** Perfect for this style - enough reach, wide enough for context.
 
 **Story Sequences** *(build photo essays)*
 
-- **Wide establishing shot (20mm):** Full scene, child in environment
-- **Medium shot (35-50mm):** Child interacting with element
-- **Detail shot (70-85mm):** Face, hands, expressions
-- **Your natural workflow:** You already do this (evidenced by focal length variety within trips)
+- **Wide establishing shot (20mm):** Full scene, child in environment.
+- **Medium shot (35-50mm):** Child interacting with element.
+- **Detail shot (70-85mm):** Face, hands, expressions.
+- **Your natural workflow:** You already do this (evidenced by focal length variety within trips).
 
 ---
 
@@ -2641,32 +2655,32 @@ Based on your trip patterns, here's focal length guidance:
 **Scandinavian Fjords / Mountain Landscapes** *(Lofoten, Trolltunga, Preikestolen)*
 
 - **Primary focal length:** 20-24mm
-  (your proven choice - 89% at 24mm in Trolltunga)
-- **Mobile ultra-wide (13mm):** For most dramatic vistas
-- **With child:** Wide angle shows scale - tiny human, massive nature
-- **Composition:** Child in foreground (focus), mountains in background (context)
+  (your proven choice - 89% at 24mm in Trolltunga).
+- **Mobile ultra-wide (13mm):** For most dramatic vistas.
+- **With child:** Wide angle shows scale - tiny human, massive nature.
+- **Composition:** Child in foreground (focus), mountains in background (context).
 
 **European City Breaks** *(Rome, Vienna, Prague, Budapest)*
 
-- **Primary focal length:** 24-35mm (streets, architecture, lifestyle)
+- **Primary focal length:** 24-35mm (streets, architecture, lifestyle).
 - **85mm prime moments:** Portraits at landmarks
-  (Trevi Fountain, Charles Bridge)
-- **Mobile usage:** Quick street photography, crowded tourist sites
-- **With child:** Capturing kid's reactions to gelato, street performers, pigeons
+  (Trevi Fountain, Charles Bridge).
+- **Mobile usage:** Quick street photography, crowded tourist sites.
+- **With child:** Capturing kid's reactions to gelato, street performers, pigeons.
 
 **Asian Travel** *(Seoul, Japan)*
 
-- **Primary focal length:** 27mm (your Seoul pattern: 64% at 27mm)
-- **Temple interiors:** 20-24mm (wider for architecture)
-- **Street food moments:** 35-50mm (natural perspective)
-- **With child:** Food adventures, shrine visits, urban exploration
+- **Primary focal length:** 27mm (your Seoul pattern: 64% at 27mm).
+- **Temple interiors:** 20-24mm (wider for architecture).
+- **Street food moments:** 35-50mm (natural perspective).
+- **With child:** Food adventures, shrine visits, urban exploration.
 
 **Museum Days** *(your frequent activity)*
 
-- **Focal length:** 24-35mm (artwork + child examining it)
-- **Reality:** Many museums ban professional cameras - mobile often only option
-- **Strategy:** Use mobile liberally, save dedicated camera for allowed spaces
-- **With child:** Focus on reactions, not just artifacts
+- **Focal length:** 24-35mm (artwork + child examining it).
+- **Reality:** Many museums ban professional cameras - mobile often only option.
+- **Strategy:** Use mobile liberally, save dedicated camera for allowed spaces.
+- **With child:** Focus on reactions, not just artifacts.
 
 ---
 
@@ -2674,29 +2688,29 @@ Based on your trip patterns, here's focal length guidance:
 
 **Morning Routine (keep it simple):**
 
-- ✅ Charge all batteries overnight (camera, mobile, HX90)
-- ✅ Start day with mobile in pocket (kids don't wait for camera prep)
-- ✅ Assess day's plan: **sightseeing day** (mobile only) or **scenic day** (bring camera for landscapes)
-- ✅ Most important: Don't let gear decisions delay the start of your day
+- ✅ Charge all batteries overnight (camera, mobile, HX90).
+- ✅ Start day with mobile in pocket (kids don't wait for camera prep).
+- ✅ Assess day's plan: **sightseeing day** (mobile only) or **scenic day** (bring camera for landscapes).
+- ✅ Most important: Don't let gear decisions delay the start of your day.
 
 **During the Day (photography as secondary activity):**
 
-- ✅ **Mobile first mentality:** If you're unsure whether to dig out the camera, use the phone
-- ✅ **Quick review:** Glance to ensure you got the shot, then move on (don't obsess)
-- ✅ **Bracket only critical shots:** Iconic landmarks with kid - take 2-3 variations, not 20
-- ✅ **Your pattern:** You're decisive (limited focal length exploration) - trust your instincts
+- ✅ **Mobile first mentality:** If you're unsure whether to dig out the camera, use the phone.
+- ✅ **Quick review:** Glance to ensure you got the shot, then move on (don't obsess).
+- ✅ **Bracket only critical shots:** Iconic landmarks with kid - take 2-3 variations, not 20.
+- ✅ **Your pattern:** You're decisive (limited focal length exploration) - trust your instincts.
 
 **Evening Workflow (minimal time investment):**
 
-- ✅ Backup photos to phone/cloud (don't risk losing memories)
-- ✅ Quick cull: Delete obvious failures (5 minutes max)
-- ✅ Mark favorites IF you have energy - or do it later at home
+- ✅ Backup photos to phone/cloud (don't risk losing memories).
+- ✅ Quick cull: Delete obvious failures (5 minutes max).
+- ✅ Mark favorites IF you have energy - or do it later at home.
 
 **Data Management (set and forget):**
 
-- **Cloud backup essential:** Google Photos, iCloud, Dropbox - enable auto-upload
-- **Don't sort during vacation:** You're there to experience, not curate
-- **Reality check:** Your 40,000+ archive proves you're already a prolific shooter - no need to overthink it
+- **Cloud backup essential:** Google Photos, iCloud, Dropbox - enable auto-upload.
+- **Don't sort during vacation:** You're there to experience, not curate.
+- **Reality check:** Your 40,000+ archive proves you're already a prolific shooter - no need to overthink it.
 
 ---
 
@@ -2706,23 +2720,23 @@ Your evolution from film (constrained) → zoom lens (versatile) → mobile + de
 
 **Accept These Truths:**
 
-1. **Mobile photo beats no photo** - kid moments are fleeting, experience comes first
-2. **f/4 is fine** - even coming from SAL1650 f/2.8, f/4 serves casual shooting perfectly
-3. **One lens is liberating** - 90-95% coverage means you can focus on the trip, not gear
-4. **"Good enough" is actually great** - your 21-year archive is full of imperfect photos you treasure
-5. **Perfect is the enemy of done** - capture the memory, don't chase technical perfection
+1. **Mobile photo beats no photo** - kid moments are fleeting, experience comes first.
+2. **f/4 is fine** - even coming from SAL1650 f/2.8, f/4 serves casual shooting perfectly.
+3. **One lens is liberating** - 90-95% coverage means you can focus on the trip, not gear.
+4. **"Good enough" is actually great** - your 21-year archive is full of imperfect photos you treasure.
+5. **Perfect is the enemy of done** - capture the memory, don't chase technical perfection.
 
 **When Photography ISN'T the Main Goal:**
 
-- Some days you'll only use mobile phone - **embrace it, that's why you carry it**
-- Some shots will be blurry - **kid was moving, you were engaged in the moment**
-- Some compositions will be imperfect - **you were living life, not staging it**
-- **The best camera is the one you'll actually use** - don't let perfect gear stop you from shooting
+- Some days you'll only use mobile phone - **embrace it, that's why you carry it**.
+- Some shots will be blurry - **kid was moving, you were engaged in the moment**.
+- Some compositions will be imperfect - **you were living life, not staging it**.
+- **The best camera is the one you'll actually use** - don't let perfect gear stop you from shooting.
 
 **Your Actual Priorities:**
-1. **Experience the trip/moment** (enjoying time with family)
-2. **Capture a few good memories** (photo as souvenir)
-3. **Don't burden the experience with gear** (stay light, stay present)
+1. **Experience the trip/moment** (enjoying time with family).
+2. **Capture a few good memories** (photo as souvenir).
+3. **Don't burden the experience with gear** (stay light, stay present).
 
 ---
 
@@ -2734,19 +2748,19 @@ Your photography style developed naturally over 21 years - let it continue evolv
 
 **Apply This to Daily Life & Travel:**
 
-1. **Simplify gear:** SEL2070G + 85mm prime + mobile = 99% of casual photography needs
-2. **Embrace mobile:** It's your always-ready camera for daily life
-3. **Stay wide:** 20-35mm is your proven sweet spot - it's intuitive for you now
-4. **Pack light:** Less gear = more freedom to enjoy the experience
-5. **Accept spontaneity:** Best photos often happen when you're NOT planning them
+1. **Simplify gear:** SEL2070G + 85mm prime + mobile = 99% of casual photography needs.
+2. **Embrace mobile:** It's your always-ready camera for daily life.
+3. **Stay wide:** 20-35mm is your proven sweet spot - it's intuitive for you now.
+4. **Pack light:** Less gear = more freedom to enjoy the experience.
+5. **Accept spontaneity:** Best photos often happen when you're NOT planning them.
 
 **Remember:**
 
-- Photography enriches your trips, but it shouldn't define them
-- Your best photos came from 24mm constraint for years - gear matters less than you think
-- 20-70mm removes that constraint while matching your style
-- Your child won't remember perfect f/2.8 bokeh
-- They'll remember adventures you documented with whatever lens was ready
+- Photography enriches your trips, but it shouldn't define them.
+- Your best photos came from 24mm constraint for years - gear matters less than you think.
+- 20-70mm removes that constraint while matching your style.
+- Your child won't remember perfect f/2.8 bokeh.
+- They'll remember adventures you documented with whatever lens was ready.
 
 ---
 
@@ -2762,14 +2776,14 @@ Your data shows minimal usage of 50-70mm, but it might just be lens limitation, 
 
 **Simple experiment (no pressure):**
 
-- **Next time you're taking a portrait:** Try zooming to 50-60mm instead of your usual 24mm
-  - More flattering for faces (less wide-angle distortion)
-  - Nicer background blur even at f/4
-  - Just see how it feels - no commitment needed
-- **Casual observation:** Notice when 50-70mm gives you something different
-  - Layered scenes with depth
-  - Slightly compressed perspectives
-  - If you don't like it, just go back to wide - no big deal
+- **Next time you're taking a portrait:** Try zooming to 50-60mm instead of your usual 24mm.
+  - More flattering for faces (less wide-angle distortion).
+  - Nicer background blur even at f/4.
+  - Just see how it feels - no commitment needed.
+- **Casual observation:** Notice when 50-70mm gives you something different.
+  - Layered scenes with depth.
+  - Slightly compressed perspectives.
+  - If you don't like it, just go back to wide - no big deal.
 
 **Reality check:** With SEL2070G, it's literally just a zoom twist away. Try it when convenient, ignore it when not.
 
@@ -2782,16 +2796,16 @@ you might be under-utilizing a great lens.
 
 **Low-effort ways to use it more:**
 
-- **When light is nice:** If you notice pretty sunset/golden hour light, grab the 85mm
-  - No need for "dedicated portrait sessions" - just switch lenses if it's convenient
-  - 10-15 minutes shooting at f/1.8-2.8, nice blurry backgrounds
-  - If kid isn't cooperating, put it away - no stress
-- **When environment is busy:** Use 85mm to isolate subject from chaotic backgrounds
-  - Crowded markets, busy tourist spots
-  - Works at playgrounds, museums - anywhere backgrounds are distracting
-- **Detail moments:** Occasional close-ups when something catches your eye
-  - Hands holding ice cream, face reactions to new food
-  - Only if it feels natural in the moment
+- **When light is nice:** If you notice pretty sunset/golden hour light, grab the 85mm.
+  - No need for "dedicated portrait sessions" - just switch lenses if it's convenient.
+  - 10-15 minutes shooting at f/1.8-2.8, nice blurry backgrounds.
+  - If kid isn't cooperating, put it away - no stress.
+- **When environment is busy:** Use 85mm to isolate subject from chaotic backgrounds.
+  - Crowded markets, busy tourist spots.
+  - Works at playgrounds, museums - anywhere backgrounds are distracting.
+- **Detail moments:** Occasional close-ups when something catches your eye.
+  - Hands holding ice cream, face reactions to new food.
+  - Only if it feels natural in the moment.
 
 **Reality check:** 5-10% usage might actually be right for your casual style. Don't force it if wide-angle storytelling is naturally your thing.
 
@@ -2804,15 +2818,15 @@ you might be under-utilizing a great lens.
 **Instead of "breaking" your comfort zone, refine it:**
 
 - **Be more intentional with what you already do well:**
-  - Notice when wide angles capture atmosphere (cobblestone streets, market scenes)
-  - Look for leading lines occasionally (they're everywhere once you notice)
-  - Get low angle shots when it's easy (just crouch down)
-  - Frame through doorways/arches when you spot them
+  - Notice when wide angles capture atmosphere (cobblestone streets, market scenes).
+  - Look for leading lines occasionally (they're everywhere once you notice).
+  - Get low angle shots when it's easy (just crouch down).
+  - Frame through doorways/arches when you spot them.
 
 - **Your 24mm served you for 13 years - trust your instincts:**
-  - You naturally gravitate to wide because it matches how you see
-  - 20-70mm just gives you MORE width (20mm) when you want it
-  - No need to force yourself into 70mm if 24mm feels right
+  - You naturally gravitate to wide because it matches how you see.
+  - 20-70mm just gives you MORE width (20mm) when you want it.
+  - No need to force yourself into 70mm if 24mm feels right.
 
 **Bottom line:** Your consistency isn't something to "fix" -
 it's evidence you've found your photographic voice.
@@ -2840,9 +2854,9 @@ it's evidence you've found your photographic voice.
 
 **Modern cameras handle high ISO beautifully:**
 
-- Museums, churches: Bump ISO to 3200-6400, accept tiny bit of grain
-- Restaurants at night: Use mobile phone (f/1.8-2.0) or 85mm prime (f/1.8)
-- Reality: You already prefer available light over flash (data shows minimal flash usage)
+- Museums, churches: Bump ISO to 3200-6400, accept tiny bit of grain.
+- Restaurants at night: Use mobile phone (f/1.8-2.0) or 85mm prime (f/1.8).
+- Reality: You already prefer available light over flash (data shows minimal flash usage).
 
 **Optional if you're interested:** Try blue hour shooting (20-40 mins after sunset) for dramatic cityscapes with illuminated buildings. But your daytime shooting is already working great.
 
@@ -2853,14 +2867,14 @@ it's evidence you've found your photographic voice.
 **You don't need photo essay exercises or multi-image storytelling plans.**
 
 Your 40,000+ photos over 21 years show you already capture what matters:
-- Environmental shots that show the experience
-- Spontaneous moments with family
-- Authentic travel memories
+- Environmental shots that show the experience.
+- Spontaneous moments with family.
+- Authentic travel memories.
 
 **If you naturally want variety someday:**
-- Try different focal lengths at same location (no plan needed - just zoom around)
-- Mix wide shots with occasional tighter shots (happens organically)
-- Your style will evolve naturally like it has for 21 years
+- Try different focal lengths at same location (no plan needed - just zoom around).
+- Mix wide shots with occasional tighter shots (happens organically).
+- Your style will evolve naturally like it has for 21 years.
 
 **Bottom line:** Photography projects are for professional photographers. You're documenting life - you're already doing it right.
 
@@ -2874,13 +2888,13 @@ You're excellent at wide-angle environmental storytelling,
 and the SEL2070G (20-70mm) matches that perfectly.
 
 **No "growth plan" needed:**
-- You don't need to master new techniques
-- You don't need photography projects or exercises
-- You don't need to study other photographers
-- You've naturally evolved your style over 21 years - it'll keep evolving
+- You don't need to master new techniques.
+- You don't need photography projects or exercises.
+- You don't need to study other photographers.
+- You've naturally evolved your style over 21 years - it'll keep evolving.
 
 **Simple reality:**
-- Keep doing what you're doing (it's working)
-- SEL2070G just removes the 24mm limitation
-- Trust your instincts (65-80% at wide angle shows what you love)
-- Photography is a hobby that enriches your life - not a skill to perfect
+- Keep doing what you're doing (it's working).
+- SEL2070G just removes the 24mm limitation.
+- Trust your instincts (65-80% at wide angle shows what you love).
+- Photography is a hobby that enriches your life - not a skill to perfect.
