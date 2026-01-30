@@ -22,13 +22,13 @@ while enjoying the experience, not turning every outing into a photo shoot.
 
 ### Key Findings from Your 21 Years of Data
 
-| Insight | Your Pattern |
-|---------|--------------|
-| **Primary Style** | Wide-angle environmental storytelling (65-80% of shots at 20-35mm) |
-| **Sweet Spot** | 24mm - your proven workhorse focal length for 13+ years |
-| **Mobile Contribution** | 28% of total photography (15,528 of 55,528 photos) and growing |
-| **Telephoto Usage** | Minimal (<5%) - you know what you need and don't overpack |
-| **Portrait Range** | 5-10% usage at 75-85mm for deliberate portrait moments |
+| Insight                 | Your Pattern                                                       |
+| ----------------------- | ------------------------------------------------------------------ |
+| **Primary Style**       | Wide-angle environmental storytelling (65-80% of shots at 20-35mm) |
+| **Sweet Spot**          | 24mm - your proven workhorse focal length for 13+ years            |
+| **Mobile Contribution** | 28% of total photography (15,528 of 55,528 photos) and growing     |
+| **Telephoto Usage**     | Minimal (<5%) - you know what you need and don't overpack          |
+| **Portrait Range**      | 5-10% usage at 75-85mm for deliberate portrait moments             |
 
 ### Your Proven Equipment Strategy
 
@@ -46,13 +46,13 @@ while enjoying the experience, not turning every outing into a photo shoot.
 
 ### Quick Reference: When to Use What
 
-| Situation | Recommended Approach |
-|-----------|---------------------|
-| **Daily exploration with child** | Mobile phone only - stay light, stay present |
-| **Planned scenic moments** | Dedicated camera + 20-70mm |
-| **Golden hour portraits** | Add 85mm prime |
-| **Museums & crowded spots** | Mobile phone (safer, always ready) |
-| **Wildlife/telephoto needs** | Swap to Tamron 28-200mm (safari, zoo, dedicated wildlife days) |
+| Situation                        | Recommended Approach                                           |
+| -------------------------------- | -------------------------------------------------------------- |
+| **Daily exploration with child** | Mobile phone only - stay light, stay present                   |
+| **Planned scenic moments**       | Dedicated camera + 20-70mm                                     |
+| **Golden hour portraits**        | Add 85mm prime                                                 |
+| **Museums & crowded spots**      | Mobile phone (safer, always ready)                             |
+| **Wildlife/telephoto needs**     | Swap to Tamron 28-200mm (safari, zoo, dedicated wildlife days) |
 
 ### The Bottom Line
 
@@ -77,6 +77,9 @@ Trust your instincts - your consistency isn't a limitation, it's your photograph
 - [**5. Composition Tips Based on Your Focal Length Preferences**](#5-composition-tips-based-on-your-focal-length-preferences)
 - [**6. Low-Light Travel Photography with Kids**](#6-low-light-travel-photography-with-kids)
 - [**7. Packing Strategy Based on Your Shooting Patterns**](#7-packing-strategy-based-on-your-shooting-patterns)
+  - [**Daily Carry (90% of days):**](#daily-carry-90-of-days)
+  - [**Special Occasion Additions (10% of days):**](#special-occasion-additions-10-of-days)
+  - [**Wildlife/Safari Days (swap entire kit):**](#wildlifesafari-days-swap-entire-kit)
 - [**8. Capturing Authentic Travel Moments with a 4-Year-Old**](#8-capturing-authentic-travel-moments-with-a-4-year-old)
 - [**9. Specific Scenarios from Your Travel History**](#9-specific-scenarios-from-your-travel-history)
 - [**10. Practical Travel Photography Habits** *(learned from your data patterns)*](#10-practical-travel-photography-habits-learned-from-your-data-patterns)
@@ -322,43 +325,40 @@ Your SAL1650 experience (24-75mm f/2.8) shows you have experience with fast aper
 
 ## **7. Packing Strategy Based on Your Shooting Patterns**
 
-**Daily Carry (90% of days):**
-```
-Essential Kit:
+### **Daily Carry (90% of days):**
 
-Item                                          Notes
-─────────────────────────────────────────────────────────────
-✅ Camera body + SEL2070G (20-70mm)            Stays on camera
-✅ Mobile phone                                Pocket/easy access
-✅ One extra battery                           —
-✅ Small lens cloth                            —
-─────────────────────────────────────────────────────────────
-Total weight: ~1kg camera gear
-```
+**Essential Kit**
 
-**Special Occasion Additions (10% of days):**
-```
-Enhanced Kit:
+| Item                               | Notes              |
+| ---------------------------------- | ------------------ |
+| ✅ Camera body + SEL2070G (20-70mm) | Stays on camera    |
+| ✅ Mobile phone                     | Pocket/easy access |
+| ✅ One extra battery                | —                  |
+| ✅ Small lens cloth                 | —                  |
 
-Item                                          Notes
-─────────────────────────────────────────────────────────────
-✅ Add 85mm f/1.8 prime                        Portraits, golden hour
-─────────────────────────────────────────────────────────────
-Total weight: ~1.3kg camera gear
-```
+**Total weight:** ~1kg camera gear
 
-**Wildlife/Safari Days (swap entire kit):**
-```
-Telephoto Kit:
+### **Special Occasion Additions (10% of days):**
 
-Item                                          Notes
-─────────────────────────────────────────────────────────────
-✅ Camera body + Tamron 28-200mm               One lens covers everything
-✅ Mobile phone                                Pocket backup
-✅ Two extra batteries                         Long days, heavy stabilization use
-─────────────────────────────────────────────────────────────
-Total weight: ~1.2kg camera gear
-```
+**Enhanced Kit**
+
+| Item                   | Notes                  |
+| ---------------------- | ---------------------- |
+| ✅ Add 85mm f/1.8 prime | Portraits, golden hour |
+
+**Total weight:** ~1.3kg camera gear
+
+### **Wildlife/Safari Days (swap entire kit):**
+
+**Telephoto Kit**
+
+| Item                            | Notes                              |
+| ------------------------------- | ---------------------------------- |
+| ✅ Camera body + Tamron 28-200mm | One lens covers everything         |
+| ✅ Mobile phone                  | Pocket backup                      |
+| ✅ Two extra batteries           | Long days, heavy stabilization use |
+
+**Total weight:** ~1.2kg camera gear
 
 **Why Tamron 28-200mm for wildlife days:**
 - 200mm reach essential for animals at distance
