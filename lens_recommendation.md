@@ -13,13 +13,31 @@
 
 ### 🎯 Top Gear Recommendations
 
-**Lens: Sony SEL2070G (FE 20-70mm f/4 G)** - ~$1,100
+**Two Equally Excellent Lens Options (Choose Based on Your Priorities):**
+
+---
+
+**🥇 Option A: Sony SEL2070G (FE 20-70mm f/4 G)** - ~$1,100 | **Best Quality in Primary Zone**
 
 **Why this lens:**
 - **Covers your sweet spot:** 20-35mm is where you shoot most (65-80% of all travel photos)
 - **Wider than ever before:** 20mm breaks your historical 24mm constraint
-- **90-95% coverage:** Handles nearly all your documented shooting patterns with ONE lens
+- **G-series optical excellence:** Superior sharpness in your 85-90% usage zone (20-70mm)
 - **Perfect ecosystem fit:** Mobile (13mm ultra-wide) → SEL2070G (20-70mm) → 85mm prime (portraits) → HX90 (telephoto backup)
+
+**Choose this if:** Optical quality in 20-70mm is paramount; you're okay keeping HX90 as telephoto backup
+
+---
+
+**🥇 Option B: Sigma 20-200mm f/3.5-6.3 DG DN Contemporary** - ~$900-1,100 | **Best Kit Simplification**
+
+**Why this lens:**
+- **Same 20mm wide end:** Breaks your 24mm constraint (matches SEL2070G)
+- **Full-frame 70-200mm quality:** Massive upgrade over HX90's 1-inch sensor at telephoto
+- **Retire the HX90:** Simplify to 2 devices instead of 3
+- **Skip future 70-200mm investment:** Complete coverage now, no additional lens needed later
+
+**Choose this if:** You want to retire HX90; kit simplification matters; HX90 telephoto quality frustrates you
 
 **Camera Body: Sony A7C II or A7 IV** - ~$2,200-2,500
 
@@ -48,31 +66,43 @@
 - **Samsung S25 usage:** 64% at 23mm, 15% at 69mm (3x tele), 8% at 13mm (ultra-wide)
 
 **What You Don't Need:**
-- ❌ **70-200mm telephoto zoom** - 85mm prime covers portraits, HX90 covers distant subjects
+- ❌ **Dedicated 70-200mm telephoto zoom** - 85mm prime covers portraits; consider Sigma 20-200mm or Tamron 25-200mm superzoom to replace HX90 with full-frame quality
 - ❌ **Ultra-wide zoom (10-18mm)** - Mobile phone 13mm handles this superbly
 - ❌ **24-105mm** - Dead zone at 50-70mm, doesn't go wide enough (24mm still limiting)
 
+**NEW Alternative:** Consider **Sigma 20-200mm f/3.5-6.3 DG DN** or **Tamron 25-200mm f/2.8-5.6 Di III VXD G2** superzooms to retire HX90 while gaining full-frame quality in the 70-200mm range (see [Option 5](#option-5-wide-range-superzooms-20-200mm---hx90-replacement-strategy) for detailed comparison).
+
 ### 🎒 Your Complete Kit Strategy
 
-**Recommended Primary System (Two Equally Valid Options):**
+**Three Recommended Systems (Choose Based on Priorities):**
 
-**Option A: Compact Priority (A7C II)**
-1. **Sony A7C II body** (~$2,200-2,500, 514g) - Lightest full-frame
-2. **SEL2070G (20-70mm f/4)** (~$1,100, 488g) - Primary lens
+**Option A: SEL2070G + Keep HX90 (Maximum Quality in Primary Zone)**
+1. **Sony A7C II or A7 IV body** (~$2,200-2,500)
+2. **SEL2070G (20-70mm f/4 G)** (~$1,100, 488g) - Primary lens
 3. **85mm f/1.8 prime** (already own, 371g) - Portraits
-4. **Mobile + HX90** (already own) - Ultra-wide + telephoto
-- **Total:** ~$3,300-3,600 | **Weight:** 1,002g primary system
+4. **Mobile + HX90** (already own) - Ultra-wide + telephoto backup
+- **Total:** ~$3,300-3,600 | **Devices:** 3 (camera + HX90 + mobile)
+- **Best for:** Maximum optical quality in your 85-90% shooting zone
 
-**Option B: Ergonomics Priority (A7 IV)**
-1. **Sony A7 IV body** (~$2,300-2,500, 658g) - Traditional grip
-2. **SEL2070G (20-70mm f/4)** (~$1,100, 488g) - Primary lens
-3. **85mm f/1.8 prime** (already own, 371g) - Portraits
-4. **Mobile + HX90** (already own) - Ultra-wide + telephoto
-- **Total:** ~$3,400-3,600 | **Weight:** 1,146g primary system
+**Option B: Sigma 20-200mm + Retire HX90 (Simplified Kit)**
+1. **Sony A7C II or A7 IV body** (~$2,200-2,500)
+2. **Sigma 20-200mm f/3.5-6.3 DG DN** (~$1,000, ~570g) - Primary lens
+3. **85mm f/1.8 prime** (already own, 371g) - Low-light portraits
+4. **Mobile** (already own) - Ultra-wide + convenience
+- **Total:** ~$3,200-3,500 | **Devices:** 2 (retire HX90)
+- **Best for:** Kit simplification + full-frame telephoto quality + avoid future 70-200mm purchase
 
-**Coverage:** 95%+ of your documented photography needs
+**Option C: Tamron 25-200mm Alternative (Faster Aperture)**
+1. **Sony A7C II or A7 IV body** (~$2,200-2,500)
+2. **Tamron 25-200mm f/2.8-5.6 Di III VXD G2** (~$1,200, ~570g) - Primary lens
+3. **85mm f/1.8 prime** (already own, 371g) - Low-light portraits
+4. **Mobile** (already own) - Ultra-wide + convenience
+- **Total:** ~$3,400-3,700 | **Devices:** 2 (retire HX90)
+- **Best for:** Faster aperture priority (but 25mm wide end repeats your 24mm constraint)
 
-**Key difference:** 144g weight vs better handling comfort - try both in store
+**Coverage:** All options provide 95%+ of your documented photography needs
+
+**Key Decision:** Quality in 20-70mm (Option A) vs. Full-frame telephoto + simplicity (Option B/C)
 
 ### 📸 What This Document Includes
 
@@ -85,7 +115,11 @@
 - **Travel photography tips** - 13 practical sections for casual photography with family
 - **Your photographic voice validated** - Why your wide-angle consistency is a strength, not a limitation
 
-**Bottom line:** You're a wide-angle environmental storyteller. Either A7C II or A7 IV paired with SEL2070G (20-70mm f/4 G) is purpose-built for your documented style. Choose A7C II for maximum portability (514g) or A7 IV for better ergonomics (658g) - both deliver identical image quality and features. Try both in person to decide which grip feels right.
+**Bottom line:** You're a wide-angle environmental storyteller. Either A7C II or A7 IV works perfectly for your style. For lens choice:
+- **SEL2070G (20-70mm f/4 G):** Best optical quality in your 85-90% shooting zone + keep existing ecosystem
+- **Sigma 20-200mm f/3.5-6.3:** Kit simplification + retire HX90 + full-frame telephoto quality + avoid future 70-200mm investment
+
+Both are excellent choices - the decision depends on whether you prioritize optical excellence at 20-70mm or kit simplification with better telephoto quality.
 
 ---
 
@@ -116,19 +150,37 @@
   - ["Selected" Subfolder Analysis: What You Actually Keep](#selected-subfolder-analysis-what-you-actually-keep)
   - [Companion/Collaborative Photography Patterns](#companioncollaborative-photography-patterns)
 - [🎯 LENS RECOMMENDATIONS](#-lens-recommendations)
-  - [⭐ **TOP RECOMMENDATION: Sony SEL2070G (FE 20-70mm f/4 G)**](#-top-recommendation-sony-sel2070g-fe-20-70mm-f4-g)
+  - [⭐ **TOP RECOMMENDATIONS: Two Co-Equal Options**](#-top-recommendations-two-co-equal-options)
+  - [⭐ **Option 1A: Sony SEL2070G (FE 20-70mm f/4 G)** - Best Quality in Primary Zone](#-option-1a-sony-sel2070g-fe-20-70mm-f4-g---best-quality-in-primary-zone)
     - [Perfect Focal Length Range](#perfect-focal-length-range)
     - [Ideal Ecosystem Integration](#ideal-ecosystem-integration)
     - [Technical Advantages](#technical-advantages)
     - [Data-Based Validation](#data-based-validation)
     - [Why SEL2070G Over Alternatives:](#why-sel2070g-over-alternatives)
   - [**Your Complete Kit with SEL2070G:**](#your-complete-kit-with-sel2070g)
-- [Alternative Options (If SEL2070G Unavailable)](#alternative-options-if-sel2070g-unavailable)
+- [Alternative Options (Below Top Recommendations)](#alternative-options-below-top-recommendations)
   - [Option 1: **24-70mm f/2.8 or f/4** (Most Versatile)](#option-1-24-70mm-f28-or-f4-most-versatile)
   - [Option 2: **16-35mm f/4** (Ultra-Wide Specialist)](#option-2-16-35mm-f4-ultra-wide-specialist)
   - [Option 3: **18-50mm f/2.8** (Compact Travel Option)](#option-3-18-50mm-f28-compact-travel-option)
   - [Option 4: **Mobile + 85mm Prime + HX90** (Three-Device System)](#option-4-mobile--85mm-prime--hx90-three-device-system)
-- [� Camera Body Recommendations](#-camera-body-recommendations)
+  - [Option 5: **Wide-Range Superzooms (20-200mm)** - HX90 Replacement Strategy](#option-5-wide-range-superzooms-20-200mm---hx90-replacement-strategy)
+    - [🆚 Lens Comparison: Sigma vs Tamron Wide-Range Superzooms](#-lens-comparison-sigma-vs-tamron-wide-range-superzooms)
+    - [Why Consider These Over SEL2070G + HX90:](#why-consider-these-over-sel2070g--hx90)
+    - [📊 Data-Based Analysis: Do You Need 200mm?](#-data-based-analysis-do-you-need-200mm)
+    - [Sigma 20-200mm f/3.5-6.3 DG DN Contemporary](#sigma-20-200mm-f35-63-dg-dn-contemporary)
+    - [Tamron 25-200mm f/2.8-5.6 Di III VXD G2](#tamron-25-200mm-f28-56-di-iii-vxd-g2)
+    - [🎯 Recommendation: Sigma vs Tamron for Your Use Case](#-recommendation-sigma-vs-tamron-for-your-use-case)
+    - [📊 Complete Kit Comparison: SEL2070G vs Superzoom Strategy](#-complete-kit-comparison-sel2070g-vs-superzoom-strategy)
+    - [Final Verdict on Superzoom Strategy](#final-verdict-on-superzoom-strategy)
+  - [🎒 Practicality Reality Check: Two Zooms (20-70mm + 70-200mm) on Non-Photography Trips](#-practicality-reality-check-two-zooms-20-70mm--70-200mm-on-non-photography-trips)
+    - [The Two-Zoom Dream vs. Reality](#the-two-zoom-dream-vs-reality)
+    - [Why Two Zooms May Not Suit Your Travel Style](#why-two-zooms-may-not-suit-your-travel-style)
+    - [When Two Zooms WOULD Make Sense](#when-two-zooms-would-make-sense)
+    - [Why Superzooms Exist: Solving the Two-Zoom Problem](#why-superzooms-exist-solving-the-two-zoom-problem)
+    - [Your Data Supports Single-Lens Simplicity](#your-data-supports-single-lens-simplicity)
+    - [Practical Recommendation for Non-Photography Trips](#practical-recommendation-for-non-photography-trips)
+    - [The Decision Matrix](#the-decision-matrix)
+- [📸 Camera Body Recommendations](#-camera-body-recommendations)
   - [Your Shooting Profile Requirements](#your-shooting-profile-requirements)
   - [🥇 Top Recommendation: **Sony A7C II**](#-top-recommendation-sony-a7c-ii)
     - [Optimal for Your Use Case:](#optimal-for-your-use-case)
@@ -139,28 +191,32 @@
   - [❌ NOT Recommended: **Sony A7R Series** (A7R V, A7R IV)](#-not-recommended-sony-a7r-series-a7r-v-a7r-iv)
   - [📊 Camera Body Comparison Table](#-camera-body-comparison-table)
   - [🎯 Final Camera Body Recommendation](#-final-camera-body-recommendation)
-- [�📊 Data-Driven Insights](#-data-driven-insights)
+- [📊 Data-Driven Insights](#-data-driven-insights)
   - [What Your Data Shows You NEED:](#what-your-data-shows-you-need)
   - [What Your Data Shows You DON'T Need:](#what-your-data-shows-you-dont-need)
   - [Critical Observations:](#critical-observations)
 - [🏆 FINAL RECOMMENDATION](#-final-recommendation)
-  - [**🥇 Best Choice: Sony SEL2070G (FE 20-70mm f/4 G)**](#-best-choice-sony-sel2070g-fe-20-70mm-f4-g)
+  - [**🥇 Two Co-Equal Best Choices (Based on Your Priorities)**](#-two-co-equal-best-choices-based-on-your-priorities)
+  - [**🥇 Choice A: Sony SEL2070G (FE 20-70mm f/4 G)** - Best Quality in Primary Zone](#-choice-a-sony-sel2070g-fe-20-70mm-f4-g---best-quality-in-primary-zone)
     - [Why SEL2070G is Your Ideal Lens:](#why-sel2070g-is-your-ideal-lens)
     - [Investment Analysis:](#investment-analysis-1)
-  - [**Complete Recommendation: Your Final Kit**](#complete-recommendation-your-final-kit)
+  - [**🥇 Choice B: Sigma 20-200mm f/3.5-6.3 DG DN Contemporary** - Best Kit Simplification](#-choice-b-sigma-20-200mm-f35-63-dg-dn-contemporary---best-kit-simplification)
+    - [Why Sigma 20-200mm is Compelling:](#why-sigma-20-200mm-is-compelling)
+    - [⚠️ Important Caveats (from LensTip Review, Jan 2026):](#️-important-caveats-from-lenstip-review-jan-2026)
+    - [Trade-offs vs SEL2070G:](#trade-offs-vs-sel2070g)
+  - [**Complete Recommendation: Your Final Kit Options**](#complete-recommendation-your-final-kit-options)
 - [📌 Key Decision Factors](#-key-decision-factors)
   - [Choose **SEL2070G 20-70mm f/4 G** if:](#choose-sel2070g-20-70mm-f4-g-if)
+  - [Choose **Sigma 20-200mm f/3.5-6.3 DG DN** if:](#choose-sigma-20-200mm-f35-63-dg-dn-if)
   - [Choose **24-70mm f/2.8 GM** if:](#choose-24-70mm-f28-gm-if)
   - [Choose **16-35mm f/4** if:](#choose-16-35mm-f4-if)
 - [⚠️ Critical Insights About Your Photography](#️-critical-insights-about-your-photography)
 - [🎯 FINAL VERDICT](#-final-verdict)
-  - [**Buy the Sony SEL2070G (FE 20-70mm f/4 G)**](#buy-the-sony-sel2070g-fe-20-70mm-f4-g)
+  - [**Two Excellent Options - Choose Based on Your Priority**](#two-excellent-options---choose-based-on-your-priority)
+  - [**🥇 Option A: Buy the Sony SEL2070G (FE 20-70mm f/4 G)**](#-option-a-buy-the-sony-sel2070g-fe-20-70mm-f4-g)
+  - [**🥇 Option B: Buy the Sigma 20-200mm f/3.5-6.3 DG DN Contemporary**](#-option-b-buy-the-sigma-20-200mm-f35-63-dg-dn-contemporary)
   - [**🥈 Alternative: 16-35mm f/4 + Rely on 85mm Prime**](#-alternative-16-35mm-f4--rely-on-85mm-prime)
   - [**🥉 Budget Option: Stick with Mobile + 85mm + HX90**](#-budget-option-stick-with-mobile--85mm--hx90)
-- [⚠️ Key Decision Factors](#️-key-decision-factors)
-  - [Choose **24-70mm f/4** if:](#choose-24-70mm-f4-if)
-  - [Choose **16-35mm f/4** if:](#choose-16-35mm-f4-if-1)
-  - [Choose **Mobile + 85mm + HX90** if:](#choose-mobile--85mm--hx90-if)
 - [📌 Final Insights](#-final-insights)
 - [📸 Photography Tips Based on Your Usage Patterns](#-photography-tips-based-on-your-usage-patterns)
   - [🌍 Travel Photography with Kids: Practical Insights](#-travel-photography-with-kids-practical-insights)
@@ -783,9 +839,20 @@ Your 65-80% wide-angle usage isn't because:
 
 ## 🎯 LENS RECOMMENDATIONS
 
-### ⭐ **TOP RECOMMENDATION: Sony SEL2070G (FE 20-70mm f/4 G)**
+### ⭐ **TOP RECOMMENDATIONS: Two Co-Equal Options**
 
-**This lens is EXCEPTIONALLY well-suited for your needs. Here's why:**
+**Based on your 55,528 photos analyzed, you have two excellent lens choices:**
+
+| Rank    | Lens                           | Price   | Best For                                                |
+| ------- | ------------------------------ | ------- | ------------------------------------------------------- |
+| **#1A** | Sony SEL2070G (20-70mm f/4 G)  | ~$1,100 | Maximum quality in 20-70mm (your 85-90% zone)           |
+| **#1B** | Sigma 20-200mm f/3.5-6.3 DG DN | ~$1,000 | Kit simplification + retire HX90 + full-frame telephoto |
+
+---
+
+### ⭐ **Option 1A: Sony SEL2070G (FE 20-70mm f/4 G)** - Best Quality in Primary Zone
+
+**This lens is EXCEPTIONALLY well-suited for your needs if optical quality at 20-70mm is priority:**
 
 #### Perfect Focal Length Range
 
@@ -856,7 +923,7 @@ Based on your 40,000+ photo analysis:
 
 ---
 
-## Alternative Options (If SEL2070G Unavailable)
+## Alternative Options (Below Top Recommendations)
 
 ### Option 1: **24-70mm f/2.8 or f/4** (Most Versatile)
 
@@ -938,7 +1005,383 @@ Based on your 40,000+ photo analysis:
 
 ---
 
-## � Camera Body Recommendations
+### Option 5: **Wide-Range Superzooms (20-200mm)** - HX90 Replacement Strategy
+
+**Emerging alternatives that could eliminate the need for HX90 entirely:**
+
+#### 🆚 Lens Comparison: Sigma vs Tamron Wide-Range Superzooms
+
+| Feature                      | **Sigma 20-200mm f/3.5-6.3 DG DN Contemporary** | **Tamron 25-200mm f/2.8-5.6 Di III VXD G2** |
+| ---------------------------- | ----------------------------------------------- | ------------------------------------------- |
+| **Focal Range**              | 20-200mm (10x zoom)                             | 25-200mm (8x zoom)                          |
+| **Aperture**                 | f/3.5-6.3                                       | f/2.8-5.6                                   |
+| **Wide End Aperture**        | f/3.5 @ 20mm                                    | f/2.8 @ 25mm                                |
+| **Tele End Aperture**        | f/6.3 @ 200mm                                   | f/5.6 @ 200mm                               |
+| **35mm Equivalent Coverage** | 20-200mm                                        | 25-200mm                                    |
+| **Weight**                   | ~570g (estimated)                               | ~570g (estimated)                           |
+| **Mount**                    | Sony E / L-mount                                | Sony E-mount                                |
+| **Stabilization**            | Relies on IBIS                                  | VXD linear motor AF                         |
+| **Price**                    | ~$900-1,100 (estimated)                         | ~$1,000-1,300 (estimated)                   |
+
+#### Why Consider These Over SEL2070G + HX90:
+
+**1. Higher Quality in 70-200mm Range Than HX90**
+
+- **HX90 reality:** 1-inch sensor, small aperture at telephoto end
+- **These lenses:** Full-frame quality at 70-200mm on A7C II/A7 IV
+- **Image quality jump:** Dramatic improvement for telephoto shots
+- **Low-light advantage:** f/5.6-6.3 at 200mm >> HX90's effective aperture at equivalent focal length
+
+**2. Skip Investing in 70-200mm Later**
+
+- **Traditional approach:** SEL2070G (20-70mm) + eventually 70-200mm f/4 (~$1,500 + ~$1,400 = ~$2,900)
+- **Superzoom approach:** One lens covers 20-200mm or 25-200mm (~$900-1,300)
+- **Cost savings:** Potentially ~$1,600 saved if you never buy 70-200mm
+- **Simplicity:** One lens instead of two for travel
+
+**3. Retire the HX90**
+
+- **Current HX90 role:** 24-720mm backup for telephoto (2-5% of shots)
+- **Superzoom coverage:** 70-200mm range with full-frame quality
+- **What you lose:** 200-720mm extreme telephoto (very rare use per your data)
+- **What you gain:** One less device, better quality telephoto, simpler kit
+
+#### 📊 Data-Based Analysis: Do You Need 200mm?
+
+**Your telephoto usage patterns (from focal length analysis):**
+
+| Trip             | 70-200mm Range Usage | 200mm+ Usage    | Notes                           |
+| ---------------- | -------------------- | --------------- | ------------------------------- |
+| Japan 2018       | ~17% at 75mm         | <2% at 200mm+   | HX90: 10% of shots at telephoto |
+| Japan 2024       | ~16% at 69mm (phone) | <1% at 200mm+   | Mobile tele sufficient          |
+| Lofoten 2015     | ~23% at 75mm         | Minimal         | Landscape compression           |
+| Svalbard 2015    | ~22% at 75mm         | 7% at 100-200mm | Wildlife/Arctic exceptions      |
+| Samsung S25 2025 | ~15% at 69mm         | ~1% at 230mm+   | Digital zoom rarely used        |
+
+**Key insight:** Your telephoto usage concentrates heavily at 70-85mm for portraits and subject isolation.
+The 100-200mm range is used sparingly (5-10% of trips), and 200mm+ is extremely rare (<2%).
+
+#### Sigma 20-200mm f/3.5-6.3 DG DN Contemporary
+
+**Pros:**
+
+- ✅ **20mm wide end** - Matches your proven preference (same as SEL2070G)
+- ✅ **200mm telephoto** - Eliminates 70-200mm lens need, replaces HX90 role
+- ✅ **10x zoom range** - One lens covers nearly everything
+- ✅ **Full-frame quality** - Massive upgrade over HX90's 1-inch sensor at telephoto
+- ✅ **Compact for range** - Contemporary line prioritizes portability
+- ✅ **Better low-light** - f/3.5 at wide end vs HX90's smaller sensor
+- ✅ **Very good center sharpness** - Excellent resolution from 20-100mm (per LensTip testing)
+- ✅ **Silent, accurate autofocus** - Quick AF with low focus breathing
+- ✅ **1:2 macro mode** - Added versatility for close-up work
+
+**Cons:**
+
+- ⚠️ **Slower aperture at telephoto** - f/6.3 at 200mm (vs f/4 on premium zooms)
+- ⚠️ **No 200-720mm** - Loses HX90's extreme telephoto (rarely needed per data)
+- ⚠️ **f/3.5-6.3 variable aperture** - Less consistent than f/4 constant aperture
+
+**⚠️ Critical Optical Concerns (from LensTip technical review, Jan 2026):**
+
+- ❌ **Severe distortion at 20mm** - Up to -8.55% barrel distortion with pronounced "moustache" pattern on full frame. LensTip: *"I haven't seen such vicious moustache for a very long time."* While software correction brings this down to -0.61%, this correction **costs pixels and effective resolution**.
+- ❌ **Significant pincushion distortion at telephoto** - +3.21% to +3.48% at 100-200mm range
+- ❌ **Heavy vignetting on full frame** - Listed as major con; requires correction
+- ❌ **200mm is the weak point** - Sharpness drops notably at maximum focal length, especially at frame edges. Decent images only around f/8.
+- ❌ **Resolution penalty from distortion correction** - The massive geometric corrections "waste a significant number of pixels and limit effective image resolution"
+
+**📊 What This Means for Your Use Case:**
+
+| Concern                  | Impact on Your Photography                                         | Mitigation                                                                         |
+| ------------------------ | ------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
+| **20mm distortion**      | Architecture with straight lines will show bowing unless corrected | Auto-correction works but reduces effective resolution                             |
+| **Moustache distortion** | Horizon lines may appear wavy at edges at 20mm                     | Most visible in landscapes with clear horizons                                     |
+| **200mm softness**       | Telephoto portraits/details less sharp than premium 70-200mm       | Stop down to f/8 for best results; your 85mm prime handles portraits better anyway |
+| **Vignetting**           | Dark corners on full frame, especially at 20mm                     | Software correctable but adds post-processing                                      |
+
+**Balanced Assessment:**
+
+The Sigma 20-200mm delivers **excellent center sharpness** across most of its range (20-100mm) and represents a remarkable engineering achievement for a 10x superzoom. However, it relies heavily on software correction for distortion and vignetting—a common trade-off in modern superzooms. For **casual travel photography** where you're not pixel-peeping or printing large, these compromises are acceptable. For **architecture photography with critical straight lines** or **edge-to-edge sharpness demands**, the SEL2070G remains the better choice for your primary 20-70mm zone.
+
+**Data-based coverage:** 95%+ of your shooting needs, replaces both SEL2070G range AND HX90 role
+
+#### Tamron 25-200mm f/2.8-5.6 Di III VXD G2
+
+**Pros:**
+
+- ✅ **Faster aperture** - f/2.8 at 25mm, f/5.6 at 200mm (better than Sigma)
+- ✅ **Excellent build quality** - G2 generation improvements
+- ✅ **VXD linear motor AF** - Fast, accurate autofocus for moving children
+- ✅ **Tamron quality** - Known for excellent superzoom optical performance
+- ✅ **Full-frame 200mm quality** - Dramatically better than HX90 at telephoto
+
+**Cons:**
+
+- ⚠️ **25mm wide end** - 5mm narrower than your preferred 20mm (same as old 24mm constraint)
+- ⚠️ **Repeats 24-25mm limitation** - Doesn't break your historical wide-angle constraint
+- ⚠️ **Still variable aperture** - Though faster than Sigma
+- ⚠️ **No 200-720mm** - Loses extreme telephoto reach
+
+**Data-based coverage:** 90-95% coverage, but wide end doesn't improve on your 24mm history
+
+#### 🎯 Recommendation: Sigma vs Tamron for Your Use Case
+
+**Choose Sigma 20-200mm if:**
+- ✅ **You value the 20mm wide end** (matches SEL2070G, breaks your 24mm constraint)
+- ✅ You accept f/6.3 at telephoto end (IBIS + high ISO compensate)
+- ✅ You want maximum zoom range (10x vs 8x)
+- ✅ Price matters (~$100-200 cheaper expected)
+- **Best for your documented shooting style** - 20mm wide end aligns with your data
+
+**Choose Tamron 25-200mm if:**
+- ⚠️ You prioritize faster aperture throughout the range
+- ⚠️ You can accept 25mm wide end (same as your historical 24mm constraint)
+- ⚠️ You value Tamron's VXD AF motor speed
+- **Less ideal for you** - Wide end doesn't improve your constraint
+
+#### 📊 Complete Kit Comparison: SEL2070G vs Superzoom Strategy
+
+**Option A: SEL2070G + 85mm + HX90 (Current Recommendation)**
+
+```
+Lens/Device          Range           Weight    Cost       Role
+─────────────────────────────────────────────────────────────────
+SEL2070G             20-70mm f/4     488g      ~$1,100    Primary (90%)
+85mm f/1.8           85mm f/1.8     371g      (owned)    Portraits (5-10%)
+HX90                 24-720mm       245g      (owned)    Telephoto backup (2-5%)
+Mobile               13-69mm        N/A       (owned)    Ultra-wide + convenience
+─────────────────────────────────────────────────────────────────
+Total primary kit:                   859g      ~$1,100    Devices: 3
+Coverage: 95%+ | Requires: HX90 for 70-200mm quality alternative
+```
+
+**Option B: Sigma 20-200mm + 85mm (Simplified Kit)**
+
+```
+Lens/Device          Range           Weight    Cost       Role
+─────────────────────────────────────────────────────────────────
+Sigma 20-200mm       20-200mm f/3.5-6.3  ~570g  ~$1,000   Primary (95%)
+85mm f/1.8           85mm f/1.8     371g      (owned)    Low-light portraits
+Mobile               13-69mm        N/A       (owned)    Ultra-wide + convenience
+─────────────────────────────────────────────────────────────────
+Total primary kit:                   ~570g     ~$1,000    Devices: 2 (retire HX90)
+Coverage: 95%+ | Benefit: Full-frame quality at 70-200mm
+```
+
+**Key Trade-offs:**
+
+| Factor                 | SEL2070G Strategy       | Sigma 20-200mm Strategy             |
+| ---------------------- | ----------------------- | ----------------------------------- |
+| **Wide-angle quality** | Excellent (G-series)    | Good center, distortion at edges*   |
+| **20mm distortion**    | Minimal                 | **Severe (-8.55% barrel)**          |
+| **70-200mm quality**   | HX90 (1-inch sensor)    | **Full-frame (massive upgrade)**    |
+| **200mm sharpness**    | N/A (HX90 handles)      | Weakest point of lens               |
+| **Weight**             | 859g (3 devices)        | **~570g (2 devices + retire HX90)** |
+| **Simplicity**         | 3 devices to manage     | **2 devices, one lens for 95%**     |
+| **Low-light wide**     | f/4 constant            | f/3.5 (slightly better)             |
+| **Low-light tele**     | HX90 struggles          | f/6.3 + full-frame (better)         |
+| **Vignetting**         | Well-controlled         | Heavy on full frame*                |
+| **Extreme telephoto**  | HX90: 200-720mm         | **Lost** (but rarely needed)        |
+| **Future investment**  | May want 70-200mm later | **Complete - no 70-200mm needed**   |
+
+*Per LensTip technical review, Jan 2026. Software correction handles most issues automatically.
+
+#### Final Verdict on Superzoom Strategy
+
+**Consider Sigma 20-200mm IF:**
+
+1. ✅ **Higher 70-200mm quality matters** - HX90's small sensor limits telephoto quality
+2. ✅ **You want to retire HX90** - Simplify to one main lens
+3. ✅ **You rarely use 200mm+** - Your data shows <2% usage above 200mm
+4. ✅ **You value kit simplicity** - One superzoom vs SEL2070G + HX90 combo
+5. ✅ **You want to avoid future 70-200mm purchase** - Complete coverage now
+6. ✅ **You shoot primarily for memories, not pixel-peeping** - Casual travel/family photography
+7. ✅ **You accept software distortion correction** - Modern cameras handle this automatically
+
+**Stick with SEL2070G IF:**
+
+1. ✅ **Optical quality at 20-70mm is priority** - G-series beats superzoom at this range
+2. ✅ **You shoot architecture with critical straight lines** - Sigma's 20mm distortion may bother you
+3. ✅ **You want edge-to-edge sharpness without compromise** - Superzoom has inherent trade-offs
+4. ✅ **You want 200-720mm option** - Keep HX90 for rare extreme telephoto
+5. ✅ **f/4 constant aperture matters** - More predictable exposure
+6. ✅ **You may still buy 70-200mm later** - SEL2070G + 70-200 f/4 = premium two-lens kit
+
+**🔍 Updated Assessment After LensTip Review (Jan 2026):**
+
+The LensTip technical review revealed the Sigma 20-200mm has **more optical compromises than initially expected**, particularly:
+- Severe barrel distortion (-8.55%) and moustache pattern at 20mm
+- Heavy vignetting on full frame
+- 200mm being the weakest focal length for sharpness
+
+**However**, the review also confirmed:
+- Excellent center sharpness from 20-100mm
+- Good edge sharpness on APS-C crop
+- Fast, accurate autofocus
+- Very good image quality for a 10x superzoom
+
+**Practical Recommendation:**
+
+The Sigma 20-200mm remains compelling for your use case IF:
+- You shoot primarily for travel memories and family documentation
+- You accept that software correction handles distortion automatically
+- You value the massive simplicity gain over pixel-perfect results
+- Your 200mm usage is occasional (your 85mm prime handles portraits better anyway)
+
+**However, the SEL2070G recommendation is strengthened because:**
+- Your 65-80% wide-angle usage means the 20-70mm quality matters most
+- The G-series optics provide noticeably better results where you shoot most
+- The Sigma's distortion at 20mm may be visible in architecture/landscape shots
+- If you later want premium telephoto, adding a 70-200mm f/4 gives you best-in-class at both ranges
+
+**Bottom Line:** For **maximum image quality in your primary shooting zone (20-70mm)**, the SEL2070G + HX90 combination remains the safer choice. For **maximum convenience and acceptable-quality-everywhere**, the Sigma 20-200mm still delivers—but with more optical caveats than initially assumed.
+
+**Note:** Both Sigma 20-200mm and Tamron 25-200mm are newer lenses - verify availability and read early reviews before purchasing.
+
+---
+
+### 🎒 Practicality Reality Check: Two Zooms (20-70mm + 70-200mm) on Non-Photography Trips
+
+**A critical consideration often overlooked in gear discussions:**
+
+Your trips are **not photography-dedicated**—you're traveling with a 4-year-old, balancing family experiences with documentation. This fundamentally changes the calculus for a two-zoom kit.
+
+#### The Two-Zoom Dream vs. Reality
+
+**The Traditional Enthusiast Kit:**
+- 20-70mm f/4 G for wide-to-normal coverage
+- 70-200mm f/4 G for telephoto reach
+- Combined: ~970g lens weight, ~$2,500 investment
+
+**Sounds perfect on paper. But consider your actual travel rhythm:**
+
+#### Why Two Zooms May Not Suit Your Travel Style
+
+**1. Lens Changes Are Photography Interruptions**
+
+When your child spots something exciting, you have seconds to capture the moment—not time to:
+- Stop walking
+- Open your bag
+- Swap lenses carefully
+- Store the removed lens
+- Resume the moment (which may have passed)
+
+Your data shows **65-80% of shots at 20-35mm**—meaning the 70-200mm would sit in your bag most of the time, occasionally needed but requiring a disruptive workflow.
+
+**2. Weight Penalty Is Constant, Usage Is Sporadic**
+
+| Consideration                | SEL2070G Only | Two-Zoom Kit    | Superzoom       |
+| ---------------------------- | ------------- | --------------- | --------------- |
+| **Lens weight on body**      | 488g          | 488g OR 1,090g* | ~570g           |
+| **Bag weight (backup lens)** | None          | 488g OR 1,090g* | None            |
+| **Total lens weight**        | 488g          | 1,578g          | ~570g           |
+| **70-200mm usage**           | 0% (use HX90) | 10-20%*         | 100% (built-in) |
+| **Lens changes/day**         | 0             | 3-8 typical*    | 0               |
+
+*Estimated based on your telephoto usage patterns
+
+You carry the **weight penalty constantly** but only benefit from the second lens **occasionally**.
+
+**3. The "Just in Case" Trap**
+
+Two-zoom photographers often report:
+- Bringing both lenses "just in case"
+- Leaving the 70-200mm mounted on camera (heavier all day)
+- OR leaving it in bag and missing shots because switching takes too long
+- Returning home with 90% of shots on the wide zoom anyway
+
+Your data validates this concern: even on photography-focused trips (Japan 2018, SAGA 2014-2015), wide-angle dominated at 45-60% of shots.
+
+**4. Family Travel Context Matters**
+
+When you're:
+- Holding your child's hand crossing streets
+- Carrying their snack bag, water bottle, spare clothes
+- Responding to "Look at that!" moments
+- Navigating crowded tourist sites
+- Dealing with nap time, bathroom breaks, meal logistics
+
+**The last thing you need is lens-swap workflow complexity.**
+
+#### When Two Zooms WOULD Make Sense
+
+**1. Photography-Dedicated Trips (Solo or Adult-Only)**
+- Intentional landscape or wildlife photography
+- Planned portrait sessions
+- Time and mental space for gear optimization
+- *Not your typical travel pattern*
+
+**2. Safari or Wildlife Scenarios**
+- Predictable subjects at distance
+- Vehicle-based shooting (gear accessible)
+- Long periods of stationary observation
+- *Rare in your documented travel history*
+
+**3. Sports/Event Photography**
+- Dedicated shooting position
+- Extended coverage at single focal length
+- *Not your primary use case*
+
+#### Why Superzooms Exist: Solving the Two-Zoom Problem
+
+The Sigma 20-200mm and Tamron 25-200mm represent a deliberate compromise:
+
+| Factor                      | Two-Zoom Kit       | Superzoom Solution |
+| --------------------------- | ------------------ | ------------------ |
+| **Coverage**                | 20-200mm (same)    | 20-200mm (same)    |
+| **Lens changes**            | Multiple per day   | Zero               |
+| **Weight**                  | ~1,500g            | ~570g              |
+| **Missed moments**          | Swapping-induced   | Minimal            |
+| **Optical quality**         | Excellent per lens | Good overall       |
+| **Travel-with-child score** | ⚠️ Complex          | ✅ Practical        |
+
+**The superzoom trade-off**: Slightly lower optical quality across the range in exchange for dramatically simpler workflow and lighter kit.
+
+#### Your Data Supports Single-Lens Simplicity
+
+**Evidence from your shooting patterns:**
+
+1. **Mobile phone usage: 28% of all shots** → You value convenience
+2. **HX90 as "backup" rather than primary** → You don't enjoy device-juggling
+3. **65-80% at 20-35mm** → You'd rarely use the second lens
+4. **"Selected" photos favor wide-angle MORE** → Your best work doesn't need 70-200mm
+5. **Multi-camera trips still show wide-angle dominance** → Even with options, you gravitate to wide
+
+#### Practical Recommendation for Non-Photography Trips
+
+**For your typical family travel:**
+
+| Option                         | Recommendation             | Why                                           |
+| ------------------------------ | -------------------------- | --------------------------------------------- |
+| **Superzoom (Sigma 20-200mm)** | ✅ **Strongly recommended** | One lens, zero swaps, full coverage           |
+| **SEL2070G + HX90**            | ✅ Good choice              | Accept HX90 telephoto quality for simplicity  |
+| **SEL2070G + 70-200mm**        | ⚠️ **Consider carefully**   | Substantial complexity for occasional benefit |
+| **Three-lens kit**             | ❌ Avoid                    | Diminishing returns, maximum hassle           |
+
+**Key principle:** Match your gear complexity to your trip type.
+- Photography trip → Consider two zooms
+- Family/casual travel → Prioritize single-lens simplicity
+
+#### The Decision Matrix
+
+**Choose SEL2070G + 70-200mm IF:**
+- ❓ You're willing to change lenses multiple times daily
+- ❓ You value maximum telephoto quality over convenience
+- ❓ You have dedicated photography time during trips
+- ❓ Weight isn't a primary concern
+- ❓ You're comfortable with complex workflows
+
+**Choose Superzoom (Sigma 20-200mm) IF:**
+- ✅ Your trips are not photography-dedicated
+- ✅ You're traveling with a young child
+- ✅ You value moment-capture over maximum quality
+- ✅ Lens changes feel like interruptions
+- ✅ You want the simplest possible workflow
+
+**This analysis strongly suggests the superzoom strategy aligns better with your documented travel style and family context.**
+
+---
+
+## 📸 Camera Body Recommendations
 
 ### Your Shooting Profile Requirements
 
@@ -1012,15 +1455,15 @@ Based on 55,528 photos analyzed across 21 years, your camera body needs are clea
 
 #### Investment Analysis:
 
-| Feature | A7C II | Your Benefit |
-|---------|--------|--------------|
-| **Weight** | 514g | Lightest full-frame - easier travel with child |
-| **Sensor** | 33MP | Ample resolution, excellent high ISO |
-| **Autofocus** | AI-powered AF | Tracks moving children effortlessly |
-| **IBIS** | 7 stops | Handhold 20mm at 1/10s - f/4 less limiting |
-| **Screens** | Vari-angle LCD | Ground-level child shots without kneeling |
-| **Cards** | Dual slots | Travel safety net |
-| **Price** | ~$2,200 | Mid-range investment |
+| Feature       | A7C II         | Your Benefit                                   |
+| ------------- | -------------- | ---------------------------------------------- |
+| **Weight**    | 514g           | Lightest full-frame - easier travel with child |
+| **Sensor**    | 33MP           | Ample resolution, excellent high ISO           |
+| **Autofocus** | AI-powered AF  | Tracks moving children effortlessly            |
+| **IBIS**      | 7 stops        | Handhold 20mm at 1/10s - f/4 less limiting     |
+| **Screens**   | Vari-angle LCD | Ground-level child shots without kneeling      |
+| **Cards**     | Dual slots     | Travel safety net                              |
+| **Price**     | ~$2,200        | Mid-range investment                           |
 
 **Total Kit Investment:**
 - Sony A7C II body: ~$2,200-2,500
@@ -1093,14 +1536,14 @@ Based on 55,528 photos analyzed across 21 years, your camera body needs are clea
 
 **Build Quality Comparison:**
 
-| Aspect | A7C II | A7 IV | Verdict |
-|--------|--------|-------|---------|
-| **Weather sealing** | ✅ Full sealing | ✅ Full sealing | **Equal** - both weather-sealed |
-| **Magnesium alloy body** | ✅ Yes | ✅ Yes | **Equal** - same materials |
-| **Shutter durability** | 200,000 cycles | 200,000 cycles | **Equal** |
-| **Port covers** | Plastic | Metal | **A7 IV better** |
-| **Button feel** | Compact/tight | Larger/more tactile | **A7 IV better** |
-| **Overall robustness** | Very good | Excellent | **A7 IV slightly better** |
+| Aspect                   | A7C II         | A7 IV               | Verdict                         |
+| ------------------------ | -------------- | ------------------- | ------------------------------- |
+| **Weather sealing**      | ✅ Full sealing | ✅ Full sealing      | **Equal** - both weather-sealed |
+| **Magnesium alloy body** | ✅ Yes          | ✅ Yes               | **Equal** - same materials      |
+| **Shutter durability**   | 200,000 cycles | 200,000 cycles      | **Equal**                       |
+| **Port covers**          | Plastic        | Metal               | **A7 IV better**                |
+| **Button feel**          | Compact/tight  | Larger/more tactile | **A7 IV better**                |
+| **Overall robustness**   | Very good      | Excellent           | **A7 IV slightly better**       |
 
 **Reality Check:**
 
@@ -1214,12 +1657,12 @@ Based on 55,528 photos analyzed across 21 years, your camera body needs are clea
 
 ### 📊 Camera Body Comparison Table
 
-| Model | Price | Weight | MP | IBIS | AF | Best For |
-|-------|-------|--------|----|----|-----|----------|
-| **A7C II** | ~$2,200-2,500 | 514g | 33MP | 7 stops | AI AF | ⭐ **Your ideal choice** - compact travel |
-| **A7 IV** | ~$2,400 | 658g | 33MP | 5.5 stops | AI AF | Traditional grip preference |
-| **A7 V** | ~$3,200 | 600g | 33MP | 8.5 stops | AI+ AF | Latest tech, future-proof |
-| **A7R V** | ~$3,900 | 723g | 61MP | 8 stops | AI+ AF | ❌ Professional use, overkill |
+| Model      | Price         | Weight | MP   | IBIS      | AF     | Best For                                 |
+| ---------- | ------------- | ------ | ---- | --------- | ------ | ---------------------------------------- |
+| **A7C II** | ~$2,200-2,500 | 514g   | 33MP | 7 stops   | AI AF  | ⭐ **Your ideal choice** - compact travel |
+| **A7 IV**  | ~$2,400       | 658g   | 33MP | 5.5 stops | AI AF  | Traditional grip preference              |
+| **A7 V**   | ~$3,200       | 600g   | 33MP | 8.5 stops | AI+ AF | Latest tech, future-proof                |
+| **A7R V**  | ~$3,900       | 723g   | 61MP | 8 stops   | AI+ AF | ❌ Professional use, overkill             |
 
 ---
 
@@ -1280,7 +1723,7 @@ Total primary system: 1,146g            ~$3,400-3,600
 
 ---
 
-## �📊 Data-Driven Insights
+## 📊 Data-Driven Insights
 
 ### What Your Data Shows You NEED:
 
@@ -1309,11 +1752,20 @@ Total primary system: 1,146g            ~$3,400-3,600
 
 ## 🏆 FINAL RECOMMENDATION
 
-Based on **40,000+ photos analyzed** across 21 years (2004-2025):
+Based on **55,528 photos analyzed** across 21 years (2004-2025):
 
-### **🥇 Best Choice: Sony SEL2070G (FE 20-70mm f/4 G)**
+### **🥇 Two Co-Equal Best Choices (Based on Your Priorities)**
 
-**This lens is PERFECT for you. Here's the conclusive case:**
+| Priority                             | Best Lens                      | Why                                           |
+| ------------------------------------ | ------------------------------ | --------------------------------------------- |
+| **Optical quality at 20-70mm**       | Sony SEL2070G (20-70mm f/4 G)  | G-series excellence in your 85-90% usage zone |
+| **Kit simplification + retire HX90** | Sigma 20-200mm f/3.5-6.3 DG DN | Full-frame telephoto + fewer devices          |
+
+---
+
+### **🥇 Choice A: Sony SEL2070G (FE 20-70mm f/4 G)** - Best Quality in Primary Zone
+
+**This lens is PERFECT if optical quality at 20-70mm is your priority:**
 
 #### Why SEL2070G is Your Ideal Lens:
 
@@ -1364,35 +1816,86 @@ Ultra-wide        Primary Workhorse         Portrait      Telephoto
 | 16-35mm f/4      | ~$1,300 | 518g   | 16-35mm f/4   | 70-80%        | ⚠️ Creates 35-85mm gap |
 | 20-70mm f/4 G    | ~$1,100 | 488g   | 20-70mm f/4   | **90-95%**    | ✅ Best value          |
 
-**Bottom Line:** SEL2070G offers the BEST combination of range, coverage, weight, and value for your specific shooting style.
+**Bottom Line:** SEL2070G offers the BEST optical quality in your 85-90% shooting zone (20-70mm).
 
 ---
 
-### **Complete Recommendation: Your Final Kit**
+### **🥇 Choice B: Sigma 20-200mm f/3.5-6.3 DG DN Contemporary** - Best Kit Simplification
 
-**Buy This:**
+**This lens is an option if you want to retire HX90 and simplify your kit—but with important caveats:**
 
-- **Sony SEL2070G (FE 20-70mm f/4 G)** - ~$1,100
+#### Why Sigma 20-200mm is Compelling:
 
-**Keep These:**
+**1. Same 20mm Wide End as SEL2070G:**
+- Breaks your historical 24mm constraint
+- Matches your proven wide-angle preference
 
-- ✅ **85mm f/1.8 prime** (portraits, shallow DOF)
-- ✅ **Sony HX90** (telephoto backup, ultra-zoom)
-- ✅ **Mobile phone** (ultra-wide convenience, 13mm)
+**2. Full-Frame Quality at 70-200mm:**
+- Massive upgrade over HX90's 1-inch sensor
+- Better low-light performance (f/6.3 + full-frame >> HX90)
+- Your 10-20% telephoto shots become dramatically better quality
 
-**Your Shooting Workflow:**
+**3. Kit Simplification:**
+- 2 devices instead of 3 (retire HX90)
+- One lens covers 95%+ of needs
+- Less gear to carry, manage, and worry about
 
-1. **Default:** SEL2070G on camera body (covers 90-95% of shots)
-2. **Portraits:** Swap to 85mm f/1.8 prime when needed
-3. **Ultra-wide:** Use mobile 13mm for dramatic wide shots
-4. **Telephoto:** Grab HX90 for distant subjects (rare use)
+**4. Skip Future 70-200mm Investment:**
+- No need to buy 70-200mm f/4 later (~$1,400 saved)
+- Complete focal length coverage now
 
-**Expected Results:**
+#### ⚠️ Important Caveats (from LensTip Review, Jan 2026):
+
+**Optical Compromises You Should Know:**
+- **20mm distortion:** Severe barrel distortion (-8.55%) with "moustache" pattern—correctable by software, but reduces effective resolution
+- **Heavy vignetting on full frame:** Requires correction, especially at wide end
+- **200mm is weakest point:** Edge sharpness drops notably; best results at f/8
+- **Architecture/landscape considerations:** Straight lines may show distortion artifacts if not corrected properly
+
+**Positive Findings:**
+- Very good center sharpness from 20-100mm
+- Silent, accurate autofocus
+- Good overall image quality for a 10x superzoom
+
+#### Trade-offs vs SEL2070G:
+
+| Factor                | SEL2070G               | Sigma 20-200mm              |
+| --------------------- | ---------------------- | --------------------------- |
+| **20-70mm quality**   | ⭐ Excellent (G-series) | Good center, edge concerns* |
+| **20mm distortion**   | ⭐ Minimal              | Severe (-8.55%)             |
+| **70-200mm quality**  | HX90 (1-inch sensor)   | ⭐ Full-frame                |
+| **200mm sharpness**   | N/A                    | Weak at edges               |
+| **Kit complexity**    | 3 devices              | ⭐ 2 devices                 |
+| **Future investment** | May want 70-200mm      | ⭐ Complete                  |
+| **Aperture**          | f/4 constant           | f/3.5-6.3 variable          |
+
+*Per LensTip review. Software correction handles distortion automatically.
+
+**Bottom Line:** Sigma 20-200mm offers excellent kit simplification and dramatically improves telephoto quality—but the SEL2070G provides noticeably better optical performance in your primary 20-70mm zone where you take 85-90% of shots.
+
+---
+
+### **Complete Recommendation: Your Final Kit Options**
+
+**Option A: SEL2070G (Maximum Quality at 20-70mm)**
+
+- **Buy:** Sony SEL2070G (FE 20-70mm f/4 G) - ~$1,100
+- **Keep:** 85mm f/1.8 prime + Sony HX90 + Mobile phone
+- **Workflow:** SEL2070G (90%) → 85mm (5-10%) → HX90 (2-5%) → Mobile (ultra-wide)
+
+**Option B: Sigma 20-200mm (Kit Simplification + Retire HX90)**
+
+- **Buy:** Sigma 20-200mm f/3.5-6.3 DG DN - ~$1,000
+- **Keep:** 85mm f/1.8 prime + Mobile phone
+- **Retire:** HX90 (no longer needed)
+- **Workflow:** Sigma 20-200mm (95%) → 85mm (low-light portraits) → Mobile (ultra-wide)
+
+**Both Options Provide:**
 
 - **95%+ coverage** of all photographic needs
+- **20mm wide end** - breaks your 24mm constraint
 - **Minimal lens changing** (one lens most of the time)
-- **Better than 24mm constraint** you've lived with for years
-- **Optimal weight/quality balance** for travel photography
+- **Optimal travel setup** for family photography
 
 ---
 
@@ -1400,12 +1903,24 @@ Ultra-wide        Primary Workhorse         Portrait      Telephoto
 
 ### Choose **SEL2070G 20-70mm f/4 G** if:
 
-- ✅ You want ONE lens for 90% of shooting
-- ✅ You've been constrained by 24mm and want wider
-- ✅ Travel convenience is priority (weight matters)
-- ✅ You have 85mm prime + HX90 already
+- ✅ **Optical quality at 20-70mm is paramount** - G-series excellence in your 85-90% zone
+- ✅ You've been constrained by 24mm and want wider (20mm)
+- ✅ You're okay keeping HX90 as telephoto backup (2-5% usage)
+- ✅ **f/4 constant aperture matters** - predictable exposure
 - ✅ Budget: ~$1,100 is acceptable
-- ✅ **This describes YOU perfectly**
+- ✅ **Best for:** Maximum quality in your primary shooting zone
+
+### Choose **Sigma 20-200mm f/3.5-6.3 DG DN** if:
+
+- ✅ **You want to retire HX90** - simplify to 2 devices
+- ✅ **Better telephoto quality matters** - full-frame 70-200mm >> HX90's 1-inch sensor
+- ✅ **You want to skip future 70-200mm investment** - complete coverage now
+- ✅ **Kit simplification is priority** - one lens covers 95%+
+- ✅ **You shoot primarily for memories** - not pixel-peeping or large prints
+- ✅ **You accept software distortion correction** - cameras handle this automatically
+- ⚠️ You accept the trade-offs: severe 20mm distortion, weaker 200mm edges, heavy vignetting
+- ✅ Budget: ~$900-1,100 (similar to SEL2070G)
+- ✅ **Best for:** Simpler kit with dramatically better telephoto—but **read the LensTip review** to understand optical compromises
 
 ### Choose **24-70mm f/2.8 GM** if:
 
@@ -1469,24 +1984,64 @@ Ultra-wide        Primary Workhorse         Portrait      Telephoto
 
 ## 🎯 FINAL VERDICT
 
-### **Buy the Sony SEL2070G (FE 20-70mm f/4 G)**
+### **Two Excellent Options - Choose Based on Your Priority**
 
-**This lens is SPECIFICALLY suited to your needs:**
+---
 
-- ✅ Perfect range (20-70mm) for your shooting style (90-95% coverage)
+### **🥇 Option A: Buy the Sony SEL2070G (FE 20-70mm f/4 G)**
+
+**Choose this if optical quality at 20-70mm is your top priority:**
+
+- ✅ **G-series optical excellence** in your 85-90% shooting zone
+- ✅ Perfect range (20-70mm) for your shooting style
 - ✅ Wider than your historical 24mm limit (finally unlocked)
-- ✅ Optimal integration with 85mm + HX90 + mobile (zero overlap)
-- ✅ Lightweight for travel (488g vs 886g for f/2.8)
-- ✅ Excellent value (~$1,100 for G-series quality)
-- ✅ One lens does it all (minimal lens changing)
+- ✅ **f/4 constant aperture** - predictable exposure
+- ✅ Lightweight for travel (488g)
+- ✅ Keep HX90 for rare extreme telephoto needs
 
-**Based on 55,528 photos analyzed (40,000+ dedicated camera + 15,528 mobile), this is THE lens for your camera.**
+---
 
-**Mobile phone data validates this choice:**
+### **🥇 Option B: Buy the Sigma 20-200mm f/3.5-6.3 DG DN Contemporary**
+
+**Choose this if kit simplification and better telephoto quality matter more—but understand the trade-offs:**
+
+- ✅ **Same 20mm wide end** - breaks your 24mm constraint
+- ✅ **Full-frame 70-200mm quality** - massive upgrade over HX90
+- ✅ **Retire HX90** - simplify to 2 devices
+- ✅ **Skip future 70-200mm purchase** - complete coverage now
+- ✅ **Lighter kit** (~570g vs 859g for SEL2070G + HX90)
+- ✅ **Very good center sharpness** from 20-100mm (per LensTip review)
+
+**⚠️ Important Trade-offs (per LensTip review, Jan 2026):**
+- ⚠️ **Severe 20mm distortion** (-8.55% barrel with "moustache" pattern) - software correctable but costs resolution
+- ⚠️ **Heavy vignetting** on full frame - requires correction
+- ⚠️ **200mm is weakest point** - edge sharpness drops notably
+- ⚠️ Lower optical quality at 20-70mm vs G-series
+
+**Best for:** Photographers who prioritize convenience over maximum image quality, shoot for memories rather than pixel-peeping, and accept that modern cameras handle distortion correction automatically.
+
+---
+
+**Based on 55,528 photos analyzed (40,000+ dedicated camera + 15,528 mobile), both lenses can serve your needs—but with different trade-offs.**
+
+**The deciding factors (updated with LensTip review findings):**
+
+| Your Priority                                  | Best Choice        |
+| ---------------------------------------------- | ------------------ |
+| Best quality at 20-70mm (your 85-90% zone)     | **SEL2070G**       |
+| Minimal distortion at 20mm (architecture)      | **SEL2070G**       |
+| f/4 constant aperture                          | **SEL2070G**       |
+| Retire HX90 + better telephoto quality         | **Sigma 20-200mm** |
+| Kit simplification (fewer devices)             | **Sigma 20-200mm** |
+| Avoid future 70-200mm investment               | **Sigma 20-200mm** |
+| Accept software distortion correction          | **Sigma 20-200mm** |
+| Shoot primarily for memories, not large prints | **Sigma 20-200mm** |
+
+**Mobile phone data validates both choices:**
 
 - Your Samsung S25: 64% at 23mm, 8% at 13mm, 15% at 69mm
-- Pattern shows: Mobile for convenience/ultra-wide, dedicated camera for quality in 20-70mm range
-- SEL2070G gives you mobile-quality WIDE coverage (20mm) without mobile limitations
+- Pattern shows: Mobile for convenience/ultra-wide, dedicated camera for quality
+- Both SEL2070G and Sigma 20-200mm start at 20mm - breaking your 24mm constraint
 
 ---
 
@@ -1521,45 +2076,20 @@ Ultra-wide        Primary Workhorse         Portrait      Telephoto
 
 ---
 
-## ⚠️ Key Decision Factors
-
-### Choose **24-70mm f/4** if:
-
-- You want ONE lens for 90% of shooting
-- Travel convenience is priority
-- Quality matters for wide-angle landscapes
-- Budget allows ($600-1200)
-
-### Choose **16-35mm f/4** if:
-
-- Ultra-wide landscapes are your passion
-- Don't mind carrying 2+ lenses
-- Want better than mobile phone wide-angle quality
-- 85mm prime sufficient for portrait/normal range
-
-### Choose **Mobile + 85mm + HX90** if:
-
-- Ultra-minimalist approach
-- Mobile quality acceptable for landscapes
-- Budget-conscious
-- Already have 85mm and HX90
-
----
-
 ## 📌 Final Insights
 
 1. **Your shooting evolved**: Normal (35mm) → Wide (24mm) → Ultra-wide (13-23mm)
-2. **24mm was historically your widest** - you likely want 20mm or 16mm if budget allows
-3. **85mm prime eliminates 70-200mm need** - portraits fully covered
+2. **24mm was historically your widest** - both SEL2070G and Sigma 20-200mm give you 20mm
+3. **85mm prime eliminates dedicated portrait lens need** - portraits fully covered
 4. **Mobile phone is a capable ultra-wide** - 13mm handles dramatic wide shots
-5. **HX90 eliminates telephoto anxiety** - 24-720mm backup means no missed shots
-6. **50-70mm is your "dead zone"** - minimal documented usage
+5. **HX90 can be retired** with Sigma 20-200mm (or kept with SEL2070G)
+6. **50-70mm is your "dead zone"** - minimal documented usage (but nice to have)
 
-**Bottom Line:**
+**Two Equally Valid Bottom Lines:**
 
-- **Best bang-for-buck:** 24-70mm f/4 (single lens does 90%+ of the work)
-- **Best quality:** 16-35mm f/4 + 85mm f/1.8 (two-lens kit, wider coverage)
-- **Best budget:** Mobile + 85mm + HX90 (use what you have)
+- **Best optical quality at 20-70mm:** SEL2070G (G-series excellence in your 85-90% zone)
+- **Best kit simplification:** Sigma 20-200mm (retire HX90 + full-frame telephoto)
+- **Both break your 24mm constraint** with 20mm wide end
 
 ---
 
@@ -1954,7 +2484,7 @@ Your evolution from film (constrained) → zoom lens (versatile) → mobile + de
 
 #### **12. Final Practical Tips from Your Data**
 
-Naturally over 21 years (let it continue evolving)
+Your photography style developed naturally over 21 years - let it continue evolving organically.
 
 - ✅ **You're efficient:** Limited extreme telephoto use (you know what you need)
 
@@ -2136,6 +2666,8 @@ With a young child, this style is PERFECT - it captures the experience, not just
 - All focal lengths in 35mm equivalent
 - Data spans 21 years (2004-2025) for dedicated cameras, 20 years (2006-2026) for mobile phones
 - Budapest trip (87% at 75mm) was portrait-focused using SAL1650 lens - not representative of typical travel patterns
-- **Sony SEL2070G specifically recommended as optimal match for documented shooting style**
+- **Sony SEL2070G and Sigma 20-200mm f/3.5-6.3 DG DN both recommended as co-equal optimal matches for documented shooting style**
+- **SEL2070G:** Best optical quality at 20-70mm (your 85-90% zone) + keep HX90
+- **Sigma 20-200mm:** Best kit simplification + full-frame telephoto quality + retire HX90
 - Mobile phone usage: 15,528 photos showing 75% at 23-29mm primary wide angle, validating your consistent wide-angle preference across ALL photography platforms
 - Samsung S25 current usage: 3,296 photos in <1 year showing mobile as primary daily camera (64% at 23mm, 15% at 69mm, 8% at 13mm)
