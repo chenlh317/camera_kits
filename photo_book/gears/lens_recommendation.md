@@ -231,7 +231,7 @@ Option 3 is an alternative for landscape-focused photographers who accept a 35-8
   - [⭐ **Option 1B: Sigma 20-200mm f/3.5-6.3 DG DN** - Best Kit Simplification](#-option-1b-sigma-20-200mm-f35-63-dg-dn---best-kit-simplification)
     - [Why Sigma 20-200mm is Compelling](why-sigma-20-200mm-is-compelling)
     - [⚠️ Important Caveats (from LensTip Review)](#important-caveats-from-lenstip-review)
-    - [**Your Complete Kit with Sigma 20-200mm**](#your-complete-kit-with-sigma-20-200mm)
+    - [**Your Complete Kit with Sigma 20-200mm**](your-complete-kit-with-sigma-20-200mm)
   - [⭐ **Option 1C: Two-Lens Flexibility Strategy (SEL2070G Now + Superzoom Later)**](#-option-1c-two-lens-flexibility-strategy-sel2070g-now--superzoom-later)
     - [The Core Insight](the-core-insight)
     - [The Strategy](the-strategy)
@@ -963,6 +963,7 @@ Mobile 13mm → SEL2070G 20–70mm → 85mm prime → HX90 24–720mm. Minimal o
 one lens covers ~90% of shots; travel-friendly f/4.
 See [Your Complete Kit Strategy](#-your-complete-kit-strategy) for details.
 
+(technical-advantages)=
 #### Technical Advantages
 
 - ✅ **20mm gives you MORE width** than you've ever had (vs 24mm limit)
@@ -1080,6 +1081,7 @@ but with important trade-offs:**
 | **Future investment** | May want 70-200mm        | ⭐ Complete                 |
 | **Aperture**          | f/4 constant             | f/3.5-6.3 variable         |
 
+(your-complete-kit-with-sigma-20-200mm)=
 #### **Your Complete Kit with Sigma 20-200mm**
 
 **Main Setup (95%+ coverage):**
