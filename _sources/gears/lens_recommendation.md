@@ -1210,7 +1210,7 @@ if you might not need it for years?**
 
 | Factor                    | Option 1A (SEL2070G only) | Option 1B (Sigma now) | **Option 1C (Staged)**       |
 | ------------------------- | ------------------------- | --------------------- | ---------------------------- |
-| **Immediate cost**        | ~\$1,100                   | ~\$900-1,100           | **~\$1,100**                  |
+| **Immediate cost**        | ~\$1,100                  | ~\$900-1,100          | **~\$1,100**                 |
 | **20-70mm quality**       | ⭐ Excellent               | Good (compromised)    | **⭐ Excellent**              |
 | **Telephoto quality**     | HX90 (1/2.3-inch)         | Full-frame            | **Full-frame (when bought)** |
 | **Kit simplicity**        | 3 devices                 | ⭐ 2 devices           | 3 devices (for now)          |
@@ -1358,7 +1358,7 @@ for those considering Option 1B (Sigma 20-200mm).**
 | **Weight**                   | ~570g (estimated)                               | ~570g (estimated)                           |
 | **Mount**                    | Sony E / L-mount                                | Sony E-mount                                |
 | **Stabilization**            | Relies on IBIS                                  | VXD linear motor AF                         |
-| **Price**                    | ~\$900-1,100 (estimated)                         | ~\$1,000-1,300 (estimated)                   |
+| **Price**                    | ~\$900-1,100 (estimated)                        | ~\$1,000-1,300 (estimated)                  |
 
 ### Why Consider Superzooms Over SEL2070G + HX90
 
@@ -1548,20 +1548,20 @@ the SEL2070G remains the better choice for your primary 20-70mm zone.
 
 **Key Trade-offs (Three-Way Comparison):**
 
-| Factor                 | Option 1A (SEL2070G)           | Option 1B (Sigma 20-200mm)        | Option 1C (Two-Lens)              |
-| ---------------------- | ------------------------------ | --------------------------------- | --------------------------------- |
-| **Wide-angle quality** | ⭐ Excellent (G-series)         | Good center, distortion at edges* | ⭐ Excellent (G-series)            |
-| **20mm distortion**    | ⭐ Minimal                      | **Severe (-8.55% barrel)**        | ⭐ Minimal (SEL2070G)              |
-| **70–200mm quality**   | HX90 (1/2.3-inch sensor)       | **Full-frame (massive upgrade)**  | ⭐ Tamron f/2.8–5.6 (when needed)  |
-| **200mm sharpness**    | N/A (HX90 handles)             | Weakest point of lens             | ⭐ Better (Tamron lens design)     |
-| **Weight per trip**    | 859g (3 devices)               | **~941g (2 devices)**             | 859g city / ~570g safari          |
-| **Simplicity NOW**     | 3 devices to manage            | **2 devices, one lens for 95%**   | 3 devices (HX90 bridges gap)      |
-| **Low-light wide**     | f/4 constant                   | f/3.5 (slightly better)           | f/4 constant                      |
-| **Low-light tele**     | HX90 struggles                 | f/6.3 + full-frame (better)       | ⭐ f/5.6 + full-frame (best)       |
-| **Vignetting**         | ⭐ Well-controlled              | Heavy on full frame*              | ⭐ Well-controlled (both lenses)   |
-| **Cost NOW**           | ~\$1,650-1,700                  | ~\$1,450-1,700                     | ~\$1,650-1,700                     |
-| **Cost EVENTUAL**      | ~\$1,650-1,700 (may add 70-200) | ~\$1,450-1,700 (complete)          | ~\$2,650-3,000 (if safari planned) |
-| **Trip flexibility**   | One kit always                 | One kit always                    | ⭐ Right lens for each trip        |
+| Factor                 | Option 1A (SEL2070G)            | Option 1B (Sigma 20-200mm)        | Option 1C (Two-Lens)               |
+| ---------------------- | ------------------------------- | --------------------------------- | ---------------------------------- |
+| **Wide-angle quality** | ⭐ Excellent (G-series)          | Good center, distortion at edges* | ⭐ Excellent (G-series)             |
+| **20mm distortion**    | ⭐ Minimal                       | **Severe (-8.55% barrel)**        | ⭐ Minimal (SEL2070G)               |
+| **70–200mm quality**   | HX90 (1/2.3-inch sensor)        | **Full-frame (massive upgrade)**  | ⭐ Tamron f/2.8–5.6 (when needed)   |
+| **200mm sharpness**    | N/A (HX90 handles)              | Weakest point of lens             | ⭐ Better (Tamron lens design)      |
+| **Weight per trip**    | 859g (3 devices)                | **~941g (2 devices)**             | 859g city / ~570g safari           |
+| **Simplicity NOW**     | 3 devices to manage             | **2 devices, one lens for 95%**   | 3 devices (HX90 bridges gap)       |
+| **Low-light wide**     | f/4 constant                    | f/3.5 (slightly better)           | f/4 constant                       |
+| **Low-light tele**     | HX90 struggles                  | f/6.3 + full-frame (better)       | ⭐ f/5.6 + full-frame (best)        |
+| **Vignetting**         | ⭐ Well-controlled               | Heavy on full frame*              | ⭐ Well-controlled (both lenses)    |
+| **Cost NOW**           | ~\$1,650-1,700                  | ~\$1,450-1,700                    | ~\$1,650-1,700                     |
+| **Cost EVENTUAL**      | ~\$1,650-1,700 (may add 70-200) | ~\$1,450-1,700 (complete)         | ~\$2,650-3,000 (if safari planned) |
+| **Trip flexibility**   | One kit always                  | One kit always                    | ⭐ Right lens for each trip         |
 
 *Per LensTip technical review, Jan 2026. Software correction handles most issues automatically.
 
@@ -2295,11 +2295,11 @@ here's the bottom line:
 | Best quality at 20-70mm (your 85-90% zone) | **SEL2070G (1A or 1C)**    | [Option 1A](#-option-1a-sony-sel2070g-fe-20-70mm-f4-g---best-quality-in-primary-zone) |
 | Minimal distortion at 20mm (architecture)  | **SEL2070G (1A or 1C)**    | [Option 1A](#-option-1a-sony-sel2070g-fe-20-70mm-f4-g---best-quality-in-primary-zone) |
 | f/4 constant aperture                      | **SEL2070G (1A or 1C)**    | [Option 1A](#-option-1a-sony-sel2070g-fe-20-70mm-f4-g---best-quality-in-primary-zone) |
-| Retire HX90 immediately                    | **Sigma 20-200mm (1B)**    | [Option 1B](option-1b-sigma-20-200mm-f35-63-dg-dn---best-kit-simplification)        |
-| Kit simplification (fewer devices NOW)     | **Sigma 20-200mm (1B)**    | [Option 1B](option-1b-sigma-20-200mm-f35-63-dg-dn---best-kit-simplification)        |
-| Staged investment / defer costs            | **Two-Lens Strategy (1C)** | [Option 1C](option-1c-two-lens-flexibility-strategy-sel2070g-now--superzoom-later)  |
-| Right tool for each trip type              | **Two-Lens Strategy (1C)** | [Option 1C](option-1c-two-lens-flexibility-strategy-sel2070g-now--superzoom-later)  |
-| Avoid all superzoom compromises            | **Two-Lens Strategy (1C)** | [Option 1C](option-1c-two-lens-flexibility-strategy-sel2070g-now--superzoom-later)  |
+| Retire HX90 immediately                    | **Sigma 20-200mm (1B)**    | [Option 1B](option-1b-sigma-20-200mm-f35-63-dg-dn---best-kit-simplification)          |
+| Kit simplification (fewer devices NOW)     | **Sigma 20-200mm (1B)**    | [Option 1B](option-1b-sigma-20-200mm-f35-63-dg-dn---best-kit-simplification)          |
+| Staged investment / defer costs            | **Two-Lens Strategy (1C)** | [Option 1C](option-1c-two-lens-flexibility-strategy-sel2070g-now--superzoom-later)    |
+| Right tool for each trip type              | **Two-Lens Strategy (1C)** | [Option 1C](option-1c-two-lens-flexibility-strategy-sel2070g-now--superzoom-later)    |
+| Avoid all superzoom compromises            | **Two-Lens Strategy (1C)** | [Option 1C](option-1c-two-lens-flexibility-strategy-sel2070g-now--superzoom-later)    |
 | Ultra-wide specialization (landscapes)     | **16-35mm f/4 (Option 3)** | [Option 3](#option-3-16-35mm-f4-ultra-wide-specialist)                                |
 
 ### **Alternative Strategies**
