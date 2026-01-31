@@ -1,0 +1,15 @@
+ANALYZING FOLDER: F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120625 送别李恩
+======================================================================
+
+Found 1 folder(s) with JPG files
+======================================================================
+
+######################################################################
+# FOLDER 1/1: (root)
+######################################################################
+
+No photos with 35mm equivalent focal length data found in this folder.
+Files without 35mm equivalent data: 304
+
+
+Report saved to: D:\camera_kits\focal_length_analysis\20120625 送别李恩_2026-01-16_21.49.31.txt

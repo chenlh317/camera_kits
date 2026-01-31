@@ -1,0 +1,15 @@
+ANALYZING FOLDER: F:\PRIVAT W BACKUP\Photos\02 Nokia 3110c - 200805-200811
+======================================================================
+
+Found 1 folder(s) with JPG files
+======================================================================
+
+######################################################################
+# FOLDER 1/1: (root)
+######################################################################
+
+No photos with 35mm equivalent focal length data found in this folder.
+Files without EXIF/focal length data: 46
+
+
+Report saved to: D:\camera_kits\focal_length_analysis\02 Nokia 3110c - 200805-200811_2026-01-16_23.48.14.txt

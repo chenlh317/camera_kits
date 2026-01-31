@@ -1,0 +1,22 @@
+ANALYZING FOLDER: F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130607-13 OSL STO Halden
+======================================================================
+
+Found 2 folder(s) with JPG files
+======================================================================
+
+######################################################################
+# FOLDER 1/2: (root)
+######################################################################
+
+No photos with 35mm equivalent focal length data found in this folder.
+Files without 35mm equivalent data: 936
+
+######################################################################
+# FOLDER 2/2: STO En
+######################################################################
+
+No photos with 35mm equivalent focal length data found in this folder.
+Files without 35mm equivalent data: 8
+
+
+Report saved to: D:\camera_kits\focal_length_analysis\20130607-13 OSL STO Halden_2026-01-16_21.49.33.txt

@@ -1,0 +1,15 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: index
+
+parts:
+  - caption: Gears
+    chapters:
+      - file: gears/lens_recommendation
+      - file: gears/prime_lens_recommendation
+
+  - caption: Tips
+    chapters:
+      - file: tips/photographing_tips

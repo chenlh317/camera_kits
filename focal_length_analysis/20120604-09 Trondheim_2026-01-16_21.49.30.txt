@@ -1,0 +1,22 @@
+ANALYZING FOLDER: F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120604-09 Trondheim
+======================================================================
+
+Found 2 folder(s) with JPG files
+======================================================================
+
+######################################################################
+# FOLDER 1/2: (root)
+######################################################################
+
+No photos with 35mm equivalent focal length data found in this folder.
+Files without 35mm equivalent data: 560
+
+######################################################################
+# FOLDER 2/2: Selected
+######################################################################
+
+No photos with 35mm equivalent focal length data found in this folder.
+Files without 35mm equivalent data: 94
+
+
+Report saved to: D:\camera_kits\focal_length_analysis\20120604-09 Trondheim_2026-01-16_21.49.30.txt
