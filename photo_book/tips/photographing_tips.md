@@ -12,7 +12,7 @@
 
 ---
 
-(executive-summary)=
+(photographing-tips-executive-summary)=
 ## 📋 Executive Summary
 
 *Practical advice for capturing great photos in daily life and during travel - without making photography the main focus*
@@ -71,7 +71,7 @@ Trust your instincts - your consistency isn't a limitation, it's your photograph
 
 ## Table of Contents <!-- omit in toc -->
 
-- [📋 Executive Summary](executive-summary)
+- [📋 Executive Summary](photographing-tips-executive-summary)
   - [Key Findings from Your 21 Years of Data](key-findings-from-your-21-years-of-data)
   - [Your Proven Equipment Strategy](your-proven-equipment-strategy)
   - [Core Philosophy: "Good Enough" is Actually Great](core-philosophy-good-enough-is-actually-great)
