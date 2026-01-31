@@ -33,9 +33,9 @@
 | Lens                                | Primary Use                        | Price Range | Weight |
 | ----------------------------------- | ---------------------------------- | ----------- | ------ |
 | **Sigma 35mm f/2 DG DN (I series)** | Night city, indoor events, museums | ~$700       | 325g   |
-| **Viltrox 85mm f/1.8 II**           | Budget portrait alternative        | ~$350-400   | ~500g  |
+| **Viltrox 85mm f/2.0 Evo**          | Budget portrait with VCM AF        | ~$350-400   | 298g   |
 
-**Total Budget Kit:** ~$1,050-1,100 for both
+**Total Budget Kit:** ~$1,050-1,100 for both (623g — lightest budget option!)
 
 ---
 
@@ -300,7 +300,49 @@ For portrait work with kids and artwork details, an 85mm prime is essential. Her
 
 ---
 
-### 🥈 **Budget Alternative: Viltrox 85mm f/1.8 II STM**
+Best Value: Viltrox AF 85mm f/2.0 Evo** ⭐ RECOMMENDED
+
+| Specification   | Value                       |
+| --------------- | --------------------------- |
+| **Aperture**    | f/2.0 - f/16                |
+| **Weight**      | 298g                        |
+| **Size**        | 66 × 75mm                   |
+| **Filter**      | 62mm                        |
+| **Close Focus** | 0.85m (0.11× magnification) |
+| **Price**       | ~$350-400                   |
+
+**Why This is the Best Value Pick:**
+- ✅ **VCM autofocus motor** — Voice Coil Motor for fast, silent, precise AF (major upgrade over STM)
+- ✅ **Lightest 85mm option** — 298g vs Sony's 371g (73g lighter!)
+- ✅ **Compact design** — smaller than Sony, fits the A7C II compact philosophy
+- ✅ **Sharp optics** — excellent center sharpness from f/2.0, very sharp by f/2.8
+- ✅ **Half the price of Sony** — significant savings at $350-400
+- ✅ **9-blade circular aperture** — smooth, pleasing bokeh
+- ✅ **Weather-resistant** — dust and moisture resistant design
+
+**Optical Characteristics:**
+- 11 elements in 8 groups with ED and HR elements
+- Minimal chromatic aberration for the price point
+- Low focus breathing — good for video work
+- Smooth manual focus ring with de-clicked aperture option
+
+**Review-Based Considerations:**
+- ✅ VCM AF significantly faster than older STM Viltrox lenses
+- ✅ Eye-AF tracking works well for portraits
+- ⚠️ **f/2.0 vs f/1.8** — 1/3 stop slower (minor in practice)
+- ⚠️ Third-party lens — potential firmware compatibility considerations
+
+**Why Evo Over Viltrox 85mm f/1.8 II:**
+- VCM motor vs STM = faster, quieter AF
+- 298g vs ~500g = 200g lighter
+- Better suited for A7C II's compact, lightweight philosophy
+- Newer optical design with improved coatings
+
+**Verdict:** Best balance of price, weight, and AF performance. The VCM motor brings autofocus speed much closer to Sony's linear motor at half the price. Ideal for kid portraits where you want fast AF without breaking the bank.
+
+---
+
+### 🥉 **Budget f/1.8: Viltrox 85mm f/1.8 II STM**
 
 | Specification   | Value        |
 | --------------- | ------------ |
@@ -308,24 +350,21 @@ For portrait work with kids and artwork details, an 85mm prime is essential. Her
 | **Weight**      | ~500g        |
 | **Filter**      | 72mm         |
 | **Close Focus** | ~0.85m       |
-| **Price**       | ~$350-400    |
+| **Price**       | ~$300-350    |
 
 **Why Consider This:**
-- ✅ **Exceptional value** — around half the price of Sony
+- ✅ **Lowest Viltrox price** — even cheaper than the Evo
 - ✅ **Sharp optics** — very good center sharpness from f/1.8
+- ✅ **f/1.8 aperture** — 1/3 stop faster than Evo
 - ✅ **Nice bokeh** — 9-blade aperture for smooth backgrounds
-- ⚠️ **STM AF motor** — slower and less reliable tracking than Sony’s linear motor
-- ⚠️ **Heavier build** — larger and heavier than Sony
+- ⚠️ **STM AF motor** — slower and less reliable tracking than VCM or linear motors
+- ⚠️ **Heavy** — ~500g is significantly heavier than Sony or Evo
 
-**Verdict:** Good budget option if cost is primary. For fast-moving kid portraits, Sony’s AF still has the edge.
-
----
-
-<!-- Removed unverified Viltrox AF 85mm f/2.0 Evo section -->
+**Verdict:** Only consider if f/1.8 is essential and budget is very tight. The Evo's VCM motor and lighter weight make it a better overall choice for most users.
 
 ---
 
-### 🥉 **Ultra-Budget: Meike 85mm f/1.8 AF**
+### **Ultra-Budget: Meike 85mm f/1.8 AF**
 
 | Specification   | Value        |
 | --------------- | ------------ |
@@ -335,33 +374,34 @@ For portrait work with kids and artwork details, an 85mm prime is essential. Her
 | **Price**       | ~$200-250    |
 
 **Why Consider This:**
-- ✅ **Lowest price** - Entry point to 85mm f/1.8
-- ⚠️ **Basic AF** - Functional but not fast
-- ⚠️ **Build quality** - Budget tier
-- ⚠️ **Optical consistency** - Sample variation possible
+- ✅ **Lowest price** — Entry point to 85mm f/1.8
+- ⚠️ **Basic AF** — Functional but not fast
+- ⚠️ **Build quality** — Budget tier
+- ⚠️ **Optical consistency** — Sample variation possible
 
-**Verdict:** Only if extremely budget-constrained. For kid portraits where AF speed matters, invest in Viltrox Evo minimum.
+**Verdict:** Only if extremely budget-constrained. For kid portraits where AF speed matters, invest in Viltrox 85mm f/2.0 Evo minimum — the VCM motor makes a real difference.
 
 ---
 
 ### 85mm Comparison Table
 
-| Feature         | Sony FE 85/1.8 | Viltrox 85/1.8 II | Meike 85/1.8 |
-| --------------- | -------------- | ----------------- | ------------ |
-| **Price**       | ~$600-700      | ~$350-400         | ~$200-250    |
-| **Aperture**    | f/1.8          | f/1.8             | f/1.8        |
-| **Weight**      | 371g           | ~500g             | ~320g        |
-| **AF Motor**    | Linear         | STM               | STM          |
-| **AF Speed**    | ⭐⭐⭐⭐⭐          | ⭐⭐⭐               | ⭐⭐           |
-| **Build**       | Excellent      | Good              | Basic        |
-| **Filter Size** | 67mm           | 72mm              | -            |
-| **Sharpness**   | ⭐⭐⭐⭐⭐          | ⭐⭐⭐⭐              | ⭐⭐⭐          |
-| **Bokeh**       | ⭐⭐⭐⭐⭐          | ⭐⭐⭐⭐              | ⭐⭐⭐          |
-| **Kid Eye-AF**  | ⭐⭐⭐⭐⭐          | ⭐⭐⭐               | ⭐⭐           |
+| Feature         | Sony FE 85/1.8 | Viltrox 85/2 Evo ⭐ | Viltrox 85/1.8 II | Meike 85/1.8 |
+| --------------- | -------------- | ------------------- | ----------------- | ------------ |
+| **Price**       | ~$600-700      | ~$350-400           | ~$300-350         | ~$200-250    |
+| **Aperture**    | f/1.8          | f/2.0               | f/1.8             | f/1.8        |
+| **Weight**      | 371g           | **298g** ⭐          | ~500g             | ~320g        |
+| **AF Motor**    | Linear         | **VCM** ⭐           | STM               | STM          |
+| **AF Speed**    | ⭐⭐⭐⭐⭐          | ⭐⭐⭐⭐               | ⭐⭐⭐               | ⭐⭐           |
+| **Build**       | Excellent      | Very Good           | Good              | Basic        |
+| **Filter Size** | 67mm           | 62mm                | 72mm              | -            |
+| **Sharpness**   | ⭐⭐⭐⭐⭐          | ⭐⭐⭐⭐               | ⭐⭐⭐⭐              | ⭐⭐⭐          |
+| **Bokeh**       | ⭐⭐⭐⭐⭐          | ⭐⭐⭐⭐               | ⭐⭐⭐⭐              | ⭐⭐⭐          |
+| **Kid Eye-AF**  | ⭐⭐⭐⭐⭐          | ⭐⭐⭐⭐               | ⭐⭐⭐               | ⭐⭐           |
 
 **Recommendation:**
-- **Best overall:** Sony FE 85mm f/1.8 - unbeatable AF for kids
-- **Best value:** Viltrox 85mm f/1.8 II — strong optics at low cost (AF tracking slower)
+- **Best overall:** Sony FE 85mm f/1.8 — unbeatable AF for kids
+- **Best value:** Viltrox 85mm f/2.0 Evo ⭐ — VCM AF, lightest weight (298g), excellent price/performance
+- **Budget f/1.8:** Viltrox 85mm f/1.8 II — if you need the extra 1/3 stop
 - **Skip:** Ultra-budget Meike unless extremely cost-constrained
 
 **⚠️ Note on Third-Party Lenses (January 2026):**
@@ -403,40 +443,42 @@ Sony E-mount lenses are not currently affected. As with any third-party lens, fi
 ### Strategy B: Budget-Optimized
 
 **Lenses:**
-| Lens                  | Use Case                  | Price    | Weight |
-| --------------------- | ------------------------- | -------- | ------ |
-| Sigma 35mm f/2 DG DN  | Night city, indoor events | $700     | 325g   |
-| Viltrox 85mm f/1.8 II | Kid portraits             | $350-400 | ~500g  |
+| Lens                   | Use Case                  | Price    | Weight |
+| ---------------------- | ------------------------- | -------- | ------ |
+| Sigma 35mm f/2 DG DN   | Night city, indoor events | $700     | 325g   |
+| Viltrox 85mm f/2.0 Evo | Kid portraits (VCM AF)    | $350-400 | 298g   |
 
-**Total:** ~$1,050-1,100 | ~825g both primes
+**Total:** ~$1,050-1,100 | 623g both primes
 
 **Coverage:** Same as Strategy A
 
 **Pros:**
 - Save ~$300-450 vs Sony pair
 - Sigma's premium metal build
-- Viltrox’s optics and price are attractive
+- Viltrox Evo's VCM motor offers near-Sony AF speed
+- **Lightest budget kit** — 623g total
 
 **Cons:**
-- Both lenses f/2 or f/1.8 — slight light loss vs Sony pair
-- Third-party AF not quite Sony-level; heavier overall weight
+- Both lenses f/2 — 1/3 stop slower than Sony pair
+- Third-party firmware/compatibility considerations
 
 ---
 
 ### Strategy C: Mixed (Best Value + Performance) ⭐ RECOMMENDED
 
 **Lenses:**
-| Lens                  | Use Case                  | Price    | Weight |
-| --------------------- | ------------------------- | -------- | ------ |
-| Sony FE 35mm f/1.8    | Night city, indoor events | $750-850 | 280g   |
-| Viltrox 85mm f/1.8 II | Kid portraits             | $350-400 | ~500g  |
+| Lens                   | Use Case                   | Price    | Weight |
+| ---------------------- | -------------------------- | -------- | ------ |
+| Sony FE 35mm f/1.8     | Night city, indoor events  | $750-850 | 280g   |
+| Viltrox 85mm f/2.0 Evo | Kid portraits (VCM AF)     | $350-400 | 298g   |
 
-**Total:** ~$1,100-1,250 | ~780g both primes
+**Total:** ~$1,100-1,250 | **578g** both primes (lightest recommended kit!)
 
 **Rationale:**
 - 35mm used more often → invest in Sony for best AF speed
-- 85mm for portrait sessions → Viltrox II offers strong optics at low cost (AF slower)
-- **Best balance of price and performance**
+- 85mm for portrait sessions → Viltrox Evo's VCM motor offers excellent AF at half the price
+- **Best balance of price, performance, and weight**
+- Lighter than full Sony kit (578g vs 651g)
 
 ---
 
@@ -584,11 +626,12 @@ You can shoot almost any indoor event or museum without flash, preserving natura
 | **Maximum savings**               | Viltrox AF 35mm f/1.8 ($350-400) |
 
 **85mm Options:**
-| If You Value...      | Buy This 85mm                    |
-| -------------------- | -------------------------------- |
-| **Best AF for kids** | Sony FE 85mm f/1.8 ($600-700)    |
-| **Best value** ⭐     | Viltrox 85mm f/1.8 II ($350-400) |
-| **Ultra-budget**     | Meike 85mm f/1.8 AF ($200-250)   |
+| If You Value...              | Buy This 85mm                        |
+| ---------------------------- | ------------------------------------ |
+| **Best AF for kids**         | Sony FE 85mm f/1.8 ($600-700)        |
+| **Best value + VCM AF** ⭐    | Viltrox 85mm f/2.0 Evo ($350-400)    |
+| **Budget f/1.8**             | Viltrox 85mm f/1.8 II ($300-350)     |
+| **Ultra-budget**             | Meike 85mm f/1.8 AF ($200-250)       |
 
 ---
 
