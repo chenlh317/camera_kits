@@ -1,11 +1,11 @@
 # Complete Camera Gear Recommendation: Data-Driven Analysis <!-- omit in toc -->
 
 - **Analysis Date:** 16 January, 2026
-- **Last Updated:** 30 January, 2026
-- **Data Source:** 72 photo collections spanning 2004-2025
+- **Last Updated:** 31 January, 2026
+- **Data Source:** 73 photo collections spanning 2004-2025
   PLUS 12 mobile phone archives (2006-2026)
-- **Total Photos Analyzed:** 55,528 with 35mm equivalent focal length data
-  (40,000+ dedicated camera + 15,528 mobile)
+- **Total Photos Analyzed:** 56,196 with 35mm equivalent focal length data
+  (40,668+ dedicated camera + 15,528 mobile)
 - **Mobile Phone Photos:** 15,528 spanning 20 years across 12 devices
   (Samsung, Nokia, iPhone, Huawei)
 
@@ -13,7 +13,7 @@
 
 ## 📋 Executive Summary
 
-**Based on 55,528 photos analyzed across 21 years,
+**Based on 56,196 photos analyzed across 21 years,
 you are a wide-angle storyteller who consistently shoots 65-80% of photos at 20-35mm.
 This comprehensive analysis provides data-driven recommendations for both lens and camera body
 optimized for your shooting style.**
@@ -300,7 +300,7 @@ and super-telephoto (100-720mm) is handled by the HX90 backup camera.
 
 ## Comprehensive Analysis: 21 Years of Photography Data
 
-Based on analysis of **72 photo collections** spanning 2004-2025,
+Based on analysis of **73 photo collections** spanning 2004-2025,
 covering travel destinations worldwide
 (Japan, Caucasus, Lofoten, Balkans, Turkey, Czech Republic, Spain,
 Korea, China, Norway, and many more), here are the definitive findings:
@@ -543,6 +543,20 @@ Analyzing frequency distributions across all major travel collections:
 
 - Absolute dominance: 23-24mm wide angle
 - 60-80% of all shots in ultra-wide to wide range
+
+**Museum/Gallery Photography (Musée du Louvre 2015-2018):**
+
+- **668 photos** across 5 visits with focal length data
+- **74.85% at 24mm** - extreme wide-angle dominance in indoor museum settings
+- **Median: 24mm, Mean: 38mm** - even more wide-angle focused than outdoor travel
+- **2018 visit (244 photos):** 90.16% at 24mm - most concentrated wide-angle usage
+- **2016 visit (218 photos):** 78.90% at 24mm
+- **Pattern:** Indoor museum/gallery photography is almost exclusively wide-angle
+  - Capturing full artworks and architectural context
+  - Limited space for backing up = ultra-wide necessity
+  - Telephoto virtually unused (<5% beyond 50mm)
+- **Implication:** SEL2070G's 20mm wide end is IDEAL for museum visits;
+  confirms your wide-angle preference extends to all photography contexts
 
 ---
 
@@ -896,7 +910,7 @@ Your 65-80% wide-angle usage isn't because:
 
 ### ⭐ **TOP RECOMMENDATIONS: Three Excellent Options**
 
-**Based on your 55,528 photos analyzed,
+**Based on your 56,196 photos analyzed,
 you have three excellent lens strategies:**
 
 | Rank    | Lens / Strategy                      | Price       | Best For                                                  |
@@ -1731,7 +1745,7 @@ The Sigma 20-200mm and Tamron 25-200mm represent a deliberate compromise:
 
 ### Your Shooting Profile Requirements
 
-Based on 55,528 photos analyzed across 21 years,
+Based on 56,196 photos analyzed across 21 years,
 your camera body needs are clear:
 
 **Priority Features (Must-Have):**
@@ -2192,7 +2206,7 @@ Option 3 (16-35mm f/4 + 85mm) is also compatible if you prefer ultra-wide specia
 
 ### **Three Excellent Strategies - Quick Summary**
 
-Based on **55,528 photos analyzed** across 21 years,
+Based on **56,196 photos analyzed** across 21 years,
 here's the bottom line:
 
 | Your Priority                              | Best Choice                | See Details                                                                           |
@@ -2235,8 +2249,8 @@ here's the bottom line:
 
 ## 🎯 Bottom Line: Your Optimal Lens Strategy
 
-Based on 55,528 photos analyzed across 21 years
-(40,000+ dedicated camera + 15,528 mobile),
+Based on 56,196 photos analyzed across 21 years
+(40,668+ dedicated camera + 15,528 mobile),
 you've proven you're a **wide-angle storyteller**
 who values **environmental context** over **isolated subjects**.
 
@@ -2281,9 +2295,9 @@ to your dedicated camera with superior image quality.
 
 ## Notes
 
-- Analysis based on 72 photo collections totaling 40,000+ dedicated camera photos with EXIF data
+- Analysis based on 73 photo collections totaling 40,668+ dedicated camera photos with EXIF data
 - Mobile phone analysis: 15,528 photos across 12 devices spanning 2006-2026
-- **Combined dataset: 55,528 total photos with focal length data**
+- **Combined dataset: 56,196 total photos with focal length data**
 - All focal lengths in 35mm equivalent
 - Data spans 21 years (2004-2025) for dedicated cameras, 20 years (2006-2026) for mobile phones
 - Budapest trip (87% at 75mm) was portrait-focused using SAL1650 lens - not representative of typical travel patterns
