@@ -6,6 +6,7 @@
   PLUS 12 mobile phone archives (2006-2026)
 - **Total Photos Analyzed:** 55,528 with 35mm equivalent focal length data
   (40,000+ dedicated camera + 15,528 mobile)
+- **Note:** Counts reflect photos with EXIF 35mm-equivalent; older sets may be excluded
 - **Mobile Phone Photos:** 15,528 spanning 20 years across 12 devices
   (Samsung, Nokia, iPhone, Huawei)
 
@@ -22,13 +23,13 @@ while enjoying the experience, not turning every outing into a photo shoot.
 
 ### Key Findings from Your 21 Years of Data
 
-| Insight                 | Your Pattern                                                       |
-| ----------------------- | ------------------------------------------------------------------ |
-| **Primary Style**       | Wide-angle environmental storytelling (65-80% of shots at 20-35mm) |
-| **Sweet Spot**          | 24mm - your proven workhorse focal length for 13+ years            |
-| **Mobile Contribution** | 28% of total photography (15,528 of 55,528 photos) and growing     |
-| **Telephoto Usage**     | Minimal (<5%) - you know what you need and don't overpack          |
-| **Portrait Range**      | 5-10% usage at 75-85mm for deliberate portrait moments             |
+| Insight                 | Your Pattern                                                                       |
+| ----------------------- | ---------------------------------------------------------------------------------- |
+| **Primary Style**       | Wide-angle environmental storytelling (65-80% of shots at 20-35mm)                 |
+| **Sweet Spot**          | 24mm - your proven workhorse focal length for 13+ years                            |
+| **Mobile Contribution** | 28% of total photography (15,528 of 55,528 photos) and growing                     |
+| **Telephoto Usage**     | Rare above ~100mm (<5% in recent data) - you know what you need and don't overpack |
+| **Portrait Range**      | Typically low single-digit to ~10% at 75-85mm for deliberate portraits             |
 
 ### Your Proven Equipment Strategy
 
@@ -91,6 +92,8 @@ Trust your instincts - your consistency isn't a limitation, it's your photograph
   - [**C. Stick with Wide-Angle** *(it's clearly your strength)*](#c-stick-with-wide-angle-its-clearly-your-strength)
   - [**D. Don't Worry About Low-Light** *(f/4 will be fine)*](#d-dont-worry-about-low-light-f4-will-be-fine)
   - [**E. Your Photos Are Already Great** *(skip the "projects")*](#e-your-photos-are-already-great-skip-the-projects)
+- [**14. Data Snapshot Across Mobile Devices (2019–2026)**](#14-data-snapshot-across-mobile-devices-20192026)
+- [**References**](#references)
 
 ## **1. Your Proven Shooting Style: Wide-Angle Storytelling**
 
@@ -298,10 +301,10 @@ Your SAL1650 experience (24-75mm f/2.8) shows you have experience with fast aper
 
 **Managing f/4 Maximum Aperture (SEL2070G):**
 
-- ✅ Coming from SAL1650 f/2.8: Only 2/3 stop difference to f/4 -
+- ✅ Coming from SAL1650 f/2.8: One full stop difference to f/4 -
   minimal practical impact.
 - ✅ Modern cameras excel at high ISO (confidently use ISO 1600-6400 to compensate).
-- ✅ Image stabilization helps (2-3 stops advantage).
+- ✅ Image stabilization helps (several stops of handholding advantage, depending on body/lens).
 - ✅ Wide angles (20-24mm) more forgiving for handholding.
 - ⚠️ Indoor museums/churches: bump ISO, accept minor grain.
 - ⚠️ Restaurants at night: use mobile phone (f/1.8-2.0) or 85mm prime (f/1.8).
@@ -437,7 +440,7 @@ Based on your trip patterns, here's focal length guidance:
 **Museum Days** *(your frequent activity)*
 
 - **Focal length:** 24-35mm (artwork + child examining it).
-- **Reality:** Many museums ban professional cameras - mobile often only option.
+- **Reality:** Policies vary; many restrict flash/tripods or certain areas. Mobile is often hassle-free.
 - **Strategy:** Use mobile liberally, save dedicated camera for allowed spaces.
 - **With child:** Focus on reactions, not just artifacts.
 
@@ -610,7 +613,7 @@ it's evidence you've found your photographic voice.
 
 ### **D. Don't Worry About Low-Light** *(f/4 will be fine)*
 
-**Coming from SAL1650 f/2.8:** Only 2/3 stop difference to f/4 - you won't notice much.
+**Coming from SAL1650 f/2.8:** One full stop difference to f/4 - you won't notice much.
 
 **Modern cameras handle high ISO beautifully:**
 
@@ -637,6 +640,28 @@ Your 40,000+ photos over 21 years show you already capture what matters:
 - Your style will evolve naturally like it has for 21 years.
 
 **Bottom line:** Photography projects are for professional photographers. You're documenting life - you're already doing it right.
+**Bottom line:** You don't need structured projects; casual experimentation is plenty. You're documenting life — you're already doing it right.
+
+---
+
+## **14. Data Snapshot Across Mobile Devices (2019–2026)**
+
+Quick view of focal-length usage from your analyzed mobile archives. Percentages are from EXIF 35mm‑equivalent distributions in your reports.
+
+| Device      | Photos | Primary wide share | 3× tele share (≈69–70mm) | Ultra‑wide share | Portrait 75–85mm share | Tele >100mm share |
+| ----------- | -----: | ------------------ | ------------------------ | ---------------- | ---------------------- | ----------------- |
+| Samsung S25 |  3,296 | 23mm: 64.08%       | 69mm: 14.68%             | 13mm: 7.65%      | ~0%                    | ~1.5%             |
+| Samsung S22 |  5,028 | 23mm: 68.06%       | 69mm: 14.36%             | 13mm: 5.85%      | ~0%                    | 0%                |
+| Huawei P30  |  1,940 | 27mm: 78.35%       | —                        | 17mm: 13.20%     | ~0.30%                 | ~1.21%            |
+| Huawei P40  |    130 | 27mm: 75.38%       | 69mm: 1.54%              | 18mm: 13.85%     | ~0%                    | 3.08%             |
+| iPhone 6S   |  4,314 | 29mm: 88.04%       | 69mm: 0.42%              | 16–22mm: ~0.5%   | ~0.56%                 | ~0.39%            |
+| iPhone 5    |    690 | 33mm: 80.58%       | 70mm: 0.29%              | 24–29mm: ~8.4%   | ~0.58%                 | 0%                |
+| iPhone 4S   |    820 | 35mm: 99.51%       | —                        | 33mm: 0.24%      | ~0%                    | 0%                |
+
+Notes:
+- “Tele >100mm” sums shares at 100mm+ entries in each device’s distribution.
+- Portrait 75–85mm on mobile is rare; you typically use 3× (~69mm) for portraits.
+- Dedicated camera portrait/tele shares vary by trip; older archives often lack EXIF 35mm‑equivalent, so are not included here.
 
 ---
 
@@ -658,3 +683,14 @@ and the SEL2070G (20-70mm) matches that perfectly.
 - SEL2070G just removes the 24mm limitation.
 - Trust your instincts (65-80% at wide angle shows what you love).
 - Photography is a hobby that enriches your life - not a skill to perfect.
+
+---
+
+## **References**
+
+- Stops and exposure basics: Wikipedia — F-number (standard stop sequence and fractional stops).
+- 35mm-equivalent focal length: Wikipedia — 35 mm equivalent focal length (definition and CIPA guideline).
+
+Footnotes:
+- 35mm-equivalent values reflect angle-of-view equivalence; exposure does not change with sensor size for the same f-number.
+- Wide angles are more forgiving for handholding and composition when documenting active children.

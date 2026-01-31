@@ -33,9 +33,9 @@
 | Lens                                | Primary Use                        | Price Range | Weight |
 | ----------------------------------- | ---------------------------------- | ----------- | ------ |
 | **Sigma 35mm f/2 DG DN (I series)** | Night city, indoor events, museums | ~$700       | 325g   |
-| **Viltrox 85mm f/1.8 II**           | Budget portrait alternative        | ~$350       | 355g   |
+| **Viltrox 85mm f/1.8 II**           | Budget portrait alternative        | ~$350-400   | ~500g  |
 
-**Total Budget Kit:** ~$1,050 for both
+**Total Budget Kit:** ~$1,050-1,100 for both
 
 ---
 
@@ -69,14 +69,15 @@ From your 皮皮 (PiPi) photo sessions:
 
 From your city trip data (Wien, Seoul, Japan, Madrid):
 
-| Trip           | 24mm Usage  | 27mm Usage        | Key Pattern            |
-| -------------- | ----------- | ----------------- | ---------------------- |
-| **Wien 2019**  | 80% at 24mm | 86% at 27mm (P30) | Ultra-wide dominant    |
-| **Seoul 2023** | -           | 64% at 27mm       | Strong wide preference |
-| **Japan 2024** | 24% at 24mm | 74% at 23mm       | Wide-angle dominant    |
-| **BeLux 2018** | 75% at 24mm | -                 | Wide-angle dominant    |
+| Trip           | Camera 24mm Usage      | Phone Wide (23–27mm) Usage  | Key Pattern            |
+| -------------- | ---------------------- | --------------------------- | ---------------------- |
+| **Wien 2019**  | 80% at 24mm (HX90)     | 86% at 27mm (P30)           | Ultra-wide dominant    |
+| **Seoul 2023** | —                      | ~70% at 23mm (phone)        | Strong wide preference |
+| **Japan 2024** | ~24% at 24mm (overall) | ~74% at 23mm (phone subset) | Wide-angle dominant    |
+| **BeLux 2018** | 75% at 24mm (camera)   | —                           | Wide-angle dominant    |
 
-**Critical Finding:** For city/night photography, you consistently shoot **70-85% at 23-27mm**. A 35mm prime hits the sweet spot between your 23-27mm mobile coverage and your portrait needs.
+**Critical Finding:** For city/night photography, you consistently shoot **70-85% at 23-27mm**.
+A 35mm prime hits the sweet spot between your 23-27mm mobile coverage and your portrait needs.
 
 ### 🏛️ Museum Photography Analysis (NEW)
 
@@ -105,6 +106,9 @@ From your **Musée du Louvre** data (668 photos across 2015-2018):
    - Wider than 50mm for room context
    - Less distortion than 24mm for artwork documentation
    - f/1.8 handles dim gallery lighting without flash
+   - Note: If you prefer the dedicated camera for expansive interiors
+     (your Louvre data is ~75% at 24mm), a 24mm prime is a solid alternative.
+     Otherwise, rely on smartphone ultra-wide to complement 35mm for room coverage.
 
 **Museum-Specific Requirements:**
 - ✅ **No flash allowed** → f/1.8 aperture essential
@@ -152,7 +156,7 @@ Based on your constraints (max 2 primes from: 20, 24, 35, 40, 50, 85mm):
 | **Price**       | ~$750-850                   |
 
 **Why This Lens:**
-- ✅ **Lightest full-frame 35mm f/1.8** - perfect for A7C II compact philosophy
+- ✅ **One of the lightest full-frame 35mm f/1.8** - perfect for A7C II compact philosophy
 - ✅ **Exceptional low-light** - f/1.8 is 4× faster than f/4 zooms
 - ✅ **Native Sony AF** - fastest, most reliable eye-AF for kid tracking
 - ✅ **Weather-sealed** - dust and moisture resistant for travel
@@ -170,14 +174,10 @@ Based on your constraints (max 2 primes from: 20, 24, 35, 40, 50, 85mm):
 - Pleasant bokeh for environmental portraits
 - Good flare resistance
 
-**⭐ DPReview Score: 88% (Silver Award)**
-
 **Review-Based Considerations:**
-- ✅ "One of Sony's most versatile primes" - DPReview
-- ✅ Better than the more expensive Zeiss Distagon 35mm f/1.4 ZA
-- ⚠️ Chromatic aberration (purple/green fringing) visible in high-contrast backlit scenes
-- ⚠️ Vignetting persists even at f/8-11 (correctable in post)
-- ⚠️ Some coma at widest apertures - not ideal for astrophotography
+- ⚠️ Chromatic aberration (purple/green fringing) can appear in high-contrast backlit scenes
+- ⚠️ Some vignetting wide open (correctable in-camera/post)
+- ⚠️ Coma at widest apertures — not ideal for astrophotography
 
 ---
 
@@ -200,16 +200,14 @@ Based on your constraints (max 2 primes from: 20, 24, 35, 40, 50, 85mm):
 - ⚠️ **f/2 vs f/1.8** - 1/3 stop slower (minor difference)
 - ⚠️ **Slightly heavier** - 325g vs 280g
 
-**⭐ DPReview Score: 87% (Silver Award)**
-
 **Review-Based Considerations:**
-- ✅ Excellent for weddings, events, travel, environmental portraiture
-- ⚠️ Sony 35mm is "noticeably sharper" with faster AF motor - DPReview
-- ⚠️ **Significant focus breathing** - field of view changes when focusing (less ideal for video)
-- ⚠️ Color fringing (LoCA) not perfectly controlled at wide apertures
-- ⚠️ Some green flare possible with sun in frame
+- ✅ Excellent for events, travel, environmental portraiture
+- ⚠️ **Focus breathing** — field of view changes when focusing (less ideal for video)
+- ⚠️ Some longitudinal CA at wide apertures
+- ⚠️ AF speed and sharpness are very good, but Sony’s native lens typically focuses faster
 
-**Verdict:** If you value build quality and aperture ring, the Sigma is excellent. The Sony is lighter, sharper, and has native AF advantage.
+**Verdict:** If you value build quality and aperture ring,
+the Sigma is excellent. The Sony is lighter, sharper, and has native AF advantage.
 
 ---
 
@@ -218,24 +216,25 @@ Based on your constraints (max 2 primes from: 20, 24, 35, 40, 50, 85mm):
 | Specification   | Value        |
 | --------------- | ------------ |
 | **Aperture**    | f/1.8 - f/22 |
-| **Weight**      | ~320g        |
-| **Filter**      | 52mm         |
-| **Close Focus** | 0.35m        |
+| **Weight**      | ~340g        |
+| **Filter**      | 55mm         |
+| **Close Focus** | ~0.40m       |
 | **Price**       | ~$350-400    |
 
 **Why Consider This:**
-- ✅ **Half the price** of Sony - significant savings
-- ✅ **Fast f/1.8** - Same light gathering as Sony
-- ✅ **Good optics** - 10 elements, 2 ED + 2 aspherical elements
-- ✅ **Punchy rendering** - More micro-contrast than Sony's "dreamy" look
-- ⚠️ **Long minimum focus (40cm)** - Much longer than Sony (22cm) or Sigma (27cm)
-- ⚠️ **AF limitations** - Occasionally front-focuses; AF-C less reliable than AF-S
-- ⚠️ **De-clicked aperture ring** - Stiff and difficult to grip
-- ⚠️ **No weather sealing** mentioned by manufacturer
+- ✅ **Half the price** of Sony — significant savings
+- ✅ **Fast f/1.8** — Same light gathering as Sony
+- ✅ **Punchy rendering** — pleasing micro-contrast
+- ⚠️ **Long minimum focus (~40cm)** — longer than Sony (22cm) or Sigma (27cm)
+- ⚠️ **AF limitations** — AF-C tracking less reliable than native Sony
+- ⚠️ **Aperture ring feel** — stiffer than ideal
+- ⚠️ **Weather sealing** — limited or not specified
 
-**Review-Based Note:** "Great optics for the price... 85-90% of Sony at 50% of the cost." Works well in AF-S mode; check for firmware updates as Viltrox actively improves AF tuning.
+**Review-Based Note:** "Great optics for the price... 85-90% of Sony at 50% of the cost."
+Works well in AF-S mode; check for firmware updates as Viltrox actively improves AF tuning.
 
-**Verdict:** Best value if budget is tight. The 40cm close focus is a real limitation for environmental portraits. Consider if you need to get close to subjects.
+**Verdict:** Best value if budget is tight. The 40cm close focus is a real limitation
+for environmental portraits. Consider if you need to get close to subjects.
 
 ---
 
@@ -245,17 +244,16 @@ Based on your constraints (max 2 primes from: 20, 24, 35, 40, 50, 85mm):
 | --------------------- | -------------- | ------------------ | -------------- |
 | **Price**             | ~$750-850      | ~$700              | ~$350          |
 | **Aperture**          | f/1.8          | f/2.0              | f/1.8          |
-| **Weight**            | 280g           | 325g               | ~320g          |
-| **Min Focus**         | **22cm** ⭐     | 27cm               | 40cm           |
+| **Weight**            | 280g           | 325g               | ~340g          |
+| **Min Focus**         | **22cm** ⭐     | 27cm               | ~40cm          |
 | **AF Speed**          | ⭐⭐⭐⭐⭐          | ⭐⭐⭐⭐               | ⭐⭐⭐            |
 | **Build**             | Excellent      | Premium Metal      | Good           |
-| **Weather Seal**      | Yes (limited)  | Yes (mount gasket) | No             |
+| **Weather Seal**      | Yes (limited)  | Yes (mount gasket) | Limited        |
 | **Sharpness f/1.8-2** | ⭐⭐⭐⭐⭐          | ⭐⭐⭐⭐ (at f/2)      | ⭐⭐⭐⭐           |
 | **Bokeh**             | ⭐⭐⭐⭐           | ⭐⭐⭐⭐ (smoother)    | ⭐⭐⭐⭐           |
 | **Focus Breathing**   | Minimal        | **Significant** ⚠️  | Minimal        |
 | **Low-Light**         | Excellent      | Very Good          | Very Good      |
 | **Kid Eye-AF**        | ⭐⭐⭐⭐⭐          | ⭐⭐⭐⭐               | ⭐⭐⭐            |
-| **DPReview Score**    | **88%** ⭐      | 87%                | -              |
 
 **Recommendation:** Sony FE 35mm f/1.8 for best AF with kids, shortest close focus (22cm), and lightest weight.
 
@@ -307,44 +305,23 @@ For portrait work with kids and artwork details, an 85mm prime is essential. Her
 | Specification   | Value        |
 | --------------- | ------------ |
 | **Aperture**    | f/1.8 - f/16 |
-| **Weight**      | ~355g        |
+| **Weight**      | ~500g        |
 | **Filter**      | 72mm         |
-| **Close Focus** | 0.85m        |
+| **Close Focus** | ~0.85m       |
 | **Price**       | ~$350-400    |
 
 **Why Consider This:**
-- ✅ **Exceptional value** - Half the price of Sony
-- ✅ **Sharp optics** - Very good center sharpness from f/1.8
-- ✅ **Nice bokeh** - 9-blade aperture for smooth backgrounds
-- ✅ **Eye-AF compatible** - Works with Sony's tracking
-- ⚠️ **Slower AF (STM motor)** - May miss fast kid moments
-- ⚠️ **Less reliable tracking** - Third-party AF limitations
+- ✅ **Exceptional value** — around half the price of Sony
+- ✅ **Sharp optics** — very good center sharpness from f/1.8
+- ✅ **Nice bokeh** — 9-blade aperture for smooth backgrounds
+- ⚠️ **STM AF motor** — slower and less reliable tracking than Sony’s linear motor
+- ⚠️ **Heavier build** — larger and heavier than Sony
 
-**Verdict:** Good budget option, but consider the newer Evo version below for better AF.
+**Verdict:** Good budget option if cost is primary. For fast-moving kid portraits, Sony’s AF still has the edge.
 
 ---
 
-### 🥈 **Best Value: Viltrox AF 85mm f/2.0 Evo** ⭐ NEW
-
-| Specification   | Value        |
-| --------------- | ------------ |
-| **Aperture**    | f/2.0 - f/16 |
-| **Weight**      | ~298g        |
-| **Size**        | 74 × 72mm    |
-| **Filter**      | 67mm         |
-| **Close Focus** | 0.85m        |
-| **Price**       | ~$350-400    |
-
-**Why This is the Budget Champion:**
-- ✅ **VCM autofocus motor** - Much faster than STM, closer to Sony performance
-- ✅ **Lightest 85mm option** - Only 298g (lighter than Sony's 371g!)
-- ✅ **Compact design** - Smaller than f/1.8 II, travel-friendly
-- ✅ **67mm filter** - Same as Sony 85mm (share filters)
-- ✅ **Improved eye-AF tracking** - Evo series has better Sony integration
-- ✅ **Sharp optics** - Excellent sharpness from f/2.0
-- ⚠️ **f/2.0 vs f/1.8** - 1/3 stop slower (minimal real-world difference)
-
-**Verdict:** **Best value 85mm for Sony.** The VCM motor makes this viable for kid portraits. Lighter than Sony, much better AF than f/1.8 II, at the same price. The 1/3 stop aperture loss is negligible.
+<!-- Removed unverified Viltrox AF 85mm f/2.0 Evo section -->
 
 ---
 
@@ -369,26 +346,27 @@ For portrait work with kids and artwork details, an 85mm prime is essential. Her
 
 ### 85mm Comparison Table
 
-| Feature         | Sony FE 85/1.8 | Viltrox 85/2.0 Evo | Viltrox 85/1.8 II | Meike 85/1.8 |
-| --------------- | -------------- | ------------------ | ----------------- | ------------ |
-| **Price**       | ~$600-700      | ~$350-400          | ~$350-400         | ~$200-250    |
-| **Aperture**    | f/1.8          | f/2.0              | f/1.8             | f/1.8        |
-| **Weight**      | 371g           | **298g** ⭐         | 355g              | 320g         |
-| **AF Motor**    | Linear         | **VCM** ⭐          | STM               | STM          |
-| **AF Speed**    | ⭐⭐⭐⭐⭐          | ⭐⭐⭐⭐               | ⭐⭐⭐               | ⭐⭐           |
-| **Build**       | Excellent      | Very Good          | Good              | Basic        |
-| **Filter Size** | 67mm           | 67mm               | 72mm              | -            |
-| **Sharpness**   | ⭐⭐⭐⭐⭐          | ⭐⭐⭐⭐               | ⭐⭐⭐⭐              | ⭐⭐⭐          |
-| **Bokeh**       | ⭐⭐⭐⭐⭐          | ⭐⭐⭐⭐               | ⭐⭐⭐⭐              | ⭐⭐⭐          |
-| **Kid Eye-AF**  | ⭐⭐⭐⭐⭐          | ⭐⭐⭐⭐               | ⭐⭐⭐               | ⭐⭐           |
+| Feature         | Sony FE 85/1.8 | Viltrox 85/1.8 II | Meike 85/1.8 |
+| --------------- | -------------- | ----------------- | ------------ |
+| **Price**       | ~$600-700      | ~$350-400         | ~$200-250    |
+| **Aperture**    | f/1.8          | f/1.8             | f/1.8        |
+| **Weight**      | 371g           | ~500g             | ~320g        |
+| **AF Motor**    | Linear         | STM               | STM          |
+| **AF Speed**    | ⭐⭐⭐⭐⭐          | ⭐⭐⭐               | ⭐⭐           |
+| **Build**       | Excellent      | Good              | Basic        |
+| **Filter Size** | 67mm           | 72mm              | -            |
+| **Sharpness**   | ⭐⭐⭐⭐⭐          | ⭐⭐⭐⭐              | ⭐⭐⭐          |
+| **Bokeh**       | ⭐⭐⭐⭐⭐          | ⭐⭐⭐⭐              | ⭐⭐⭐          |
+| **Kid Eye-AF**  | ⭐⭐⭐⭐⭐          | ⭐⭐⭐               | ⭐⭐           |
 
 **Recommendation:**
 - **Best overall:** Sony FE 85mm f/1.8 - unbeatable AF for kids
-- **Best value:** Viltrox 85mm f/2.0 Evo - VCM motor, lightest, excellent price/performance
-- **Skip:** Viltrox f/1.8 II (older STM motor) unless you need f/1.8 specifically
+- **Best value:** Viltrox 85mm f/1.8 II — strong optics at low cost (AF tracking slower)
+- **Skip:** Ultra-budget Meike unless extremely cost-constrained
 
 **⚠️ Note on Third-Party Lenses (January 2026):**
-Nikon has filed a patent case against Viltrox regarding unlicensed third-party lenses. While this currently affects Nikon Z-mount lenses specifically, it may signal broader industry trends. Sony E-mount Viltrox lenses are not currently affected, but long-term support and firmware updates could be impacted. Consider this when choosing between first-party (Sony) and third-party options.
+There was a prior legal issue affecting Viltrox’s Nikon Z-mount lenses;
+Sony E-mount lenses are not currently affected. As with any third-party lens, firmware/support can vary by brand.
 
 ---
 
@@ -425,42 +403,40 @@ Nikon has filed a patent case against Viltrox regarding unlicensed third-party l
 ### Strategy B: Budget-Optimized
 
 **Lenses:**
-| Lens                   | Use Case                  | Price    | Weight |
-| ---------------------- | ------------------------- | -------- | ------ |
-| Sigma 35mm f/2 DG DN   | Night city, indoor events | $700     | 325g   |
-| Viltrox 85mm f/2.0 Evo | Kid portraits             | $350-400 | 298g   |
+| Lens                  | Use Case                  | Price    | Weight |
+| --------------------- | ------------------------- | -------- | ------ |
+| Sigma 35mm f/2 DG DN  | Night city, indoor events | $700     | 325g   |
+| Viltrox 85mm f/1.8 II | Kid portraits             | $350-400 | ~500g  |
 
-**Total:** ~$1,050-1,100 | 623g both primes
+**Total:** ~$1,050-1,100 | ~825g both primes
 
 **Coverage:** Same as Strategy A
 
 **Pros:**
 - Save ~$300-450 vs Sony pair
 - Sigma's premium metal build
-- Viltrox Evo's fast VCM autofocus
-- **Lightest kit** (623g vs 651g Sony)
+- Viltrox’s optics and price are attractive
 
 **Cons:**
-- Both lenses f/2 (1/3 stop slower than f/1.8)
-- Third-party AF not quite Sony-level
+- Both lenses f/2 or f/1.8 — slight light loss vs Sony pair
+- Third-party AF not quite Sony-level; heavier overall weight
 
 ---
 
 ### Strategy C: Mixed (Best Value + Performance) ⭐ RECOMMENDED
 
 **Lenses:**
-| Lens                   | Use Case                  | Price    | Weight |
-| ---------------------- | ------------------------- | -------- | ------ |
-| Sony FE 35mm f/1.8     | Night city, indoor events | $750-850 | 280g   |
-| Viltrox 85mm f/2.0 Evo | Kid portraits             | $350-400 | 298g   |
+| Lens                  | Use Case                  | Price    | Weight |
+| --------------------- | ------------------------- | -------- | ------ |
+| Sony FE 35mm f/1.8    | Night city, indoor events | $750-850 | 280g   |
+| Viltrox 85mm f/1.8 II | Kid portraits             | $350-400 | ~500g  |
 
-**Total:** ~$1,100-1,250 | 578g both primes
+**Total:** ~$1,100-1,250 | ~780g both primes
 
 **Rationale:**
 - 35mm used more often → invest in Sony for best AF speed
-- 85mm for portrait sessions → Viltrox Evo has fast VCM AF
-- **Best balance of cost, weight, and performance**
-- Lightest complete kit (578g)
+- 85mm for portrait sessions → Viltrox II offers strong optics at low cost (AF slower)
+- **Best balance of price and performance**
 
 ---
 
@@ -500,8 +476,8 @@ Nikon has filed a patent case against Viltrox regarding unlicensed third-party l
 
 The A7C II has excellent high-ISO performance up to ISO 6400 with acceptable noise. Combined with:
 - f/1.8 aperture (4× light vs f/4)
-- 5-axis IBIS (3-4 stops)
-- Fast eye-AF (works in -4EV)
+- 5-axis IBIS rated up to ~7 stops (CIPA, lens/body dependent)
+- Fast eye-AF (works in low EV)
 
 You can shoot almost any indoor event or museum without flash, preserving natural ambiance.
 
@@ -516,10 +492,11 @@ You can shoot almost any indoor event or museum without flash, preserving natura
 - **Verdict:** Mobile covers this; don't duplicate
 
 ### ❌ 24mm Prime
-- **Too close to mobile:** S25 shoots 23mm - nearly identical
-- **Not wide enough:** If you want wider than mobile, go 20mm
+- **Close to mobile:** S25 shoots ~23mm — nearly identical field of view
+- **If you need wider than mobile:** consider 20mm
 - **Indoor limitation:** Similar issues as 20mm for portraits
-- **Verdict:** Redundant with your smartphone
+- **Verdict:** Often redundant with your smartphone for interiors;
+  still worthwhile if you prefer higher IQ on the dedicated camera
 
 ### ❌ 40mm Prime
 - **"Tweener" focal length:** Neither wide nor portrait
@@ -607,12 +584,20 @@ You can shoot almost any indoor event or museum without flash, preserving natura
 | **Maximum savings**               | Viltrox AF 35mm f/1.8 ($350-400) |
 
 **85mm Options:**
-| If You Value...      | Buy This 85mm                     |
-| -------------------- | --------------------------------- |
-| **Best AF for kids** | Sony FE 85mm f/1.8 ($600-700)     |
-| **Best value** ⭐     | Viltrox 85mm f/2.0 Evo ($350-400) |
-| **f/1.8 on budget**  | Viltrox 85mm f/1.8 II ($350-400)  |
-| **Ultra-budget**     | Meike 85mm f/1.8 AF ($200-250)    |
+| If You Value...      | Buy This 85mm                    |
+| -------------------- | -------------------------------- |
+| **Best AF for kids** | Sony FE 85mm f/1.8 ($600-700)    |
+| **Best value** ⭐     | Viltrox 85mm f/1.8 II ($350-400) |
+| **Ultra-budget**     | Meike 85mm f/1.8 AF ($200-250)   |
+
+---
+
+## 📎 Data Sources & Method
+
+- Reports generated by the script in [analyze_focal_lengths.py](analyze_focal_lengths.py).
+- Only images with `FocalLengthIn35mmFilm` in EXIF are counted,
+  which can bias results toward smartphones/compacts that record 35mm equivalents; some DSLR/ILC files may be excluded.
+- Trip-level figures cited from the reports in [focal_length_analysis/](focal_length_analysis) as of 30–31 January 2026.
 
 ### Your Two-Prime Kit
 
@@ -642,4 +627,5 @@ You can shoot almost any indoor event or museum without flash, preserving natura
 
 ---
 
-*This recommendation is based on analysis of 55,528+ photos from your personal archive, optimized for your Sony A7C II and specific use cases.*
+*This recommendation is based on analysis of 55,528+ photos from your personal archive,
+optimized for your Sony A7C II and specific use cases.*

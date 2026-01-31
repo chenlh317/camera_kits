@@ -29,11 +29,14 @@ optimized for your shooting style.**
 **Why this lens:**
 - **Covers your sweet spot:** 20-35mm is where you shoot most (65-80% of all travel photos)
 - **Wider than ever before:** 20mm breaks your historical 24mm constraint
-- **G-series optical excellence:** Superior sharpness in your 85-90% usage zone (20-70mm)
-- **Perfect ecosystem fit:** Mobile (13mm ultra-wide) → SEL2070G (20-70mm)
+- **G-series optical excellence:** Superior sharpness in your 85-90% usage zone (20–70mm)
+- **Perfect ecosystem fit:** Mobile (13mm ultra-wide) → SEL2070G (20–70mm)
   → 85mm prime (portraits) → HX90 (telephoto backup)
 
-**Choose this if:** Optical quality in 20-70mm is paramount;
+For comparisons vs 24–70 f/4, 16–35 f/4, and 24–70 f/2.8,
+see [Why SEL2070G Over Alternatives](#why-sel2070g-over-alternatives).
+
+**Choose this if:** Optical quality in 20–70mm is paramount;
 you're okay keeping HX90 as telephoto backup.
 
 > 💡 **Note:** Options 1A and 1C have the **same initial purchase** (SEL2070G ~$1,100).
@@ -46,12 +49,16 @@ you're okay keeping HX90 as telephoto backup.
 
 **Why this lens:**
 - **Same 20mm wide end:** Breaks your 24mm constraint (matches SEL2070G)
-- **Full-frame 70-200mm quality:** Massive upgrade over HX90's 1-inch sensor at telephoto
+- **Full-frame 70-200mm quality:** Massive upgrade over HX90's small 1/2.3-inch sensor at telephoto
 - **Retire the HX90:** Simplify to 2 devices instead of 3
 - **Skip future 70-200mm investment:** Complete coverage now, no additional lens needed later
 
 **⚠️ Important Trade-offs (per LensTip review):**
-Severe 20mm distortion (-8.55%), heavy vignetting, weak 200mm edges
+Severe 20mm moustache distortion (-8.55%) and tele pincushion at 200mm (+3.21%)
+(see [LensTip Distortion chapter](https://www.lenstip.com/716.6-Lens_review-Sigma_C_20-200_mm_f_3.5-6.3_DG_Distortion_and_field_of_view.html));
+dramatic vignetting at 20mm f/3.5 on full frame (~81%, -4.81 EV)
+(see [LensTip Vignetting chapter](https://www.lenstip.com/716.8-Lens_review-Sigma_C_20-200_mm_f_3.5-6.3_DG_Vignetting.html));
+edges soften at 200mm.
 
 **Choose this if:** You want to retire HX90 immediately;
 kit simplification matters; you accept the optical compromises
@@ -76,7 +83,7 @@ you prefer buying the right tool when actually needed
 - **33MP sweet spot:** Perfect resolution balance - high quality without overkill file sizes
 - **Excellent high-ISO:** Clean ISO 6400 compensates for f/4 lens in low light
 - **AI autofocus:** Reliable tracking for children on the move
-- **Travel-optimized:** IBIS, weather sealing, dual card slots, vari-angle screen
+- **Travel-optimized:** IBIS, weather sealing, vari-angle screen; A7 IV adds dual card slots
 
 **Choose A7C II if:** Lightest weight (514g) and smallest size are priorities
 for travel with child
@@ -84,8 +91,8 @@ for travel with child
 **Choose A7 IV if:** You prefer traditional DSLR-style grip
 and more substantial feel (658g, better ergonomics)
 
-**Important:** Both cameras have identical sensor/AF/features.
-Main difference is ergonomics vs portability trade-off.
+**Important:** Both cameras share the same 33MP sensor, but AF/handling and feature details differ.
+Main difference is ergonomics vs portability; A7C II is more compact, while A7 IV offers a larger grip and dual card slots.
 Try both in person before deciding - grip comfort is highly subjective.
 
 ### 📊 Key Findings from Your Data
@@ -102,14 +109,14 @@ Try both in person before deciding - grip comfort is highly subjective.
 
 **What You Don't Need:**
 - ❌ **Dedicated 70-200mm telephoto zoom** - the recommended 85mm prime covers portraits;
-  consider Sigma 20-200mm or Tamron 25-200mm superzoom
+  consider Sigma 20–200mm or Tamron 25–200mm superzoom
   to replace HX90 with full-frame quality
 - ❌ **Ultra-wide zoom (10-18mm)** - Mobile phone 13mm handles this superbly
 - ❌ **24-105mm** - Dead zone at 50-70mm,
   doesn't go wide enough (24mm still limiting)
 
-**NEW Alternative:** Consider **Sigma 20-200mm f/3.5-6.3 DG DN**
-or **Tamron 25-200mm f/2.8-5.6 Di III VXD G2** superzooms
+**NEW Alternative:** Consider **Sigma 20–200mm f/3.5–6.3 DG DN Contemporary**
+or **Tamron 25–200mm f/2.8–5.6 Di III VXD G2** superzooms
 to retire HX90 while gaining full-frame quality in the 70-200mm range
 (see [Option 1B](#-option-1b-sigma-20-200mm-f35-63-dg-dn---best-kit-simplification)
 and [Reference: Superzoom Comparison](#-reference-superzoom-lens-comparison-sigma-vs-tamron)
@@ -121,16 +128,16 @@ for details).
 
 **Option 1A: SEL2070G + Keep HX90 (Maximum Quality in Primary Zone)** → *See [Option 1A](#-option-1a-sony-sel2070g-fe-20-70mm-f4-g---best-quality-in-primary-zone)*
 1. **Sony A7C II or A7 IV body** (~$2,200-2,500)
-2. **SEL2070G (20-70mm f/4 G)** (~$1,100, 488g) - Primary lens
+2. **SEL2070G (20–70mm f/4 G)** (~$1,100, 488g) - Primary lens
 3. **Sony FE 85mm f/1.8** (~$550-600, 371g) - Portraits
 4. **Mobile + HX90** (already own) - Ultra-wide + telephoto backup
 - **Total:** ~$3,850-4,200 | **Devices:** 3 (camera + HX90 + mobile)
 - **Best for:** Maximum optical quality in your 85-90% shooting zone
 - 💡 **Same initial purchase as Option 1C** — difference is only in future telephoto strategy
 
-**Option 1B: Sigma 20-200mm + Retire HX90 (Simplified Kit)** → *See [Option 1B](#-option-1b-sigma-20-200mm-f35-63-dg-dn---best-kit-simplification)*
+**Option 1B: Sigma 20–200mm + Retire HX90 (Simplified Kit)** → *See [Option 1B](#-option-1b-sigma-20-200mm-f35-63-dg-dn---best-kit-simplification)*
 1. **Sony A7C II or A7 IV body** (~$2,200-2,500)
-2. **Sigma 20-200mm f/3.5-6.3 DG DN** (~$900-1,100, ~570g) - Primary lens
+2. **Sigma 20–200mm f/3.5–6.3 DG DN Contemporary** (~$900-1,100, ~570g) - Primary lens
 3. **Sony FE 85mm f/1.8** (~$550-600, 371g) - Low-light portraits
 4. **Mobile** (already own) - Ultra-wide + convenience
 - **Total:** ~$3,650-4,200 | **Devices:** 2 (retire HX90)
@@ -139,10 +146,10 @@ for details).
 
 **🌟 Option 1C: Two-Lens Flexibility (SEL2070G Now + Superzoom Later)** → *See [Option 1C](#-option-1c-two-lens-flexibility-strategy-sel2070g-now--superzoom-later)*
 1. **Sony A7C II or A7 IV body** (~$2,200-2,500)
-2. **SEL2070G (20-70mm f/4 G)** (~$1,100, 488g) - Primary lens for city trips (95%)
+2. **SEL2070G (20–70mm f/4 G)** (~$1,100, 488g) - Primary lens for city trips (95%)
 3. **Sony FE 85mm f/1.8** (~$550-600, 371g) - Portraits
 4. **Mobile + HX90** (already own) - Ultra-wide + city telephoto backup
-5. **Tamron 25-200mm** (~$1,000-1,300) - Buy later when safari/wildlife trip planned
+5. **Tamron 25–200mm f/2.8–5.6 Di III VXD G2** (~$1,000-1,300) - Buy later when safari/wildlife trip planned
 - **Immediate Total:** ~$3,850-4,200 | **Eventual Total:** ~$4,850-5,500
 - **Best for:** Best quality NOW + defer superzoom cost
   + avoid optical compromises
@@ -151,7 +158,7 @@ for details).
 **Coverage:** All options provide 95%+ of your documented photography needs
 
 **Key Decision:**
-- **Quality in 20-70mm:** Option 1A or **Option 1C** (G-series excellence)
+- **Quality in 20–70mm:** Option 1A or **Option 1C** (G-series excellence)
 - **Kit simplification now:** Option 1B (with optical trade-offs)
 - **Financial flexibility + no compromises:** **🌟 Option 1C** (staged purchase)
 
@@ -173,12 +180,12 @@ for details).
 Either A7C II or A7 IV works perfectly for your style.
 For lens choice:
 
-| Option | Strategy                    | Best For                                 |
-| ------ | --------------------------- | ---------------------------------------- |
-| **1A** | SEL2070G (20-70mm f/4 G)    | Best optical quality in your 85-90% zone |
-| **1B** | Sigma 20-200mm f/3.5-6.3    | Kit simplification + retire HX90         |
-| **1C** | SEL2070G now + Tamron later | Staged investment + flexibility          |
-| **3**  | 16-35mm f/4 + 85mm prime    | *Alternative:* Ultra-wide specialization |
+| Option | Strategy                                    | Best For                                 |
+| ------ | ------------------------------------------- | ---------------------------------------- |
+| **1A** | SEL2070G (20–70mm f/4 G)                    | Best optical quality in your 85-90% zone |
+| **1B** | Sigma 20–200mm f/3.5–6.3 DG DN Contemporary | Kit simplification + retire HX90         |
+| **1C** | SEL2070G now + Tamron later                 | Staged investment + flexibility          |
+| **3**  | 16–35mm f/4 + 85mm prime                    | *Alternative:* Ultra-wide specialization |
 
 All three top strategies (1A, 1B, 1C) are equally valid - the decision depends on whether you prioritize
 optical excellence (1A), kit simplification (1B), or staged flexibility (1C).
@@ -197,10 +204,10 @@ Option 3 is an alternative for landscape-focused photographers who accept a 35-8
 - [Comprehensive Analysis: 21 Years of Photography Data](#comprehensive-analysis-21-years-of-photography-data)
   - [Overall Statistics: Evolution Over Time](#overall-statistics-evolution-over-time)
   - [Mobile Phone Photography Evolution (2006-2026)](#mobile-phone-photography-evolution-2006-2026)
-  - [Key Statistics Across All 72 Collections](#key-statistics-across-all-72-collections)
+  - [Key Statistics Across All 73 Collections](#key-statistics-across-all-73-collections)
   - [Critical Findings](#critical-findings)
     - [1. **24mm is Your Absolute Workhorse (2012-2025)**](#1-24mm-is-your-absolute-workhorse-2012-2025)
-    - [2. **Ultra-Wide (13-24mm) Dominance**](#2-ultra-wide-13-24mm-dominance)
+    - [2. **Wide and Ultra-Wide (13-24mm) Dominance**](#2-wide-and-ultra-wide-13-24mm-dominance)
     - [3. **Portrait/Telephoto Sweet Spot: 75mm**](#3-portraittelephoto-sweet-spot-75mm)
     - [4. **Mobile Phone Contribution (2012-2026)**](#4-mobile-phone-contribution-2012-2026)
     - [5. **Cumulative Coverage Percentages**](#5-cumulative-coverage-percentages)
@@ -262,7 +269,7 @@ Option 3 is an alternative for landscape-focused photographers who accept a 35-8
     - [Investment Analysis:](#investment-analysis)
   - [🥈 Alternative: **Sony A7 IV**](#-alternative-sony-a7-iv)
     - [⚠️ **Important Considerations: A7C II vs A7 IV**](#️-important-considerations-a7c-ii-vs-a7-iv)
-  - [🥉 Consider: **Sony A7 V** (If Budget Allows)](#-consider-sony-a7-v-if-budget-allows)
+  - [🥉 Consider: **Sony A7 V (ILCE‑7M5)** (If Budget Allows)](#-consider-sony-a7-v-ilce7m5-if-budget-allows)
   - [❌ NOT Recommended: **Sony A7R Series** (A7R V, A7R IV)](#-not-recommended-sony-a7r-series-a7r-v-a7r-iv)
   - [📊 Camera Body Comparison Table](#-camera-body-comparison-table)
   - [🎯 Final Camera Body Recommendation](#-final-camera-body-recommendation)
@@ -280,17 +287,18 @@ Option 3 is an alternative for landscape-focused photographers who accept a 35-8
 - [🎯 Bottom Line: Your Optimal Lens Strategy](#-bottom-line-your-optimal-lens-strategy)
   - [Your Three Top Strategies (Plus Alternative)](#your-three-top-strategies-plus-alternative)
 - [Notes](#notes)
+  - [Sources and Citations](#sources-and-citations)
 
 ---
 
 ## Your Current/Planned Gear Context
 
 - 🔍 **85mm f/1.8 prime** - Recommended for portraits (~$550-600)
-- ✅ **Sony HX90** (24-720mm equivalent) - Auxiliary camera for telephoto needs
+- ✅ **Sony HX90** (24–720mm equivalent) - Auxiliary camera for telephoto needs
 - ✅ **Mobile phones** - 13mm/23mm/27mm ultra-wide and wide angles
 - 🔍 **Main zoom lens** - To be determined (this recommendation)
 
-**Implication:** Your main dedicated camera lens should focus on the **20-70mm range**
+**Implication:** Your main dedicated camera lens should focus on the **20–70mm range**
 (or 20-200mm for kit simplification),
 since ultra-wide needs (13-18mm) are well-served by your mobile phone,
 portraits will be covered by the recommended 85mm f/1.8 prime,
@@ -316,14 +324,14 @@ Korea, China, Norway, and many more), here are the definitive findings:
 
 **Transition Period (2012-2016): Wide Angle Revolution**
 
-- **Dominant focal length:** 24mm (ultra-wide for landscapes)
+- **Dominant focal length:** 24mm (wide-angle for landscapes)
 - **Usage pattern:** 50-75% of shots at 24mm
 - **Equipment:** First zoom lens (24-75mm range) + compact cameras
 - **Style:** Shift to landscape-focused wide-angle photography
 
 **Recent Years (2017-2025): Mobile + Ultra-Wide Integration**
 
-- **Dominant focal lengths:** 23-27mm (ultra-wide to wide)
+- **Dominant focal lengths:** 23-27mm (wide-angle range)
 - **Usage pattern:** 50-70% at primary wide angle
 - **Equipment:** Smartphones (13mm/23mm/27mm) + dedicated cameras
 - **Style:** Multi-camera approach with ultra-wide emphasis
@@ -374,6 +382,8 @@ reveals your smartphone usage patterns:
   - **5% at 46mm** (NEW: 2x digital/hybrid zoom)
   - **Pattern:** Most balanced focal length distribution to date
 
+  Note: Phones may record intermediate 25–29mm buckets due to lens processing; your reports show S22 at 25mm (11.73%) and S25 at 25mm (4.67%).
+
 **Critical Mobile Phone Insights:**
 
 1. **23-27mm is YOUR mobile sweet spot** (60-78% of all smartphone photos)
@@ -404,7 +414,7 @@ reveals your smartphone usage patterns:
    - Ultra-wide (13mm): 8% - dramatic landscapes
    - Mid-range (46mm): 5% - emerging focal length interest
 
-### Key Statistics Across All 72 Collections
+### Key Statistics Across All 73 Collections
 
 | Period    | Collections | Total Photos | Median FL | Mean FL | Most Used FL     |
 | --------- | ----------- | ------------ | --------- | ------- | ---------------- |
@@ -422,7 +432,7 @@ reveals your smartphone usage patterns:
 - **Key insight:** This was often the WIDEST available -
   you likely want even wider
 
-#### 2. **Ultra-Wide (13-24mm) Dominance**
+#### 2. **Wide and Ultra-Wide (13-24mm) Dominance**
 
 - **13mm (smartphone):** Growing usage 2020-2025 for dramatic perspectives
 - **23-24mm combined:** Covers 60-80% of modern travel photography
@@ -500,7 +510,7 @@ your mobile ALREADY covers:
 - Standard wide-angle (23-27mm)
 - Modest telephoto (69mm)
 
-This makes 20-70mm dedicated lens even MORE logical -
+This makes 20–70mm dedicated lens even MORE logical -
 it fills the quality gap without duplicating mobile convenience.
 
 #### 5. **Cumulative Coverage Percentages**
@@ -529,7 +539,8 @@ Analyzing frequency distributions across all major travel collections:
 - **One-month photos (Dec 2021):** Median 52mm, most used 75mm (27%) and 45mm (31%)
 - **100-day photos (Mar 2022):** Median 33mm, most used 33mm (34%) and 24mm (26%)
 - **Half-year photos (May 2022):** Median 42mm, most used 67mm (14%) and 52-75mm (12-13% each)
-- Pattern: Mixed focal length usage with telephoto for flattering portraits (67-75mm) and wider angles (24-45mm) for environmental baby shots
+- Pattern: Mixed focal length usage with telephoto
+  for flattering portraits (67-75mm) and wider angles (24-45mm) for environmental baby shots
 
 **Budapest 2016 (Portrait-Focused Trip):**
 
@@ -609,7 +620,8 @@ revealing how environment influences your shooting style:
 - **Overall trip pattern:** 39% at 24mm + 12% at 75mm + 12% at 33mm + 7% at 105mm
   - Extended Arctic trip showed most diverse focal length usage of any trip
   - Wide variety due to: landscapes (24mm), aurora (24mm), distant subjects (105mm), portraits (75mm)
-- **Arctic winter landscapes:** Primarily wide-angle for vast scenery, with telephoto for distant landscape features and northern lights
+- **Arctic winter landscapes:** Primarily wide-angle for vast scenery,
+  with telephoto for distant landscape features and northern lights
 
 **Key Insights:**
 
@@ -711,12 +723,11 @@ You don't use "a camera" - you use **an ecosystem of focal lengths**
 distributed across devices:
 
 - Mobile handles: 13mm (drama), 23mm (convenience), 69mm (casual tele)
-- Dedicated camera needs: 20-70mm (quality storytelling)
+- Dedicated camera needs: 20–70mm (quality storytelling)
 - 85mm prime: Dedicated portraits
 - HX90: Safety net for extreme telephoto
 
-**This validates SEL2070G perfectly** - it fills the "quality gap" (20-70mm)
-without duplicating mobile convenience zones.
+This setup covers your quality gap (20–70mm) without duplicating mobile convenience.
 
 ---
 
@@ -913,11 +924,11 @@ Your 65-80% wide-angle usage isn't because:
 **Based on your 56,196 photos analyzed,
 you have three excellent lens strategies:**
 
-| Rank    | Lens / Strategy                      | Price       | Best For                                                  |
-| ------- | ------------------------------------ | ----------- | --------------------------------------------------------- |
-| **#1A** | Sony SEL2070G (20-70mm f/4 G)        | ~$1,100     | Maximum quality in 20-70mm (your 85-90% zone)             |
-| **#1B** | Sigma 20-200mm f/3.5-6.3 DG DN       | ~$900-1,100 | Kit simplification + retire HX90 (but optical trade-offs) |
-| **#1C** | SEL2070G now + Tamron 25-200mm later | ~$1,100 now | Staged investment + right tool for each trip type         |
+| Rank    | Lens / Strategy                             | Price       | Best For                                                  |
+| ------- | ------------------------------------------- | ----------- | --------------------------------------------------------- |
+| **#1A** | Sony SEL2070G (20–70mm f/4 G)               | ~$1,100     | Maximum quality in 20–70mm (your 85-90% zone)             |
+| **#1B** | Sigma 20–200mm f/3.5–6.3 DG DN Contemporary | ~$900-1,100 | Kit simplification + retire HX90 (but optical trade-offs) |
+| **#1C** | SEL2070G now + Tamron 25–200mm later        | ~$1,100 now | Staged investment + right tool for each trip type         |
 
 > 💡 **Practical Note:** Options 1A and 1C start with the **same purchase** (SEL2070G ~$1,100).
 > Buy the SEL2070G now, then decide later whether to keep HX90 long-term (1A)
@@ -939,18 +950,16 @@ if optical quality at 20-70mm is priority:**
 
 #### Ideal Ecosystem Integration
 
-- ✅ **Mobile ultra-wide (13mm)** → **SEL2070G (20-70mm)**
-  → **85mm prime** → **HX90 (24-720mm)**
-- ✅ **Zero overlap** between lenses - each serves distinct purpose
-- ✅ **One lens on camera 90% of the time** - minimal lens changes
-- ✅ **Lightweight f/4 aperture** - travel-friendly without sacrificing too much low-light capability
+Mobile 13mm → SEL2070G 20–70mm → 85mm prime → HX90 24–720mm. Minimal overlap,
+one lens covers ~90% of shots; travel-friendly f/4.
+See [Your Complete Kit Strategy](#-your-complete-kit-strategy) for details.
 
 #### Technical Advantages
 
 - ✅ **20mm gives you MORE width** than you've ever had (vs 24mm limit)
 - ✅ **Native Sony E-mount** - optimal autofocus and optical quality
 - ✅ **G-series optics** - excellent sharpness and color rendition
-- ✅ **Compact for the range** - easier to travel with than 24-70mm f/2.8
+- ✅ **Compact for the range** - easier to travel with than 24–70mm f/2.8
 
 #### Data-Based Validation
 
@@ -962,6 +971,10 @@ Based on your 40,000+ photo analysis:
 - **Overall coverage:** 90-95% of typical travel photography needs
 
 #### Why SEL2070G Over Alternatives:
+
+Quick comparisons below; core rationale and ecosystem fit are summarized in
+[Option 1A](#-option-1a-sony-sel2070g-fe-20-70mm-f4-g---best-quality-in-primary-zone)
+and [Data-Based Validation](#data-based-validation).
 
 **vs 24-70mm f/4:**
 
@@ -986,10 +999,10 @@ Based on your 40,000+ photo analysis:
 
 **Main Setup (95%+ coverage):**
 
-1. **Sony SEL2070G (20-70mm f/4 G)** - Primary lens, stays on camera
+1. **Sony SEL2070G (20–70mm f/4 G)** - Primary lens, stays on camera
 2. **Sony FE 85mm f/1.8** (~$550-600) - Portrait sessions, shallow DOF work
 3. **Mobile 13mm ultra-wide** - Occasional dramatic wide perspectives
-4. **HX90 (24-720mm)** - Backup/extreme telephoto when needed
+4. **HX90 (24–720mm)** - Backup/extreme telephoto when needed
 
 **Lens Usage Prediction:**
 
@@ -1013,7 +1026,7 @@ but with important trade-offs:**
 - ✅ 10x zoom range in one lens
 
 **2. Full-Frame Quality at 70-200mm:**
-- ✅ **Massive upgrade over HX90's 1-inch sensor** - dramatically better image quality
+- ✅ **Massive upgrade over HX90's small 1/2.3-inch sensor** - dramatically better image quality
 - ✅ Better low-light performance (f/6.3 + full-frame >> HX90)
 - ✅ Your 10-20% telephoto shots become dramatically better quality
 
@@ -1043,21 +1056,21 @@ but with important trade-offs:**
 
 **Trade-offs vs SEL2070G:**
 
-| Factor                | SEL2070G               | Sigma 20-200mm             |
-| --------------------- | ---------------------- | -------------------------- |
-| **20-70mm quality**   | ⭐ Excellent (G-series) | Good center, edge concerns |
-| **20mm distortion**   | ⭐ Minimal              | Severe (-8.55%)            |
-| **70-200mm quality**  | HX90 (1-inch sensor)   | ⭐ Full-frame               |
-| **200mm sharpness**   | N/A                    | Weak at edges              |
-| **Kit complexity**    | 3 devices              | ⭐ 2 devices                |
-| **Future investment** | May want 70-200mm      | ⭐ Complete                 |
-| **Aperture**          | f/4 constant           | f/3.5-6.3 variable         |
+| Factor                | SEL2070G                 | Sigma 20-200mm             |
+| --------------------- | ------------------------ | -------------------------- |
+| **20-70mm quality**   | ⭐ Excellent (G-series)   | Good center, edge concerns |
+| **20mm distortion**   | ⭐ Minimal                | Severe (-8.55%)            |
+| **70-200mm quality**  | HX90 (1/2.3-inch sensor) | ⭐ Full-frame               |
+| **200mm sharpness**   | N/A                      | Weak at edges              |
+| **Kit complexity**    | 3 devices                | ⭐ 2 devices                |
+| **Future investment** | May want 70-200mm        | ⭐ Complete                 |
+| **Aperture**          | f/4 constant             | f/3.5-6.3 variable         |
 
 #### **Your Complete Kit with Sigma 20-200mm**
 
 **Main Setup (95%+ coverage):**
 
-1. **Sigma 20-200mm f/3.5-6.3 DG DN** (~$900-1,100, ~570g) - Primary lens, stays on camera.
+1. **Sigma 20–200mm f/3.5–6.3 DG DN Contemporary** (~$900-1,100, ~570g) - Primary lens, stays on camera.
 2. **Sony FE 85mm f/1.8** (~$550-600) - Low-light portraits, shallow DOF work.
 3. **Mobile 13mm ultra-wide** - Occasional dramatic wide perspectives.
 4. **HX90** - RETIRED (no longer needed).
@@ -1068,7 +1081,7 @@ but with important trade-offs:**
 - **85mm prime:** 5-10% (low-light portrait work).
 - **Mobile phone:** 15-25% (ultra-wide convenience shots).
 
-**Bottom Line:** Sigma 20-200mm offers excellent kit simplification
+**Bottom Line:** Sigma 20–200mm offers excellent kit simplification
 and dramatically improves telephoto quality—
 but the SEL2070G provides noticeably better optical performance
 in your primary 20-70mm zone where you take 85-90% of shots.
@@ -1113,9 +1126,9 @@ if you might not need it for years?**
 
 | Trip Type                      | Lens to Pack     | Why                                      |
 | ------------------------------ | ---------------- | ---------------------------------------- |
-| **City travel (95% of trips)** | SEL2070G 20-70mm | Best quality, covers your 65-80% zone    |
-| **Safari/wildlife**            | Tamron 25-200mm  | Need telephoto reach                     |
-| **Sports events**              | Tamron 25-200mm  | Need telephoto for action                |
+| **City travel (95% of trips)** | SEL2070G 20–70mm | Best quality, covers your 65-80% zone    |
+| **Safari/wildlife**            | Tamron 25–200mm  | Need telephoto reach                     |
+| **Sports events**              | Tamron 25–200mm  | Need telephoto for action                |
 | **Mixed/uncertain**            | SEL2070G + HX90  | G-series quality + HX90 telephoto backup |
 
 #### Why This Makes Sense for You
@@ -1148,7 +1161,7 @@ if you might not need it for years?**
 
 | Lens/Device                     | Cost              | Weight | Role                          |
 | ------------------------------- | ----------------- | ------ | ----------------------------- |
-| SEL2070G (20-70mm f/4 G)        | ~$1,100           | 488g   | Primary lens for 95% of trips |
+| SEL2070G (20–70mm f/4 G)        | ~$1,100           | 488g   | Primary lens for 95% of trips |
 | Sony FE 85mm f/1.8              | ~$550-600         | 371g   | Low-light portraits           |
 | HX90                            | (owned)           | 245g   | City telephoto backup         |
 | Mobile                          | (owned)           | —      | Ultra-wide + convenience      |
@@ -1156,10 +1169,10 @@ if you might not need it for years?**
 
 **Future Purchase (When Needed):**
 
-| Lens/Device                    | Cost              | Weight | Role                         |
-| ------------------------------ | ----------------- | ------ | ---------------------------- |
-| Tamron 25-200mm f/2.8-5.6      | ~$1,000-1,300     | ~570g  | Safari/wildlife/sports trips |
-| **Total eventual investment:** | **~$2,650-3,000** |        | (but can defer indefinitely) |
+| Lens/Device                             | Cost              | Weight | Role                         |
+| --------------------------------------- | ----------------- | ------ | ---------------------------- |
+| Tamron 25–200mm f/2.8–5.6 Di III VXD G2 | ~$1,000-1,300     | ~570g  | Safari/wildlife/sports trips |
+| **Total eventual investment:**          | **~$2,650-3,000** |        | (but can defer indefinitely) |
 
 #### Trade-offs vs Other Options
 
@@ -1167,7 +1180,7 @@ if you might not need it for years?**
 | ------------------------- | ------------------------- | --------------------- | ---------------------------- |
 | **Immediate cost**        | ~$1,100                   | ~$900-1,100           | **~$1,100**                  |
 | **20-70mm quality**       | ⭐ Excellent               | Good (compromised)    | **⭐ Excellent**              |
-| **Telephoto quality**     | HX90 (1-inch)             | Full-frame            | **Full-frame (when bought)** |
+| **Telephoto quality**     | HX90 (1/2.3-inch)         | Full-frame            | **Full-frame (when bought)** |
 | **Kit simplicity**        | 3 devices                 | ⭐ 2 devices           | 3 devices (for now)          |
 | **City trip readiness**   | ⭐ Optimal                 | Overkill              | **⭐ Optimal**                |
 | **Safari readiness**      | ❌ HX90 only               | ⭐ Ready               | ⚠️ Need to buy Tamron         |
@@ -1315,7 +1328,7 @@ for those considering Option 1B (Sigma 20-200mm).**
 
 **1. Higher Quality in 70-200mm Range Than HX90**
 
-- **HX90 reality:** 1-inch sensor, small aperture at telephoto end.
+- **HX90 reality:** 1/2.3-inch sensor class, small aperture at telephoto end.
 - **These lenses:** Full-frame quality at 70-200mm on A7C II/A7 IV.
 - **Image quality jump:** Dramatic improvement for telephoto shots.
 - **Low-light advantage:** f/5.6-6.3 at 200mm >> HX90's effective aperture at equivalent focal length.
@@ -1359,7 +1372,7 @@ and 200mm+ is extremely rare (<2%).
 - ✅ **20mm wide end** - Matches your proven preference (same as SEL2070G).
 - ✅ **200mm telephoto** - Eliminates 70-200mm lens need, replaces HX90 role.
 - ✅ **10x zoom range** - One lens covers nearly everything.
-- ✅ **Full-frame quality** - Massive upgrade over HX90's 1-inch sensor at telephoto.
+- ✅ **Full-frame quality** - Massive upgrade over HX90's small 1/2.3-inch sensor at telephoto.
 - ✅ **Compact for range** - Contemporary line prioritizes portability.
 - ✅ **Better low-light** - f/3.5 at wide end vs HX90's smaller sensor.
 - ✅ **Very good center sharpness** - Excellent resolution from 20-100mm (per LensTip testing).
@@ -1438,7 +1451,7 @@ the SEL2070G remains the better choice for your primary 20-70mm zone.
 - ✅ Price matters (~$100-200 cheaper expected).
 - **Best for your documented shooting style** - 20mm wide end aligns with your data.
 
-**Choose Tamron 25-200mm if:**
+**Choose Tamron 25–200mm if:**
 - ⚠️ You prioritize faster aperture throughout the range.
 - ⚠️ You can accept 25mm wide end (same as your historical 24mm constraint).
 - ⚠️ You value Tamron's VXD AF motor speed.
@@ -1451,22 +1464,22 @@ the SEL2070G remains the better choice for your primary 20-70mm zone.
 
 | Lens/Device            | Range       | Weight   | Cost              | Role                     |
 | ---------------------- | ----------- | -------- | ----------------- | ------------------------ |
-| SEL2070G               | 20-70mm f/4 | 488g     | ~$1,100           | Primary (90%)            |
+| SEL2070G               | 20–70mm f/4 | 488g     | ~$1,100           | Primary (90%)            |
 | Sony FE 85mm f/1.8     | 85mm f/1.8  | 371g     | ~$550-600         | Portraits (5-10%)        |
-| HX90                   | 24-720mm    | 245g     | (owned)           | Telephoto backup (2-5%)  |
-| Mobile                 | 13-69mm     | N/A      | (owned)           | Ultra-wide + convenience |
+| HX90                   | 24–720mm    | 245g     | (owned)           | Telephoto backup (2-5%)  |
+| Mobile                 | 13–69mm     | N/A      | (owned)           | Ultra-wide + convenience |
 | **Total primary kit:** |             | **859g** | **~$1,650-1,700** | **Devices: 3**           |
 
 > Coverage: 95%+ | Requires: HX90 for 70-200mm quality alternative
 
 **Option 1B: Sigma 20-200mm + 85mm (Simplified Kit—With Trade-offs)**
 
-| Lens/Device            | Range              | Weight    | Cost              | Role                         |
-| ---------------------- | ------------------ | --------- | ----------------- | ---------------------------- |
-| Sigma 20-200mm         | 20-200mm f/3.5-6.3 | ~570g     | ~$900-1,100       | Primary (95%)                |
-| Sony FE 85mm f/1.8     | 85mm f/1.8         | 371g      | ~$550-600         | Low-light portraits          |
-| Mobile                 | 13-69mm            | N/A       | (owned)           | Ultra-wide + convenience     |
-| **Total primary kit:** |                    | **~941g** | **~$1,450-1,700** | **Devices: 2 (retire HX90)** |
+| Lens/Device                       | Range              | Weight    | Cost              | Role                         |
+| --------------------------------- | ------------------ | --------- | ----------------- | ---------------------------- |
+| Sigma 20–200mm DG DN Contemporary | 20–200mm f/3.5–6.3 | ~570g     | ~$900-1,100       | Primary (95%)                |
+| Sony FE 85mm f/1.8                | 85mm f/1.8         | 371g      | ~$550-600         | Low-light portraits          |
+| Mobile                            | 13–69mm            | N/A       | (owned)           | Ultra-wide + convenience     |
+| **Total primary kit:**            |                    | **~941g** | **~$1,450-1,700** | **Devices: 2 (retire HX90)** |
 
 > Coverage: 95%+ | Benefit: Full-frame quality at 70-200mm
 >
@@ -1478,17 +1491,17 @@ the SEL2070G remains the better choice for your primary 20-70mm zone.
 
 | Lens/Device            | Range       | Weight   | Cost              | Role                     |
 | ---------------------- | ----------- | -------- | ----------------- | ------------------------ |
-| SEL2070G               | 20-70mm f/4 | 488g     | ~$1,100           | Primary (95% of trips)   |
+| SEL2070G               | 20–70mm f/4 | 488g     | ~$1,100           | Primary (95% of trips)   |
 | Sony FE 85mm f/1.8     | 85mm f/1.8  | 371g     | ~$550-600         | Portraits (5-10%)        |
-| HX90                   | 24-720mm    | 245g     | (owned)           | Telephoto backup (rare)  |
-| Mobile                 | 13-69mm     | N/A      | (owned)           | Ultra-wide + convenience |
+| HX90                   | 24–720mm    | 245g     | (owned)           | Telephoto backup (rare)  |
+| Mobile                 | 13–69mm     | N/A      | (owned)           | Ultra-wide + convenience |
 | **Total primary kit:** |             | **859g** | **~$1,650-1,700** | **Devices: 3**           |
 
 **Phase 2 - Buy Later (Safari/Wildlife Trips):**
 
-| Lens/Device     | Range              | Weight | Cost          | Role                |
-| --------------- | ------------------ | ------ | ------------- | ------------------- |
-| Tamron 25-200mm | 25-200mm f/2.8-5.6 | ~570g  | ~$1,000-1,300 | Safari primary lens |
+| Lens/Device                             | Range              | Weight | Cost          | Role                |
+| --------------------------------------- | ------------------ | ------ | ------------- | ------------------- |
+| Tamron 25–200mm f/2.8–5.6 Di III VXD G2 | 25–200mm f/2.8–5.6 | ~570g  | ~$1,000-1,300 | Safari primary lens |
 
 > Coverage: 100% | Choose lens per trip type | Eventual total: ~$2,650-3,000
 >
@@ -1500,7 +1513,7 @@ the SEL2070G remains the better choice for your primary 20-70mm zone.
 | ---------------------- | ------------------------------ | --------------------------------- | --------------------------------- |
 | **Wide-angle quality** | ⭐ Excellent (G-series)         | Good center, distortion at edges* | ⭐ Excellent (G-series)            |
 | **20mm distortion**    | ⭐ Minimal                      | **Severe (-8.55% barrel)**        | ⭐ Minimal (SEL2070G)              |
-| **70-200mm quality**   | HX90 (1-inch sensor)           | **Full-frame (massive upgrade)**  | ⭐ Tamron f/2.8-5.6 (when needed)  |
+| **70–200mm quality**   | HX90 (1/2.3-inch sensor)       | **Full-frame (massive upgrade)**  | ⭐ Tamron f/2.8–5.6 (when needed)  |
 | **200mm sharpness**    | N/A (HX90 handles)             | Weakest point of lens             | ⭐ Better (Tamron lens design)     |
 | **Weight per trip**    | 859g (3 devices)               | **~941g (2 devices)**             | 859g city / ~570g safari          |
 | **Simplicity NOW**     | 3 devices to manage            | **2 devices, one lens for 95%**   | 3 devices (HX90 bridges gap)      |
@@ -1513,7 +1526,10 @@ the SEL2070G remains the better choice for your primary 20-70mm zone.
 
 *Per LensTip technical review, Jan 2026. Software correction handles most issues automatically.
 
-**Option 3 (16-35mm f/4 + 85mm prime):** Not included in table above as it's a specialized ultra-wide setup that accepts a 35-85mm gap. Best for landscape-focused photographers who prioritize the widest possible field of view (16mm) over versatility. See [Option 3](#option-3-16-35mm-f4-ultra-wide-specialist) for details.
+**Option 3 (16-35mm f/4 + 85mm prime):** Not included in table above
+as it's a specialized ultra-wide setup that accepts a 35-85mm gap.
+Best for landscape-focused photographers who prioritize the widest possible field
+of view (16mm) over versatility. See [Option 3](#option-3-16-35mm-f4-ultra-wide-specialist) for details.
 
 ### Final Verdict on Superzoom Strategy
 
@@ -1538,7 +1554,8 @@ the SEL2070G remains the better choice for your primary 20-70mm zone.
 
 **🔍 Updated Assessment After LensTip Review (Jan 2026):**
 
-The LensTip technical review revealed the Sigma 20-200mm has **more optical compromises than initially expected**, particularly:
+The LensTip technical review revealed the Sigma 20-200mm
+has **more optical compromises than initially expected**, particularly:
 - Severe barrel distortion (-8.55%) and moustache pattern at 20mm
 - Heavy vignetting on full frame
 - 200mm being the weakest focal length for sharpness
@@ -1576,7 +1593,8 @@ The Sigma 20-200mm remains compelling for your use case IF:
 - **Maximum convenience everywhere:** Sigma 20-200mm (Option 1B)—but with optical caveats per LensTip review
 - **Best of both worlds with staged investment:** SEL2070G now + Tamron later (Option 1C)
 
-**Note:** Both Sigma 20-200mm and Tamron 25-200mm are newer lenses - verify availability and read early reviews before purchasing.
+**Note:** Both Sigma 20-200mm and Tamron 25-200mm are newer
+lenses - verify availability and read early reviews before purchasing.
 
 ---
 
@@ -1592,7 +1610,7 @@ This fundamentally changes the calculus for a two-zoom kit.
 #### The Two-Zoom Dream vs. Reality
 
 **The Traditional Enthusiast Kit:**
-- 20-70mm f/4 G for wide-to-normal coverage
+- 20–70mm f/4 G for wide-to-normal coverage
 - 70-200mm f/4 G for telephoto reach
 - Combined: ~970g lens weight, ~$2,500 investment
 
@@ -1684,7 +1702,8 @@ The Sigma 20-200mm and Tamron 25-200mm represent a deliberate compromise:
 | **Optical quality**         | Excellent per lens | Good overall       |
 | **Travel-with-child score** | ⚠️ Complex          | ✅ Practical        |
 
-**The superzoom trade-off**: Slightly lower optical quality across the range in exchange for dramatically simpler workflow and lighter kit.
+**The superzoom trade-off**: Slightly lower optical quality across the range
+in exchange for dramatically simpler workflow and lighter kit.
 
 #### Your Data Supports Single-Lens Simplicity
 
@@ -1737,7 +1756,8 @@ The Sigma 20-200mm and Tamron 25-200mm represent a deliberate compromise:
 - ✅ You prefer staged investment (buy superzoom only when needed)
 - ✅ HX90 adequately handles rare city telephoto needs
 
-**This analysis supports multiple strategies depending on your priorities. For maximum simplicity NOW, Option 1B (Sigma). For maximum quality in your primary zone, Options 1A or 1C.**
+**This analysis supports multiple strategies depending on your priorities.
+For maximum simplicity NOW, Option 1B (Sigma). For maximum quality in your primary zone, Options 1A or 1C.**
 
 ---
 
@@ -1763,7 +1783,7 @@ your camera body needs are clear:
 
 - In-body image stabilization (helps with f/4 lens at slower shutter speeds).
 - Tilting/articulating screen (easier low-angle shots with kids).
-- Dual card slots (peace of mind for irreplaceable travel memories).
+- Dual card slots (peace of mind; A7 IV has them, A7C II is single-slot).
 - Compact size (easier to carry all day).
 
 **NOT Critical for You:**
@@ -1794,15 +1814,14 @@ your camera body needs are clear:
 - **Your benefit:** Great image quality without unnecessary resolution.
 
 **3. Modern Autofocus for Family Photography**
-- **AI-powered subject detection** - Tracks moving children automatically.
-- **Real-time tracking** - Keeps focus on your 4-year-old as they explore.
-- **Eye AF for people** - Ensures sharp portraits even when child is moving.
+- **AI-powered subject detection (A7C II AI processing unit)** - Tracks moving children automatically.
+- **Real-time Tracking/Eye AF** - Keeps focus reliably on people; A7 IV offers strong AF but lacks the AI unit found in A7C II.
 - **Your shooting style:** Wide angles + moving subjects = need reliable AF.
 
 **4. Practical Travel Features**
-- **5-axis IBIS:** ~7 stops stabilization - handheld wide-angle shots in low light.
+- **5-axis IBIS:** Up to ~7 stops (manufacturer/CIPA rating) - handheld wide-angle shots in low light.
 - **Vari-angle LCD screen:** Low-angle shots of child at their eye level.
-- **Dual card slots:** Backup peace of mind for irreplaceable family travel photos.
+- **Single card slot (A7C II); A7 IV adds dual card slots** for redundancy.
 - **Weather sealing:** Protection during unpredictable travel conditions.
 
 **5. Battery Life That Works**
@@ -1817,15 +1836,15 @@ your camera body needs are clear:
 
 #### Investment Analysis:
 
-| Feature       | A7C II         | Your Benefit                                   |
-| ------------- | -------------- | ---------------------------------------------- |
-| **Weight**    | 514g           | Lightest full-frame - easier travel with child |
-| **Sensor**    | 33MP           | Ample resolution, excellent high ISO           |
-| **Autofocus** | AI-powered AF  | Tracks moving children effortlessly            |
-| **IBIS**      | 7 stops        | Handhold 20mm at 1/10s - f/4 less limiting     |
-| **Screens**   | Vari-angle LCD | Ground-level child shots without kneeling      |
-| **Cards**     | Dual slots     | Travel safety net                              |
-| **Price**     | ~$2,200        | Mid-range investment                           |
+| Feature       | A7C II                                     | Your Benefit                                   |
+| ------------- | ------------------------------------------ | ---------------------------------------------- |
+| **Weight**    | 514g                                       | Lightest full-frame - easier travel with child |
+| **Sensor**    | 33MP                                       | Ample resolution, excellent high ISO           |
+| **Autofocus** | AI unit subject recognition + Real-time AF | Tracks moving children effortlessly            |
+| **IBIS**      | Up to ~7 stops (CIPA)                      | Handhold 20mm at 1/10s - f/4 less limiting     |
+| **Screens**   | Vari-angle LCD                             | Ground-level child shots without kneeling      |
+| **Cards**     | Single slot (A7C II); A7 IV has dual slots | Travel safety net (dual slots on A7 IV)        |
+| **Price**     | ~$2,200                                    | Mid-range investment                           |
 
 **Total Kit Investment:**
 - Sony A7C II body: ~$2,200-2,500
@@ -1854,7 +1873,8 @@ compact, capable, and perfectly matched to SEL2070G.
 
 - **Heavier:** 658g vs 514g (144g difference = ~28% heavier).
 - **Bulkier:** Larger body - takes more bag space.
-- **Otherwise identical specs:** Same sensor, same AF, same IBIS.
+- **Specs differences:** Same 33MP sensor; A7C II adds an AI processing unit
+- for subject recognition and has higher IBIS rating (up to ~7 stops) vs A7 IV (~5.5 stops CIPA).
 
 **Choose A7 IV if:**
 - You prioritize ergonomics over compactness.
@@ -1895,7 +1915,8 @@ suggests you value compactness → **A7C II edges ahead**.
 - Users pairing with compact lenses (like SEL2070G f/4).
 - Those coming from compact cameras or smartphones.
 
-**Practical solution if concerned:** Try both in a camera store before buying. The A7C II feels VERY different from A7 IV - this is highly personal.
+**Practical solution if concerned:** Try both in a camera store before buying.
+The A7C II feels VERY different from A7 IV - this is highly personal.
 
 **2. Build Quality & Robustness (A7 IV More Robust Concern):**
 
@@ -1945,9 +1966,15 @@ suggests you value compactness → **A7C II edges ahead**.
 
 **Honest Assessment for Your Situation:**
 
-**Ergonomics:** The A7C II grip IS smaller - this is real, not imagined. If you've never held a compact rangefinder-style camera, it WILL feel different. However, with the lightweight SEL2070G (488g), the system is well-balanced. With heavier lenses, the grip becomes more noticeable.
+**Ergonomics:** The A7C II grip IS smaller - this is real, not imagined.
+If you've never held a compact rangefinder-style camera,
+it WILL feel different. However, with the lightweight SEL2070G (488g),
+the system is well-balanced. With heavier lenses, the grip becomes more noticeable.
 
-**Robustness:** The difference is MINIMAL for real-world durability. Both cameras will survive normal travel photography abuse. The A7 IV's slight edge (metal port covers, larger buttons) matters more for professional daily use than casual travel shooting.
+**Robustness:** The difference is MINIMAL for real-world durability.
+Both cameras will survive normal travel photography abuse.
+The A7 IV's slight edge (metal port covers, larger buttons) matters more
+for professional daily use than casual travel shooting.
 
 **Recommendation:** If possible, **handle both cameras in a store** before deciding.
 The grip size difference is subjective -
@@ -1958,36 +1985,36 @@ but ergonomics trump weight if you can't comfortably hold the camera.
 **Safe middle ground:** A7 IV offers peace of mind on both concerns
 (better grip, slightly more robust feel)
 for only ~$100-200 more and 144g extra weight.
-Given you're investing $3,300-3,600 total,
+Given you're investing ~$3,300–3,600 total,
 the A7 IV premium might be worth it if the grip concern is genuine.
 
 ---
 
-### 🥉 Consider: **Sony A7 V** (If Budget Allows)
+### 🥉 Consider: **Sony A7 V (ILCE‑7M5)** (If Budget Allows)
 
-**Released 2025 - Newest Generation:**
+**Status:** Official product page: [Sony A7 V (ILCE‑7M5)](https://electronics.sony.com/imaging/interchangeable-lens-cameras/all-interchangeable-lens-cameras/p/ilce7m5-b)
 
-**Significant Upgrades Over A7C II:**
+**Highlights vs A7C II/A7 IV (per Sony):**
 
-- **Better autofocus** - Next-gen AI subject recognition.
-- **Improved IBIS** - 8.5 stops (vs 7 stops in A7C II).
-- **Advanced video** - If you ever want to shoot family videos.
-- **Better ergonomics** - Refined controls and menu system.
-- **Newer sensor tech** - Improved high-ISO performance.
+- **Autofocus:** Next‑gen AF with AI‑based subject recognition.
+- **Stabilization:** Enhanced 5‑axis IBIS (see CIPA rating on product page).
+- **Video:** Expanded video features for hybrid shooting.
+- **Ergonomics:** Refinements to controls and handling.
+- **Storage/Media:** Dual card slots — Slot 1 CFexpress Type A/SD UHS‑II; Slot 2 SD UHS‑II.
+- **Sensor/processing:** Updated processing pipeline; see full specs.
 
-**Trade-offs:**
+**Trade‑offs:**
 
-- **Price premium:** ~$3,000-3,500 (vs $2,200 for A7C II).
-- **Heavier:** ~600g (vs 514g for A7C II).
-- **Feature overkill?** Most upgrades exceed casual photography needs.
+- **Price:** ~$2,900 (higher than A7C II/A7 IV).
+- **Weight/size:** More substantial than A7C II; closer to A7 IV profile.
+- **Overkill risk:** Upgrades may exceed casual travel needs.
 
 **Choose A7 V if:**
-- Budget comfortably allows $3,000-3,500.
-- Want latest technology and future-proofing.
-- Plan to shoot video alongside photos.
-- Autofocus and IBIS improvements worth the cost.
+- You want the latest AF/IBIS/video features and the price/size fit your preference.
+- You shoot video alongside photos and benefit from the hybrid improvements.
 
-**Reality check:** Your documented shooting style (casual, travel-focused) doesn't require cutting-edge tech. A7C II serves your needs at 2/3 the price.
+**Reality check:** For your travel‑focused style, A7C II or A7 IV
+already meet needs at lower cost and weight. Consider A7 V if specific new features materially improve your workflow.
 
 ---
 
@@ -2024,18 +2051,21 @@ the A7 IV premium might be worth it if the grip concern is genuine.
    - A7R V: ~$3,900 vs A7C II: ~$2,200.
    - Extra $1,700 buys ZERO practical benefit for your shooting.
 
-**Data-based verdict:** 21 years of shooting shows you value convenience and storytelling over technical specs. A7R is professional tool you don't need.
+**Data-based verdict:** 21 years of shooting shows you value convenience
+and storytelling over technical specs. A7R is professional tool you don't need.
 
 ---
 
 ### 📊 Camera Body Comparison Table
 
-| Model      | Price         | Weight | MP   | IBIS      | AF     | Best For                          |
-| ---------- | ------------- | ------ | ---- | --------- | ------ | --------------------------------- |
-| **A7C II** | ~$2,200-2,500 | 514g   | 33MP | 7 stops   | AI AF  | ⭐ **Top choice** - compact travel |
-| **A7 IV**  | ~$2,300-2,500 | 658g   | 33MP | 5.5 stops | AI AF  | Traditional grip preference       |
-| **A7 V**   | ~$3,200       | 600g   | 33MP | 8.5 stops | AI+ AF | Latest tech, future-proof         |
-| **A7R V**  | ~$3,900       | 723g   | 61MP | 8 stops   | AI+ AF | ❌ Professional use, overkill      |
+| Model      | Price         | Weight | MP   | IBIS                  | AF                                         | Best For                          |
+| ---------- | ------------- | ------ | ---- | --------------------- | ------------------------------------------ | --------------------------------- |
+| **A7C II** | ~$2,200-2,500 | 514g   | 33MP | Up to ~7 stops (CIPA) | AI unit subject recognition + Real-time AF | ⭐ **Top choice** - compact travel |
+| **A7 IV**  | ~$2,300-2,500 | 658g   | 33MP | ~5.5 stops (CIPA)     | Real-time Tracking/Eye AF (no AI unit)     | Traditional grip preference       |
+| **A7 V**   | ~$2,900       | 695g   | 33MP | ~8 stops (CIPA)       | Next‑gen AF (AI unit)                      | Latest tech, hybrid video         |
+| **A7R V**  | ~$3,900       | 723g   | 61MP | ~8 stops (CIPA)       | AI unit subject recognition + Real-time AF | ❌ Professional use, overkill      |
+
+Note: IBIS and card slot specs verified via Sony product pages for A7C II (ILCE‑7CM2), A7 IV (ILCE‑7M4), and A7 V (ILCE‑7M5). See [Sources and Citations](#sources-and-citations).
 
 ---
 
@@ -2059,7 +2089,8 @@ the A7 IV premium might be worth it if the grip concern is genuine.
 4. **You value a substantial feel** - Metal port covers, larger body inspires confidence.
 5. **Peace of mind matters** - Better ergonomics = less hand fatigue on long shooting days.
 
-**Critical: Try both in person before buying** - The grip difference is significant and highly subjective. What feels "too small" to one person feels "perfect" to another.
+**Critical: Try both in person before buying** - The grip difference is
+significant and highly subjective. What feels "too small" to one person feels "perfect" to another.
 
 **Your Complete Recommended Kit (Three Top Lens Strategies):**
 
@@ -2071,10 +2102,10 @@ Option 3 (16-35mm f/4 + 85mm) is also compatible if you prefer ultra-wide specia
 | Component                 | Cost              | Weight     |
 | ------------------------- | ----------------- | ---------- |
 | Sony A7C II               | ~$2,200-2,500     | 514g       |
-| SEL2070G 20-70mm f/4      | ~$1,100           | 488g       |
+| SEL2070G 20–70mm f/4      | ~$1,100           | 488g       |
 | Sony FE 85mm f/1.8        | ~$550-600         | 371g       |
 | Mobile phone (13/23/69mm) | (owned)           | —          |
-| HX90 backup (24-720mm)    | (owned)           | —          |
+| HX90 backup (24–720mm)    | (owned)           | —          |
 | **Total primary system:** | **~$3,850-4,200** | **1,373g** |
 
 **Camera Body Option B: Better Ergonomics (A7 IV)**
@@ -2082,10 +2113,10 @@ Option 3 (16-35mm f/4 + 85mm) is also compatible if you prefer ultra-wide specia
 | Component                 | Cost              | Weight     |
 | ------------------------- | ----------------- | ---------- |
 | Sony A7 IV                | ~$2,300-2,500     | 658g       |
-| SEL2070G 20-70mm f/4      | ~$1,100           | 488g       |
+| SEL2070G 20–70mm f/4      | ~$1,100           | 488g       |
 | Sony FE 85mm f/1.8        | ~$550-600         | 371g       |
 | Mobile phone (13/23/69mm) | (owned)           | —          |
-| HX90 backup (24-720mm)    | (owned)           | —          |
+| HX90 backup (24–720mm)    | (owned)           | —          |
 | **Total primary system:** | **~$3,950-4,200** | **1,517g** |
 
 **Both setups cover:**
@@ -2093,7 +2124,8 @@ Option 3 (16-35mm f/4 + 85mm) is also compatible if you prefer ultra-wide specia
 - Professional image quality where it matters.
 - Casual shooting style without professional overkill.
 
-**Key difference:** 144g weight difference vs significantly better grip comfort - personal preference determines which is right for you.
+**Key difference:** 144g weight difference vs significantly better grip
+comfort - personal preference determines which is right for you.
 
 **Not recommended:** A7R series (overkill resolution, wrong tool for your needs)
 
@@ -2117,14 +2149,15 @@ Option 3 (16-35mm f/4 + 85mm) is also compatible if you prefer ultra-wide specia
 ### Choose **Sigma 20-200mm f/3.5-6.3 DG DN** (Option 1B) if:
 
 - ✅ **You want to retire HX90 immediately** - simplify to 2 devices now
-- ✅ **Better telephoto quality matters** - full-frame 70-200mm >> HX90's 1-inch sensor
+- ✅ **Better telephoto quality matters** - full-frame 70-200mm >> HX90's small 1/2.3-inch sensor
 - ✅ **You want to skip future 70-200mm investment** - complete coverage now
 - ✅ **Kit simplification is priority** - one lens covers 95%+
 - ✅ **You shoot primarily for memories** - not pixel-peeping or large prints
 - ✅ **You accept software distortion correction** - cameras handle this automatically.
 - ⚠️ You accept the trade-offs: severe 20mm distortion, weaker 200mm edges, heavy vignetting.
 - ✅ Budget: ~$1,450-1,700 for lenses (Sigma + 85mm).
-- ✅ **Best for:** Simpler kit with dramatically better telephoto—but **read the LensTip review** to understand optical compromises.
+- ✅ **Best for:** Simpler kit with dramatically better telephoto—but **read the LensTip review**
+  to understand optical compromises.
 
 ### Choose **Two-Lens Flexibility Strategy** (Option 1C) if:
 
@@ -2223,7 +2256,8 @@ here's the bottom line:
 
 ### **Alternative Strategies**
 
-**🥉 Budget: Mobile + 85mm + HX90** (~$550-600 for 85mm prime only) - If minimizing cost. You're already shooting 30-50% on mobile.
+**🥉 Budget: Mobile + 85mm + HX90** (~$550-600 for 85mm prime only) - If minimizing cost.
+You're already shooting 30-50% on mobile.
 
 ---
 
@@ -2304,10 +2338,28 @@ to your dedicated camera with superior image quality.
 - **Sony FE 85mm f/1.8 (~$550-600)** recommended as dedicated portrait lens for all kit options
 - **Three top lens strategies recommended as optimal matches for documented shooting style:**
   - **Option 1A - SEL2070G:** Best optical quality at 20-70mm (your 85-90% zone) + keep HX90
-  - **Option 1B - Sigma 20-200mm:** Best kit simplification + full-frame telephoto—but with optical trade-offs per LensTip review
+  - **Option 1B - Sigma 20-200mm:** Best kit simplification + full-frame
+    telephoto—but with optical trade-offs per LensTip review
   - **Option 1C - Two-Lens Flexibility:** SEL2070G now + Tamron 25-200mm later when safari/wildlife trips are planned
 - **Alternative strategy:**
   - **Option 3 - 16-35mm f/4 + 85mm prime:** Ultra-wide specialization (accepts 35-85mm gap)
 - Mobile phone usage: 15,528 photos showing 75% at 23-29mm primary wide angle,
   validating your consistent wide-angle preference across ALL photography platforms
-- Samsung S25 current usage: 3,296 photos in <1 year showing mobile as primary daily camera (64% at 23mm, 15% at 69mm, 8% at 13mm)
+- Samsung S25 current usage: 3,296 photos in <1 year showing mobile
+  as primary daily camera (64% at 23mm, 15% at 69mm, 8% at 13mm)
+
+### Sources and Citations
+
+- Local reports (workspace):
+  - Samsung S22 focal length distribution: focal_length_analysis/10 Samsung S22 - 202212-202502_2026-01-16_23.50.38.txt
+  - Samsung S25 focal length distribution: focal_length_analysis/12 Samsung S25 - 202502-_2026-01-16_23.51.40.txt
+  - Huawei P30 focal length distribution: focal_length_analysis/09 Huawei P30 - 201907-202301_2026-01-16_23.49.53.txt
+  - iPhone 6S focal length distribution: focal_length_analysis/08 iPhone 6S - 201510-201907_2026-01-16_23.48.44.txt
+  - iPhone 4S focal length distribution: focal_length_analysis/06 iPhone 4S - 201303-201411_2026-01-16_23.48.25.txt
+  - Musée du Louvre multi-year summary: focal_length_analysis/Musée du Louvre_2026-01-30_23.15.48.txt
+
+- External references:
+  - LensTip review of [Sigma 20–200mm f/3.5–6.3 DG DN Contemporary](https://www.lenstip.com/716.1-Lens_review-Sigma_C_20-200_mm_f_3.5-6.3_DG_review.html)
+  - [Sony A7C II (ILCE‑7CM2) — Product Page](https://electronics.sony.com/imaging/interchangeable-lens-cameras/all-interchangeable-lens-cameras/p/ilce7cm2s)
+  - [Sony A7 IV (ILCE‑7M4) — Product Page](https://electronics.sony.com/imaging/interchangeable-lens-cameras/all-interchangeable-lens-cameras/p/ilce7m4-b)
+  - [Sony A7 V (ILCE‑7M5) — Product Page](https://electronics.sony.com/imaging/interchangeable-lens-cameras/all-interchangeable-lens-cameras/p/ilce7m5-b)
