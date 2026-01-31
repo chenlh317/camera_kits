@@ -67,7 +67,7 @@ kit simplification matters; you accept the optical compromises
 
 ---
 
-**🌟 Option 1C: Two-Lens Flexibility Strategy** - ~$1,100 now + ~$1,000-1,300 later | **Staged Investment**
+**🌟 Option 1C: Two-Lens Flexibility Strategy** - ~\$1,100 now + ~\$1,000-1,300 later | **Staged Investment**
 
 **Why this strategy:**
 - **Buy SEL2070G now:** G-series quality for 95%+ of city trips where 70mm is sufficient
@@ -154,7 +154,7 @@ for details).
 3. **Sony FE 85mm f/1.8** (~$550-600, 371g) - Portraits
 4. **Mobile + HX90** (already own) - Ultra-wide + city telephoto backup
 5. **Tamron 25–200mm f/2.8–5.6 Di III VXD G2** (~$1,000-1,300) - Buy later when safari/wildlife trip planned
-- **Immediate Total:** ~$3,850-4,200 | **Eventual Total:** ~$4,850-5,500
+- **Immediate Total:** ~\$3,850-4,200 | **Eventual Total:** ~\$4,850-5,500
 - **Best for:** Best quality NOW + defer superzoom cost
   + avoid optical compromises
 - 💡 **Same initial purchase as Option 1A** — you can decide later whether to add Tamron
@@ -1174,7 +1174,7 @@ if you might not need it for years?**
 - No need to carry superzoom on every city trip "just in case".
 
 **3. Financial Flexibility:**
-- Spend ~$1,100 now instead of ~$2,000-2,300.
+- Spend ~\$1,100 now instead of ~\$2,000-2,300.
 - Defer ~$1,200 superzoom purchase until actually needed.
 - If safari trip never materializes, you've saved money.
 - If it does, buy the right tool at the right time.
@@ -1210,7 +1210,7 @@ if you might not need it for years?**
 
 | Factor                    | Option 1A (SEL2070G only) | Option 1B (Sigma now) | **Option 1C (Staged)**       |
 | ------------------------- | ------------------------- | --------------------- | ---------------------------- |
-| **Immediate cost**        | ~$1,100                   | ~$900-1,100           | **~$1,100**                  |
+| **Immediate cost**        | ~\$1,100                   | ~\$900-1,100           | **~\$1,100**                  |
 | **20-70mm quality**       | ⭐ Excellent               | Good (compromised)    | **⭐ Excellent**              |
 | **Telephoto quality**     | HX90 (1/2.3-inch)         | Full-frame            | **Full-frame (when bought)** |
 | **Kit simplicity**        | 3 devices                 | ⭐ 2 devices           | 3 devices (for now)          |
@@ -1358,7 +1358,7 @@ for those considering Option 1B (Sigma 20-200mm).**
 | **Weight**                   | ~570g (estimated)                               | ~570g (estimated)                           |
 | **Mount**                    | Sony E / L-mount                                | Sony E-mount                                |
 | **Stabilization**            | Relies on IBIS                                  | VXD linear motor AF                         |
-| **Price**                    | ~$900-1,100 (estimated)                         | ~$1,000-1,300 (estimated)                   |
+| **Price**                    | ~\$900-1,100 (estimated)                         | ~\$1,000-1,300 (estimated)                   |
 
 ### Why Consider Superzooms Over SEL2070G + HX90
 
@@ -1371,7 +1371,7 @@ for those considering Option 1B (Sigma 20-200mm).**
 
 **2. Skip Investing in 70-200mm Later**
 
-- **Traditional approach:** SEL2070G (20-70mm) + eventually 70-200mm f/4 (~$1,500 + ~$1,400 = ~$2,900).
+- **Traditional approach:** SEL2070G (20-70mm) + eventually 70-200mm f/4 (~\$1,500 + ~\$1,400 = ~\$2,900).
 - **Superzoom approach:** One lens covers 20-200mm or 25-200mm (~$900-1,300).
 - **Cost savings:** Potentially ~$1,600 saved
   if you never buy 70-200mm.
@@ -1559,8 +1559,8 @@ the SEL2070G remains the better choice for your primary 20-70mm zone.
 | **Low-light wide**     | f/4 constant                   | f/3.5 (slightly better)           | f/4 constant                      |
 | **Low-light tele**     | HX90 struggles                 | f/6.3 + full-frame (better)       | ⭐ f/5.6 + full-frame (best)       |
 | **Vignetting**         | ⭐ Well-controlled              | Heavy on full frame*              | ⭐ Well-controlled (both lenses)   |
-| **Cost NOW**           | ~$1,650-1,700                  | ~$1,450-1,700                     | ~$1,650-1,700                     |
-| **Cost EVENTUAL**      | ~$1,650-1,700 (may add 70-200) | ~$1,450-1,700 (complete)          | ~$2,650-3,000 (if safari planned) |
+| **Cost NOW**           | ~\$1,650-1,700                  | ~\$1,450-1,700                     | ~\$1,650-1,700                     |
+| **Cost EVENTUAL**      | ~\$1,650-1,700 (may add 70-200) | ~\$1,450-1,700 (complete)          | ~\$2,650-3,000 (if safari planned) |
 | **Trip flexibility**   | One kit always                 | One kit always                    | ⭐ Right lens for each trip        |
 
 *Per LensTip technical review, Jan 2026. Software correction handles most issues automatically.
@@ -2094,7 +2094,7 @@ already meet needs at lower cost and weight. Consider A7 V if specific new featu
    - Moving children need responsive camera, not maximum resolution.
 
 6. **Price premium without benefit**
-   - A7R V: ~$3,900 vs A7C II: ~$2,200.
+   - A7R V: ~\$3,900 vs A7C II: ~\$2,200.
    - Extra $1,700 buys ZERO practical benefit for your shooting.
 
 **Data-based verdict:** 21 years of shooting shows you value convenience
@@ -2211,11 +2211,11 @@ comfort - personal preference determines which is right for you.
 - ✅ **Most trips are city travel** - don't need telephoto beyond 70mm.
 - ✅ **You want G-series quality now** - no compromises at 20-70mm.
 - ✅ **Safari/wildlife trips are predictable** - you know months ahead.
-- ✅ **You prefer staged investment** - ~$1,100 now, ~$1,000-1,300 later (only if needed).
+- ✅ **You prefer staged investment** - ~\$1,100 now, ~\$1,000-1,300 later (only if needed).
 - ✅ **HX90 is adequate for rare city telephoto** - acceptable quality for 2-5% of shots.
 - ✅ **You may not need superzoom for years** - defer the cost indefinitely.
 - ✅ **When you DO need telephoto, you want quality** - Tamron f/2.8-5.6 beats Sigma f/3.5-6.3.
-- ✅ Budget: ~$1,650-1,700 now for lenses (SEL2070G + 85mm); superzoom ~$1,000-1,300 can wait.
+- ✅ Budget: ~\$1,650-1,700 now for lenses (SEL2070G + 85mm); superzoom ~\$1,000-1,300 can wait.
 - ✅ **Best for:** Photographers who mostly travel cities and prefer buying the right tool when actually needed.
 
 ### Choose **24-70mm f/2.8 GM** if:
