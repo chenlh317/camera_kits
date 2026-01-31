@@ -34,7 +34,7 @@ optimized for your shooting style.**
   → 85mm prime (portraits) → HX90 (telephoto backup)
 
 For comparisons vs 24–70 f/4, 16–35 f/4, and 24–70 f/2.8,
-see [Why SEL2070G Over Alternatives](#why-sel2070g-over-alternatives).
+see [Why SEL2070G Over Alternatives](why-sel2070g-over-alternatives).
 
 **Choose this if:** Optical quality in 20–70mm is paramount;
 you're okay keeping HX90 as telephoto backup.
@@ -206,13 +206,13 @@ Option 3 is an alternative for landscape-focused photographers who accept a 35-8
   - [Mobile Phone Photography Evolution (2006-2026)](#mobile-phone-photography-evolution-2006-2026)
   - [Key Statistics Across All 73 Collections](#key-statistics-across-all-73-collections)
   - [Critical Findings](#critical-findings)
-    - [1. **24mm is Your Absolute Workhorse (2012-2025)**](#1-24mm-is-your-absolute-workhorse-2012-2025)
-    - [2. **Wide and Ultra-Wide (13-24mm) Dominance**](#2-wide-and-ultra-wide-13-24mm-dominance)
-    - [3. **Portrait/Telephoto Sweet Spot: 75mm**](#3-portraittelephoto-sweet-spot-75mm)
-    - [4. **Mobile Phone Contribution (2012-2026)**](#4-mobile-phone-contribution-2012-2026)
-    - [5. **Cumulative Coverage Percentages**](#5-cumulative-coverage-percentages)
-    - [6. **What You DON'T Use**](#6-what-you-dont-use)
-    - [7. **Special Use Cases Identified**](#7-special-use-cases-identified)
+    - [1. **24mm is Your Absolute Workhorse (2012-2025)**](1-24mm-is-your-absolute-workhorse-2012-2025)
+    - [2. **Wide and Ultra-Wide (13-24mm) Dominance**](2-wide-and-ultra-wide-13-24mm-dominance)
+    - [3. **Portrait/Telephoto Sweet Spot: 75mm**](3-portraittelephoto-sweet-spot-75mm)
+    - [4. **Mobile Phone Contribution (2012-2026)**](4-mobile-phone-contribution-2012-2026)
+    - [5. **Cumulative Coverage Percentages**](5-cumulative-coverage-percentages)
+    - [6. **What You DON'T Use**](6-what-you-dont-use)
+    - [7. **Special Use Cases Identified**](7-special-use-cases-identified)
 - [🔍 Advanced Shooting Pattern Analysis](#-advanced-shooting-pattern-analysis)
   - [Destination-Specific Focal Length Patterns](#destination-specific-focal-length-patterns)
   - [Multi-Camera Workflow Evolution](#multi-camera-workflow-evolution)
@@ -222,24 +222,24 @@ Option 3 is an alternative for landscape-focused photographers who accept a 35-8
 - [🎯 LENS RECOMMENDATIONS](#-lens-recommendations)
   - [⭐ **TOP RECOMMENDATIONS: Three Excellent Options**](#-top-recommendations-three-excellent-options)
   - [⭐ **Option 1A: Sony SEL2070G (FE 20-70mm f/4 G)** - Best Quality in Primary Zone](#-option-1a-sony-sel2070g-fe-20-70mm-f4-g---best-quality-in-primary-zone)
-    - [Perfect Focal Length Range](#perfect-focal-length-range)
-    - [Ideal Ecosystem Integration](#ideal-ecosystem-integration)
-    - [Technical Advantages](#technical-advantages)
-    - [Data-Based Validation](#data-based-validation)
-    - [Why SEL2070G Over Alternatives:](#why-sel2070g-over-alternatives)
-    - [**Your Complete Kit with SEL2070G**](#your-complete-kit-with-sel2070g)
+    - [Perfect Focal Length Range](perfect-focal-length-range)
+    - [Ideal Ecosystem Integration](ideal-ecosystem-integration)
+    - [Technical Advantages](technical-advantages)
+    - [Data-Based Validation](data-based-validation)
+    - [Why SEL2070G Over Alternatives:](why-sel2070g-over-alternatives)
+    - [**Your Complete Kit with SEL2070G**](your-complete-kit-with-sel2070g)
   - [⭐ **Option 1B: Sigma 20-200mm f/3.5-6.3 DG DN** - Best Kit Simplification](#-option-1b-sigma-20-200mm-f35-63-dg-dn---best-kit-simplification)
-    - [Why Sigma 20-200mm is Compelling](#why-sigma-20-200mm-is-compelling)
+    - [Why Sigma 20-200mm is Compelling](why-sigma-20-200mm-is-compelling)
     - [⚠️ Important Caveats (from LensTip Review)](#important-caveats-from-lenstip-review)
     - [**Your Complete Kit with Sigma 20-200mm**](#your-complete-kit-with-sigma-20-200mm)
   - [⭐ **Option 1C: Two-Lens Flexibility Strategy (SEL2070G Now + Superzoom Later)**](#-option-1c-two-lens-flexibility-strategy-sel2070g-now--superzoom-later)
-    - [The Core Insight](#the-core-insight)
-    - [The Strategy](#the-strategy)
-    - [Why This Makes Sense for You](#why-this-makes-sense-for-you)
-    - [Complete Kit Analysis](#complete-kit-analysis)
-    - [Trade-offs vs Other Options](#trade-offs-vs-other-options)
-    - [When to Buy the Superzoom](#when-to-buy-the-superzoom)
-    - [Why Tamron Over Sigma for Phase 2](#why-tamron-over-sigma-for-phase-2)
+    - [The Core Insight](the-core-insight)
+    - [The Strategy](the-strategy)
+    - [Why This Makes Sense for You](why-this-makes-sense-for-you)
+    - [Complete Kit Analysis](complete-kit-analysis)
+    - [Trade-offs vs Other Options](trade-offs-vs-other-options)
+    - [When to Buy the Superzoom](when-to-buy-the-superzoom)
+    - [Why Tamron Over Sigma for Phase 2](why-tamron-over-sigma-for-phase-2)
 - [Alternative Options](#alternative-options)
   - [Option 2: **24-70mm f/2.8 or f/4** (Most Versatile)](#option-2-24-70mm-f28-or-f4-most-versatile)
   - [Option 3: **16-35mm f/4** (Ultra-Wide Specialist)](#option-3-16-35mm-f4-ultra-wide-specialist)
@@ -255,18 +255,18 @@ Option 3 is an alternative for landscape-focused photographers who accept a 35-8
   - [📊 Complete Kit Comparison: Three Strategies](#-complete-kit-comparison-three-strategies)
   - [Final Verdict on Superzoom Strategy](#final-verdict-on-superzoom-strategy)
 - [🎒 Practicality Reality Check: Two Zooms (20-70mm + 70-200mm) on Non-Photography Trips](#-practicality-reality-check-two-zooms-20-70mm--70-200mm-on-non-photography-trips)
-  - [The Two-Zoom Dream vs. Reality](#the-two-zoom-dream-vs-reality)
+  - [The Two-Zoom Dream vs. Reality](the-two-zoom-dream-vs-reality)
   - [Why Two Zooms May Not Suit Your Travel Style](#why-two-zooms-may-not-suit-your-travel-style)
   - [When Two Zooms WOULD Make Sense](#when-two-zooms-would-make-sense)
   - [Why Superzooms Exist: Solving the Two-Zoom Problem](#why-superzooms-exist-solving-the-two-zoom-problem)
-    - [Your Data Supports Single-Lens Simplicity](#your-data-supports-single-lens-simplicity)
+    - [Your Data Supports Single-Lens Simplicity](your-data-supports-single-lens-simplicity)
   - [Practical Recommendation for Non-Photography Trips](#practical-recommendation-for-non-photography-trips)
   - [The Decision Matrix](#the-decision-matrix)
 - [📸 Camera Body Recommendations](#-camera-body-recommendations)
   - [Your Shooting Profile Requirements](#your-shooting-profile-requirements)
   - [🥇 Top Recommendation: **Sony A7C II**](#-top-recommendation-sony-a7c-ii)
-    - [Optimal for Your Use Case:](#optimal-for-your-use-case)
-    - [Investment Analysis:](#investment-analysis)
+    - [Optimal for Your Use Case:](optimal-for-your-use-case)
+    - [Investment Analysis:](investment-analysis)
   - [🥈 Alternative: **Sony A7 IV**](#-alternative-sony-a7-iv)
     - [⚠️ **Important Considerations: A7C II vs A7 IV**](#important-considerations-a7c-ii-vs-a7-iv)
   - [🥉 Consider: **Sony A7 V (ILCE‑7M5)** (If Budget Allows)](#-consider-sony-a7-v-ilce7m5-if-budget-allows)
@@ -424,7 +424,8 @@ reveals your smartphone usage patterns:
 
 ### Critical Findings
 
-#### 1. **24mm is Your Absolute Workhorse (2012-2025)** {#1-24mm-is-your-absolute-workhorse-2012-2025}
+(1-24mm-is-your-absolute-workhorse-2012-2025)=
+#### 1. **24mm is Your Absolute Workhorse (2012-2025)**
 
 - **Appears as #1 focal length in 35+ collections**
 - **Typical usage: 40-75%** of all photos in travel collections
@@ -432,20 +433,23 @@ reveals your smartphone usage patterns:
 - **Key insight:** This was often the WIDEST available -
   you likely want even wider
 
-#### 2. **Wide and Ultra-Wide (13-24mm) Dominance** {#2-wide-and-ultra-wide-13-24mm-dominance}
+(2-wide-and-ultra-wide-13-24mm-dominance)=
+#### 2. **Wide and Ultra-Wide (13-24mm) Dominance**
 
 - **13mm (smartphone):** Growing usage 2020-2025 for dramatic perspectives
 - **23-24mm combined:** Covers 60-80% of modern travel photography
 - **Pattern:** When given ultra-wide options (13mm), you use them 15-30% of the time
 
-#### 3. **Portrait/Telephoto Sweet Spot: 75mm** {#3-portraittelephoto-sweet-spot-75mm}
+(3-portraittelephoto-sweet-spot-75mm)=
+#### 3. **Portrait/Telephoto Sweet Spot: 75mm**
 
 - **Secondary peak across many trips**
 - **Usage:** 10-25% when available
 - **Applications:** Portraits, architectural details, subject isolation
 - **Note:** Recommend adding Sony FE 85mm f/1.8 (~$550-600) for dedicated portraits
 
-#### 4. **Mobile Phone Contribution (2012-2026)** {#4-mobile-phone-contribution-2012-2026}
+(4-mobile-phone-contribution-2012-2026)=
+#### 4. **Mobile Phone Contribution (2012-2026)**
 
 **Comprehensive mobile phone analysis (15,528 photos with EXIF data):**
 
@@ -513,7 +517,8 @@ your mobile ALREADY covers:
 This makes 20–70mm dedicated lens even MORE logical -
 it fills the quality gap without duplicating mobile convenience.
 
-#### 5. **Cumulative Coverage Percentages** {#5-cumulative-coverage-percentages}
+(5-cumulative-coverage-percentages)=
+#### 5. **Cumulative Coverage Percentages**
 
 Analyzing frequency distributions across all major travel collections:
 
@@ -526,13 +531,15 @@ Analyzing frequency distributions across all major travel collections:
 | **23-75mm**        | 92-98%           | Near-complete coverage        |
 | **100mm+**         | 1-5%             | Rare usage (covered by HX90)  |
 
-#### 6. **What You DON'T Use** {#6-what-you-dont-use}
+(6-what-you-dont-use)=
+#### 6. **What You DON'T Use**
 
 - **Super-telephoto (300mm+):** <2% even on dedicated trips
 - **Mid-range (50-69mm):** "Dead zone" with minimal usage
 - **Ultra-telephoto (600-720mm):** <1% total (HX90 backup only)
 
-#### 7. **Special Use Cases Identified** {#7-special-use-cases-identified}
+(7-special-use-cases-identified)=
+#### 7. **Special Use Cases Identified**
 
 **Portrait Sessions (Baby Photos 2021-2022):**
 
@@ -941,14 +948,16 @@ you have three excellent lens strategies:**
 **This lens is EXCEPTIONALLY well-suited for your needs
 if optical quality at 20-70mm is priority:**
 
-#### Perfect Focal Length Range {#perfect-focal-length-range}
+(perfect-focal-length-range)=
+#### Perfect Focal Length Range
 
 - ✅ **20mm wide end:** Wider than your historical 24mm constraint
 - ✅ **Covers your sweet spot:** 20-35mm is where you shoot 65-80% of the time
 - ✅ **70mm telephoto end:** Perfect handoff to the 85mm f/1.8 prime (no overlap)
 - ✅ **Data-backed coverage:** 90-95% of your documented shooting patterns
 
-#### Ideal Ecosystem Integration {#ideal-ecosystem-integration}
+(ideal-ecosystem-integration)=
+#### Ideal Ecosystem Integration
 
 Mobile 13mm → SEL2070G 20–70mm → 85mm prime → HX90 24–720mm. Minimal overlap,
 one lens covers ~90% of shots; travel-friendly f/4.
@@ -961,7 +970,8 @@ See [Your Complete Kit Strategy](#-your-complete-kit-strategy) for details.
 - ✅ **G-series optics** - excellent sharpness and color rendition
 - ✅ **Compact for the range** - easier to travel with than 24–70mm f/2.8
 
-#### Data-Based Validation {#data-based-validation}
+(data-based-validation)=
+#### Data-Based Validation
 
 Based on your 40,000+ photo analysis:
 
@@ -970,11 +980,12 @@ Based on your 40,000+ photo analysis:
 - **50-70mm:** Covers the moderate tele range before 85mm prime kicks in
 - **Overall coverage:** 90-95% of typical travel photography needs
 
-#### Why SEL2070G Over Alternatives: {#why-sel2070g-over-alternatives}
+(why-sel2070g-over-alternatives)=
+#### Why SEL2070G Over Alternatives:
 
 Quick comparisons below; core rationale and ecosystem fit are summarized in
 [Option 1A](#-option-1a-sony-sel2070g-fe-20-70mm-f4-g---best-quality-in-primary-zone)
-and [Data-Based Validation](#data-based-validation).
+and [Data-Based Validation](data-based-validation).
 
 **vs 24-70mm f/4:**
 
@@ -995,7 +1006,8 @@ and [Data-Based Validation](#data-based-validation).
 - ⚠️ **Trade-off:** Less low-light capability (f/4 vs f/2.8)
 - ✅ **Better value** - significantly lower cost
 
-#### **Your Complete Kit with SEL2070G** {#your-complete-kit-with-sel2070g}
+(your-complete-kit-with-sel2070g)=
+#### **Your Complete Kit with SEL2070G**
 
 **Main Setup (95%+ coverage):**
 
@@ -1018,7 +1030,8 @@ and [Data-Based Validation](#data-based-validation).
 **This lens is an excellent choice if you want to retire HX90 and simplify your kit—
 but with important trade-offs:**
 
-#### Why Sigma 20-200mm is Compelling {#why-sigma-20-200mm-is-compelling}
+(why-sigma-20-200mm-is-compelling)=
+#### Why Sigma 20-200mm is Compelling
 
 **1. Same 20mm Wide End as SEL2070G:**
 - ✅ Breaks your historical 24mm constraint
@@ -1039,7 +1052,8 @@ but with important trade-offs:**
 - ✅ No need to buy 70-200mm f/4 later (~$1,400 saved)
 - ✅ Complete focal length coverage now
 
-#### ⚠️ Important Caveats (from LensTip Review) {#important-caveats-from-lenstip-review}
+(important-caveats-from-lenstip-review)=
+#### ⚠️ Important Caveats (from LensTip Review)
 
 **Critical Optical Concerns (LensTip technical review, Jan 2026):**
 
@@ -1098,7 +1112,8 @@ in your primary 20-70mm zone where you take 85-90% of shots.
 
 **This approach addresses concerns about superzoom optical compromises while maintaining future flexibility:**
 
-#### The Core Insight {#the-core-insight}
+(the-core-insight)=
+#### The Core Insight
 
 Your trip patterns are **predictable by type**:
 - **City trips (Asia, Europe, etc.):** 95%+ of your travel — telephoto rarely needed
@@ -1108,7 +1123,8 @@ Your trip patterns are **predictable by type**:
 **Why buy a compromised superzoom now
 if you might not need it for years?**
 
-#### The Strategy {#the-strategy}
+(the-strategy)=
+#### The Strategy
 
 **Phase 1: Buy SEL2070G Now (~$1,100)**
 - Covers 95%+ of your city travel photography needs.
@@ -1131,7 +1147,8 @@ if you might not need it for years?**
 | **Sports events**              | Tamron 25–200mm  | Need telephoto for action                |
 | **Mixed/uncertain**            | SEL2070G + HX90  | G-series quality + HX90 telephoto backup |
 
-#### Why This Makes Sense for You {#why-this-makes-sense-for-you}
+(why-this-makes-sense-for-you)=
+#### Why This Makes Sense for You
 
 **1. Your Data Supports This:**
 - 65-80% of shots at 20-35mm (city street/architecture).
@@ -1155,7 +1172,8 @@ if you might not need it for years?**
 - No "weak 200mm" compromising telephoto shots when you DO need them.
 - Tamron's f/2.8-5.6 better than Sigma's f/3.5-6.3.
 
-#### Complete Kit Analysis {#complete-kit-analysis}
+(complete-kit-analysis)=
+#### Complete Kit Analysis
 
 **Immediate Purchase:**
 
@@ -1174,7 +1192,8 @@ if you might not need it for years?**
 | Tamron 25–200mm f/2.8–5.6 Di III VXD G2 | ~$1,000-1,300     | ~570g  | Safari/wildlife/sports trips |
 | **Total eventual investment:**          | **~$2,650-3,000** |        | (but can defer indefinitely) |
 
-#### Trade-offs vs Other Options {#trade-offs-vs-other-options}
+(trade-offs-vs-other-options)=
+#### Trade-offs vs Other Options
 
 | Factor                    | Option 1A (SEL2070G only) | Option 1B (Sigma now) | **Option 1C (Staged)**       |
 | ------------------------- | ------------------------- | --------------------- | ---------------------------- |
@@ -1188,7 +1207,8 @@ if you might not need it for years?**
 | **Financial flexibility** | Good                      | Good                  | **⭐ Best**                   |
 | **Future-proof**          | May need 70-200mm         | Complete              | **Deferred but covered.**    |
 
-#### When to Buy the Superzoom {#when-to-buy-the-superzoom}
+(when-to-buy-the-superzoom)=
+#### When to Buy the Superzoom
 
 **Buy Tamron 25-200mm when:**
 - ✅ Safari or wildlife trip is booked.
@@ -1201,7 +1221,8 @@ if you might not need it for years?**
 - ❌ HX90 is covering your occasional telephoto needs adequately.
 - ❌ Your trips remain primarily city-focused.
 
-#### Why Tamron Over Sigma for Phase 2 {#why-tamron-over-sigma-for-phase-2}
+(why-tamron-over-sigma-for-phase-2)=
+#### Why Tamron Over Sigma for Phase 2
 
 If you eventually buy a superzoom, **Tamron 25-200mm f/2.8-5.6** is preferable:
 - **Faster aperture throughout:** f/2.8 at 25mm vs Sigma's f/3.5 at 20mm.
@@ -1607,7 +1628,8 @@ you're traveling with a 4-year-old,
 balancing family experiences with documentation.
 This fundamentally changes the calculus for a two-zoom kit.
 
-### The Two-Zoom Dream vs. Reality {#the-two-zoom-dream-vs-reality}
+(the-two-zoom-dream-vs-reality)=
+### The Two-Zoom Dream vs. Reality
 
 **The Traditional Enthusiast Kit:**
 - 20–70mm f/4 G for wide-to-normal coverage
@@ -1705,7 +1727,8 @@ The Sigma 20-200mm and Tamron 25-200mm represent a deliberate compromise:
 **The superzoom trade-off**: Slightly lower optical quality across the range
 in exchange for dramatically simpler workflow and lighter kit.
 
-#### Your Data Supports Single-Lens Simplicity {#your-data-supports-single-lens-simplicity}
+(your-data-supports-single-lens-simplicity)=
+#### Your Data Supports Single-Lens Simplicity
 
 **Evidence from your shooting patterns:**
 
@@ -1799,7 +1822,8 @@ your camera body needs are clear:
 
 **Why this camera matches your style perfectly:**
 
-#### Optimal for Your Use Case: {#optimal-for-your-use-case}
+(optimal-for-your-use-case)=
+#### Optimal for Your Use Case:
 
 **1. Compact Form Factor = Travel-Friendly**
 - **Weight:** 514g (body only) - lightest full-frame Sony.
@@ -1834,7 +1858,8 @@ your camera body needs are clear:
 - **Compact body + compact lens** - A7C II + SEL2070G = balanced system.
 - **No adapter needed** - Direct communication for fast AF.
 
-#### Investment Analysis: {#investment-analysis}
+(investment-analysis)=
+#### Investment Analysis:
 
 | Feature       | A7C II                                     | Your Benefit                                   |
 | ------------- | ------------------------------------------ | ---------------------------------------------- |
@@ -1891,7 +1916,8 @@ compact, capable, and perfectly matched to SEL2070G.
 **Data-based verdict:** Your 28% mobile usage + travel focus
 suggests you value compactness → **A7C II edges ahead**.
 
-#### ⚠️ **Important Considerations: A7C II vs A7 IV** {#important-considerations-a7c-ii-vs-a7-iv}
+(important-considerations-a7c-ii-vs-a7-iv)=
+#### ⚠️ **Important Considerations: A7C II vs A7 IV**
 
 **Your Concerns Are Valid - Here's the Reality:**
 
@@ -2188,7 +2214,8 @@ comfort - personal preference determines which is right for you.
 
 ---
 
-## ⚠️ Critical Insights About Your Photography {#critical-insights-about-your-photography}
+(critical-insights-about-your-photography)=
+## ⚠️ Critical Insights About Your Photography
 
 1. **24mm was your constraint, not your preference**
 
