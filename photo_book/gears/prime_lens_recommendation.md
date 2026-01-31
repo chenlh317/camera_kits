@@ -212,6 +212,15 @@ Based on your constraints (max 2 primes from: 20, 24, 35, 40, 50, 85mm):
 - ✅ **Smooth bokeh** - Reviewers note "slightly smoother" than Sony
 - ⚠️ **f/2 vs f/1.8** - 1/3 stop slower (minor difference)
 
+**Review-Based Considerations:**
+- ✅ Excellent for events, travel, environmental portraiture
+- ⚠️ **Focus breathing** — field of view changes when focusing (less ideal for video)
+- ⚠️ Some longitudinal CA at wide apertures
+- ⚠️ AF speed and sharpness are very good, but Sony's native lens typically focuses faster
+
+**Verdict:** If you value build quality and aperture ring,
+the Sigma is excellent. The Sony is lighter, sharper, and has native AF advantage.
+
 ---
 
 ### 🥉 **Best Value: 7Artisans AF 35mm f/1.8** ⭐ NEW CONTENDER
@@ -226,7 +235,7 @@ Based on your constraints (max 2 primes from: 20, 24, 35, 40, 50, 85mm):
 | **Price**       | **~\$299**                  |
 
 **Why This is a Game-Changer:**
-- ✅ **Exceptional price** — Under \$300, less than half the price of Viltrox, 40% of Sony's price
+- ✅ **Exceptional price** — Under \$300, ~15% cheaper than Viltrox, ~40% of Sony's price
 - ✅ **Lightest 35mm f/1.8** — 195g is 85g lighter than Sony (280g), 145g lighter than Viltrox (340g)
 - ✅ **Full f/1.8 aperture** — Same light gathering as Sony, faster than Sigma f/2
 - ✅ **Compact design** — Smallest in class, perfect for A7C II's compact philosophy
@@ -244,17 +253,8 @@ Based on your constraints (max 2 primes from: 20, 24, 35, 40, 50, 85mm):
 
 **Verdict:** The 7Artisans is a remarkable value proposition. At \$299, it's the cheapest
 full-frame AF 35mm f/1.8 available and the lightest by a significant margin.
-Ideal for budget-conscious users who prioritize weight and don't need the absolute fastest AF
-- ⚠️ **Slightly heavier** - 325g vs 280g
+Ideal for budget-conscious users who prioritize weight and don't need the absolute fastest AF.
 
-**Review-Based Considerations:**
-- ✅ Excellent for events, travel, environmental portraiture
-- ⚠️ **Focus breathing** — field of view changes when focusing (less ideal for video)
-- ⚠️ Some longitudinal CA at wide apertures
-- ⚠️ AF speed and sharpness are very good, but Sony’s native lens typically focuses faster
-
-**Verdict:** If you value build quality and aperture ring,
-the Sigma is excellent. The Sony is lighter, sharper, and has native AF advantage.
 
 ---
 
