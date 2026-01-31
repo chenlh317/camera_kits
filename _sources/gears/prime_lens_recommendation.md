@@ -242,7 +242,7 @@ for environmental portraits. Consider if you need to get close to subjects.
 
 | Feature               | Sony FE 35/1.8 | Sigma 35/2 DN      | Viltrox 35/1.8 |
 | --------------------- | -------------- | ------------------ | -------------- |
-| **Price**             | ~$750-850      | ~$700              | ~$350          |
+| **Price**             | ~\$750-850      | ~\$700              | ~\$350          |
 | **Aperture**          | f/1.8          | f/2.0              | f/1.8          |
 | **Weight**            | 280g           | 325g               | ~340g          |
 | **Min Focus**         | **22cm** ⭐     | 27cm               | ~40cm          |
@@ -387,7 +387,7 @@ For portrait work with kids and artwork details, an 85mm prime is essential. Her
 
 | Feature         | Sony FE 85/1.8 | Viltrox 85/2 Evo ⭐ | Viltrox 85/1.8 II | Meike 85/1.8 |
 | --------------- | -------------- | ------------------- | ----------------- | ------------ |
-| **Price**       | ~$600-700      | ~$350-400           | ~$300-350         | ~$200-250    |
+| **Price**       | ~\$600-700      | ~\$350-400           | ~\$300-350         | ~\$200-250    |
 | **Aperture**    | f/1.8          | f/2.0               | f/1.8             | f/1.8        |
 | **Weight**      | 371g           | **298g** ⭐          | ~500g             | ~320g        |
 | **AF Motor**    | Linear         | **VCM** ⭐           | STM               | STM          |
@@ -571,7 +571,7 @@ You can shoot almost any indoor event or museum without flash, preserving natura
 | -------------------- | --------- | ---------------------- |
 | Sigma 35mm f/2 DG DN | ~$700     | I-series premium build |
 | 58mm UV filter       | ~$30      | Protection             |
-| **Total Investment** | **~$730** | Save ~$150 vs Sony     |
+| **Total Investment** | **~\$730** | Save ~\$150 vs Sony     |
 
 ### Ultra-Budget: Viltrox 35mm f/1.8
 
