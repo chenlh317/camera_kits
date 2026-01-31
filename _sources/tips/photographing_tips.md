@@ -12,6 +12,7 @@
 
 ---
 
+(executive-summary)=
 ## 📋 Executive Summary
 
 *Practical advice for capturing great photos in daily life and during travel - without making photography the main focus*
@@ -21,6 +22,7 @@ and it's rarely the main purpose of your trips.
 These tips are designed to help you capture meaningful moments efficiently
 while enjoying the experience, not turning every outing into a photo shoot.
 
+(key-findings-from-your-21-years-of-data)=
 ### Key Findings from Your 21 Years of Data
 
 | Insight                 | Your Pattern                                                                       |
@@ -31,6 +33,7 @@ while enjoying the experience, not turning every outing into a photo shoot.
 | **Telephoto Usage**     | Rare above ~100mm (<5% in recent data) - you know what you need and don't overpack |
 | **Portrait Range**      | Typically low single-digit to ~10% at 75-85mm for deliberate portraits             |
 
+(your-proven-equipment-strategy)=
 ### Your Proven Equipment Strategy
 
 - **Daily Workhorse:** SEL2070G (20-70mm f/4) covers 90-95% of your shooting style
@@ -38,6 +41,7 @@ while enjoying the experience, not turning every outing into a photo shoot.
 - **Always-Ready Backup:** Mobile phone (Samsung S25) - 64% at 23mm mirrors your dedicated camera style
 - **Telephoto Option:** Tamron 28-200mm f/2.8-5.6 for wildlife trips and extended reach needs
 
+(core-philosophy-good-enough-is-actually-great)=
 ### Core Philosophy: "Good Enough" is Actually Great
 
 1. **Mobile photo beats no photo** - kid moments are fleeting, experience comes first
@@ -45,6 +49,7 @@ while enjoying the experience, not turning every outing into a photo shoot.
 3. **f/4 is fine** - modern high ISO capability compensates; your SAL1650 f/2.8 experience confirms minimal practical difference
 4. **Your 40,000+ photo archive** proves imperfect photos become treasured memories
 
+(quick-reference-when-to-use-what)=
 ### Quick Reference: When to Use What
 
 | Situation                        | Recommended Approach                                           |
@@ -55,6 +60,7 @@ while enjoying the experience, not turning every outing into a photo shoot.
 | **Museums & crowded spots**      | Mobile phone (safer, always ready)                             |
 | **Wildlife/telephoto needs**     | Swap to Tamron 28-200mm (safari, zoo, dedicated wildlife days) |
 
+(the-bottom-line)=
 ### The Bottom Line
 
 Your photography style has naturally evolved over 21 years into **efficient wide-angle storytelling**.
@@ -65,36 +71,37 @@ Trust your instincts - your consistency isn't a limitation, it's your photograph
 
 ## Table of Contents <!-- omit in toc -->
 
-- [📋 Executive Summary](#-executive-summary)
-  - [Key Findings from Your 21 Years of Data](#key-findings-from-your-21-years-of-data)
-  - [Your Proven Equipment Strategy](#your-proven-equipment-strategy)
-  - [Core Philosophy: "Good Enough" is Actually Great](#core-philosophy-good-enough-is-actually-great)
-  - [Quick Reference: When to Use What](#quick-reference-when-to-use-what)
-  - [The Bottom Line](#the-bottom-line)
-- [**1. Your Proven Shooting Style: Wide-Angle Storytelling**](#1-your-proven-shooting-style-wide-angle-storytelling)
-- [**2. The "Two-Camera Travel System" for Parents**](#2-the-two-camera-travel-system-for-parents)
-- [**3. Focal Length Strategy for Family Travel**](#3-focal-length-strategy-for-family-travel)
-- [**4. Travel Photography Strategy with a Young Child**](#4-travel-photography-strategy-with-a-young-child)
-- [**5. Composition Tips Based on Your Focal Length Preferences**](#5-composition-tips-based-on-your-focal-length-preferences)
-- [**6. Low-Light Travel Photography with Kids**](#6-low-light-travel-photography-with-kids)
-- [**7. Packing Strategy Based on Your Shooting Patterns**](#7-packing-strategy-based-on-your-shooting-patterns)
-  - [**Daily Carry (90% of days):**](#daily-carry-90-of-days)
-  - [**Special Occasion Additions (10% of days):**](#special-occasion-additions-10-of-days)
-  - [**Wildlife/Safari Days (swap entire kit):**](#wildlifesafari-days-swap-entire-kit)
-- [**8. Capturing Authentic Travel Moments with a 4-Year-Old**](#8-capturing-authentic-travel-moments-with-a-4-year-old)
-- [**9. Specific Scenarios from Your Travel History**](#9-specific-scenarios-from-your-travel-history)
-- [**10. Practical Travel Photography Habits** *(learned from your data patterns)*](#10-practical-travel-photography-habits-learned-from-your-data-patterns)
-- [**11. The "Good Enough" Philosophy for Casual Photography**](#11-the-good-enough-philosophy-for-casual-photography)
-- [**12. Final Practical Tips from Your Data**](#12-final-practical-tips-from-your-data)
-- [**13. Simple Ways to Gradually Improve** *(without making it a project)*](#13-simple-ways-to-gradually-improve-without-making-it-a-project)
-  - [**A. Occasionally Try Your "Dead Zone": 50-70mm**](#a-occasionally-try-your-dead-zone-50-70mm)
-  - [**B. Use Your 85mm Prime More** *(when it doesn't feel like extra work)*](#b-use-your-85mm-prime-more-when-it-doesnt-feel-like-extra-work)
-  - [**C. Stick with Wide-Angle** *(it's clearly your strength)*](#c-stick-with-wide-angle-its-clearly-your-strength)
-  - [**D. Don't Worry About Low-Light** *(f/4 will be fine)*](#d-dont-worry-about-low-light-f4-will-be-fine)
-  - [**E. Your Photos Are Already Great** *(skip the "projects")*](#e-your-photos-are-already-great-skip-the-projects)
-- [**14. Data Snapshot Across Mobile Devices (2019–2026)**](#14-data-snapshot-across-mobile-devices-20192026)
-- [**References**](#references)
+- [📋 Executive Summary](executive-summary)
+  - [Key Findings from Your 21 Years of Data](key-findings-from-your-21-years-of-data)
+  - [Your Proven Equipment Strategy](your-proven-equipment-strategy)
+  - [Core Philosophy: "Good Enough" is Actually Great](core-philosophy-good-enough-is-actually-great)
+  - [Quick Reference: When to Use What](quick-reference-when-to-use-what)
+  - [The Bottom Line](the-bottom-line)
+- [**1. Your Proven Shooting Style: Wide-Angle Storytelling**](1-your-proven-shooting-style-wide-angle-storytelling)
+- [**2. The "Two-Camera Travel System" for Parents**](2-the-two-camera-travel-system-for-parents)
+- [**3. Focal Length Strategy for Family Travel**](3-focal-length-strategy-for-family-travel)
+- [**4. Travel Photography Strategy with a Young Child**](4-travel-photography-strategy-with-a-young-child)
+- [**5. Composition Tips Based on Your Focal Length Preferences**](5-composition-tips-based-on-your-focal-length-preferences)
+- [**6. Low-Light Travel Photography with Kids**](6-low-light-travel-photography-with-kids)
+- [**7. Packing Strategy Based on Your Shooting Patterns**](7-packing-strategy-based-on-your-shooting-patterns)
+  - [**Daily Carry (90% of days):**](daily-carry-90-of-days)
+  - [**Special Occasion Additions (10% of days):**](special-occasion-additions-10-of-days)
+  - [**Wildlife/Safari Days (swap entire kit):**](wildlifesafari-days-swap-entire-kit)
+- [**8. Capturing Authentic Travel Moments with a 4-Year-Old**](8-capturing-authentic-travel-moments-with-a-4-year-old)
+- [**9. Specific Scenarios from Your Travel History**](9-specific-scenarios-from-your-travel-history)
+- [**10. Practical Travel Photography Habits** *(learned from your data patterns)*](10-practical-travel-photography-habits-learned-from-your-data-patterns)
+- [**11. The "Good Enough" Philosophy for Casual Photography**](11-the-good-enough-philosophy-for-casual-photography)
+- [**12. Final Practical Tips from Your Data**](12-final-practical-tips-from-your-data)
+- [**13. Simple Ways to Gradually Improve** *(without making it a project)*](13-simple-ways-to-gradually-improve-without-making-it-a-project)
+  - [**A. Occasionally Try Your "Dead Zone": 50-70mm**](a-occasionally-try-your-dead-zone-50-70mm)
+  - [**B. Use Your 85mm Prime More** *(when it doesn't feel like extra work)*](b-use-your-85mm-prime-more-when-it-doesnt-feel-like-extra-work)
+  - [**C. Stick with Wide-Angle** *(it's clearly your strength)*](c-stick-with-wide-angle-its-clearly-your-strength)
+  - [**D. Don't Worry About Low-Light** *(f/4 will be fine)*](d-dont-worry-about-low-light-f4-will-be-fine)
+  - [**E. Your Photos Are Already Great** *(skip the "projects")*](e-your-photos-are-already-great-skip-the-projects)
+- [**14. Data Snapshot Across Mobile Devices (2019–2026)**](14-data-snapshot-across-mobile-devices-20192026)
+- [**References**](references)
 
+(1-your-proven-shooting-style-wide-angle-storytelling)=
 ## **1. Your Proven Shooting Style: Wide-Angle Storytelling**
 
 Your 21 years of data reveals a consistent pattern:
@@ -120,6 +127,7 @@ This is perfect for casual shooting because wide angles are fast and forgiving.
 
 ---
 
+(2-the-two-camera-travel-system-for-parents)=
 ## **2. The "Two-Camera Travel System" for Parents**
 
 Your usage data reveals you've naturally evolved a brilliant workflow:
@@ -164,6 +172,7 @@ Your usage data reveals you've naturally evolved a brilliant workflow:
 
 ---
 
+(3-focal-length-strategy-for-family-travel)=
 ## **3. Focal Length Strategy for Family Travel**
 
 Based on your historical usage, here's when to use what:
@@ -229,6 +238,7 @@ Based on your historical usage, here's when to use what:
 
 ---
 
+(4-travel-photography-strategy-with-a-young-child)=
 ## **4. Travel Photography Strategy with a Young Child**
 
 Your data reveals evolution toward **efficiency and spontaneity** - perfect for parenting:
@@ -262,6 +272,7 @@ Your data reveals evolution toward **efficiency and spontaneity** - perfect for 
 
 ---
 
+(5-composition-tips-based-on-your-focal-length-preferences)=
 ## **5. Composition Tips Based on Your Focal Length Preferences**
 
 **At 20-27mm (your primary range):**
@@ -295,6 +306,7 @@ Your data reveals evolution toward **efficiency and spontaneity** - perfect for 
 
 ---
 
+(6-low-light-travel-photography-with-kids)=
 ## **6. Low-Light Travel Photography with Kids**
 
 Your SAL1650 experience (24-75mm f/2.8) shows you have experience with fast aperture zooms:
@@ -326,8 +338,10 @@ Your SAL1650 experience (24-75mm f/2.8) shows you have experience with fast aper
 
 ---
 
+(7-packing-strategy-based-on-your-shooting-patterns)=
 ## **7. Packing Strategy Based on Your Shooting Patterns**
 
+(daily-carry-90-of-days)=
 ### **Daily Carry (90% of days):**
 
 **Essential Kit**
@@ -341,6 +355,7 @@ Your SAL1650 experience (24-75mm f/2.8) shows you have experience with fast aper
 
 **Total weight:** ~1kg camera gear
 
+(special-occasion-additions-10-of-days)=
 ### **Special Occasion Additions (10% of days):**
 
 **Enhanced Kit**
@@ -351,6 +366,7 @@ Your SAL1650 experience (24-75mm f/2.8) shows you have experience with fast aper
 
 **Total weight:** ~1.3kg camera gear
 
+(wildlifesafari-days-swap-entire-kit)=
 ### **Wildlife/Safari Days (swap entire kit):**
 
 **Telephoto Kit**
@@ -378,6 +394,7 @@ Your SAL1650 experience (24-75mm f/2.8) shows you have experience with fast aper
 
 ---
 
+(8-capturing-authentic-travel-moments-with-a-4-year-old)=
 ## **8. Capturing Authentic Travel Moments with a 4-Year-Old**
 
 Your wide-angle preference naturally suits candid family documentation:
@@ -410,6 +427,7 @@ Your wide-angle preference naturally suits candid family documentation:
 
 ---
 
+(9-specific-scenarios-from-your-travel-history)=
 ## **9. Specific Scenarios from Your Travel History**
 
 Based on your trip patterns, here's focal length guidance:
@@ -446,6 +464,7 @@ Based on your trip patterns, here's focal length guidance:
 
 ---
 
+(10-practical-travel-photography-habits-learned-from-your-data-patterns)=
 ## **10. Practical Travel Photography Habits** *(learned from your data patterns)*
 
 **Morning Routine (keep it simple):**
@@ -476,6 +495,7 @@ Based on your trip patterns, here's focal length guidance:
 
 ---
 
+(11-the-good-enough-philosophy-for-casual-photography)=
 ## **11. The "Good Enough" Philosophy for Casual Photography**
 
 Your evolution from film (constrained) → zoom lens (versatile) → mobile + dedicated (practical) shows wisdom:
@@ -502,6 +522,7 @@ Your evolution from film (constrained) → zoom lens (versatile) → mobile + de
 
 ---
 
+(12-final-practical-tips-from-your-data)=
 ## **12. Final Practical Tips from Your Data**
 
 Your photography style developed naturally over 21 years - let it continue evolving organically.
@@ -527,10 +548,12 @@ Your photography style developed naturally over 21 years - let it continue evolv
 
 ---
 
+(13-simple-ways-to-gradually-improve-without-making-it-a-project)=
 ## **13. Simple Ways to Gradually Improve** *(without making it a project)*
 
 Your 21-year data shows remarkable consistency. Here are **effortless** ways to grow naturally while staying casual:
 
+(a-occasionally-try-your-dead-zone-50-70mm)=
 ### **A. Occasionally Try Your "Dead Zone": 50-70mm**
 
 **Why it's worth a try:**
@@ -552,6 +575,7 @@ Your data shows minimal usage of 50-70mm, but it might just be lens limitation, 
 
 ---
 
+(b-use-your-85mm-prime-more-when-it-doesnt-feel-like-extra-work)=
 ### **B. Use Your 85mm Prime More** *(when it doesn't feel like extra work)*
 
 **Current pattern:** 5-10% usage -
@@ -574,6 +598,7 @@ you might be under-utilizing a great lens.
 
 ---
 
+(c-stick-with-wide-angle-its-clearly-your-strength)=
 ### **C. Stick with Wide-Angle** *(it's clearly your strength)*
 
 **Your 65-80% wide-angle usage isn't a limitation - it's a style.**
@@ -611,6 +636,7 @@ it's evidence you've found your photographic voice.
 
 ---
 
+(d-dont-worry-about-low-light-f4-will-be-fine)=
 ### **D. Don't Worry About Low-Light** *(f/4 will be fine)*
 
 **Coming from SAL1650 f/2.8:** One full stop difference to f/4 - you won't notice much.
@@ -625,6 +651,7 @@ it's evidence you've found your photographic voice.
 
 ---
 
+(e-your-photos-are-already-great-skip-the-projects)=
 ### **E. Your Photos Are Already Great** *(skip the "projects")*
 
 **You don't need photo essay exercises or multi-image storytelling plans.**
@@ -644,6 +671,7 @@ Your 40,000+ photos over 21 years show you already capture what matters:
 
 ---
 
+(14-data-snapshot-across-mobile-devices-20192026)=
 ## **14. Data Snapshot Across Mobile Devices (2019–2026)**
 
 Quick view of focal-length usage from your analyzed mobile archives. Percentages are from EXIF 35mm‑equivalent distributions in your reports.
@@ -686,6 +714,7 @@ and the SEL2070G (20-70mm) matches that perfectly.
 
 ---
 
+(references)=
 ## **References**
 
 - Stops and exposure basics: Wikipedia — F-number (standard stop sequence and fractional stops).
