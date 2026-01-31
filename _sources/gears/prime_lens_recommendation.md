@@ -22,33 +22,33 @@
 
 | Lens                   | Primary Use                                                 | Price Range | Weight |
 | ---------------------- | ----------------------------------------------------------- | ----------- | ------ |
-| **Sony FE 35mm f/1.8** | Night city, indoor events, museums, environmental portraits | ~$750-850   | 280g   |
-| **Sony FE 85mm f/1.8** | Dedicated kid portraits, artwork details, subject isolation | ~$600-700   | 371g   |
+| **Sony FE 35mm f/1.8** | Night city, indoor events, museums, environmental portraits | ~\$750-850   | 280g   |
+| **Sony FE 85mm f/1.8** | Dedicated kid portraits, artwork details, subject isolation | ~\$600-700   | 371g   |
 
 **Total Kit Weight:** 651g (both primes)
-**Total Investment:** ~$1,350-1,550 (both lenses)
+**Total Investment:** ~\$1,350-1,550 (both lenses)
 
 ### 🔄 Alternative Budget-Friendly Kit
 
 | Lens                                | Primary Use                        | Price Range | Weight |
 | ----------------------------------- | ---------------------------------- | ----------- | ------ |
-| **Sigma 35mm f/2 DG DN (I series)** | Night city, indoor events, museums | ~$700       | 325g   |
-| **Viltrox 85mm f/2.0 Evo**          | Budget portrait with VCM AF        | ~$350-400   | 298g   |
+| **Sigma 35mm f/2 DG DN (I series)** | Night city, indoor events, museums | ~\$700       | 325g   |
+| **Viltrox 85mm f/2.0 Evo**          | Budget portrait with VCM AF        | ~\$350-400   | 298g   |
 
-**Total Budget Kit:** ~$1,050-1,100 for both (623g — lightest budget option!)
+**Total Budget Kit:** ~\$1,050-1,100 for both (623g — lightest budget option!)
 
 ### 🆕 Ultra-Budget Kit (NEW)
 
 | Lens                        | Primary Use                        | Price Range | Weight |
 | --------------------------- | ---------------------------------- | ----------- | ------ |
-| **7Artisans AF 35mm f/1.8** | Night city, indoor events, museums | ~$299       | 195g   |
-| **Viltrox 85mm f/2.0 Evo**  | Budget portrait with VCM AF        | ~$350-400   | 298g   |
+| **7Artisans AF 35mm f/1.8** | Night city, indoor events, museums | ~\$299       | 195g   |
+| **Viltrox 85mm f/2.0 Evo**  | Budget portrait with VCM AF        | ~\$350-400   | 298g   |
 
-**Total Ultra-Budget Kit:** ~$650-700 for both (**493g — ultra-light!**)
+**Total Ultra-Budget Kit:** ~\$650-700 for both (**493g — ultra-light!**)
 
-> ⭐ **New Best Value:** The 7Artisans AF 35mm f/1.8 at $299 dramatically lowers the entry point
+> ⭐ **New Best Value:** The 7Artisans AF 35mm f/1.8 at \$299 dramatically lowers the entry point
 > for a two-prime kit. Combined with the Viltrox 85mm f/2.0 Evo, you get a complete portrait kit
-> for under $700 total — less than a single Sony 35mm f/1.8!
+> for under \$700 total — less than a single Sony 35mm f/1.8!
 
 ---
 
@@ -166,7 +166,7 @@ Based on your constraints (max 2 primes from: 20, 24, 35, 40, 50, 85mm):
 | **Size**        | 65.6 × 73mm                 |
 | **Filter**      | 55mm                        |
 | **Close Focus** | 0.22m (0.24× magnification) |
-| **Price**       | ~$750-850                   |
+| **Price**       | ~\$750-850                   |
 
 **Why This Lens:**
 - ✅ **One of the lightest full-frame 35mm f/1.8** - perfect for A7C II compact philosophy
@@ -203,7 +203,7 @@ Based on your constraints (max 2 primes from: 20, 24, 35, 40, 50, 85mm):
 | **Size**        | 70 × 67.4mm                 |
 | **Filter**      | 58mm                        |
 | **Close Focus** | 0.27m (1:5.7 magnification) |
-| **Price**       | ~$700                       |
+| **Price**       | ~\$700                       |
 
 **Why Consider This:**
 - ✅ **Premium build** - All-metal construction, magnetic lens cap
@@ -223,10 +223,10 @@ Based on your constraints (max 2 primes from: 20, 24, 35, 40, 50, 85mm):
 | **Size**        | 64.5 × 58mm                 |
 | **Filter**      | 49mm                        |
 | **Close Focus** | 0.29m (1:7.7 magnification) |
-| **Price**       | **~$299**                   |
+| **Price**       | **~\$299**                   |
 
 **Why This is a Game-Changer:**
-- ✅ **Exceptional price** — Under $300, less than half the price of Viltrox, 40% of Sony's price
+- ✅ **Exceptional price** — Under \$300, less than half the price of Viltrox, 40% of Sony's price
 - ✅ **Lightest 35mm f/1.8** — 195g is 85g lighter than Sony (280g), 145g lighter than Viltrox (340g)
 - ✅ **Full f/1.8 aperture** — Same light gathering as Sony, faster than Sigma f/2
 - ✅ **Compact design** — Smallest in class, perfect for A7C II's compact philosophy
@@ -242,7 +242,7 @@ Based on your constraints (max 2 primes from: 20, 24, 35, 40, 50, 85mm):
 - ⚠️ **Weather sealing** — Basic, not as robust as Sony or Sigma
 - ⚠️ **Close focus 29cm** — Longer than Sony (22cm) but shorter than Viltrox (40cm)
 
-**Verdict:** The 7Artisans is a remarkable value proposition. At $299, it's the cheapest
+**Verdict:** The 7Artisans is a remarkable value proposition. At \$299, it's the cheapest
 full-frame AF 35mm f/1.8 available and the lightest by a significant margin.
 Ideal for budget-conscious users who prioritize weight and don't need the absolute fastest AF
 - ⚠️ **Slightly heavier** - 325g vs 280g
@@ -266,7 +266,7 @@ the Sigma is excellent. The Sony is lighter, sharper, and has native AF advantag
 | **Weight**      | ~340g        |
 | **Filter**      | 55mm         |
 | **Close Focus** | ~0.40m       |
-| **Price**       | ~$350-400    |
+| **Price**       | ~\$350-400    |
 
 **Why Consider This:**
 - ✅ **Half the price** of Sony — significant savings
@@ -304,7 +304,7 @@ for environmental portraits. Consider if you need to get close to subjects.
 
 **Recommendation:**
 - **Best AF for kids:** Sony FE 35mm f/1.8 — fastest, most reliable eye-AF (22cm close focus)
-- **Best value:** 7Artisans AF 35mm f/1.8 ⭐ — lightest (195g), cheapest ($299), full f/1.8
+- **Best value:** 7Artisans AF 35mm f/1.8 ⭐ — lightest (195g), cheapest (\$299), full f/1.8
 - **Premium build:** Sigma 35mm f/2 DG DN — metal construction, aperture ring
 
 ---
@@ -322,7 +322,7 @@ For portrait work with kids and artwork details, an 85mm prime is essential. Her
 | **Size**        | 78 × 82mm                  |
 | **Filter**      | 67mm                       |
 | **Close Focus** | 0.8m (0.13× magnification) |
-| **Price**       | ~$600-700                  |
+| **Price**       | ~\$600-700                  |
 
 **Why This is Perfect for Kids Portraits:**
 - ✅ **Classic portrait compression** - Flattering facial proportions
@@ -359,14 +359,14 @@ For portrait work with kids and artwork details, an 85mm prime is essential. Her
 | **Size**        | 66 × 75mm                   |
 | **Filter**      | 62mm                        |
 | **Close Focus** | 0.85m (0.11× magnification) |
-| **Price**       | ~$350-400                   |
+| **Price**       | ~\$350-400                   |
 
 **Why This is the Best Value Pick:**
 - ✅ **VCM autofocus motor** — Voice Coil Motor for fast, silent, precise AF (major upgrade over STM)
 - ✅ **Lightest 85mm option** — 298g vs Sony's 371g (73g lighter!)
 - ✅ **Compact design** — smaller than Sony, fits the A7C II compact philosophy
 - ✅ **Sharp optics** — excellent center sharpness from f/2.0, very sharp by f/2.8
-- ✅ **Half the price of Sony** — significant savings at $350-400
+- ✅ **Half the price of Sony** — significant savings at \$350-400
 - ✅ **9-blade circular aperture** — smooth, pleasing bokeh
 - ✅ **Weather-resistant** — dust and moisture resistant design
 
@@ -400,7 +400,7 @@ For portrait work with kids and artwork details, an 85mm prime is essential. Her
 | **Weight**      | ~500g        |
 | **Filter**      | 72mm         |
 | **Close Focus** | ~0.85m       |
-| **Price**       | ~$300-350    |
+| **Price**       | ~\$300-350    |
 
 **Why Consider This:**
 - ✅ **Lowest Viltrox price** — even cheaper than the Evo
@@ -421,7 +421,7 @@ For portrait work with kids and artwork details, an 85mm prime is essential. Her
 | **Aperture**    | f/1.8 - f/22 |
 | **Weight**      | ~320g        |
 | **Close Focus** | 0.85m        |
-| **Price**       | ~$200-250    |
+| **Price**       | ~\$200-250    |
 
 **Why Consider This:**
 - ✅ **Lowest price** — Entry point to 85mm f/1.8
@@ -467,10 +467,10 @@ Sony E-mount lenses are not currently affected. As with any third-party lens, fi
 **Lenses:**
 | Lens               | Use Case                                                    | Price    | Weight |
 | ------------------ | ----------------------------------------------------------- | -------- | ------ |
-| Sony FE 35mm f/1.8 | Night city, indoor events, museums, environmental portraits | $750-850 | 280g   |
-| Sony FE 85mm f/1.8 | Kid portraits, gala headshots, artwork details              | $600-700 | 371g   |
+| Sony FE 35mm f/1.8 | Night city, indoor events, museums, environmental portraits | \$750-850 | 280g   |
+| Sony FE 85mm f/1.8 | Kid portraits, gala headshots, artwork details              | \$600-700 | 371g   |
 
-**Total:** ~$1,350-1,550 | 651g both primes
+**Total:** ~\$1,350-1,550 | 651g both primes
 
 **Coverage:**
 - ✅ Indoor events: 35mm f/1.8 (group shots, venue ambiance)
@@ -495,15 +495,15 @@ Sony E-mount lenses are not currently affected. As with any third-party lens, fi
 **Lenses:**
 | Lens                   | Use Case                  | Price    | Weight |
 | ---------------------- | ------------------------- | -------- | ------ |
-| Sigma 35mm f/2 DG DN   | Night city, indoor events | $700     | 325g   |
-| Viltrox 85mm f/2.0 Evo | Kid portraits (VCM AF)    | $350-400 | 298g   |
+| Sigma 35mm f/2 DG DN   | Night city, indoor events | \$700     | 325g   |
+| Viltrox 85mm f/2.0 Evo | Kid portraits (VCM AF)    | \$350-400 | 298g   |
 
-**Total:** ~$1,050-1,100 | 623g both primes
+**Total:** ~\$1,050-1,100 | 623g both primes
 
 **Coverage:** Same as Strategy A
 
 **Pros:**
-- Save ~$300-450 vs Sony pair
+- Save ~\$300-450 vs Sony pair
 - Sigma's premium metal build
 - Viltrox Evo's VCM motor offers near-Sony AF speed
 - **Lightest budget kit** — 623g total
@@ -519,10 +519,10 @@ Sony E-mount lenses are not currently affected. As with any third-party lens, fi
 **Lenses:**
 | Lens                   | Use Case                  | Price    | Weight |
 | ---------------------- | ------------------------- | -------- | ------ |
-| Sony FE 35mm f/1.8     | Night city, indoor events | $750-850 | 280g   |
-| Viltrox 85mm f/2.0 Evo | Kid portraits (VCM AF)    | $350-400 | 298g   |
+| Sony FE 35mm f/1.8     | Night city, indoor events | \$750-850 | 280g   |
+| Viltrox 85mm f/2.0 Evo | Kid portraits (VCM AF)    | \$350-400 | 298g   |
 
-**Total:** ~$1,100-1,250 | **578g** both primes (lightest recommended kit!)
+**Total:** ~\$1,100-1,250 | **578g** both primes (lightest recommended kit!)
 
 **Rationale:**
 - 35mm used more often → invest in Sony for best AF speed
@@ -537,19 +537,19 @@ Sony E-mount lenses are not currently affected. As with any third-party lens, fi
 **Lenses:**
 | Lens                    | Use Case                  | Price    | Weight |
 | ----------------------- | ------------------------- | -------- | ------ |
-| 7Artisans AF 35mm f/1.8 | Night city, indoor events | $299     | 195g   |
-| Viltrox 85mm f/2.0 Evo  | Kid portraits (VCM AF)    | $350-400 | 298g   |
+| 7Artisans AF 35mm f/1.8 | Night city, indoor events | \$299     | 195g   |
+| Viltrox 85mm f/2.0 Evo  | Kid portraits (VCM AF)    | \$350-400 | 298g   |
 
-**Total:** ~$650-700 | **493g** both primes (**lightest & cheapest kit!**)
+**Total:** ~\$650-700 | **493g** both primes (**lightest & cheapest kit!**)
 
 **Rationale:**
-- 7Artisans at $299 is less than half the cost of any other 35mm f/1.8
+- 7Artisans at \$299 is less than half the cost of any other 35mm f/1.8
 - At 195g, it's the lightest 35mm f/1.8 available (85g lighter than Sony)
-- Combined kit under $700 = less than a single Sony 35mm f/1.8
+- Combined kit under \$700 = less than a single Sony 35mm f/1.8
 - Full f/1.8 aperture for low-light performance
 
 **Pros:**
-- **Extreme value** — complete two-prime kit for under $700
+- **Extreme value** — complete two-prime kit for under \$700
 - **Ultra-light** — 493g total, 85g lighter than Strategy C
 - Both lenses have full f/1.8/f/2.0 apertures for low-light
 
@@ -642,35 +642,35 @@ You can shoot almost any indoor event or museum without flash, preserving natura
 
 | Item                   | Price             | Notes             |
 | ---------------------- | ----------------- | ----------------- |
-| Sony FE 35mm f/1.8     | ~$750-850         | Primary lens      |
-| Sony FE 85mm f/1.8     | ~$600-700         | Portrait lens     |
-| 55mm + 67mm UV filters | ~$50              | Protection        |
-| **Total Investment**   | **~$1,400-1,600** | Best AF + quality |
+| Sony FE 35mm f/1.8     | ~\$750-850         | Primary lens      |
+| Sony FE 85mm f/1.8     | ~\$600-700         | Portrait lens     |
+| 55mm + 67mm UV filters | ~\$50              | Protection        |
+| **Total Investment**   | **~\$1,400-1,600** | Best AF + quality |
 
 ### Budget Alternative: Sigma 35mm f/2 DG DN
 
 | Item                 | Price      | Notes                  |
 | -------------------- | ---------- | ---------------------- |
-| Sigma 35mm f/2 DG DN | ~$700      | I-series premium build |
-| 58mm UV filter       | ~$30       | Protection             |
+| Sigma 35mm f/2 DG DN | ~\$700      | I-series premium build |
+| 58mm UV filter       | ~\$30       | Protection             |
 | **Total Investment** | **~\$730** | Save ~\$150 vs Sony    |
 
 ### 🆕 Best Value: 7Artisans AF 35mm f/1.8 (NEW)
 
 | Item                    | Price     | Notes                      |
 | ----------------------- | --------- | -------------------------- |
-| 7Artisans AF 35mm f/1.8 | ~$299     | Lightest, cheapest f/1.8   |
-| 49mm UV filter          | ~$15      | Protection                 |
-| **Total Investment**    | **~$315** | **60% cheaper than Sony!** |
+| 7Artisans AF 35mm f/1.8 | ~\$299     | Lightest, cheapest f/1.8   |
+| 49mm UV filter          | ~\$15      | Protection                 |
+| **Total Investment**    | **~\$315** | **60% cheaper than Sony!** |
 
 ### Ultra-Budget Full Kit: 7Artisans + Viltrox
 
 | Item                    | Price         | Notes                        |
 | ----------------------- | ------------- | ---------------------------- |
-| 7Artisans AF 35mm f/1.8 | ~$299         | Ultra-light 35mm             |
-| Viltrox 85mm f/2.0 Evo  | ~$350-400     | VCM AF portrait lens         |
-| 49mm + 62mm UV filters  | ~$35          | Protection                   |
-| **Total Investment**    | **~$685-735** | **Complete kit under $750!** |
+| 7Artisans AF 35mm f/1.8 | ~\$299         | Ultra-light 35mm             |
+| Viltrox 85mm f/2.0 Evo  | ~\$350-400     | VCM AF portrait lens         |
+| 49mm + 62mm UV filters  | ~\$35          | Protection                   |
+| **Total Investment**    | **~\$685-735** | **Complete kit under \$750!** |
 
 ---
 
@@ -681,7 +681,7 @@ You can shoot almost any indoor event or museum without flash, preserving natura
 **"Portrait for kids, night/low-light city sightseeing, indoor events like a gala night, museums"**
 
 #### 🥇 If AF Speed is Critical (Kids Photography Priority):
-**Buy: Sony FE 35mm f/1.8** (~$750-850)
+**Buy: Sony FE 35mm f/1.8** (~\$750-850)
 
 **Why:**
 1. **Kids:** Fastest, most reliable eye-AF for tracking unpredictable children
@@ -692,10 +692,10 @@ You can shoot almost any indoor event or museum without flash, preserving natura
 6. **Quality:** Native Sony = best compatibility, fastest AF
 
 #### 🥈 If Budget & Weight are Critical: ⭐ NEW RECOMMENDATION
-**Buy: 7Artisans AF 35mm f/1.8** (~$299)
+**Buy: 7Artisans AF 35mm f/1.8** (~\$299)
 
 **Why:**
-1. **Price:** At $299, it's 60% cheaper than Sony — savings can fund the 85mm lens
+1. **Price:** At \$299, it's 60% cheaper than Sony — savings can fund the 85mm lens
 2. **Weight:** Lightest in class at 195g (85g lighter than Sony!)
 3. **Performance:** Full f/1.8 aperture for identical low-light capability
 4. **Compact:** Perfect match for A7C II's compact philosophy
@@ -704,16 +704,16 @@ You can shoot almost any indoor event or museum without flash, preserving natura
 **Your Complete Two-Prime Kit (Premium):**
 | Lens               | Primary Role                                     | Price             | Weight   |
 | ------------------ | ------------------------------------------------ | ----------------- | -------- |
-| Sony FE 35mm f/1.8 | Events, cities, museums, environmental portraits | ~$750-850         | 280g     |
-| Sony FE 85mm f/1.8 | Kid portraits, artwork details, isolation        | ~$600-700         | 371g     |
-| **Total**          | **Full coverage for your use cases**             | **~$1,350-1,550** | **651g** |
+| Sony FE 35mm f/1.8 | Events, cities, museums, environmental portraits | ~\$750-850         | 280g     |
+| Sony FE 85mm f/1.8 | Kid portraits, artwork details, isolation        | ~\$600-700         | 371g     |
+| **Total**          | **Full coverage for your use cases**             | **~\$1,350-1,550** | **651g** |
 
 **Your Complete Two-Prime Kit (Ultra-Budget):** ⭐ NEW
 | Lens                    | Primary Role                                     | Price         | Weight   |
 | ----------------------- | ------------------------------------------------ | ------------- | -------- |
-| 7Artisans AF 35mm f/1.8 | Events, cities, museums, environmental portraits | ~$299         | 195g     |
-| Viltrox 85mm f/2.0 Evo  | Kid portraits, artwork details, isolation        | ~$350-400     | 298g     |
-| **Total**               | **Full coverage at minimal cost**                | **~$650-700** | **493g** |
+| 7Artisans AF 35mm f/1.8 | Events, cities, museums, environmental portraits | ~\$299         | 195g     |
+| Viltrox 85mm f/2.0 Evo  | Kid portraits, artwork details, isolation        | ~\$350-400     | 298g     |
+| **Total**               | **Full coverage at minimal cost**                | **~\$650-700** | **493g** |
 
 > 💡 **Value Insight:** The ultra-budget kit costs less than a single Sony 35mm f/1.8,
 > while still covering all your use cases with full f/1.8 aperture capability!
@@ -733,18 +733,18 @@ You can shoot almost any indoor event or museum without flash, preserving natura
 **35mm Options:**
 | If You Value...                   | Buy This 35mm                    |
 | --------------------------------- | -------------------------------- |
-| **Best AF for kids**              | Sony FE 35mm f/1.8 ($750-850)    |
-| **Premium build + aperture ring** | Sigma 35mm f/2 DG DN (~$700)     |
-| **Best value** ⭐ NEW              | 7Artisans AF 35mm f/1.8 (~$299)  |
-| **Budget alternative**            | Viltrox AF 35mm f/1.8 ($350-400) |
+| **Best AF for kids**              | Sony FE 35mm f/1.8 (\$750-850)    |
+| **Premium build + aperture ring** | Sigma 35mm f/2 DG DN (~\$700)     |
+| **Best value** ⭐ NEW              | 7Artisans AF 35mm f/1.8 (~\$299)  |
+| **Budget alternative**            | Viltrox AF 35mm f/1.8 (\$350-400) |
 
 **85mm Options:**
 | If You Value...           | Buy This 85mm                     |
 | ------------------------- | --------------------------------- |
-| **Best AF for kids**      | Sony FE 85mm f/1.8 ($600-700)     |
-| **Best value + VCM AF** ⭐ | Viltrox 85mm f/2.0 Evo ($350-400) |
-| **Budget f/1.8**          | Viltrox 85mm f/1.8 II ($300-350)  |
-| **Ultra-budget**          | Meike 85mm f/1.8 AF ($200-250)    |
+| **Best AF for kids**      | Sony FE 85mm f/1.8 (\$600-700)     |
+| **Best value + VCM AF** ⭐ | Viltrox 85mm f/2.0 Evo (\$350-400) |
+| **Budget f/1.8**          | Viltrox 85mm f/1.8 II (\$300-350)  |
+| **Ultra-budget**          | Meike 85mm f/1.8 AF (\$200-250)    |
 
 ---
 
@@ -757,39 +757,37 @@ You can shoot almost any indoor event or museum without flash, preserving natura
 
 ### Your Two-Prime Kit
 
-#### Option 1: Premium Sony (~$1,350-1,550)
+#### Option 1: Premium Sony (~\$1,350-1,550)
 
 | Lens                 | Price            | Weight   | Aperture       |
 | -------------------- | ---------------- | -------- | -------------- |
-| 📷 Sony FE 35mm f/1.8 | $750-850         | 280g     | f/1.8          |
-| 📷 Sony FE 85mm f/1.8 | $600-700         | 371g     | f/1.8          |
-| **Kit Total**        | **$1,350-1,550** | **651g** | **Both f/1.8** |
+| 📷 Sony FE 35mm f/1.8 | \$750-850         | 280g     | f/1.8          |
+| 📷 Sony FE 85mm f/1.8 | \$600-700         | 371g     | f/1.8          |
+| **Kit Total**        | **\$1,350-1,550** | **651g** | **Both f/1.8** |
 
 > **Highlights:** Best AF performance · Native Sony compatibility · Full weather sealing
 
 ---
 
-#### Option 2: Ultra-Budget ⭐ NEW (~$650-700)
+#### Option 2: Ultra-Budget ⭐ NEW (~\$650-700)
 
 | Lens                      | Price        | Weight   | Aperture      |
 | ------------------------- | ------------ | -------- | ------------- |
-| 📷 7Artisans AF 35mm f/1.8 | ~$299        | 195g     | f/1.8         |
-| 📷 Viltrox 85mm f/2.0 Evo  | $350-400     | 298g     | f/2.0         |
-| **Kit Total**             | **$650-700** | **493g** | **Both fast** |
+| 📷 7Artisans AF 35mm f/1.8 | ~\$299        | 195g     | f/1.8         |
+| 📷 Viltrox 85mm f/2.0 Evo  | \$350-400     | 298g     | f/2.0         |
+| **Kit Total**             | **\$650-700** | **493g** | **Both fast** |
 
-> **Highlights:** Lightest kit · Under $700 total · Full f/1.8 on 35mm · Great for travel
+> **Highlights:** Lightest kit · Under \$700 total · Full f/1.8 on 35mm · Great for travel
 
 ---
 
-#### Option 2: Best Value ⭐ RECOMMENDED (~$1,100-1,250)
-
-#### Option 3: Best Value ⭐ RECOMMENDED (~$1,100-1,250)
+#### Option 3: Best Value ⭐ RECOMMENDED (~\$1,100-1,250)
 
 | Lens                         | Price            | Weight   | Primary Use                        |
 | ---------------------------- | ---------------- | -------- | ---------------------------------- |
-| 📷 **Sony FE 35mm f/1.8**     | $750-850         | 280g     | Night cities, gala events, museums |
-| 📷 **Viltrox 85mm f/2.0 Evo** | $350-400         | 298g     | Kid portraits, artwork details     |
-| **Kit Total**                | **$1,100-1,250** | **578g** |                                    |
+| 📷 **Sony FE 35mm f/1.8**     | \$750-850         | 280g     | Night cities, gala events, museums |
+| 📷 **Viltrox 85mm f/2.0 Evo** | \$350-400         | 298g     | Kid portraits, artwork details     |
+| **Kit Total**                | **\$1,100-1,250** | **578g** |                                    |
 
 > **Highlights:** Lightest premium 35mm · Fast VCM AF on 85mm · Best price/performance balance
 >
@@ -799,11 +797,11 @@ You can shoot almost any indoor event or museum without flash, preserving natura
 
 ### 🆕 New Option: 7Artisans AF 35mm f/1.8 Analysis
 
-The 7Artisans AF 35mm f/1.8 at **$299** represents a significant shift in the budget landscape:
+The 7Artisans AF 35mm f/1.8 at **\$299** represents a significant shift in the budget landscape:
 
 | Metric             | 7Artisans vs Sony | 7Artisans vs Viltrox |
 | ------------------ | ----------------- | -------------------- |
-| **Price savings**  | ~$450-550 (60%)   | ~$50-100 (15%)       |
+| **Price savings**  | ~\$450-550 (60%)   | ~\$50-100 (15%)       |
 | **Weight savings** | 85g lighter       | 145g lighter         |
 | **Close focus**    | 7cm longer        | 11cm shorter         |
 | **AF speed**       | Slower (STM)      | Similar (STM)        |
