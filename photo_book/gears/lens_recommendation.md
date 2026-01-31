@@ -1479,6 +1479,7 @@ the SEL2070G remains the better choice for your primary 20-70mm zone.
 
 **Data-based coverage:** 90-95% coverage, but wide end doesn't improve on your 24mm history
 
+(recommendation-sigma-vs-tamron-for-your-use-case)=
 ### 🎯 Recommendation: Sigma vs Tamron for Your Use Case
 
 **Choose Sigma 20-200mm if:**
@@ -1495,6 +1496,7 @@ the SEL2070G remains the better choice for your primary 20-70mm zone.
 - **Less ideal for you as primary lens** - Wide end doesn't improve your constraint.
 - ✅ **Excellent for Option 1C** - Buy later when safari/wildlife trip is planned.
 
+(complete-kit-comparison-three-strategies)=
 ### 📊 Complete Kit Comparison: Three Strategies
 
 **Option 1A: SEL2070G + 85mm + HX90 (Maximum Quality at 20-70mm)**
