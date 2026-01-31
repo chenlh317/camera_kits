@@ -11,6 +11,7 @@
 
 ---
 
+(executive-summary)=
 ## 📋 Executive Summary
 
 **Based on 56,196 photos analyzed across 21 years,
@@ -18,6 +19,7 @@ you are a wide-angle storyteller who consistently shoots 65-80% of photos at 20-
 This comprehensive analysis provides data-driven recommendations for both lens and camera body
 optimized for your shooting style.**
 
+(top-gear-recommendations)=
 ### 🎯 Top Gear Recommendations
 
 **Three Top Lens Strategies (Plus One Alternative - Choose Based on Your Priorities):**
@@ -95,6 +97,7 @@ and more substantial feel (658g, better ergonomics)
 Main difference is ergonomics vs portability; A7C II is more compact, while A7 IV offers a larger grip and dual card slots.
 Try both in person before deciding - grip comfort is highly subjective.
 
+(key-findings-from-your-data)=
 ### 📊 Key Findings from Your Data
 
 **Your Shooting Evolution (2004-2025):**
@@ -118,15 +121,16 @@ Try both in person before deciding - grip comfort is highly subjective.
 **NEW Alternative:** Consider **Sigma 20–200mm f/3.5–6.3 DG DN Contemporary**
 or **Tamron 25–200mm f/2.8–5.6 Di III VXD G2** superzooms
 to retire HX90 while gaining full-frame quality in the 70-200mm range
-(see [Option 1B](#-option-1b-sigma-20-200mm-f35-63-dg-dn---best-kit-simplification)
-and [Reference: Superzoom Comparison](#-reference-superzoom-lens-comparison-sigma-vs-tamron)
+(see [Option 1B](option-1b-sigma-20-200mm-f35-63-dg-dn---best-kit-simplification)
+and [Reference: Superzoom Comparison](reference-superzoom-lens-comparison-sigma-vs-tamron)
 for details).
 
+(your-complete-kit-strategy)=
 ### 🎒 Your Complete Kit Strategy
 
 **Three Recommended Systems (Choose Based on Priorities):**
 
-**Option 1A: SEL2070G + Keep HX90 (Maximum Quality in Primary Zone)** → *See [Option 1A](#-option-1a-sony-sel2070g-fe-20-70mm-f4-g---best-quality-in-primary-zone)*
+**Option 1A: SEL2070G + Keep HX90 (Maximum Quality in Primary Zone)** → *See [Option 1A](option-1a-sony-sel2070g-fe-20-70mm-f4-g---best-quality-in-primary-zone)*
 1. **Sony A7C II or A7 IV body** (~$2,200-2,500)
 2. **SEL2070G (20–70mm f/4 G)** (~$1,100, 488g) - Primary lens
 3. **Sony FE 85mm f/1.8** (~$550-600, 371g) - Portraits
@@ -135,7 +139,7 @@ for details).
 - **Best for:** Maximum optical quality in your 85-90% shooting zone
 - 💡 **Same initial purchase as Option 1C** — difference is only in future telephoto strategy
 
-**Option 1B: Sigma 20–200mm + Retire HX90 (Simplified Kit)** → *See [Option 1B](#-option-1b-sigma-20-200mm-f35-63-dg-dn---best-kit-simplification)*
+**Option 1B: Sigma 20–200mm + Retire HX90 (Simplified Kit)** → *See [Option 1B](option-1b-sigma-20-200mm-f35-63-dg-dn---best-kit-simplification)*
 1. **Sony A7C II or A7 IV body** (~$2,200-2,500)
 2. **Sigma 20–200mm f/3.5–6.3 DG DN Contemporary** (~$900-1,100, ~570g) - Primary lens
 3. **Sony FE 85mm f/1.8** (~$550-600, 371g) - Low-light portraits
@@ -144,7 +148,7 @@ for details).
 - **Best for:** Kit simplification—but **significant optical compromises**
   (see LensTip review findings)
 
-**🌟 Option 1C: Two-Lens Flexibility (SEL2070G Now + Superzoom Later)** → *See [Option 1C](#-option-1c-two-lens-flexibility-strategy-sel2070g-now--superzoom-later)*
+**🌟 Option 1C: Two-Lens Flexibility (SEL2070G Now + Superzoom Later)** → *See [Option 1C](option-1c-two-lens-flexibility-strategy-sel2070g-now--superzoom-later)*
 1. **Sony A7C II or A7 IV body** (~$2,200-2,500)
 2. **SEL2070G (20–70mm f/4 G)** (~$1,100, 488g) - Primary lens for city trips (95%)
 3. **Sony FE 85mm f/1.8** (~$550-600, 371g) - Portraits
@@ -162,6 +166,7 @@ for details).
 - **Kit simplification now:** Option 1B (with optical trade-offs)
 - **Financial flexibility + no compromises:** **🌟 Option 1C** (staged purchase)
 
+(what-this-document-includes)=
 ### 📸 What This Document Includes
 
 - **Comprehensive focal length analysis** - 21 years of shooting patterns decoded
@@ -195,96 +200,96 @@ Option 3 is an alternative for landscape-focused photographers who accept a 35-8
 
 ## Table of Contents <!-- omit in toc -->
 
-- [📋 Executive Summary](#-executive-summary)
-  - [🎯 Top Gear Recommendations](#-top-gear-recommendations)
-  - [📊 Key Findings from Your Data](#-key-findings-from-your-data)
-  - [🎒 Your Complete Kit Strategy](#-your-complete-kit-strategy)
-  - [📸 What This Document Includes](#-what-this-document-includes)
+- [📋 Executive Summary](executive-summary)
+  - [🎯 Top Gear Recommendations](top-gear-recommendations)
+  - [📊 Key Findings from Your Data](key-findings-from-your-data)
+  - [🎒 Your Complete Kit Strategy](your-complete-kit-strategy)
+  - [📸 What This Document Includes](what-this-document-includes)
 - [Your Current/Planned Gear Context](#your-currentplanned-gear-context)
 - [Comprehensive Analysis: 21 Years of Photography Data](#comprehensive-analysis-21-years-of-photography-data)
   - [Overall Statistics: Evolution Over Time](#overall-statistics-evolution-over-time)
   - [Mobile Phone Photography Evolution (2006-2026)](#mobile-phone-photography-evolution-2006-2026)
   - [Key Statistics Across All 73 Collections](#key-statistics-across-all-73-collections)
   - [Critical Findings](#critical-findings)
-    - [1. **24mm is Your Absolute Workhorse (2012-2025)**](1-24mm-is-your-absolute-workhorse-2012-2025)
-    - [2. **Wide and Ultra-Wide (13-24mm) Dominance**](2-wide-and-ultra-wide-13-24mm-dominance)
-    - [3. **Portrait/Telephoto Sweet Spot: 75mm**](3-portraittelephoto-sweet-spot-75mm)
-    - [4. **Mobile Phone Contribution (2012-2026)**](4-mobile-phone-contribution-2012-2026)
-    - [5. **Cumulative Coverage Percentages**](5-cumulative-coverage-percentages)
-    - [6. **What You DON'T Use**](6-what-you-dont-use)
-    - [7. **Special Use Cases Identified**](7-special-use-cases-identified)
-- [🔍 Advanced Shooting Pattern Analysis](#-advanced-shooting-pattern-analysis)
+    - [1. **24mm is Your Absolute Workhorse (2012-2025)**](#1-24mm-is-your-absolute-workhorse-2012-2025)
+    - [2. **Wide and Ultra-Wide (13-24mm) Dominance**](#2-wide-and-ultra-wide-13-24mm-dominance)
+    - [3. **Portrait/Telephoto Sweet Spot: 75mm**](#3-portraittelephoto-sweet-spot-75mm)
+    - [4. **Mobile Phone Contribution (2012-2026)**](#4-mobile-phone-contribution-2012-2026)
+    - [5. **Cumulative Coverage Percentages**](#5-cumulative-coverage-percentages)
+    - [6. **What You DON'T Use**](#6-what-you-dont-use)
+    - [7. **Special Use Cases Identified**](#7-special-use-cases-identified)
+- [🔍 Advanced Shooting Pattern Analysis](advanced-shooting-pattern-analysis)
   - [Destination-Specific Focal Length Patterns](#destination-specific-focal-length-patterns)
   - [Multi-Camera Workflow Evolution](#multi-camera-workflow-evolution)
   - [Trip Duration \& Photography Volume Patterns](#trip-duration--photography-volume-patterns)
   - ["Selected" Subfolder Analysis: What You Actually Keep](#selected-subfolder-analysis-what-you-actually-keep)
   - [Companion/Collaborative Photography Patterns](#companioncollaborative-photography-patterns)
-- [🎯 LENS RECOMMENDATIONS](#-lens-recommendations)
-  - [⭐ **TOP RECOMMENDATIONS: Three Excellent Options**](#-top-recommendations-three-excellent-options)
-  - [⭐ **Option 1A: Sony SEL2070G (FE 20-70mm f/4 G)** - Best Quality in Primary Zone](#-option-1a-sony-sel2070g-fe-20-70mm-f4-g---best-quality-in-primary-zone)
-    - [Perfect Focal Length Range](perfect-focal-length-range)
-    - [Ideal Ecosystem Integration](ideal-ecosystem-integration)
-    - [Technical Advantages](technical-advantages)
-    - [Data-Based Validation](data-based-validation)
-    - [Why SEL2070G Over Alternatives:](why-sel2070g-over-alternatives)
-    - [**Your Complete Kit with SEL2070G**](your-complete-kit-with-sel2070g)
+- [🎯 LENS RECOMMENDATIONS](lens-recommendations)
+  - [⭐ **TOP RECOMMENDATIONS: Three Excellent Options**](top-recommendations-three-excellent-options)
+  - [⭐ **Option 1A: Sony SEL2070G (FE 20-70mm f/4 G)** - Best Quality in Primary Zone](option-1a-sony-sel2070g-fe-20-70mm-f4-g---best-quality-in-primary-zone)
+    - [Perfect Focal Length Range](#perfect-focal-length-range)
+    - [Ideal Ecosystem Integration](#ideal-ecosystem-integration)
+    - [Technical Advantages](#technical-advantages)
+    - [Data-Based Validation](#data-based-validation)
+    - [Why SEL2070G Over Alternatives:](#why-sel2070g-over-alternatives)
+    - [**Your Complete Kit with SEL2070G**](#your-complete-kit-with-sel2070g)
   - [⭐ **Option 1B: Sigma 20-200mm f/3.5-6.3 DG DN** - Best Kit Simplification](#-option-1b-sigma-20-200mm-f35-63-dg-dn---best-kit-simplification)
-    - [Why Sigma 20-200mm is Compelling](why-sigma-20-200mm-is-compelling)
-    - [⚠️ Important Caveats (from LensTip Review)](#important-caveats-from-lenstip-review)
-    - [**Your Complete Kit with Sigma 20-200mm**](your-complete-kit-with-sigma-20-200mm)
+    - [Why Sigma 20-200mm is Compelling](#why-sigma-20-200mm-is-compelling)
+    - [⚠️ Important Caveats (from LensTip Review)](#️-important-caveats-from-lenstip-review)
+    - [**Your Complete Kit with Sigma 20-200mm**](#your-complete-kit-with-sigma-20-200mm)
   - [⭐ **Option 1C: Two-Lens Flexibility Strategy (SEL2070G Now + Superzoom Later)**](#-option-1c-two-lens-flexibility-strategy-sel2070g-now--superzoom-later)
-    - [The Core Insight](the-core-insight)
-    - [The Strategy](the-strategy)
-    - [Why This Makes Sense for You](why-this-makes-sense-for-you)
-    - [Complete Kit Analysis](complete-kit-analysis)
-    - [Trade-offs vs Other Options](trade-offs-vs-other-options)
-    - [When to Buy the Superzoom](when-to-buy-the-superzoom)
-    - [Why Tamron Over Sigma for Phase 2](why-tamron-over-sigma-for-phase-2)
+    - [The Core Insight](#the-core-insight)
+    - [The Strategy](#the-strategy)
+    - [Why This Makes Sense for You](#why-this-makes-sense-for-you)
+    - [Complete Kit Analysis](#complete-kit-analysis)
+    - [Trade-offs vs Other Options](#trade-offs-vs-other-options)
+    - [When to Buy the Superzoom](#when-to-buy-the-superzoom)
+    - [Why Tamron Over Sigma for Phase 2](#why-tamron-over-sigma-for-phase-2)
 - [Alternative Options](#alternative-options)
   - [Option 2: **24-70mm f/2.8 or f/4** (Most Versatile)](#option-2-24-70mm-f28-or-f4-most-versatile)
   - [Option 3: **16-35mm f/4** (Ultra-Wide Specialist)](#option-3-16-35mm-f4-ultra-wide-specialist)
   - [Option 4: **18-50mm f/2.8** (Compact Travel Option)](#option-4-18-50mm-f28-compact-travel-option)
   - [Option 5: **Mobile + 85mm Prime + HX90** (Three-Device System)](#option-5-mobile--85mm-prime--hx90-three-device-system)
-- [📚 Reference: Superzoom Lens Comparison (Sigma vs Tamron)](#-reference-superzoom-lens-comparison-sigma-vs-tamron)
-  - [🆚 Lens Comparison: Sigma vs Tamron Wide-Range Superzooms](#-lens-comparison-sigma-vs-tamron-wide-range-superzooms)
+- [📚 Reference: Superzoom Lens Comparison (Sigma vs Tamron)](reference-superzoom-lens-comparison-sigma-vs-tamron)
+  - [🆚 Lens Comparison: Sigma vs Tamron Wide-Range Superzooms](lens-comparison-sigma-vs-tamron-wide-range-superzooms)
   - [Why Consider Superzooms Over SEL2070G + HX90](#why-consider-superzooms-over-sel2070g--hx90)
-  - [📊 Data-Based Analysis: Do You Need 200mm?](#-data-based-analysis-do-you-need-200mm)
+  - [📊 Data-Based Analysis: Do You Need 200mm?](data-based-analysis-do-you-need-200mm)
   - [Detailed: Sigma 20-200mm f/3.5-6.3 DG DN Contemporary](#detailed-sigma-20-200mm-f35-63-dg-dn-contemporary)
   - [Detailed: Tamron 25-200mm f/2.8-5.6 Di III VXD G2](#detailed-tamron-25-200mm-f28-56-di-iii-vxd-g2)
-  - [🎯 Recommendation: Sigma vs Tamron for Your Use Case](#-recommendation-sigma-vs-tamron-for-your-use-case)
-  - [📊 Complete Kit Comparison: Three Strategies](#-complete-kit-comparison-three-strategies)
+  - [🎯 Recommendation: Sigma vs Tamron for Your Use Case](recommendation-sigma-vs-tamron-for-your-use-case)
+  - [📊 Complete Kit Comparison: Three Strategies](complete-kit-comparison-three-strategies)
   - [Final Verdict on Superzoom Strategy](#final-verdict-on-superzoom-strategy)
-- [🎒 Practicality Reality Check: Two Zooms (20-70mm + 70-200mm) on Non-Photography Trips](#-practicality-reality-check-two-zooms-20-70mm--70-200mm-on-non-photography-trips)
-  - [The Two-Zoom Dream vs. Reality](the-two-zoom-dream-vs-reality)
+- [🎒 Practicality Reality Check: Two Zooms (20-70mm + 70-200mm) on Non-Photography Trips](practicality-reality-check-two-zooms-20-70mm--70-200mm-on-non-photography-trips)
+  - [The Two-Zoom Dream vs. Reality](#the-two-zoom-dream-vs-reality)
   - [Why Two Zooms May Not Suit Your Travel Style](#why-two-zooms-may-not-suit-your-travel-style)
   - [When Two Zooms WOULD Make Sense](#when-two-zooms-would-make-sense)
   - [Why Superzooms Exist: Solving the Two-Zoom Problem](#why-superzooms-exist-solving-the-two-zoom-problem)
-    - [Your Data Supports Single-Lens Simplicity](your-data-supports-single-lens-simplicity)
+    - [Your Data Supports Single-Lens Simplicity](#your-data-supports-single-lens-simplicity)
   - [Practical Recommendation for Non-Photography Trips](#practical-recommendation-for-non-photography-trips)
   - [The Decision Matrix](#the-decision-matrix)
-- [📸 Camera Body Recommendations](#-camera-body-recommendations)
+- [📸 Camera Body Recommendations](camera-body-recommendations)
   - [Your Shooting Profile Requirements](#your-shooting-profile-requirements)
   - [🥇 Top Recommendation: **Sony A7C II**](#-top-recommendation-sony-a7c-ii)
-    - [Optimal for Your Use Case:](optimal-for-your-use-case)
-    - [Investment Analysis:](investment-analysis)
+    - [Optimal for Your Use Case:](#optimal-for-your-use-case)
+    - [Investment Analysis:](#investment-analysis)
   - [🥈 Alternative: **Sony A7 IV**](#-alternative-sony-a7-iv)
-    - [⚠️ **Important Considerations: A7C II vs A7 IV**](#important-considerations-a7c-ii-vs-a7-iv)
+    - [⚠️ **Important Considerations: A7C II vs A7 IV**](#️-important-considerations-a7c-ii-vs-a7-iv)
   - [🥉 Consider: **Sony A7 V (ILCE‑7M5)** (If Budget Allows)](#-consider-sony-a7-v-ilce7m5-if-budget-allows)
   - [❌ NOT Recommended: **Sony A7R Series** (A7R V, A7R IV)](#-not-recommended-sony-a7r-series-a7r-v-a7r-iv)
   - [📊 Camera Body Comparison Table](#-camera-body-comparison-table)
   - [🎯 Final Camera Body Recommendation](#-final-camera-body-recommendation)
-- [🎯 Decision Guide: Choose Your Strategy](#-decision-guide-choose-your-strategy)
+- [🎯 Decision Guide: Choose Your Strategy](decision-guide-choose-your-strategy)
   - [Choose **SEL2070G 20-70mm f/4 G** (Options 1A or 1C) if:](#choose-sel2070g-20-70mm-f4-g-options-1a-or-1c-if)
   - [Choose **Sigma 20-200mm f/3.5-6.3 DG DN** (Option 1B) if:](#choose-sigma-20-200mm-f35-63-dg-dn-option-1b-if)
   - [Choose **Two-Lens Flexibility Strategy** (Option 1C) if:](#choose-two-lens-flexibility-strategy-option-1c-if)
   - [Choose **24-70mm f/2.8 GM** if:](#choose-24-70mm-f28-gm-if)
   - [Choose **16-35mm f/4** if:](#choose-16-35mm-f4-if)
-- [⚠️ Critical Insights About Your Photography](#critical-insights-about-your-photography)
+- [⚠️ Critical Insights About Your Photography](#️-critical-insights-about-your-photography)
 - [Conclusion](#conclusion)
   - [**Three Excellent Strategies - Quick Summary**](#three-excellent-strategies---quick-summary)
   - [**Alternative Strategies**](#alternative-strategies)
-- [📌 Quick Reference Summary](#-quick-reference-summary)
-- [🎯 Bottom Line: Your Optimal Lens Strategy](#-bottom-line-your-optimal-lens-strategy)
+- [📌 Quick Reference Summary](quick-reference-summary)
+- [🎯 Bottom Line: Your Optimal Lens Strategy](bottom-line-your-optimal-lens-strategy)
   - [Your Three Top Strategies (Plus Alternative)](#your-three-top-strategies-plus-alternative)
 - [Notes](#notes)
   - [Sources and Citations](#sources-and-citations)
