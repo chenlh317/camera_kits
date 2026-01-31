@@ -11,7 +11,7 @@
 
 ---
 
-(executive-summary)=
+(executive-summary--lens-recommendation)=
 ## 📋 Executive Summary
 
 **Based on 56,196 photos analyzed across 21 years,
@@ -200,7 +200,7 @@ Option 3 is an alternative for landscape-focused photographers who accept a 35-8
 
 ## Table of Contents <!-- omit in toc -->
 
-- [📋 Executive Summary](executive-summary)
+- [📋 Executive Summary](executive-summary--lens-recommendation)
   - [🎯 Top Gear Recommendations](top-gear-recommendations)
   - [📊 Key Findings from Your Data](key-findings-from-your-data)
   - [🎒 Your Complete Kit Strategy](your-complete-kit-strategy)
