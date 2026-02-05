@@ -1,12 +1,12 @@
 # Complete Camera Gear Recommendation: Data-Driven Analysis <!-- omit in toc -->
 
 - **Analysis Date:** 16 January, 2026
-- **Last Updated:** 31 January, 2026
-- **Data Source:** 73 photo collections spanning 2004-2025
+- **Last Updated:** 5 February, 2026
+- **Data Source:** 70 photo collections spanning 2004-2025
   PLUS 12 mobile phone archives (2006-2026)
-- **Total Photos Analyzed:** 56,196 with 35mm equivalent focal length data
-  (40,668+ dedicated camera + 15,528 mobile)
-- **Mobile Phone Photos:** 15,528 spanning 20 years across 12 devices
+- **Total Photos Analyzed:** 75,974 with 35mm equivalent focal length data
+  (59,042+ dedicated camera + 16,932 mobile)
+- **Mobile Phone Photos:** 16,932 spanning 20 years across 12 devices
   (Samsung, Nokia, iPhone, Huawei)
 
 ---
@@ -14,7 +14,7 @@
 (executive-summary--lens-recommendation)=
 ## 📋 Executive Summary
 
-**Based on 56,196 photos analyzed across 21 years,
+**Based on 75,974 photos analyzed across 21 years,
 you are a wide-angle storyteller who consistently shoots 65-80% of photos at 20-35mm.
 This comprehensive analysis provides data-driven recommendations for both lens and camera body
 optimized for your shooting style.**
@@ -105,9 +105,9 @@ Try both in person before deciding - grip comfort is highly subjective.
 - **Transition (2012-2016):** 24mm wide-angle revolution (50-75% at 24mm)
 - **Recent years (2017-2025):** 23-27mm ultra-wide dominance (65-80% of shots)
 
-**Mobile Phone Integration (15,528 photos, 2006-2026):**
-- **75% shot at 23-29mm** - mirrors your 24mm dedication on dedicated cameras
-- **28% of total photography** - mobile is now a primary camera, not backup
+**Mobile Phone Integration (16,932 photos, 2006-2026):**
+- **74% shot at 23-29mm** - mirrors your 24mm dedication on dedicated cameras
+- **22% of total photography** - mobile is now a primary camera, not backup
 - **Samsung S25 usage:** 64% at 23mm, 15% at 69mm (3x tele), 8% at 13mm (ultra-wide)
 
 **What You Don't Need:**
@@ -209,7 +209,7 @@ Option 3 is an alternative for landscape-focused photographers who accept a 35-8
 - [Comprehensive Analysis: 21 Years of Photography Data](#comprehensive-analysis-21-years-of-photography-data)
   - [Overall Statistics: Evolution Over Time](#overall-statistics-evolution-over-time)
   - [Mobile Phone Photography Evolution (2006-2026)](#mobile-phone-photography-evolution-2006-2026)
-  - [Key Statistics Across All 73 Collections](#key-statistics-across-all-73-collections)
+  - [Key Statistics Across All 70 Collections](#key-statistics-across-all-70-collections)
   - [Critical Findings](#critical-findings)
     - [1. **24mm is Your Absolute Workhorse (2012-2025)**](#1-24mm-is-your-absolute-workhorse-2012-2025)
     - [2. **Wide and Ultra-Wide (13-24mm) Dominance**](#2-wide-and-ultra-wide-13-24mm-dominance)
@@ -313,7 +313,7 @@ and super-telephoto (100-720mm) is handled by the HX90 backup camera.
 
 ## Comprehensive Analysis: 21 Years of Photography Data
 
-Based on analysis of **73 photo collections** spanning 2004-2025,
+Based on analysis of **70 photo collections** spanning 2004-2025,
 covering travel destinations worldwide
 (Japan, Caucasus, Lofoten, Balkans, Turkey, Czech Republic, Spain,
 Korea, China, Norway, and many more), here are the definitive findings:
@@ -343,7 +343,7 @@ Korea, China, Norway, and many more), here are the definitive findings:
 
 ### Mobile Phone Photography Evolution (2006-2026)
 
-Analysis of **15,528 mobile phone photos** across 12 devices
+Analysis of **16,932 mobile phone photos** across 12 devices
 reveals your smartphone usage patterns:
 
 **Early Mobile Era (2006-2012): Feature Phones**
@@ -357,19 +357,19 @@ reveals your smartphone usage patterns:
 
 - **Devices:** iPhone 4, iPhone 4S, iPhone 5, iPhone 6S
 - **Dominant focal length:** 29-35mm (standard wide angle)
-- **iPhone 4S (2013-2014):** 99.5% at 35mm (820 photos)
-- **iPhone 6S (2015-2019):** 88% at 29mm (4,314 photos)
+- **iPhone 4S (2013-2014):** 99% at 35mm (828 photos)
+- **iPhone 6S (2015-2019):** 87% at 29mm (4,346 photos)
 - **Pattern:** Reliable everyday camera, consistent focal length
-- **Usage:** 4,314 photos over 4 years = primary daily driver
+- **Usage:** 4,346 photos over 4 years = primary daily driver
 
 **Multi-Camera Era (2019-2026): Focal Length Variety**
 
-- **Huawei P30 (2019-2023):** 1,940 photos
+- **Huawei P30 (2019-2023):** 1,944 photos
   - **78% at 27mm** (primary wide)
   - **13% at 17mm** (ultra-wide)
   - **Notable:** First significant ultra-wide adoption (256 photos at 17mm)
 
-- **Samsung S22 (2022-2025):** 5,028 photos
+- **Samsung S22 (2022-2025):** 5,052 photos
   - **68% at 23mm** (primary wide)
   - **14% at 69mm** (3x telephoto)
   - **6% at 13mm** (ultra-wide)
@@ -406,9 +406,9 @@ reveals your smartphone usage patterns:
    - Samsung S25: 15% at 69mm (484 photos)
    - Consistent 3x zoom usage for portraits and details
 
-4. **Mobile phone volume = HALF your photography**
+4. **Mobile phone volume = significant portion of your photography**
 
-   - 15,528 mobile photos vs 40,000+ dedicated camera
+   - 16,932 mobile photos vs 59,000+ dedicated camera
    - 2015-2026: Mobile increasingly primary camera for daily life
    - Travel: Still prefer dedicated camera; Daily: Mobile dominates
 
@@ -419,13 +419,13 @@ reveals your smartphone usage patterns:
    - Ultra-wide (13mm): 8% - dramatic landscapes
    - Mid-range (46mm): 5% - emerging focal length interest
 
-### Key Statistics Across All 73 Collections
+### Key Statistics Across All 70 Collections
 
 | Period    | Collections | Total Photos | Median FL | Mean FL | Most Used FL     |
 | --------- | ----------- | ------------ | --------- | ------- | ---------------- |
-| 2004-2009 | 8           | 822          | 38-41mm   | 39-57mm | 35-39mm (50-90%) |
-| 2012-2016 | 15          | 15,224       | 24-29mm   | 27-48mm | 24mm (40-75%)    |
-| 2017-2025 | 49          | 24,000+      | 23-27mm   | 28-60mm | 23-27mm (35-75%) |
+| 2004-2009 | 12          | 1,800+       | 38-41mm   | 39-57mm | 35-39mm (50-90%) |
+| 2012-2016 | 18          | 18,000+      | 24-29mm   | 27-48mm | 24mm (40-75%)    |
+| 2017-2025 | 40          | 39,000+      | 23-27mm   | 28-60mm | 23-27mm (35-75%) |
 
 ### Critical Findings
 
@@ -456,32 +456,32 @@ reveals your smartphone usage patterns:
 (4-mobile-phone-contribution-2012-2026)=
 #### 4. **Mobile Phone Contribution (2012-2026)**
 
-**Comprehensive mobile phone analysis (15,528 photos with EXIF data):**
+**Comprehensive mobile phone analysis (16,932 photos with EXIF data):**
 
 **Focal Length Distribution Across All Smartphones:**
 
-- **23-29mm (primary wide):** 11,670 photos (75%)
+- **23-29mm (primary wide):** 12,600+ photos (74%)
   - Your absolute mobile workhorse
-  - iPhone 6S: 88% at 29mm
+  - iPhone 6S: 87% at 29mm
   - Huawei P30: 78% at 27mm
   - Samsung S22: 68% at 23mm
   - Samsung S25: 64% at 23mm
 
-- **13-18mm (ultra-wide):** 822 photos (5.3%)
+- **13-18mm (ultra-wide):** 900+ photos (5.3%)
   - Growing steadily since introduction (Huawei P30, 2019)
   - Samsung S25: 8% at 13mm (252 photos)
   - You actively seek ultra-wide when available
 
-- **35mm (normal):** 816 photos (5.3%)
+- **35mm (normal):** 820+ photos (4.9%)
   - Mostly iPhone 4S era (2013-2014)
   - Largely replaced by wider 23-29mm preference
 
-- **69mm (3x telephoto):** 1,206 photos (7.8%)
+- **69mm (3x telephoto):** 1,300+ photos (7.7%)
   - Samsung S22: 14% telephoto usage
   - Samsung S25: 15% telephoto usage
   - Child portraits, details, compression shots
 
-- **46mm (2x zoom):** 180 photos (1.2%)
+- **46mm (2x zoom):** 180+ photos (1.1%)
   - NEW focal length in Samsung S25
   - Emerging interest in mid-range compression
 
@@ -490,16 +490,16 @@ reveals your smartphone usage patterns:
 
 **Mobile Photography Volume:**
 
-- **Total mobile photos analyzed:** 15,528 with focal length data
-- **Recent volume (2022-2026):** 8,454 photos in ~3 years
+- **Total mobile photos analyzed:** 16,932 with focal length data
+- **Recent volume (2022-2026):** 8,500+ photos in ~3 years
 - **Annual rate:** ~2,800-3,200 mobile photos/year
-- **Percentage of total photography:** 28% mobile vs 72% dedicated camera
+- **Percentage of total photography:** 22% mobile vs 78% dedicated camera
   - But mobile rate accelerating: 40-50% of daily shooting now mobile
 
 **Evolution of Mobile Phone Role:**
 
 - **2012-2015:** Supplement to dedicated camera (backup, casual)
-- **2015-2019:** iPhone 6S era - primary everyday camera (4,314 photos)
+- **2015-2019:** iPhone 6S era - primary everyday camera (4,346 photos)
 - **2019-2023:** Multi-camera phones - intentional focal length choices
 - **2023-2026:** Mobile as creative tool (ultra-wide, telephoto, multiple focal lengths)
 
@@ -513,7 +513,7 @@ Your mobile phone is NOT just a backup - it's a deliberate creative choice:
 
 **Impact on Lens Recommendation:**
 
-With 75% of mobile shots at 23-29mm and 8% at 13mm ultra-wide,
+With 74% of mobile shots at 23-29mm and 8% at 13mm ultra-wide,
 your mobile ALREADY covers:
 - Ultra-wide storytelling (13mm)
 - Standard wide-angle (23-27mm)
@@ -936,7 +936,7 @@ Your 65-80% wide-angle usage isn't because:
 (top-recommendations-three-excellent-options)=
 ### ⭐ **TOP RECOMMENDATIONS: Three Excellent Options**
 
-**Based on your 56,196 photos analyzed,
+**Based on your 75,974 photos analyzed,
 you have three excellent lens strategies:**
 
 | Rank    | Lens / Strategy                             | Price       | Best For                                                  |
@@ -983,7 +983,7 @@ See [Your Complete Kit Strategy](#-your-complete-kit-strategy) for details.
 (data-based-validation)=
 #### Data-Based Validation
 
-Based on your 40,000+ photo analysis:
+Based on your 59,000+ photo analysis:
 
 - **20-35mm range:** Your PRIMARY shooting zone (65-80% of all shots)
 - **20mm:** Wider than your most-used 24mm - addresses your constraint
@@ -1751,7 +1751,7 @@ in exchange for dramatically simpler workflow and lighter kit.
 
 **Evidence from your shooting patterns:**
 
-1. **Mobile phone usage: 28% of all shots** → You value convenience
+1. **Mobile phone usage: 22% of all shots** → You value convenience
 2. **HX90 as "backup" rather than primary** → You don't enjoy device-juggling
 3. **65-80% at 20-35mm** → You'd rarely use the second lens
 4. **"Selected" photos favor wide-angle MORE** → Your best work doesn't need 70-200mm
@@ -1808,7 +1808,7 @@ For maximum simplicity NOW, Option 1B (Sigma). For maximum quality in your prima
 
 ### Your Shooting Profile Requirements
 
-Based on 56,196 photos analyzed across 21 years,
+Based on 75,974 photos analyzed across 21 years,
 your camera body needs are clear:
 
 **Priority Features (Must-Have):**
@@ -1849,7 +1849,7 @@ your camera body needs are clear:
 - **Weight:** 514g (body only) - lightest full-frame Sony.
 - **Size:** Smallest full-frame A7 body - fits easily in travel bag.
 - **Parent advantage:** Less bulk when also carrying child supplies.
-- **Your pattern:** You value convenience (28% mobile usage proves this).
+- **Your pattern:** You value convenience (22% mobile usage proves this).
 
 **2. Excellent Image Quality for Your Needs**
 - **33MP sensor** - Perfect balance (not overkill, not limiting).
@@ -1933,7 +1933,7 @@ compact, capable, and perfectly matched to SEL2070G.
 - Value rangefinder-style compact form.
 - Every gram matters in travel bag.
 
-**Data-based verdict:** Your 28% mobile usage + travel focus
+**Data-based verdict:** Your 22% mobile usage + travel focus
 suggests you value compactness → **A7C II edges ahead**.
 
 (important-considerations-a7c-ii-vs-a7-iv)=
@@ -2025,7 +2025,7 @@ for professional daily use than casual travel shooting.
 **Recommendation:** If possible, **handle both cameras in a store** before deciding.
 The grip size difference is subjective -
 what feels cramped to one person feels perfect to another.
-Your data shows you value portability (28% mobile usage),
+Your data shows you value portability (22% mobile usage),
 but ergonomics trump weight if you can't comfortably hold the camera.
 
 **Safe middle ground:** A7 IV offers peace of mind on both concerns
@@ -2071,7 +2071,7 @@ already meet needs at lower cost and weight. Consider A7 V if specific new featu
 **Why A7R is Wrong for You:**
 
 1. **Overkill resolution (61MP)**
-   - Your mobile photos (28% of output) are 12MP - you're fine with that.
+   - Your mobile photos (22% of output) are 12MP - you're fine with that.
    - You don't print large (no mention in 21-year data).
    - Higher MP = larger files, slower workflow, more storage.
 
@@ -2269,14 +2269,14 @@ comfort - personal preference determines which is right for you.
 
    - 90-95% of shots in 20-70mm range.
    - You prefer convenience
-     (evidenced by 15,528 mobile photos = 28% of total output).
+     (evidenced by 16,932 mobile photos = 22% of total output).
    - Mobile usage accelerating: 3,296 photos in <1 year on Samsung S25.
    - Lens changing minimized = better travel experience.
 
 5. **Mobile phone is your SECOND camera, not backup**
 
-   - 15,528 mobile photos with intentional focal length choices.
-   - 75% shot at primary wide (23-29mm) - deliberate storytelling choice.
+   - 16,932 mobile photos with intentional focal length choices.
+   - 74% shot at primary wide (23-29mm) - deliberate storytelling choice.
    - Multi-camera phones: You actively switch between ultra-wide, wide, telephoto.
    - Samsung S25: Most balanced usage (64% primary, 15% tele, 8% ultra-wide, 5% mid-range).
    - This isn't "phone snapshot" behavior - it's intentional photography.
@@ -2287,7 +2287,7 @@ comfort - personal preference determines which is right for you.
 
 ### **Three Excellent Strategies - Quick Summary**
 
-Based on **56,196 photos analyzed** across 21 years,
+Based on **75,974 photos analyzed** across 21 years,
 here's the bottom line:
 
 | Your Priority                              | Best Choice                | See Details                                                                           |
@@ -2305,7 +2305,7 @@ here's the bottom line:
 ### **Alternative Strategies**
 
 **🥉 Budget: Mobile + 85mm + HX90** (~$550-600 for 85mm prime only) - If minimizing cost.
-You're already shooting 30-50% on mobile.
+You're already shooting 40-50% of daily life on mobile.
 
 ---
 
@@ -2333,14 +2333,14 @@ You're already shooting 30-50% on mobile.
  (bottom-line-your-optimal-lens-strategy)=
 ## 🎯 Bottom Line: Your Optimal Lens Strategy
 
-Based on 56,196 photos analyzed across 21 years
-(40,668+ dedicated camera + 15,528 mobile),
+Based on 75,974 photos analyzed across 21 years
+(59,042+ dedicated camera + 16,932 mobile),
 you've proven you're a **wide-angle storyteller**
 who values **environmental context** over **isolated subjects**.
 
 **Mobile phone data confirms this:**
 
-- 75% of your 15,528 mobile photos shot at 23-29mm wide angle
+- 74% of your 16,932 mobile photos shot at 23-29mm wide angle
 - When given ultra-wide (13-18mm), you use it 5-13% - proving you want WIDER
 - Samsung S25: 64% at 23mm shows consistency with your 24mm dedication on dedicated cameras
 
@@ -2368,7 +2368,7 @@ but never at the expense of capturing the moment.
 The best photo technique is the one that gets you the shot
 while your child is still willing to cooperate.
 
-**Mobile insight:** Your 15,528 mobile photos aren't just "backup snapshots" -
+**Mobile insight:** Your 16,932 mobile photos aren't just "backup snapshots" -
 they show intentional focal length choices matching your dedicated camera style
 (ultra-wide for drama, 23mm for storytelling, 69mm for portraits).
 You're already a multi-focal-length photographer;
@@ -2379,9 +2379,9 @@ to your dedicated camera with superior image quality.
 
 ## Notes
 
-- Analysis based on 73 photo collections totaling 40,668+ dedicated camera photos with EXIF data
-- Mobile phone analysis: 15,528 photos across 12 devices spanning 2006-2026
-- **Combined dataset: 56,196 total photos with focal length data**
+- Analysis based on 70 photo collections totaling 59,042+ dedicated camera photos with EXIF data
+- Mobile phone analysis: 16,932 photos across 12 devices spanning 2006-2026
+- **Combined dataset: 75,974 total photos with focal length data**
 - All focal lengths in 35mm equivalent
 - Data spans 21 years (2004-2025) for dedicated cameras, 20 years (2006-2026) for mobile phones
 - Budapest trip (87% at 75mm) was portrait-focused using SAL1650 lens - not representative of typical travel patterns
@@ -2393,7 +2393,7 @@ to your dedicated camera with superior image quality.
   - **Option 1C - Two-Lens Flexibility:** SEL2070G now + Tamron 25-200mm later when safari/wildlife trips are planned
 - **Alternative strategy:**
   - **Option 3 - 16-35mm f/4 + 85mm prime:** Ultra-wide specialization (accepts 35-85mm gap)
-- Mobile phone usage: 15,528 photos showing 75% at 23-29mm primary wide angle,
+- Mobile phone usage: 16,932 photos showing 74% at 23-29mm primary wide angle,
   validating your consistent wide-angle preference across ALL photography platforms
 - Samsung S25 current usage: 3,296 photos in <1 year showing mobile
   as primary daily camera (64% at 23mm, 15% at 69mm, 8% at 13mm)
@@ -2401,12 +2401,15 @@ to your dedicated camera with superior image quality.
 ### Sources and Citations
 
 - Local reports (workspace):
-  - Samsung S22 focal length distribution: focal_length_analysis/10 Samsung S22 - 202212-202502_2026-01-16_23.50.38.txt
-  - Samsung S25 focal length distribution: focal_length_analysis/12 Samsung S25 - 202502-_2026-01-16_23.51.40.txt
-  - Huawei P30 focal length distribution: focal_length_analysis/09 Huawei P30 - 201907-202301_2026-01-16_23.49.53.txt
-  - iPhone 6S focal length distribution: focal_length_analysis/08 iPhone 6S - 201510-201907_2026-01-16_23.48.44.txt
-  - iPhone 4S focal length distribution: focal_length_analysis/06 iPhone 4S - 201303-201411_2026-01-16_23.48.25.txt
-  - Musée du Louvre multi-year summary: focal_length_analysis/Musée du Louvre_2026-01-30_23.15.48.txt
+  - Full analysis folder: focal_length_analysis_20260205_193132/ (87 report files)
+  - Samsung S22 focal length distribution: focal_length_analysis_20260205_193132/10 Samsung S22 - 202212-202502.txt
+  - Samsung S25 focal length distribution: focal_length_analysis_20260205_193132/12 Samsung S25 - 202502-.txt
+  - Huawei P30 focal length distribution: focal_length_analysis_20260205_193132/09 Huawei P30 - 201907-202301.txt
+  - Huawei P40 focal length distribution: focal_length_analysis_20260205_193132/11 Huawei P40 - 202311-202401.txt
+  - iPhone 6S focal length distribution: focal_length_analysis_20260205_193132/08 iPhone 6S - 201510-201907.txt
+  - iPhone 4S focal length distribution: focal_length_analysis_20260205_193132/06 iPhone 4S - 201303-201411.txt
+  - Trip collection examples: 20251025-30 Hellas.txt, 20250702-07 成都.txt, 20241009-13 Japan.txt, etc.
+  - Musée du Louvre multi-year summary: focal_length_analysis_20260205_193132/Musée du Louvre.txt
 
 - External references:
   - LensTip review of [Sigma 20–200mm f/3.5–6.3 DG DN Contemporary](https://www.lenstip.com/716.1-Lens_review-Sigma_C_20-200_mm_f_3.5-6.3_DG_review.html)

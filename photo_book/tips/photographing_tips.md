@@ -1,13 +1,13 @@
 # Photography Tips Based on Your Usage Patterns <!-- omit in toc -->
 
-- **Analysis Date:** 16 January, 2026
-- **Last Updated:** 30 January, 2026
-- **Data Source:** 72 photo collections spanning 2004-2025
+- **Analysis Date:** 5 February, 2026
+- **Last Updated:** 5 February, 2026
+- **Data Source:** 70 photo collections spanning 2004-2025
   PLUS 12 mobile phone archives (2006-2026)
-- **Total Photos Analyzed:** 55,528 with 35mm equivalent focal length data
-  (40,000+ dedicated camera + 15,528 mobile)
+- **Total Photos Analyzed:** 75,974 with 35mm equivalent focal length data
+  (59,042+ dedicated camera + 16,932 mobile)
 - **Note:** Counts reflect photos with EXIF 35mm-equivalent; older sets may be excluded
-- **Mobile Phone Photos:** 15,528 spanning 20 years across 12 devices
+- **Mobile Phone Photos:** 16,932 spanning 20 years across 12 devices
   (Samsung, Nokia, iPhone, Huawei)
 
 ---
@@ -29,7 +29,7 @@ while enjoying the experience, not turning every outing into a photo shoot.
 | ----------------------- | ---------------------------------------------------------------------------------- |
 | **Primary Style**       | Wide-angle environmental storytelling (65-80% of shots at 20-35mm)                 |
 | **Sweet Spot**          | 24mm - your proven workhorse focal length for 13+ years                            |
-| **Mobile Contribution** | 28% of total photography (15,528 of 55,528 photos) and growing                     |
+| **Mobile Contribution** | 22% of total photography (16,932 of 75,974 photos) and growing                     |
 | **Telephoto Usage**     | Rare above ~100mm (<5% in recent data) - you know what you need and don't overpack |
 | **Portrait Range**      | Typically low single-digit to ~10% at 75-85mm for deliberate portraits             |
 
@@ -47,7 +47,7 @@ while enjoying the experience, not turning every outing into a photo shoot.
 1. **Mobile photo beats no photo** - kid moments are fleeting, experience comes first
 2. **One lens is liberating** - less gear means more presence in the moment
 3. **f/4 is fine** - modern high ISO capability compensates; your SAL1650 f/2.8 experience confirms minimal practical difference
-4. **Your 40,000+ photo archive** proves imperfect photos become treasured memories
+4. **Your 59,000+ photo archive** proves imperfect photos become treasured memories
 
 (quick-reference-when-to-use-what)=
 ### Quick Reference: When to Use What
@@ -149,7 +149,7 @@ Your usage data reveals you've naturally evolved a brilliant workflow:
 - **8% at 13mm** - dramatic ultra-wide landscapes.
 - **5% at 46mm** - mid-range portraits (2x zoom).
 - **Volume:** 3,296 photos in <1 year = ~3,200 photos/year.
-- **Your mobile contribution:** 28% of total photography (15,528 of 55,528 total photos).
+- **Your mobile contribution:** 22% of total photography (16,932 of 75,974 total photos).
 - **Pro tip:** With a 4-year-old, the best camera is the one ready NOW.
 - **Reality:** You're shooting MORE on mobile recently - embrace it.
 
@@ -262,9 +262,9 @@ Your data reveals evolution toward **efficiency and spontaneity** - perfect for 
 **The Mobile-First Mindset:**
 
 - Your Samsung S25 data: 3,296 photos in <1 year at 3,200+/year rate.
-- Mobile now represents 28% of your total photography (and growing).
-- Huawei P30 (2019-2023): 1,940 photos - mobile as serious creative tool.
-- Samsung S22 + S25 (2022-2026): 8,324 photos - mobile dominance accelerating.
+- Mobile now represents 22% of your total photography (and growing).
+- Huawei P30 (2019-2023): 1,944 photos - mobile as serious creative tool.
+- Samsung S22 + S25 (2022-2026): 8,348 photos - mobile dominance accelerating.
 - With kids: mobile is often the ONLY camera you'll use on "survival days".
 - **Pro tip:** Some days are about experiencing, not photographing - mobile is enough.
 - **Data reality:** You're already shooting 64% of mobile photos at 23mm
@@ -491,7 +491,7 @@ Based on your trip patterns, here's focal length guidance:
 
 - **Cloud backup essential:** Google Photos, iCloud, Dropbox - enable auto-upload.
 - **Don't sort during vacation:** You're there to experience, not curate.
-- **Reality check:** Your 40,000+ archive proves you're already a prolific shooter - no need to overthink it.
+- **Reality check:** Your 59,000+ archive proves you're already a prolific shooter - no need to overthink it.
 
 ---
 
@@ -656,7 +656,7 @@ it's evidence you've found your photographic voice.
 
 **You don't need photo essay exercises or multi-image storytelling plans.**
 
-Your 40,000+ photos over 21 years show you already capture what matters:
+Your 59,000+ photos over 21 years show you already capture what matters:
 - Environmental shots that show the experience.
 - Spontaneous moments with family.
 - Authentic travel memories.
@@ -679,8 +679,8 @@ Quick view of focal-length usage from your analyzed mobile archives. Percentages
 | Device      | Photos | Primary wide share | 3× tele share (≈69–70mm) | Ultra‑wide share | Portrait 75–85mm share | Tele >100mm share |
 | ----------- | -----: | ------------------ | ------------------------ | ---------------- | ---------------------- | ----------------- |
 | Samsung S25 |  3,296 | 23mm: 64.08%       | 69mm: 14.68%             | 13mm: 7.65%      | ~0%                    | ~1.5%             |
-| Samsung S22 |  5,028 | 23mm: 68.06%       | 69mm: 14.36%             | 13mm: 5.85%      | ~0%                    | 0%                |
-| Huawei P30  |  1,940 | 27mm: 78.35%       | —                        | 17mm: 13.20%     | ~0.30%                 | ~1.21%            |
+| Samsung S22 |  5,052 | 23mm: 67.74%       | 69mm: 14.29%             | 13mm: 5.82%      | ~0%                    | 0%                |
+| Huawei P30  |  1,944 | 27mm: 78.19%       | —                        | 17mm: 13.17%     | ~0.30%                 | ~1.21%            |
 | Huawei P40  |    130 | 27mm: 75.38%       | 69mm: 1.54%              | 18mm: 13.85%     | ~0%                    | 3.08%             |
 | iPhone 6S   |  4,314 | 29mm: 88.04%       | 69mm: 0.42%              | 16–22mm: ~0.5%   | ~0.56%                 | ~0.39%            |
 | iPhone 5    |    690 | 33mm: 80.58%       | 70mm: 0.29%              | 24–29mm: ~8.4%   | ~0.58%                 | 0%                |
