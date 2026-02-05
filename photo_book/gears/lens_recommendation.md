@@ -8,6 +8,10 @@
   (59,042+ dedicated camera + 16,932 mobile)
 - **Mobile Phone Photos:** 16,932 spanning 20 years across 12 devices
   (Samsung, Nokia, iPhone, Huawei)
+- **NEW (Feb 2026):** Deep dive analysis of 105-299mm (2,036 photos) and 300mm+ (1,280 photos)
+  telephoto usage patterns — see [Can You Retire the HX90?](can-you-retire-hx90)
+- **NEW (Feb 2026):** Added "Mixed Nature" trip strategy and 70-180mm f/2.8 detour analysis
+  for Option 1C (Two-Lens Flexibility)
 
 ---
 
@@ -45,6 +49,11 @@ you're okay keeping HX90 as telephoto backup.
 > The only difference is your future plan: 1A keeps HX90 long-term,
 > while 1C plans to add Tamron superzoom when a safari/wildlife trip is booked.
 
+> ⚠️ **NEW Finding (Feb 2026):** Analysis of 1,280 photos at 300mm+ shows heavy usage
+> at 450-720mm ("telescope documentary" shots). HX90's extreme reach
+> is harder to retire than initially thought for nature/wildlife trips.
+> See [Deep Dive: 105mm+ Analysis](deep-dive-105mm-plus-analysis).
+
 ---
 
 **🥇 Option 1B: Sigma 20-200mm f/3.5-6.3 DG DN Contemporary** - ~$900-1,100 | **Best Kit Simplification**
@@ -52,7 +61,7 @@ you're okay keeping HX90 as telephoto backup.
 **Why this lens:**
 - **Same 20mm wide end:** Breaks your 24mm constraint (matches SEL2070G)
 - **Full-frame 70-200mm quality:** Massive upgrade over HX90's small 1/2.3-inch sensor at telephoto
-- **Retire the HX90:** Simplify to 2 devices instead of 3
+- **Retire the HX90 for city trips:** Simplify to 2 devices instead of 3
 - **Skip future 70-200mm investment:** Complete coverage now, no additional lens needed later
 
 **⚠️ Important Trade-offs (per LensTip review):**
@@ -62,8 +71,12 @@ dramatic vignetting at 20mm f/3.5 on full frame (~81%, -4.81 EV)
 (see [LensTip Vignetting chapter](https://www.lenstip.com/716.8-Lens_review-Sigma_C_20-200_mm_f_3.5-6.3_DG_Vignetting.html));
 edges soften at 200mm.
 
-**Choose this if:** You want to retire HX90 immediately;
-kit simplification matters; you accept the optical compromises
+**Choose this if:** You want to simplify kit for city trips;
+accept the optical compromises and keep HX90 only for nature/wildlife trips
+
+> ⚠️ **HX90 Note:** New analysis reveals 300-720mm "telescope documentary" shots
+> are harder to replicate than expected. Consider keeping HX90 for nature trips
+> even with this superzoom. See [Can You Retire the HX90?](can-you-retire-hx90)
 
 ---
 
@@ -74,6 +87,7 @@ kit simplification matters; you accept the optical compromises
 - **Buy Tamron 25-200mm later:** Only when safari/wildlife trip is actually planned
 - **No optical compromises:** Avoid Sigma's distortion issues entirely
 - **Defer superzoom cost:** May not need it for years—or ever
+- **HX90 bridges the gap:** Keep for rare city telephoto; essential for nature trips' 300-720mm needs
 
 **Choose this if:** Most trips are city travel;
 safari/wildlife trips are planned events;
@@ -113,14 +127,28 @@ Try both in person before deciding - grip comfort is highly subjective.
 **What You Don't Need:**
 - ❌ **Dedicated 70-200mm telephoto zoom** - the recommended 85mm prime covers portraits;
   consider Sigma 20–200mm or Tamron 25–200mm superzoom
-  to replace HX90 with full-frame quality
+  for full-frame quality in the 70-200mm range
 - ❌ **Ultra-wide zoom (10-18mm)** - Mobile phone 13mm handles this superbly
 - ❌ **24-105mm** - Dead zone at 50-70mm,
   doesn't go wide enough (24mm still limiting)
 
+**What You Might Still Need:**
+- ⚠️ **HX90 for nature/wildlife trips** — New analysis of 300mm+ photos (1,280 shots)
+  reveals heavy usage at 450-720mm for "telescope documentary" captures.
+  While superzoom replaces HX90 for city trips,
+  its 720mm reach remains valuable for Svalbard-type encounters.
+  See [Can You Retire the HX90?](can-you-retire-hx90) for details.
+
+**NEW Finding (Feb 2026): 105-299mm Quality Upgrade**
+- Your 105-299mm shots (2,036 photos analyzed) are primarily portraits,
+  distant scenes, and details to emphasize.
+- These **deserve full-frame quality** — significant upgrade over HX90's 1/2.3-inch sensor.
+- Superzoom or dedicated 70-200mm addresses this gap.
+
 **NEW Alternative:** Consider **Sigma 20–200mm f/3.5–6.3 DG DN Contemporary**
 or **Tamron 25–200mm f/2.8–5.6 Di III VXD G2** superzooms
-to retire HX90 while gaining full-frame quality in the 70-200mm range
+for full-frame quality in the 70-200mm range, with trip-specific HX90 usage
+for 300-720mm "telescope" needs
 (see [Option 1B](option-1b-sigma-20-200mm-f35-63-dg-dn---best-kit-simplification)
 and [Reference: Superzoom Comparison](reference-superzoom-lens-comparison-sigma-vs-tamron)
 for details).
@@ -139,14 +167,17 @@ for details).
 - **Best for:** Maximum optical quality in your 85-90% shooting zone
 - 💡 **Same initial purchase as Option 1C** — difference is only in future telephoto strategy
 
-**Option 1B: Sigma 20–200mm + Retire HX90 (Simplified Kit)** → *See [Option 1B](option-1b-sigma-20-200mm-f35-63-dg-dn---best-kit-simplification)*
+**Option 1B: Sigma 20–200mm + Simplify Kit (City Trips)** → *See [Option 1B](option-1b-sigma-20-200mm-f35-63-dg-dn---best-kit-simplification)*
 1. **Sony A7C II or A7 IV body** (~$2,200-2,500)
 2. **Sigma 20–200mm f/3.5–6.3 DG DN Contemporary** (~$900-1,100, ~570g) - Primary lens
 3. **Sony FE 85mm f/1.8** (~$550-600, 371g) - Low-light portraits
 4. **Mobile** (already own) - Ultra-wide + convenience
-- **Total:** ~$3,650-4,200 | **Devices:** 2 (retire HX90)
-- **Best for:** Kit simplification—but **significant optical compromises**
+5. **HX90** (optional, already own) - Keep for nature/wildlife trips only
+- **Total:** ~$3,650-4,200 | **Devices:** 2 for city trips, 3 for nature trips
+- **Best for:** Kit simplification for city travel—but **significant optical compromises**
   (see LensTip review findings)
+- ⚠️ **Note:** HX90's 300-720mm reach remains valuable for nature trips;
+  consider trip-specific HX90 usage rather than full retirement
 
 **🌟 Option 1C: Two-Lens Flexibility (SEL2070G Now + Superzoom Later)** → *See [Option 1C](option-1c-two-lens-flexibility-strategy-sel2070g-now--superzoom-later)*
 1. **Sony A7C II or A7 IV body** (~$2,200-2,500)
@@ -245,6 +276,7 @@ Option 3 is an alternative for landscape-focused photographers who accept a 35-8
     - [Trade-offs vs Other Options](#trade-offs-vs-other-options)
     - [When to Buy the Superzoom](#when-to-buy-the-superzoom)
     - [Why Tamron Over Sigma for Phase 2](#why-tamron-over-sigma-for-phase-2)
+    - [🔎 Detour: What About a Dedicated 70-180mm f/2.8?](detour-70-180mm-f28)
 - [Alternative Options](#alternative-options)
   - [Option 2: **24-70mm f/2.8 or f/4** (Most Versatile)](#option-2-24-70mm-f28-or-f4-most-versatile)
   - [Option 3: **16-35mm f/4** (Ultra-Wide Specialist)](#option-3-16-35mm-f4-ultra-wide-specialist)
@@ -254,6 +286,8 @@ Option 3 is an alternative for landscape-focused photographers who accept a 35-8
   - [🆚 Lens Comparison: Sigma vs Tamron Wide-Range Superzooms](lens-comparison-sigma-vs-tamron-wide-range-superzooms)
   - [Why Consider Superzooms Over SEL2070G + HX90](#why-consider-superzooms-over-sel2070g--hx90)
   - [📊 Data-Based Analysis: Do You Need 200mm?](data-based-analysis-do-you-need-200mm)
+  - [🔬 Deep Dive: What Do You Actually Shoot at 105mm+?](deep-dive-105mm-plus-analysis)
+  - [🎯 Can You Actually Retire the HX90?](can-you-retire-hx90)
   - [Detailed: Sigma 20-200mm f/3.5-6.3 DG DN Contemporary](#detailed-sigma-20-200mm-f35-63-dg-dn-contemporary)
   - [Detailed: Tamron 25-200mm f/2.8-5.6 Di III VXD G2](#detailed-tamron-25-200mm-f28-56-di-iii-vxd-g2)
   - [🎯 Recommendation: Sigma vs Tamron for Your Use Case](recommendation-sigma-vs-tamron-for-your-use-case)
@@ -1153,12 +1187,47 @@ if you might not need it for years?**
 
 **Trip-by-Trip Lens Selection:**
 
-| Trip Type                      | Lens to Pack     | Why                                      |
-| ------------------------------ | ---------------- | ---------------------------------------- |
-| **City travel (95% of trips)** | SEL2070G 20–70mm | Best quality, covers your 65-80% zone    |
-| **Safari/wildlife**            | Tamron 25–200mm  | Need telephoto reach                     |
-| **Sports events**              | Tamron 25–200mm  | Need telephoto for action                |
-| **Mixed/uncertain**            | SEL2070G + HX90  | G-series quality + HX90 telephoto backup |
+| Trip Type                      | Lens to Pack               | Why                                            |
+| ------------------------------ | -------------------------- | ---------------------------------------------- |
+| **City travel (95% of trips)** | SEL2070G 20–70mm           | Best quality, covers your 65-80% zone          |
+| **Safari/wildlife**            | Tamron 25–200mm            | Need telephoto reach; telephoto-dominant       |
+| **Sports events**              | Tamron 25–200mm            | Need telephoto for action                      |
+| **Mixed nature** (see below)   | SEL2070G + Tamron 25–200mm | G-series for landscapes + full-frame telephoto |
+| **Mixed/uncertain**            | SEL2070G + HX90            | G-series quality + HX90 telephoto backup       |
+
+**📍 What Are "Mixed Nature" Trips?**
+
+Trips that combine **urban/landscape photography** (your 65-80% wide-angle dominant style)
+with **meaningful wildlife/telephoto opportunities** — but aren't dedicated safaris.
+
+**Examples from your photo history:**
+- **Svalbard 2015** — Longyearbyen town + polar bear encounters
+- **Lofoten 2017** — Coastal villages + seabird colonies + distant mountain shots
+- **Inner Mongolia 2009** — Grassland landscapes + wildlife encounters
+- **Norwegian nature trips** — Fjord scenery + occasional wildlife
+
+**Why bring both lenses (SEL2070G + Tamron)?**
+
+| Focal Range         | Primary Lens        | Reasoning                                           |
+| ------------------- | ------------------- | --------------------------------------------------- |
+| **20-70mm**         | **SEL2070G**        | G-series quality for your dominant 65-80% of shots  |
+| **70-200mm**        | **Tamron 25-200mm** | Full-frame telephoto quality (massive HX90 upgrade) |
+| **25-70mm overlap** | Use SEL2070G        | Better optical quality in the overlap zone          |
+
+**The strategy:** SEL2070G stays mounted 90% of the time.
+You swap to Tamron **only when telephoto opportunities arise**
+(wildlife spotted, distant mountain detail, seabird colony).
+
+**When does two-lens "mixed nature" make sense?**
+- You expect **distinct telephoto moments** (not constant back-and-forth)
+- Wildlife encounters are **predictable/planned** (boat trips to seabird cliffs, scheduled wildlife viewing)
+- You're willing to swap lenses **a few times per day** (not constantly)
+- The 70-200mm quality gain over HX90 justifies the extra weight (~570g)
+
+**When to just bring Tamron 25-200mm alone?**
+- Wildlife opportunities are **unpredictable** throughout the day
+- You can accept 25mm wide end (vs 20mm on SEL2070G)
+- Lens swapping with a 4-year-old feels impractical
 
 (why-this-makes-sense-for-you)=
 #### Why This Makes Sense for You
@@ -1254,6 +1323,86 @@ The 25mm wide end isn't a problem because:
 with the **option to add telephoto capability later**
 without being locked into a compromised superzoom.
 Your instinct is correct—this is a smart, financially flexible strategy.
+
+---
+
+(detour-70-180mm-f28)=
+### 🔎 Detour: What About a Dedicated 70-180mm f/2.8?
+
+**The temptation:** The **Tamron 70-180mm f/2.8 Di III VXD G2** (~$1,200-1,300)
+offers constant f/2.8 aperture throughout the zoom range.
+If your telephoto shots are often blurred due to slow shutter speeds,
+wouldn't a fast f/2.8 telephoto solve this better than f/5.6 superzooms?
+
+#### Technical Comparison: 70-180mm f/2.8 vs Tamron 25-200mm (Telephoto Section)
+
+| Aspect                    | **Tamron 70-180mm f/2.8 G2** | **Tamron 25-200mm** (at 70-200mm)   |
+| ------------------------- | ---------------------------- | ----------------------------------- |
+| **Aperture at 70mm**      | **f/2.8 (constant)**         | ~f/4 (variable)                     |
+| **Aperture at 180-200mm** | **f/2.8 (constant)**         | f/5.6                               |
+| **Light advantage**       | **2 stops faster at tele**   | Slower shutter = more blur risk     |
+| **Shutter speed example** | 1/500s @ f/2.8 ISO 800       | 1/125s @ f/5.6 ISO 800 (same light) |
+| **Weight**                | ~805g                        | ~570g (but covers 25-200mm)         |
+| **Price**                 | ~$1,200-1,300                | ~$1,000-1,300                       |
+| **Range**                 | 70-180mm only                | 25-200mm all-in-one                 |
+
+**The blur problem diagnosed:** At 180-200mm, the 25-200mm gives you f/5.6.
+To get sharp handheld shots at 200mm, you typically need **1/200s minimum** (reciprocal rule).
+At f/5.6, achieving this in anything but bright daylight requires high ISO or IBIS compensation.
+The **f/2.8 constant aperture gives you 2 extra stops** —
+enabling 1/500s where the f/5.6 would only manage 1/125s.
+
+#### Does 70-180mm f/2.8 Fit Your Shooting Style?
+
+**The fundamental problem:** Your data shows you're a **wide-angle storyteller**.
+Using HX90's tiny sensor for wide-angle (to pair with 70-180mm)
+would sacrifice quality where you shoot most (65-80% at 20-35mm).
+
+| Scenario                       | **70-180mm f/2.8 Makes Sense?** | **Reasoning**                                                           |
+| ------------------------------ | ------------------------------- | ----------------------------------------------------------------------- |
+| **City travel (90% of trips)** | ❌ **No**                        | You'd need SEL2070G anyway; creates redundant kit                       |
+| **Wildlife/safari trips**      | ⚠️ **Partial**                   | Better telephoto quality, but still want SEL2070G for 65-80% wide shots |
+| **Dedicated telephoto day**    | ✅ **Yes**                       | Zoos, sports, bird photography — telephoto dominates                    |
+| **Low-light telephoto events** | ✅ **Yes**                       | Indoor performances, evening wildlife — f/2.8 shines                    |
+| **Child sports/activities**    | ✅ **Yes**                       | Soccer games, dance recitals — fast action at distance needs f/2.8      |
+
+#### When 70-180mm f/2.8 Genuinely Makes Sense
+
+1. **Dedicated wildlife/bird photography days** —
+   Leave SEL2070G behind, bring only 70-180mm + HX90 for "just in case" wide shots
+
+2. **Indoor events** (school plays, concerts) —
+   f/2.8 at 180mm lets you capture without flash from back of venue
+
+3. **Child sports** — Soccer, swimming, skating —
+   action at distance where f/2.8 prevents motion blur
+
+4. **Evening safaris/wildlife** —
+   Dawn/dusk is when animals are active and light is challenging
+
+5. **As a *supplement* to your kit** (not replacement) —
+   Bring it *in addition to* SEL2070G for trips where telephoto matters
+
+#### Verdict on 70-180mm f/2.8
+
+**The 70-180mm f/2.8 genuinely solves blur problems** at telephoto,
+but **probably doesn't fit your documented patterns well**:
+
+- ✅ It **genuinely solves your blur problem** at telephoto
+- ❌ It **creates a kit gap** unless paired with another wide lens
+- ❌ Using HX90 for wide-angle **sacrifices quality where you shoot most**
+- ❌ Your telephoto usage (10-20%) doesn't justify dedicated premium glass
+- ⚠️ It makes a **~$2,300-2,400 two-lens kit** (SEL2070G + 70-180mm)
+  vs **~$1,100** for SEL2070G alone
+
+**Better alternatives for your blur concerns:**
+1. **Maximize IBIS usage** — A7C II/A7 IV provides 5+ stops stabilization
+2. **Accept slightly higher ISO** — Modern full-frame sensors are clean to ISO 6400
+3. **Tamron 25-200mm as planned** — f/5.6 at 200mm + IBIS + high ISO is adequate for most daylight telephoto
+
+**The 70-180mm f/2.8 becomes compelling only if** you develop a specific telephoto-heavy use case
+(wildlife photography hobby, child sports coverage, event photography)
+that your data doesn't currently show.
 
 ---
 
@@ -1377,12 +1526,24 @@ for those considering Option 1B (Sigma 20-200mm).**
   if you never buy 70-200mm.
 - **Simplicity:** One lens instead of two for travel.
 
-**3. Retire the HX90**
+**3. Retire the HX90 — With Important Caveats**
 
 - **Current HX90 role:** 24-720mm backup for telephoto (2-5% of shots).
 - **Superzoom coverage:** 70-200mm range with full-frame quality.
-- **What you lose:** 200-720mm extreme telephoto (very rare use per your data).
+- **What you lose:** 200-720mm extreme telephoto — **but this matters more than initially thought**
+  (see [Deep Dive: 105mm+ Analysis](deep-dive-105mm-plus-analysis)).
 - **What you gain:** One less device, better quality telephoto, simpler kit.
+
+**⚠️ Updated Assessment (Feb 2026):**
+
+New analysis of 1,280 photos at 300mm+ reveals significant usage
+at 450-720mm range ("telescope documentary" shots).
+While HX90 can be retired for **city trips** (90% of your travel),
+it remains valuable for **nature/wildlife trips** where 720mm reach
+enables capturing memorable moments you'd otherwise miss.
+
+**Recommendation:** Consider trip-specific HX90 usage rather than full retirement.
+See [Can You Actually Retire the HX90?](can-you-retire-hx90) for detailed analysis.
 
 (data-based-analysis-do-you-need-200mm)=
 ### 📊 Data-Based Analysis: Do You Need 200mm?
@@ -1401,6 +1562,109 @@ for those considering Option 1B (Sigma 20-200mm).**
 for portraits and subject isolation.
 The 100-200mm range is used sparingly (5-10% of trips),
 and 200mm+ is extremely rare (<2%).
+
+(deep-dive-105mm-plus-analysis)=
+### 🔬 Deep Dive: What Do You Actually Shoot at 105mm+ ?
+
+**NEW Analysis (February 2026):** Filtered photo review of 105-299mm and 300mm+ ranges
+reveals important patterns about your telephoto usage.
+
+#### 105-299mm Range (2,036 photos analyzed)
+
+**Statistical Summary:**
+- **Mean focal length:** 164mm (35mm equivalent)
+- **Median focal length:** 148mm
+- **Range:** 105-298mm
+
+**Usage Patterns:**
+- **105-150mm (~50%):** Portraits, subject isolation, distant details to emphasize
+- **150-200mm (~26%):** Environmental compression, distant scenes you couldn't approach
+- **200-299mm (~24%):** Mixed documentary and "getting closer" shots
+
+**Key Use Cases Identified:**
+- **Portraits with compression:** Friends at gatherings, travel companions, children
+- **Distant scenes:** Mountain details, harbor views, architectural details from distance
+- **Details to emphasize:** Signs, artworks in museums, specific elements in busy scenes
+- **Events and performances:** Stage shots, street performances, festival moments
+
+**Quality Assessment:** These shots benefit significantly from full-frame quality upgrade.
+The HX90's 1/2.3-inch sensor limits detail retention in this range.
+**Verdict: Full-frame 70-200mm quality is desirable here.**
+
+#### 300mm+ Range (1,280 photos analyzed)
+
+**Statistical Summary:**
+- **Mean focal length:** 483mm (35mm equivalent)
+- **Median focal length:** 452mm
+- **Range:** 300-802mm
+- **Peak concentrations:** 385mm (10.3%), 452mm (11.4%), 500mm (8.0%), 720mm (12.5%)
+
+**Usage Patterns - "Telescope Documentary" Style:**
+- **300-450mm (~45%):** Moderate telephoto reach for distant subjects
+- **450-600mm (~33%):** Heavy concentration — this is your "telescope sweet spot"
+- **600-720mm (~22%):** Maximum reach for wildlife, distant landmarks
+
+**Key Use Cases Identified (NOT traditional "photography" per se):**
+- **Wildlife encounters:** Svalbard polar bears, birds at Inner Mongolia, zoo animals
+- **Distant landmarks:** Mountain peaks, distant buildings, ships on horizon
+- **Memorable moments/spots:** "Interesting things along trips" — documentary, not portfolio
+- **Festivals and events:** Grunnlovsdag parade, performances from distance
+- **Unexpected encounters:** Birds, animals, distant activity worth recording
+
+**Critical Insight:**
+> These 300mm+ shots "don't necessarily have photographic value,
+> but still [capture] memorable moments/spots."
+
+This is **telescope-style documentary photography** — recording what you saw,
+not creating portfolio-worthy images. The HX90's role is enabling these captures at all,
+even if quality is compromised.
+
+(can-you-retire-hx90)=
+### 🎯 Can You Actually Retire the HX90?
+
+**Short Answer: It's hard to fully retire the HX90 for your shooting style.**
+
+#### The APS-C Crop Mode Reality Check
+
+Some may suggest using APS-C crop mode on Sony A7C II/A7 IV
+to extend telephoto reach:
+
+| Full-Frame Lens | APS-C Crop Mode | Effective Resolution       |
+| --------------- | --------------- | -------------------------- |
+| 200mm           | 300mm equiv     | **14MP** (from 33MP)       |
+| 200mm + 1.4x TC | 420mm equiv     | **14MP** + TC quality loss |
+
+**The Problem:**
+- You'd completely lose the **450-720mm range** that you demonstrably use
+- 14MP may suffice for social media, but limits printing/cropping flexibility
+- Teleconverters add cost, weight, and optical degradation
+- **Your data shows heavy usage at 452mm (11.4%) and 720mm (12.5%)**
+
+#### Trip-Type Analysis: When Can HX90 Be Retired?
+
+| Trip Type                       | Can Retire HX90? | Reasoning                                                                   |
+| ------------------------------- | ---------------- | --------------------------------------------------------------------------- |
+| **City travel (90%)**           | ✅ **Yes**        | 200mm full-frame + APS-C crop (300mm) likely suffices; rare telephoto needs |
+| **Nature/wildlife trips (10%)** | ❌ **No**         | Svalbard-type trips need 450-720mm reach for documentary shots              |
+| **Mixed/uncertain**             | ⚠️ **Keep HX90**  | Lightweight (245g) insurance for unexpected encounters                      |
+
+#### Practical Recommendation
+
+**For city trips (90% of your travel):**
+- Superzoom or dedicated 70-200mm provides massive quality upgrade over HX90 at 105-200mm
+- These shots (portraits, distant scenes, details) **deserve full-frame quality**
+- APS-C crop to 300mm handles occasional longer reach needs
+
+**For nature/wildlife trips (10% of your travel):**
+- HX90's 720mm reach remains valuable for "telescope" documentary shots
+- Even if not portfolio-quality, it **enables capturing moments you'd otherwise miss**
+- Its 245g weight is negligible insurance for Svalbard-type encounters
+
+**Verdict:** Keep HX90 for occasional nature trips or unexpected wildlife encounters.
+It serves a niche your superzoom/full-frame simply cannot replicate.
+Retire it from city trips where its role is adequately covered by better equipment.
+
+---
 
 ### Detailed: Sigma 20-200mm f/3.5-6.3 DG DN Contemporary
 
@@ -1629,8 +1893,15 @@ The Sigma 20-200mm remains compelling for your use case IF:
 
 **Bottom Line:**
 - **Maximum quality at 20-70mm:** SEL2070G + HX90 (Option 1A)
-- **Maximum convenience everywhere:** Sigma 20-200mm (Option 1B)—but with optical caveats per LensTip review
-- **Best of both worlds with staged investment:** SEL2070G now + Tamron later (Option 1C)
+- **Maximum convenience for city trips:** Sigma 20-200mm (Option 1B)—but with optical caveats per LensTip review;
+  still consider keeping HX90 for nature/wildlife trips
+- **Best of both worlds with staged investment:** SEL2070G now + Tamron later (Option 1C) — **Recommended**
+  given new analysis showing HX90's 300-720mm range is genuinely useful for "telescope documentary" shots
+
+**NEW Insight (Feb 2026):** Analysis of 1,280 photos at 300mm+ reveals heavy usage
+at 450-720mm for wildlife/documentary shots. While 105-299mm photos (2,036 analyzed)
+deserve full-frame quality upgrade, the extreme telephoto range is harder to replace.
+**Consider trip-specific HX90 usage rather than full retirement.**
 
 **Note:** Both Sigma 20-200mm and Tamron 25-200mm are newer
 lenses - verify availability and read early reviews before purchasing.
@@ -1761,17 +2032,18 @@ in exchange for dramatically simpler workflow and lighter kit.
 
 **For your typical family travel:**
 
-| Option                               | Recommendation             | Why                                             |
-| ------------------------------------ | -------------------------- | ----------------------------------------------- |
-| **Option 1A: SEL2070G + HX90**       | ✅ Good choice              | G-series quality + HX90 telephoto backup        |
-| **Option 1B: Sigma 20-200mm**        | ✅ **Strongly recommended** | One lens, zero swaps, full coverage             |
-| **Option 1C: SEL2070G (city trips)** | ✅ **Excellent for cities** | Right tool for each trip; most trips are cities |
-| **SEL2070G + 70-200mm**              | ⚠️ **Consider carefully**   | Substantial complexity for occasional benefit   |
-| **Three-lens kit**                   | ❌ Avoid                    | Diminishing returns, maximum hassle             |
+| Option                                    | Recommendation             | Why                                                 |
+| ----------------------------------------- | -------------------------- | --------------------------------------------------- |
+| **Option 1A: SEL2070G + HX90**            | ✅ Good choice              | G-series quality + HX90 telephoto backup            |
+| **Option 1B: Sigma 20-200mm**             | ✅ **Strongly recommended** | One lens, zero swaps, full coverage                 |
+| **Option 1C: SEL2070G (+ Tamron later)**  | ✅ **Excellent flexibility** | Right tool for each trip; city OR mixed nature      |
+| **SEL2070G + 70-200mm**                   | ⚠️ **Consider carefully**   | Substantial complexity for occasional benefit       |
+| **Three-lens kit**                        | ❌ Avoid                    | Diminishing returns, maximum hassle                 |
 
 **Key principle:** Match your gear complexity to your trip type.
 - Photography trip → Consider two zooms
-- Safari/wildlife trip → Bring Tamron 25-200mm (Option 1C Phase 2)
+- Safari/wildlife trip → Bring Tamron 25-200mm alone (Option 1C Phase 2)
+- Mixed nature trip → SEL2070G + Tamron 25-200mm (both lenses, swap as needed)
 - Family/casual city travel → SEL2070G alone is sufficient (Options 1A or 1C)
 
 ### The Decision Matrix
@@ -1797,6 +2069,7 @@ in exchange for dramatically simpler workflow and lighter kit.
 - ✅ You want G-series quality without compromise on city trips
 - ✅ You prefer staged investment (buy superzoom only when needed)
 - ✅ HX90 adequately handles rare city telephoto needs
+- ✅ For "mixed nature" trips, you're willing to bring both lenses and swap as needed
 
 **This analysis supports multiple strategies depending on your priorities.
 For maximum simplicity NOW, Option 1B (Sigma). For maximum quality in your primary zone, Options 1A or 1C.**
@@ -2316,15 +2589,20 @@ You're already shooting 40-50% of daily life on mobile.
 2. **24mm was historically your widest** - both SEL2070G and Sigma 20-200mm give you 20mm.
 3. **Sony FE 85mm f/1.8 recommended** (~$550-600) - dedicated portrait lens for low-light and shallow DOF.
 4. **Mobile phone is a capable ultra-wide** - 13mm handles dramatic wide shots.
-5. **HX90 can be retired** with Sigma 20-200mm (or kept with SEL2070G / Two-Lens Strategy).
-6. **50-70mm is your "dead zone"** - minimal documented usage (but nice to have).
-7. **Trip types are predictable** - city travel vs. safari/wildlife trips are planned differently.
+5. **HX90 role re-evaluated (Feb 2026):** Full retirement is harder than expected.
+   - Retire for **city trips** (90%) where superzoom covers telephoto needs
+   - Keep for **nature/wildlife trips** (10%) where 300-720mm "telescope" reach is valuable
+   - See [Can You Retire the HX90?](can-you-retire-hx90) for detailed analysis
+6. **105-299mm shots deserve quality upgrade** - portraits, distant scenes, details benefit from full-frame.
+7. **300-720mm is "telescope documentary"** - capturing memorable moments, not portfolio shots.
+8. **50-70mm is your "dead zone"** - minimal documented usage (but nice to have).
+9. **Trip types are predictable** - city travel vs. safari/wildlife trips are planned differently.
 
 **Three Top Strategies (Plus One Alternative):**
 
 - **Best optical quality at 20-70mm:** SEL2070G (Options 1A/1C - G-series excellence in your 85-90% zone).
-- **Best kit simplification:** Sigma 20-200mm (Option 1B - retire HX90 + full-frame telephoto—but with optical trade-offs).
-- **Best flexibility with staged investment:** Two-Lens Strategy (Option 1C - SEL2070G now + Tamron later when needed).
+- **Best kit simplification for city trips:** Sigma 20-200mm (Option 1B - full-frame telephoto; keep HX90 for nature trips).
+- **Best flexibility with staged investment:** Two-Lens Strategy (Option 1C - SEL2070G now + Tamron later when needed). **Recommended.**
 - **Alternative - ultra-wide specialization:** 16-35mm f/4 + 85mm prime (Option 3 - accept 35-85mm gap).
 - **All break your 24mm constraint** with 16-20mm wide end.
 
@@ -2351,12 +2629,12 @@ With a young child, this style is PERFECT - it captures the experience, not just
 > 💡 **Practical tip:** Options 1A and 1C are the **same initial purchase** (SEL2070G ~$1,100).
 > Buy the SEL2070G now, then decide later whether to keep HX90 for telephoto (1A) or add Tamron for safari trips (1C).
 
-| Option | Strategy                    | Why It Works for You                                                            |
-| ------ | --------------------------- | ------------------------------------------------------------------------------- |
-| **1A** | SEL2070G (20-70mm f/4 G)    | Best optics in your 85-90% zone, light enough for travel with a 4-year-old      |
-| **1B** | Sigma 20-200mm f/3.5-6.3    | Kit simplification, retire HX90, full-frame telephoto (with optical trade-offs) |
-| **1C** | SEL2070G now + Tamron later | Staged investment—best quality now, add telephoto when safari trips happen      |
-| **3**  | 16-35mm f/4 + 85mm prime    | *Alternative:* Ultra-wide specialization, accept 35-85mm gap                    |
+| Option | Strategy                    | Why It Works for You                                                                        |
+| ------ | --------------------------- | ------------------------------------------------------------------------------------------- |
+| **1A** | SEL2070G (20-70mm f/4 G)    | Best optics in your 85-90% zone, light enough for travel with a 4-year-old                  |
+| **1B** | Sigma 20-200mm f/3.5-6.3    | Kit simplification for city trips; keep HX90 for nature trips (optical trade-offs)          |
+| **1C** | SEL2070G now + Tamron later | Staged investment—best quality now, add telephoto when safari trips happen. **Recommended** |
+| **3**  | 16-35mm f/4 + 85mm prime    | *Alternative:* Ultra-wide specialization, accept 35-85mm gap                                |
 
 **Most important tip:** The photos you'll treasure most aren't the technically perfect ones -
 they're the ones that captured genuine moments.
@@ -2382,15 +2660,20 @@ to your dedicated camera with superior image quality.
 - Analysis based on 70 photo collections totaling 59,042+ dedicated camera photos with EXIF data
 - Mobile phone analysis: 16,932 photos across 12 devices spanning 2006-2026
 - **Combined dataset: 75,974 total photos with focal length data**
+- **NEW (Feb 2026): Deep dive analysis of 105mm+ telephoto usage:**
+  - 105-299mm range: 2,036 photos analyzed — portraits, distant scenes, details (quality upgrade recommended)
+  - 300mm+ range: 1,280 photos analyzed — "telescope documentary" shots at 450-720mm
+  - HX90 retirement reassessed: keep for nature/wildlife trips, retire for city trips
+  - See [Deep Dive: 105mm+ Analysis](deep-dive-105mm-plus-analysis) and [Can You Retire the HX90?](can-you-retire-hx90)
 - All focal lengths in 35mm equivalent
 - Data spans 21 years (2004-2025) for dedicated cameras, 20 years (2006-2026) for mobile phones
 - Budapest trip (87% at 75mm) was portrait-focused using SAL1650 lens - not representative of typical travel patterns
 - **Sony FE 85mm f/1.8 (~$550-600)** recommended as dedicated portrait lens for all kit options
 - **Three top lens strategies recommended as optimal matches for documented shooting style:**
   - **Option 1A - SEL2070G:** Best optical quality at 20-70mm (your 85-90% zone) + keep HX90
-  - **Option 1B - Sigma 20-200mm:** Best kit simplification + full-frame
-    telephoto—but with optical trade-offs per LensTip review
-  - **Option 1C - Two-Lens Flexibility:** SEL2070G now + Tamron 25-200mm later when safari/wildlife trips are planned
+  - **Option 1B - Sigma 20-200mm:** Best kit simplification for city trips;
+    keep HX90 for nature trips (optical trade-offs per LensTip review)
+  - **Option 1C - Two-Lens Flexibility:** SEL2070G now + Tamron 25-200mm later when safari/wildlife trips are planned. **Recommended.**
 - **Alternative strategy:**
   - **Option 3 - 16-35mm f/4 + 85mm prime:** Ultra-wide specialization (accepts 35-85mm gap)
 - Mobile phone usage: 16,932 photos showing 74% at 23-29mm primary wide angle,
@@ -2402,6 +2685,9 @@ to your dedicated camera with superior image quality.
 
 - Local reports (workspace):
   - Full analysis folder: focal_length_analysis_20260205_193132/ (87 report files)
+  - **NEW - 105-299mm photo analysis:** focal_length_analysis_20260205_193132/filtered_photos_20260205_184941_105mm-299mm.txt
+  - **NEW - 300mm+ photo analysis:** focal_length_analysis_20260205_193132/filtered_photos_20260205_190031_300mm-1000mm.txt
+  - **Filtered photo folders reviewed:** filtered_photos_20260205_184941_105mm-299mm/ (2,036 photos), filtered_photos_20260205_190031_300mm-1000mm/ (1,280 photos)
   - Samsung S22 focal length distribution: focal_length_analysis_20260205_193132/10 Samsung S22 - 202212-202502.txt
   - Samsung S25 focal length distribution: focal_length_analysis_20260205_193132/12 Samsung S25 - 202502-.txt
   - Huawei P30 focal length distribution: focal_length_analysis_20260205_193132/09 Huawei P30 - 201907-202301.txt
