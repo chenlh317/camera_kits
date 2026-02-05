@@ -1,0 +1,3353 @@
+================================================================================
+PHOTO FILTER LOG - BY 35MM EQUIVALENT FOCAL LENGTH
+================================================================================
+
+Execution Time: 2026-02-05 19:17:33
+Focal Length Range: 300mm - 1000mm
+
+----------------------------------------
+SUMMARY
+----------------------------------------
+Total folders processed:       85
+Total files scanned:           38500
+Files with EXIF data:          37779
+Files with 35mm equivalent:    36332
+Files matching focal range:    640
+
+----------------------------------------
+FOLDERS PROCESSED
+----------------------------------------
+
+Folder: F:\PRIVAT W BACKUP\Musée du Louvre
+  Files scanned:      347
+  Files with EXIF:    347
+  Files with 35mm:    347
+  Files matched:      2
+  Subfolders visited: 5
+    - 2008
+    - 2015
+    - 2016
+    - 2017
+    - 2018
+
+Folder: F:\PRIVAT W BACKUP\Photos\01 Samsung E488 - 200611-200712
+  Files scanned:      35
+  Files with EXIF:    25
+  Files with 35mm:    1
+  Files matched:      0
+
+Folder: F:\PRIVAT W BACKUP\Photos\02 Nokia 3110c - 200805-200811
+  Files scanned:      23
+  Files with EXIF:    23
+  Files with 35mm:    0
+  Files matched:      0
+
+Folder: F:\PRIVAT W BACKUP\Photos\03 Nokia 6303c - 200907-201104
+  Files scanned:      161
+  Files with EXIF:    161
+  Files with 35mm:    1
+  Files matched:      0
+
+Folder: F:\PRIVAT W BACKUP\Photos\04 Nokia E5 and E72 - 201104-201112
+  Files scanned:      106
+  Files with EXIF:    106
+  Files with 35mm:    106
+  Files matched:      0
+
+Folder: F:\PRIVAT W BACKUP\Photos\05 iPhone 4 - 201201-201302
+  Files scanned:      239
+  Files with EXIF:    229
+  Files with 35mm:    215
+  Files matched:      0
+
+Folder: F:\PRIVAT W BACKUP\Photos\06 iPhone 4S - 201303-201411
+  Files scanned:      573
+  Files with EXIF:    518
+  Files with 35mm:    414
+  Files matched:      0
+
+Folder: F:\PRIVAT W BACKUP\Photos\07 iPhone 5 - 201411-201510
+  Files scanned:      457
+  Files with EXIF:    416
+  Files with 35mm:    345
+  Files matched:      0
+
+Folder: F:\PRIVAT W BACKUP\Photos\08 iPhone 6S - 201510-201907
+  Files scanned:      3211
+  Files with EXIF:    2873
+  Files with 35mm:    2173
+  Files matched:      0
+
+Folder: F:\PRIVAT W BACKUP\Photos\09 Huawei P30 - 201907-202301
+  Files scanned:      1142
+  Files with EXIF:    1056
+  Files with 35mm:    972
+  Files matched:      3
+
+Folder: F:\PRIVAT W BACKUP\Photos\10 Samsung S22 - 202212-202502
+  Files scanned:      2585
+  Files with EXIF:    2569
+  Files with 35mm:    2526
+  Files matched:      0
+  Subfolders visited: 3
+    - Screenshots
+    - qinbaobao
+    - 小红书
+
+Folder: F:\PRIVAT W BACKUP\Photos\11 Huawei P40 - 202311-202401
+  Files scanned:      65
+  Files with EXIF:    65
+  Files with 35mm:    65
+  Files matched:      0
+
+Folder: F:\PRIVAT W BACKUP\Photos\12 Samsung S25 - 202502-
+  Files scanned:      1648
+  Files with EXIF:    1648
+  Files with 35mm:    1648
+  Files matched:      2
+
+Folder: F:\PRIVAT W BACKUP\Photos\2002 师大附中高中\20040328清华之行
+  Files scanned:      69
+  Files with EXIF:    69
+  Files with 35mm:    65
+  Files matched:      0
+
+Folder: F:\PRIVAT W BACKUP\Photos\2002 师大附中高中\20040508十渡春游
+  Files scanned:      33
+  Files with EXIF:    33
+  Files with 35mm:    33
+  Files matched:      0
+
+Folder: F:\PRIVAT W BACKUP\Photos\2002 师大附中高中\20050525 毕业合影精选
+  Files scanned:      71
+  Files with EXIF:    70
+  Files with 35mm:    70
+  Files matched:      0
+
+Folder: F:\PRIVAT W BACKUP\Photos\2005-1 高中毕业\20050721-23 大连之旅
+  Files scanned:      59
+  Files with EXIF:    54
+  Files with 35mm:    54
+  Files matched:      0
+
+Folder: F:\PRIVAT W BACKUP\Photos\2005-1 高中毕业\20050727-0803 上海之旅
+  Files scanned:      105
+  Files with EXIF:    105
+  Files with 35mm:    105
+  Files matched:      0
+
+Folder: F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\200903-04 毕业剧 校园风景
+  Files scanned:      93
+  Files with EXIF:    93
+  Files with 35mm:    83
+  Files matched:      22
+  Subfolders visited: 1
+    - PSed
+
+Folder: F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20060619-25 鄂西之旅\20060619-25 鄂西之旅 Chen LH
+  Files scanned:      120
+  Files with EXIF:    120
+  Files with 35mm:    120
+  Files matched:      0
+
+Folder: F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20070128-0206 广西之行
+  Files scanned:      125
+  Files with EXIF:    125
+  Files with 35mm:    125
+  Files matched:      0
+
+Folder: F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20070727-0808 SSLP\Calvin_Chen
+  Files scanned:      112
+  Files with EXIF:    112
+  Files with 35mm:    112
+  Files matched:      0
+
+Folder: F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20070901-10 江南之行
+  Files scanned:      109
+  Files with EXIF:    109
+  Files with 35mm:    109
+  Files matched:      0
+
+Folder: F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20080126-0205 西行掠影
+  Files scanned:      358
+  Files with EXIF:    358
+  Files with 35mm:    355
+  Files matched:      11
+  Subfolders visited: 3
+    - Best Western
+    - Best Western\small
+    - CJR
+
+Folder: F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20080404 沙河水库
+  Files scanned:      46
+  Files with EXIF:    45
+  Files with 35mm:    44
+  Files matched:      0
+
+Folder: F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20080628-0702 华山之旅
+  Files scanned:      30
+  Files with EXIF:    30
+  Files with 35mm:    25
+  Files matched:      0
+  Subfolders visited: 2
+    - PSed
+    - ltb
+
+Folder: F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20081009-12 梦中的鼓浪屿
+  Files scanned:      65
+  Files with EXIF:    65
+  Files with 35mm:    65
+  Files matched:      7
+
+Folder: F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090119-0217 Across the Dream
+  Files scanned:      305
+  Files with EXIF:    303
+  Files with 35mm:    302
+  Files matched:      19
+  Subfolders visited: 11
+    - 2009 San Jose By HAN and Wu
+    - 2009 from Amy
+    - Best
+    - Budweiser
+    - Gateway Arch
+    - Others
+    - St Louis Art Museum
+    - St Louis Botanic Garden
+    - St Louis Zoo
+    - To San Jose
+    - Wash.U in STL
+
+Folder: F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090421-25 南京之旅
+  Files scanned:      64
+  Files with EXIF:    58
+  Files with 35mm:    58
+  Files matched:      13
+  Subfolders visited: 1
+    - PSed
+
+Folder: F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090712-15  内蒙古太仆寺旗
+  Files scanned:      218
+  Files with EXIF:    218
+  Files with 35mm:    210
+  Files matched:      45
+  Subfolders visited: 1
+    - Best
+
+Folder: F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20110430-0502 南通之行
+  Files scanned:      382
+  Files with EXIF:    382
+  Files with 35mm:    381
+  Files matched:      0
+  Subfolders visited: 21
+    - SONY NEX-5\20110430_1 南通中远船务公司
+    - SONY NEX-5\20110430_2 南通博物苑
+    - SONY NEX-5\20110430_3 蓝印花布博物馆
+    - SONY NEX-5\20110430_4 濠河夜色
+    - SONY NEX-5\20110501_1 崇启大桥
+    - SONY NEX-5\20110501_2 南通中远船厂
+    - SONY NEX-5\20110501_3 三水交汇 黄金海岸
+    - SONY NEX-5\20110501_4 启东市规划馆
+    - SONY NEX-5\20110501_5 黄海大桥 太阳岛 洋口港
+    - SONY NEX-5\20110502_1 南通 狼山景区
+    - SONY NEX-5\20110502_2 蓝印花布博物馆
+    - SONY NEX-5\20110502_3 南通园艺博览园
+    - SONY NEX-5\城乡掠影
+    - SONY NEX-5\盛和会馆
+    - SONY NEX-5\饕餮之宴
+    - SONY W200\20110430_1 南通中远船务公司
+    - SONY W200\20110430_2 南通博物苑
+    - SONY W200\20110430_3 蓝印花布博物馆
+    - SONY W200\20110501_1 南通中远船厂
+    - SONY W200\20110501_2 三水交汇 黄金海岸
+    - SONY W200\20110502 南通园艺博览园
+
+Folder: F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120201-15 Portugal and Germany
+  Files scanned:      2162
+  Files with EXIF:    2162
+  Files with 35mm:    2162
+  Files matched:      16
+  Subfolders visited: 6
+    - Chenlh iphone photos
+    - Euro 2012 Photos
+    - Euro 2012 ZZP
+    - Selected
+    - Selected ZZP
+    - small
+
+Folder: F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120604-09 Trondheim
+  Files scanned:      327
+  Files with EXIF:    327
+  Files with 35mm:    327
+  Files matched:      32
+  Subfolders visited: 1
+    - Selected
+
+Folder: F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120625 送别李恩
+  Files scanned:      154
+  Files with EXIF:    154
+  Files with 35mm:    154
+  Files matched:      0
+
+Folder: F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120821-30 台湾 香港
+  Files scanned:      855
+  Files with EXIF:    855
+  Files with 35mm:    855
+  Files matched:      28
+  Subfolders visited: 1
+    - 台湾 香港 白
+
+Folder: F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120907-10 黄山 景德镇
+  Files scanned:      426
+  Files with EXIF:    426
+  Files with 35mm:    426
+  Files matched:      14
+  Subfolders visited: 1
+    - 黄辰
+
+Folder: F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130322-25 Stavanger
+  Files scanned:      269
+  Files with EXIF:    269
+  Files with 35mm:    269
+  Files matched:      24
+  Subfolders visited: 1
+    - Patty Cam
+
+Folder: F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130517 Grunnlovsdag
+  Files scanned:      120
+  Files with EXIF:    120
+  Files with 35mm:    120
+  Files matched:      3
+  Subfolders visited: 1
+    - fra Titti
+
+Folder: F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130607-13 OSL STO Halden
+  Files scanned:      472
+  Files with EXIF:    472
+  Files with 35mm:    472
+  Files matched:      31
+  Subfolders visited: 1
+    - STO En
+
+Folder: F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130621-24 Preikestolen og Kjerag
+  Files scanned:      766
+  Files with EXIF:    766
+  Files with 35mm:    766
+  Files matched:      2
+  Subfolders visited: 10
+    - 10130622
+    - 10230623
+    - 10330624
+    - Gan PY
+    - HX30
+    - Liu Y
+    - Liu Yu iPhone
+    - Selected
+    - Yu LJ
+    - Zhang S
+
+Folder: F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130721-26 Czech Republic
+  Files scanned:      501
+  Files with EXIF:    500
+  Files with 35mm:    500
+  Files matched:      1
+  Subfolders visited: 3
+    - Mobil
+    - Patty
+    - Selected
+
+Folder: F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20131026 Utrecht and Amsterdam
+  Files scanned:      90
+  Files with EXIF:    89
+  Files with 35mm:    82
+  Files matched:      0
+  Subfolders visited: 1
+    - Others
+
+Folder: F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20131027-1109 Tunisia
+  Files scanned:      507
+  Files with EXIF:    506
+  Files with 35mm:    506
+  Files matched:      22
+  Subfolders visited: 4
+    - From Vitalii
+    - Phone
+    - Selected
+    - Tunisia Pics
+
+Folder: F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20140401 Kyllingstup
+  Files scanned:      64
+  Files with EXIF:    64
+  Files with 35mm:    64
+  Files matched:      5
+
+Folder: F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20140409 Graduation
+  Files scanned:      47
+  Files with EXIF:    47
+  Files with 35mm:    47
+  Files matched:      0
+
+Folder: F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20140413-16 Briksdalbreen
+  Files scanned:      524
+  Files with EXIF:    524
+  Files with 35mm:    524
+  Files matched:      4
+  Subfolders visited: 5
+    - Chen LH
+    - Chen LH\Chen LH Mobile
+    - Lu SJ
+    - Selected
+    - Zhao Jing
+
+Folder: F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20140425-27 Tromsø
+  Files scanned:      183
+  Files with EXIF:    183
+  Files with 35mm:    183
+  Files matched:      6
+  Subfolders visited: 3
+    - Mobile
+    - Patty
+    - Selected
+
+Folder: F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20140619-22 Berlin Potzdam
+  Files scanned:      428
+  Files with EXIF:    428
+  Files with 35mm:    423
+  Files matched:      0
+  Subfolders visited: 1
+    - Selected
+
+Folder: F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20140805-17 Turkey
+  Files scanned:      1275
+  Files with EXIF:    1275
+  Files with 35mm:    1273
+  Files matched:      6
+  Subfolders visited: 13
+    - 105MSDCF
+    - 10940806
+    - 11040807
+    - 11140808
+    - 11240809
+    - 11340810
+    - 11440811
+    - 11540813
+    - 11640814
+    - 11740815
+    - Patty Selected
+    - Selected
+    - iPhone
+
+Folder: F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20140821-22 Konigssee og Saltzburg
+  Files scanned:      333
+  Files with EXIF:    328
+  Files with 35mm:    326
+  Files matched:      0
+  Subfolders visited: 5
+    - 100MSDCF
+    - 11840821
+    - 11940822
+    - Selected
+    - 旅游 奥地利
+
+Folder: F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20141011-13 Oslo avec le Vent
+  Files scanned:      203
+  Files with EXIF:    203
+  Files with 35mm:    203
+  Files matched:      4
+  Subfolders visited: 2
+    - Fra Lan
+    - iPhone
+
+Folder: F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20141228-20150109 SAGA
+  Files scanned:      1289
+  Files with EXIF:    1285
+  Files with 35mm:    1268
+  Files matched:      30
+  Subfolders visited: 16
+    - A550\12341229
+    - A550\12441230
+    - A550\12541231
+    - A550\12650101
+    - A550\12750103
+    - A550\12850104
+    - A550\12950105
+    - A550\13050106
+    - A550\13150107
+    - Chen Mobile
+    - D3200
+    - HX30
+    - Hu 5C
+    - Selected Chen
+    - Selected Hu
+    - Selected Smaller Cameras
+
+Folder: F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150311-18 Stupskolen 1
+  Files scanned:      36
+  Files with EXIF:    36
+  Files with 35mm:    36
+  Files matched:      0
+
+Folder: F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150324 Kyllingstup
+  Files scanned:      84
+  Files with EXIF:    84
+  Files with 35mm:    84
+  Files matched:      0
+
+Folder: F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150326-0405 Balkans
+  Files scanned:      1380
+  Files with EXIF:    1380
+  Files with 35mm:    1380
+  Files matched:      0
+  Subfolders visited: 17
+    - 14050326
+    - 14150327
+    - 14250328
+    - 14350329
+    - 14550330
+    - 14650331
+    - 14750401
+    - 14850402
+    - 14950403
+    - 15050404
+    - 15150405
+    - Adriatic Patty
+    - For Luka
+    - Selected Chen
+    - Selected Gan
+    - Selected Yu
+    - Yu LJ
+
+Folder: F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard
+  Files scanned:      825
+  Files with EXIF:    825
+  Files with 35mm:    822
+  Files matched:      82
+  Subfolders visited: 9
+    - 10050719
+    - 10150720
+    - 10250721
+    - 10350722
+    - HX90
+    - Kerry Lee 怪阿姨
+    - PS
+    - Selected
+    - Todoulos Nikos
+
+Folder: F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20151001-04 Lofoten
+  Files scanned:      395
+  Files with EXIF:    395
+  Files with 35mm:    393
+  Files matched:      3
+  Subfolders visited: 5
+    - A550\10551002
+    - A550\10651003
+    - HX90
+    - Qiu Yu
+    - iPhone5
+
+Folder: F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20151119-1206 Paris
+  Files scanned:      308
+  Files with EXIF:    305
+  Files with 35mm:    296
+  Files matched:      2
+  Subfolders visited: 2
+    - PS
+    - iPhone 6S
+
+Folder: F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20160131-0206 Budapest
+  Files scanned:      106
+  Files with EXIF:    106
+  Files with 35mm:    106
+  Files matched:      0
+  Subfolders visited: 1
+    - Patty
+
+Folder: F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20160617-28 Baltics
+  Files scanned:      1202
+  Files with EXIF:    1200
+  Files with 35mm:    1199
+  Files matched:      31
+  Subfolders visited: 10
+    - 1 Helsinki
+    - 1 Helsinki\HX30
+    - 2 Tallinn
+    - 3 Riga
+    - 4 Vilnius
+    - 5 Trakai
+    - 6 Warsaw
+    - 7 Auschwitz-Birkenau Wieliczka
+    - 8 Krakow
+    - from iPhone
+
+Folder: F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722
+  Files scanned:      2306
+  Files with EXIF:    2285
+  Files with 35mm:    2271
+  Files matched:      51
+  Subfolders visited: 14
+    - 11870708 Baku
+    - 11970709 Qubostan
+    - 12170710 Baku
+    - 12270713 David Gareji
+    - 12370715 Sevan
+    - 12470716 Kacharis
+    - 12570717 Yerevan Garni Echmiachin
+    - 12670718 Odzun Sainahin Haghpat
+    - 12770719 Mtsheta
+    - 12870720 Kazbegi
+    - HX90
+    - Huang Chen
+    - Selected
+    - iPhone
+
+Folder: F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20171223-26 Bergen
+  Files scanned:      84
+  Files with EXIF:    82
+  Files with 35mm:    72
+  Files matched:      0
+
+Folder: F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20180107-10 Alicante Valencia
+  Files scanned:      277
+  Files with EXIF:    276
+  Files with 35mm:    274
+  Files matched:      13
+  Subfolders visited: 1
+    - Mobile
+
+Folder: F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20180718-0805 Japan
+  Files scanned:      2751
+  Files with EXIF:    2728
+  Files with 35mm:    2683
+  Files matched:      11
+  Subfolders visited: 9
+    - 20180721 Samurai EXP
+    - HX90
+    - Japan Selected
+    - Japan Selected\HX 90 selected
+    - Japan Selected\iPhone selected
+    - Luka
+    - Patty iPhone
+    - Seminar
+    - iPhone
+
+Folder: F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20181221-26 BeLux
+  Files scanned:      483
+  Files with EXIF:    481
+  Files with 35mm:    477
+  Files matched:      12
+  Subfolders visited: 1
+    - Mobil
+
+Folder: F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20190418-22 CZ and SK
+  Files scanned:      359
+  Files with EXIF:    341
+  Files with 35mm:    330
+  Files matched:      5
+  Subfolders visited: 1
+    - Mobile
+
+Folder: F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20190613-16 London
+  Files scanned:      291
+  Files with EXIF:    252
+  Files with 35mm:    240
+  Files matched:      2
+  Subfolders visited: 2
+    - Mobil
+    - Wedding
+
+Folder: F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20191009-16 South Spain
+  Files scanned:      521
+  Files with EXIF:    513
+  Files with 35mm:    513
+  Files matched:      15
+  Subfolders visited: 1
+    - P30
+
+Folder: F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20191225-29 Wien
+  Files scanned:      151
+  Files with EXIF:    151
+  Files with 35mm:    151
+  Files matched:      1
+  Subfolders visited: 1
+    - P30
+
+Folder: F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20200710-15 Trolltunga Vestland
+  Files scanned:      157
+  Files with EXIF:    157
+  Files with 35mm:    156
+  Files matched:      6
+  Subfolders visited: 1
+    - P30
+
+Folder: F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20210309-0606 Sveits
+  Files scanned:      271
+  Files with EXIF:    254
+  Files with 35mm:    236
+  Files matched:      0
+
+Folder: F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20210530-0602 Roma
+  Files scanned:      69
+  Files with EXIF:    68
+  Files with 35mm:    68
+  Files matched:      0
+
+Folder: F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20211228 皮皮满月照
+  Files scanned:      28
+  Files with EXIF:    28
+  Files with 35mm:    27
+  Files matched:      0
+  Subfolders visited: 1
+    - PSed
+
+Folder: F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20220307 皮皮百天
+  Files scanned:      35
+  Files with EXIF:    35
+  Files with 35mm:    35
+  Files matched:      0
+
+Folder: F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20220527-0602 皮皮半岁组照
+  Files scanned:      80
+  Files with EXIF:    80
+  Files with 35mm:    80
+  Files matched:      0
+  Subfolders visited: 1
+    - Selected
+
+Folder: F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20221223-30 Madrid Alicante
+  Files scanned:      237
+  Files with EXIF:    236
+  Files with 35mm:    236
+  Files matched:      8
+  Subfolders visited: 1
+    - P30
+
+Folder: F:\PRIVAT W BACKUP\Photos\2023 NOBA\20231130-1203 首尔
+  Files scanned:      103
+  Files with EXIF:    103
+  Files with 35mm:    103
+  Files matched:      0
+
+Folder: F:\PRIVAT W BACKUP\Photos\2023 NOBA\20240112-14 上海
+  Files scanned:      93
+  Files with EXIF:    93
+  Files with 35mm:    83
+  Files matched:      0
+
+Folder: F:\PRIVAT W BACKUP\Photos\2023 NOBA\20240821-24 Beograd
+  Files scanned:      355
+  Files with EXIF:    355
+  Files with 35mm:    355
+  Files matched:      19
+  Subfolders visited: 2
+    - HX30
+    - National Museum
+
+Folder: F:\PRIVAT W BACKUP\Photos\2023 NOBA\20241009-13 Japan
+  Files scanned:      191
+  Files with EXIF:    191
+  Files with 35mm:    176
+  Files matched:      1
+  Subfolders visited: 1
+    - HX90
+
+Folder: F:\PRIVAT W BACKUP\Photos\2023 NOBA\20241119-22 Seoul
+  Files scanned:      88
+  Files with EXIF:    88
+  Files with 35mm:    88
+  Files matched:      0
+
+Folder: F:\PRIVAT W BACKUP\Photos\2023 NOBA\20250426-29 Ravenna San Marino
+  Files scanned:      316
+  Files with EXIF:    316
+  Files with 35mm:    316
+  Files matched:      7
+  Subfolders visited: 1
+    - S25
+
+Folder: F:\PRIVAT W BACKUP\Photos\2023 NOBA\20250702-07 成都
+  Files scanned:      215
+  Files with EXIF:    215
+  Files with 35mm:    215
+  Files matched:      0
+
+Folder: F:\PRIVAT W BACKUP\Photos\2023 NOBA\20250821-24 København
+  Files scanned:      75
+  Files with EXIF:    75
+  Files with 35mm:    75
+  Files matched:      0
+
+Folder: F:\PRIVAT W BACKUP\Photos\2023 NOBA\20251025-30 Hellas
+  Files scanned:      677
+  Files with EXIF:    677
+  Files with 35mm:    677
+  Files matched:      19
+  Subfolders visited: 1
+    - S25
+
+----------------------------------------
+COPIED FILES
+----------------------------------------
+
+Source:      F:\PRIVAT W BACKUP\Musée du Louvre\2015\DSC00801.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\Musée du Louvre_2015_720mm_DSC00801.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Musée du Louvre\2015\DSC00818.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\Musée du Louvre_2015_453mm_DSC00818.JPG
+35mm Equiv:  453.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\09 Huawei P30 - 201907-202301\IMG_20191009_183106.jpg
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\09 Huawei P30 - 201907-202301_505mm_IMG_20191009_183106.jpg
+35mm Equiv:  505.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\09 Huawei P30 - 201907-202301\IMG_20210226_220613.jpg
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\09 Huawei P30 - 201907-202301_802mm_IMG_20210226_220613.jpg
+35mm Equiv:  802.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\09 Huawei P30 - 201907-202301\IMG_20221127_133628.jpg
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\09 Huawei P30 - 201907-202301_402mm_IMG_20221127_133628.jpg
+35mm Equiv:  402.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\12 Samsung S25 - 202502-\20250329_123129.jpg
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\12 Samsung S25 - 202502-_393mm_20250329_123129.jpg
+35mm Equiv:  393.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\12 Samsung S25 - 202502-\20250830_141600.jpg
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\12 Samsung S25 - 202502-_460mm_20250830_141600.jpg
+35mm Equiv:  460.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\200903-04 毕业剧 校园风景\DSC03092.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\200903-04 毕业剧 校园风景_451mm_DSC03092.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\200903-04 毕业剧 校园风景\DSC03113.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\200903-04 毕业剧 校园风景_451mm_DSC03113.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\200903-04 毕业剧 校园风景\DSC03115.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\200903-04 毕业剧 校园风景_421mm_DSC03115.JPG
+35mm Equiv:  421.596mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\200903-04 毕业剧 校园风景\DSC03176.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\200903-04 毕业剧 校园风景_448mm_DSC03176.JPG
+35mm Equiv:  448.842mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\200903-04 毕业剧 校园风景\DSC03185.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\200903-04 毕业剧 校园风景_450mm_DSC03185.JPG
+35mm Equiv:  450.993mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\200903-04 毕业剧 校园风景\DSC03186.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\200903-04 毕业剧 校园风景_450mm_DSC03186.JPG
+35mm Equiv:  450.993mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\200903-04 毕业剧 校园风景\DSC03189.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\200903-04 毕业剧 校园风景_364mm_DSC03189.JPG
+35mm Equiv:  364.953mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\200903-04 毕业剧 校园风景\DSC03192.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\200903-04 毕业剧 校园风景_421mm_DSC03192.JPG
+35mm Equiv:  421.596mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\200903-04 毕业剧 校园风景\DSC03193.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\200903-04 毕业剧 校园风景_352mm_DSC03193.JPG
+35mm Equiv:  352.764mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\200903-04 毕业剧 校园风景\DSC03198.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\200903-04 毕业剧 校园风景_451mm_DSC03198.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\200903-04 毕业剧 校园风景\DSC03201.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\200903-04 毕业剧 校园风景_421mm_DSC03201.JPG
+35mm Equiv:  421.596mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\200903-04 毕业剧 校园风景\DSC03202.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\200903-04 毕业剧 校园风景_421mm_DSC03202.JPG
+35mm Equiv:  421.596mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\200903-04 毕业剧 校园风景\DSC03203.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\200903-04 毕业剧 校园风景_421mm_DSC03203.JPG
+35mm Equiv:  421.596mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\200903-04 毕业剧 校园风景\DSC03204.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\200903-04 毕业剧 校园风景_451mm_DSC03204.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\200903-04 毕业剧 校园风景\DSC03205.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\200903-04 毕业剧 校园风景_314mm_DSC03205.JPG
+35mm Equiv:  314.763mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\200903-04 毕业剧 校园风景\DSC03206.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\200903-04 毕业剧 校园风景_314mm_DSC03206.JPG
+35mm Equiv:  314.763mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\200903-04 毕业剧 校园风景\DSC03207.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\200903-04 毕业剧 校园风景_314mm_DSC03207.JPG
+35mm Equiv:  314.763mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\200903-04 毕业剧 校园风景\DSC03208.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\200903-04 毕业剧 校园风景_314mm_DSC03208.JPG
+35mm Equiv:  314.763mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\200903-04 毕业剧 校园风景\DSC03209.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\200903-04 毕业剧 校园风景_314mm_DSC03209.JPG
+35mm Equiv:  314.763mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\200903-04 毕业剧 校园风景\DSC03210.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\200903-04 毕业剧 校园风景_352mm_DSC03210.JPG
+35mm Equiv:  352.764mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\200903-04 毕业剧 校园风景\DSC03211.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\200903-04 毕业剧 校园风景_352mm_DSC03211.JPG
+35mm Equiv:  352.764mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\200903-04 毕业剧 校园风景\DSC03241.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\200903-04 毕业剧 校园风景_421mm_DSC03241.JPG
+35mm Equiv:  421.596mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20080126-0205 西行掠影\Best Western\BW13 卢塞恩水鸟.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20080126-0205 西行掠影_Best Western_451mm_BW13 卢塞恩水鸟.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20080126-0205 西行掠影\Best Western\small\Resize of BW012.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20080126-0205 西行掠影_Best Western_small_451mm_Resize of BW012.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20080126-0205 西行掠影\DSC00431.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20080126-0205 西行掠影_377mm_DSC00431.JPG
+35mm Equiv:  377.142mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20080126-0205 西行掠影\DSC00463.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20080126-0205 西行掠影_451mm_DSC00463.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20080126-0205 西行掠影\DSC00620.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20080126-0205 西行掠影_451mm_DSC00620.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20080126-0205 西行掠影\DSC00623.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20080126-0205 西行掠影_451mm_DSC00623.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20080126-0205 西行掠影\DSC00635.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20080126-0205 西行掠影_327mm_DSC00635.JPG
+35mm Equiv:  327.66900000000004mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20080126-0205 西行掠影\DSC00648.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20080126-0205 西行掠影_451mm_DSC00648.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20080126-0205 西行掠影\DSC00737.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20080126-0205 西行掠影_314mm_DSC00737.JPG
+35mm Equiv:  314.763mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20080126-0205 西行掠影\DSC00786.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20080126-0205 西行掠影_451mm_DSC00786.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20080126-0205 西行掠影\DSC00830.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20080126-0205 西行掠影_303mm_DSC00830.JPG
+35mm Equiv:  303.291mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20081009-12 梦中的鼓浪屿\0012.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20081009-12 梦中的鼓浪屿_451mm_0012.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20081009-12 梦中的鼓浪屿\0013.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20081009-12 梦中的鼓浪屿_421mm_0013.JPG
+35mm Equiv:  421.596mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20081009-12 梦中的鼓浪屿\0014.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20081009-12 梦中的鼓浪屿_421mm_0014.JPG
+35mm Equiv:  421.596mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20081009-12 梦中的鼓浪屿\0016.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20081009-12 梦中的鼓浪屿_451mm_0016.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20081009-12 梦中的鼓浪屿\0030.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20081009-12 梦中的鼓浪屿_451mm_0030.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20081009-12 梦中的鼓浪屿\0038.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20081009-12 梦中的鼓浪屿_451mm_0038.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20081009-12 梦中的鼓浪屿\0039.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20081009-12 梦中的鼓浪屿_451mm_0039.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090119-0217 Across the Dream\Best\DSC02271.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090119-0217 Across the Dream_Best_421mm_DSC02271.JPG
+35mm Equiv:  421.596mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090119-0217 Across the Dream\Budweiser\DSC02627.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090119-0217 Across the Dream_Budweiser_451mm_DSC02627.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090119-0217 Across the Dream\Budweiser\DSC02628.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090119-0217 Across the Dream_Budweiser_451mm_DSC02628.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090119-0217 Across the Dream\DSC02199.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090119-0217 Across the Dream_327mm_DSC02199.JPG
+35mm Equiv:  327.66900000000004mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090119-0217 Across the Dream\DSC02204.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090119-0217 Across the Dream_340mm_DSC02204.JPG
+35mm Equiv:  340.575mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090119-0217 Across the Dream\DSC02205.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090119-0217 Across the Dream_340mm_DSC02205.JPG
+35mm Equiv:  340.575mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090119-0217 Across the Dream\DSC02216.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090119-0217 Across the Dream_303mm_DSC02216.JPG
+35mm Equiv:  303.291mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090119-0217 Across the Dream\St Louis Botanic Garden\DSC02699.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090119-0217 Across the Dream_St Louis Botanic Garden_430mm_DSC02699.JPG
+35mm Equiv:  430.91700000000003mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090119-0217 Across the Dream\St Louis Botanic Garden\DSC02700.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090119-0217 Across the Dream_St Louis Botanic Garden_430mm_DSC02700.JPG
+35mm Equiv:  430.91700000000003mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090119-0217 Across the Dream\St Louis Botanic Garden\DSC02703.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090119-0217 Across the Dream_St Louis Botanic Garden_364mm_DSC02703.JPG
+35mm Equiv:  364.953mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090119-0217 Across the Dream\St Louis Botanic Garden\DSC02708.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090119-0217 Across the Dream_St Louis Botanic Garden_451mm_DSC02708.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090119-0217 Across the Dream\St Louis Botanic Garden\DSC02715.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090119-0217 Across the Dream_St Louis Botanic Garden_451mm_DSC02715.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090119-0217 Across the Dream\St Louis Zoo\DSC02644.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090119-0217 Across the Dream_St Louis Zoo_451mm_DSC02644.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090119-0217 Across the Dream\St Louis Zoo\DSC02648.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090119-0217 Across the Dream_St Louis Zoo_448mm_DSC02648.JPG
+35mm Equiv:  448.842mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090119-0217 Across the Dream\St Louis Zoo\DSC02652.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090119-0217 Across the Dream_St Louis Zoo_364mm_DSC02652.JPG
+35mm Equiv:  364.953mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090119-0217 Across the Dream\St Louis Zoo\DSC02660.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090119-0217 Across the Dream_St Louis Zoo_451mm_DSC02660.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090119-0217 Across the Dream\St Louis Zoo\DSC02683.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090119-0217 Across the Dream_St Louis Zoo_411mm_DSC02683.JPG
+35mm Equiv:  411.558mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090119-0217 Across the Dream\To San Jose\DSC02271.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090119-0217 Across the Dream_To San Jose_421mm_DSC02271.JPG
+35mm Equiv:  421.596mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090119-0217 Across the Dream\To San Jose\DSC02273.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090119-0217 Across the Dream_To San Jose_451mm_DSC02273.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090421-25 南京之旅\DSC03260.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090421-25 南京之旅_303mm_DSC03260.JPG
+35mm Equiv:  303.291mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090421-25 南京之旅\DSC03269.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090421-25 南京之旅_451mm_DSC03269.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090421-25 南京之旅\DSC03287.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090421-25 南京之旅_451mm_DSC03287.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090421-25 南京之旅\DSC03290.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090421-25 南京之旅_451mm_DSC03290.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090421-25 南京之旅\DSC03291.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090421-25 南京之旅_451mm_DSC03291.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090421-25 南京之旅\DSC03292.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090421-25 南京之旅_451mm_DSC03292.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090421-25 南京之旅\DSC03294.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090421-25 南京之旅_451mm_DSC03294.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090421-25 南京之旅\DSC03329.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090421-25 南京之旅_451mm_DSC03329.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090421-25 南京之旅\DSC03330.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090421-25 南京之旅_451mm_DSC03330.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090421-25 南京之旅\DSC03333.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090421-25 南京之旅_451mm_DSC03333.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090421-25 南京之旅\DSC03337.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090421-25 南京之旅_451mm_DSC03337.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090421-25 南京之旅\DSC03345.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090421-25 南京之旅_451mm_DSC03345.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090421-25 南京之旅\DSC03347.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090421-25 南京之旅_451mm_DSC03347.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090712-15  内蒙古太仆寺旗\Best\06.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090712-15  内蒙古太仆寺旗_Best_451mm_06.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090712-15  内蒙古太仆寺旗\Best\07.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090712-15  内蒙古太仆寺旗_Best_451mm_07.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090712-15  内蒙古太仆寺旗\Best\08.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090712-15  内蒙古太仆寺旗_Best_451mm_08.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090712-15  内蒙古太仆寺旗\Best\11.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090712-15  内蒙古太仆寺旗_Best_451mm_11.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090712-15  内蒙古太仆寺旗\Best\19.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090712-15  内蒙古太仆寺旗_Best_451mm_19.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090712-15  内蒙古太仆寺旗\DSC03530.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090712-15  内蒙古太仆寺旗_451mm_DSC03530.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090712-15  内蒙古太仆寺旗\DSC03531.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090712-15  内蒙古太仆寺旗_451mm_DSC03531.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090712-15  内蒙古太仆寺旗\DSC03532.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090712-15  内蒙古太仆寺旗_451mm_DSC03532.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090712-15  内蒙古太仆寺旗\DSC03534.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090712-15  内蒙古太仆寺旗_451mm_DSC03534.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090712-15  内蒙古太仆寺旗\DSC03535.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090712-15  内蒙古太仆寺旗_451mm_DSC03535.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090712-15  内蒙古太仆寺旗\DSC03536.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090712-15  内蒙古太仆寺旗_451mm_DSC03536.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090712-15  内蒙古太仆寺旗\DSC03537.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090712-15  内蒙古太仆寺旗_451mm_DSC03537.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090712-15  内蒙古太仆寺旗\DSC03538.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090712-15  内蒙古太仆寺旗_451mm_DSC03538.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090712-15  内蒙古太仆寺旗\DSC03539.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090712-15  内蒙古太仆寺旗_451mm_DSC03539.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090712-15  内蒙古太仆寺旗\DSC03540.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090712-15  内蒙古太仆寺旗_401mm_DSC03540.JPG
+35mm Equiv:  401.52mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090712-15  内蒙古太仆寺旗\DSC03541.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090712-15  内蒙古太仆寺旗_401mm_DSC03541.JPG
+35mm Equiv:  401.52mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090712-15  内蒙古太仆寺旗\DSC03545.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090712-15  内蒙古太仆寺旗_451mm_DSC03545.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090712-15  内蒙古太仆寺旗\DSC03547.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090712-15  内蒙古太仆寺旗_451mm_DSC03547.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090712-15  内蒙古太仆寺旗\DSC03548.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090712-15  内蒙古太仆寺旗_451mm_DSC03548.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090712-15  内蒙古太仆寺旗\DSC03559.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090712-15  内蒙古太仆寺旗_451mm_DSC03559.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090712-15  内蒙古太仆寺旗\DSC03564.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090712-15  内蒙古太仆寺旗_451mm_DSC03564.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090712-15  内蒙古太仆寺旗\DSC03569.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090712-15  内蒙古太仆寺旗_451mm_DSC03569.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090712-15  内蒙古太仆寺旗\DSC03570.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090712-15  内蒙古太仆寺旗_451mm_DSC03570.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090712-15  内蒙古太仆寺旗\DSC03603.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090712-15  内蒙古太仆寺旗_451mm_DSC03603.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090712-15  内蒙古太仆寺旗\DSC03614.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090712-15  内蒙古太仆寺旗_451mm_DSC03614.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090712-15  内蒙古太仆寺旗\DSC03620.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090712-15  内蒙古太仆寺旗_451mm_DSC03620.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090712-15  内蒙古太仆寺旗\DSC03623.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090712-15  内蒙古太仆寺旗_451mm_DSC03623.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090712-15  内蒙古太仆寺旗\DSC03625.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090712-15  内蒙古太仆寺旗_390mm_DSC03625.JPG
+35mm Equiv:  390.048mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090712-15  内蒙古太仆寺旗\DSC03626.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090712-15  内蒙古太仆寺旗_390mm_DSC03626.JPG
+35mm Equiv:  390.048mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090712-15  内蒙古太仆寺旗\DSC03632.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090712-15  内蒙古太仆寺旗_451mm_DSC03632.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090712-15  内蒙古太仆寺旗\DSC03652.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090712-15  内蒙古太仆寺旗_451mm_DSC03652.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090712-15  内蒙古太仆寺旗\DSC03653.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090712-15  内蒙古太仆寺旗_451mm_DSC03653.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090712-15  内蒙古太仆寺旗\DSC03686.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090712-15  内蒙古太仆寺旗_451mm_DSC03686.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090712-15  内蒙古太仆寺旗\DSC03687.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090712-15  内蒙古太仆寺旗_451mm_DSC03687.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090712-15  内蒙古太仆寺旗\DSC03690.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090712-15  内蒙古太仆寺旗_451mm_DSC03690.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090712-15  内蒙古太仆寺旗\DSC03695.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090712-15  内蒙古太仆寺旗_451mm_DSC03695.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090712-15  内蒙古太仆寺旗\DSC03696.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090712-15  内蒙古太仆寺旗_421mm_DSC03696.JPG
+35mm Equiv:  421.596mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090712-15  内蒙古太仆寺旗\DSC03765.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090712-15  内蒙古太仆寺旗_451mm_DSC03765.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090712-15  内蒙古太仆寺旗\DSC03794.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090712-15  内蒙古太仆寺旗_303mm_DSC03794.JPG
+35mm Equiv:  303.291mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090712-15  内蒙古太仆寺旗\DSC03802.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090712-15  内蒙古太仆寺旗_451mm_DSC03802.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090712-15  内蒙古太仆寺旗\DSC03837.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090712-15  内蒙古太仆寺旗_451mm_DSC03837.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090712-15  内蒙古太仆寺旗\DSC03839.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090712-15  内蒙古太仆寺旗_448mm_DSC03839.JPG
+35mm Equiv:  448.842mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090712-15  内蒙古太仆寺旗\DSC03849.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090712-15  内蒙古太仆寺旗_451mm_DSC03849.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090712-15  内蒙古太仆寺旗\DSC03850.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090712-15  内蒙古太仆寺旗_451mm_DSC03850.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090712-15  内蒙古太仆寺旗\DSC03851.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20090712-15  内蒙古太仆寺旗_451mm_DSC03851.JPG
+35mm Equiv:  451.71mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120201-15 Portugal and Germany\Euro 2012 ZZP\DSC01933.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120201-15 Portugal and Germany_Euro 2012 ZZP_384mm_DSC01933.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120201-15 Portugal and Germany\Euro 2012 ZZP\DSC01935.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120201-15 Portugal and Germany_Euro 2012 ZZP_384mm_DSC01935.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120201-15 Portugal and Germany\Euro 2012 ZZP\DSC01936.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120201-15 Portugal and Germany_Euro 2012 ZZP_384mm_DSC01936.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120201-15 Portugal and Germany\Euro 2012 ZZP\DSC01950.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120201-15 Portugal and Germany_Euro 2012 ZZP_324mm_DSC01950.JPG
+35mm Equiv:  324.72360000000003mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120201-15 Portugal and Germany\Euro 2012 ZZP\DSC01958.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120201-15 Portugal and Germany_Euro 2012 ZZP_345mm_DSC01958.JPG
+35mm Equiv:  345.068mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120201-15 Portugal and Germany\Euro 2012 ZZP\DSC01961.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120201-15 Portugal and Germany_Euro 2012 ZZP_345mm_DSC01961.JPG
+35mm Equiv:  345.068mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120201-15 Portugal and Germany\Euro 2012 ZZP\DSC02127.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120201-15 Portugal and Germany_Euro 2012 ZZP_384mm_DSC02127.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120201-15 Portugal and Germany\Euro 2012 ZZP\DSC02128.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120201-15 Portugal and Germany_Euro 2012 ZZP_384mm_DSC02128.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120201-15 Portugal and Germany\Euro 2012 ZZP\DSC02129.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120201-15 Portugal and Germany_Euro 2012 ZZP_384mm_DSC02129.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120201-15 Portugal and Germany\Euro 2012 ZZP\DSC02131.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120201-15 Portugal and Germany_Euro 2012 ZZP_384mm_DSC02131.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120201-15 Portugal and Germany\Euro 2012 ZZP\DSC02132.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120201-15 Portugal and Germany_Euro 2012 ZZP_384mm_DSC02132.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120201-15 Portugal and Germany\Euro 2012 ZZP\DSC02189.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120201-15 Portugal and Germany_Euro 2012 ZZP_384mm_DSC02189.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120201-15 Portugal and Germany\Euro 2012 ZZP\DSC02206.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120201-15 Portugal and Germany_Euro 2012 ZZP_384mm_DSC02206.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120201-15 Portugal and Germany\Euro 2012 ZZP\DSC02362.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120201-15 Portugal and Germany_Euro 2012 ZZP_364mm_DSC02362.JPG
+35mm Equiv:  364.176mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120201-15 Portugal and Germany\Euro 2012 ZZP\DSC02458.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120201-15 Portugal and Germany_Euro 2012 ZZP_384mm_DSC02458.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120201-15 Portugal and Germany\Euro 2012 ZZP\DSC02460.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120201-15 Portugal and Germany_Euro 2012 ZZP_384mm_DSC02460.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120604-09 Trondheim\DSC03890.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120604-09 Trondheim_384mm_DSC03890.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120604-09 Trondheim\DSC03946.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120604-09 Trondheim_384mm_DSC03946.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120604-09 Trondheim\DSC04019.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120604-09 Trondheim_384mm_DSC04019.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120604-09 Trondheim\DSC04024.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120604-09 Trondheim_384mm_DSC04024.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120604-09 Trondheim\DSC04051.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120604-09 Trondheim_384mm_DSC04051.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120604-09 Trondheim\DSC04057.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120604-09 Trondheim_384mm_DSC04057.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120604-09 Trondheim\DSC04065.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120604-09 Trondheim_364mm_DSC04065.JPG
+35mm Equiv:  364.176mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120604-09 Trondheim\DSC04067.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120604-09 Trondheim_384mm_DSC04067.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120604-09 Trondheim\DSC04071.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120604-09 Trondheim_384mm_DSC04071.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120604-09 Trondheim\DSC04073.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120604-09 Trondheim_384mm_DSC04073.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120604-09 Trondheim\DSC04100.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120604-09 Trondheim_384mm_DSC04100.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120604-09 Trondheim\DSC04123.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120604-09 Trondheim_384mm_DSC04123.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120604-09 Trondheim\DSC04153.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120604-09 Trondheim_384mm_DSC04153.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120604-09 Trondheim\DSC04162.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120604-09 Trondheim_384mm_DSC04162.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120604-09 Trondheim\DSC04166.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120604-09 Trondheim_384mm_DSC04166.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120604-09 Trondheim\DSC04168.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120604-09 Trondheim_384mm_DSC04168.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120604-09 Trondheim\DSC04203.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120604-09 Trondheim_384mm_DSC04203.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120604-09 Trondheim\DSC04210.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120604-09 Trondheim_384mm_DSC04210.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120604-09 Trondheim\DSC04211.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120604-09 Trondheim_384mm_DSC04211.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120604-09 Trondheim\DSC04212.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120604-09 Trondheim_384mm_DSC04212.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120604-09 Trondheim\DSC04240.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120604-09 Trondheim_384mm_DSC04240.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120604-09 Trondheim\DSC04246.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120604-09 Trondheim_384mm_DSC04246.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120604-09 Trondheim\DSC04254.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120604-09 Trondheim_384mm_DSC04254.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120604-09 Trondheim\DSC04256.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120604-09 Trondheim_384mm_DSC04256.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120604-09 Trondheim\DSC04265.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120604-09 Trondheim_384mm_DSC04265.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120604-09 Trondheim\Selected\DSC03946.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120604-09 Trondheim_Selected_384mm_DSC03946.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120604-09 Trondheim\Selected\DSC04067.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120604-09 Trondheim_Selected_384mm_DSC04067.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120604-09 Trondheim\Selected\DSC04073.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120604-09 Trondheim_Selected_384mm_DSC04073.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120604-09 Trondheim\Selected\DSC04123.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120604-09 Trondheim_Selected_384mm_DSC04123.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120604-09 Trondheim\Selected\DSC04153.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120604-09 Trondheim_Selected_384mm_DSC04153.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120604-09 Trondheim\Selected\DSC04212.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120604-09 Trondheim_Selected_384mm_DSC04212.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120604-09 Trondheim\Selected\DSC04265.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120604-09 Trondheim_Selected_384mm_DSC04265.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120821-30 台湾 香港\DSC04696.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120821-30 台湾 香港_384mm_DSC04696.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120821-30 台湾 香港\DSC04697.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120821-30 台湾 香港_384mm_DSC04697.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120821-30 台湾 香港\DSC04698.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120821-30 台湾 香港_384mm_DSC04698.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120821-30 台湾 香港\DSC04728.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120821-30 台湾 香港_384mm_DSC04728.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120821-30 台湾 香港\DSC04798.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120821-30 台湾 香港_305mm_DSC04798.JPG
+35mm Equiv:  305.95279999999997mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120821-30 台湾 香港\DSC04804.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120821-30 台湾 香港_384mm_DSC04804.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120821-30 台湾 香港\DSC04805.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120821-30 台湾 香港_384mm_DSC04805.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120821-30 台湾 香港\DSC04806.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120821-30 台湾 香港_384mm_DSC04806.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120821-30 台湾 香港\DSC04808.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120821-30 台湾 香港_384mm_DSC04808.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120821-30 台湾 香港\DSC04845.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120821-30 台湾 香港_384mm_DSC04845.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120821-30 台湾 香港\DSC04857.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120821-30 台湾 香港_384mm_DSC04857.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120821-30 台湾 香港\DSC04858.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120821-30 台湾 香港_384mm_DSC04858.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120821-30 台湾 香港\DSC04952.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120821-30 台湾 香港_355mm_DSC04952.JPG
+35mm Equiv:  355.46500000000003mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120821-30 台湾 香港\DSC04963.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120821-30 台湾 香港_384mm_DSC04963.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120821-30 台湾 香港\DSC04965.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120821-30 台湾 香港_384mm_DSC04965.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120821-30 台湾 香港\DSC04981.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120821-30 台湾 香港_384mm_DSC04981.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120821-30 台湾 香港\DSC05076.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120821-30 台湾 香港_384mm_DSC05076.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120821-30 台湾 香港\DSC05081.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120821-30 台湾 香港_380mm_DSC05081.JPG
+35mm Equiv:  380.0244mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120821-30 台湾 香港\DSC05083.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120821-30 台湾 香港_380mm_DSC05083.JPG
+35mm Equiv:  380.0244mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120821-30 台湾 香港\DSC05106.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120821-30 台湾 香港_384mm_DSC05106.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120821-30 台湾 香港\DSC05170.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120821-30 台湾 香港_345mm_DSC05170.JPG
+35mm Equiv:  345.068mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120821-30 台湾 香港\DSC05174.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120821-30 台湾 香港_315mm_DSC05174.JPG
+35mm Equiv:  315.0572mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120821-30 台湾 香港\DSC05239.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120821-30 台湾 香港_384mm_DSC05239.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120821-30 台湾 香港\DSC05240.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120821-30 台湾 香港_384mm_DSC05240.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120821-30 台湾 香港\DSC05243.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120821-30 台湾 香港_384mm_DSC05243.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120821-30 台湾 香港\DSC05311.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120821-30 台湾 香港_384mm_DSC05311.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120821-30 台湾 香港\DSC05336.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120821-30 台湾 香港_384mm_DSC05336.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120821-30 台湾 香港\DSC05350.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120821-30 台湾 香港_384mm_DSC05350.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120907-10 黄山 景德镇\DSC00073.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120907-10 黄山 景德镇_466mm_DSC00073.JPG
+35mm Equiv:  466.5162mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120907-10 黄山 景德镇\DSC00074.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120907-10 黄山 景德镇_500mm_DSC00074.JPG
+35mm Equiv:  500.18mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120907-10 黄山 景德镇\DSC00082.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120907-10 黄山 景德镇_366mm_DSC00082.JPG
+35mm Equiv:  366.8736mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120907-10 黄山 景德镇\DSC00093.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120907-10 黄山 景德镇_386mm_DSC00093.JPG
+35mm Equiv:  386.5998mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120907-10 黄山 景德镇\DSC00099.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120907-10 黄山 景德镇_500mm_DSC00099.JPG
+35mm Equiv:  500.18mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120907-10 黄山 景德镇\DSC00100.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120907-10 黄山 景德镇_408mm_DSC00100.JPG
+35mm Equiv:  408.12440000000004mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120907-10 黄山 景德镇\DSC00104.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120907-10 黄山 景德镇_500mm_DSC00104.JPG
+35mm Equiv:  500.18mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120907-10 黄山 景德镇\DSC00106.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120907-10 黄山 景德镇_500mm_DSC00106.JPG
+35mm Equiv:  500.18mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120907-10 黄山 景德镇\DSC00132.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120907-10 黄山 景德镇_314mm_DSC00132.JPG
+35mm Equiv:  314.6076mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120907-10 黄山 景德镇\DSC00137.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120907-10 黄山 景德镇_494mm_DSC00137.JPG
+35mm Equiv:  494.72860000000003mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120907-10 黄山 景德镇\DSC00163.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120907-10 黄山 景德镇_500mm_DSC00163.JPG
+35mm Equiv:  500.18mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120907-10 黄山 景德镇\DSC00219.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120907-10 黄山 景德镇_500mm_DSC00219.JPG
+35mm Equiv:  500.18mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120907-10 黄山 景德镇\DSC00411.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120907-10 黄山 景德镇_500mm_DSC00411.JPG
+35mm Equiv:  500.18mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120907-10 黄山 景德镇\DSC00439.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20120907-10 黄山 景德镇_476mm_DSC00439.JPG
+35mm Equiv:  476.51980000000003mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130322-25 Stavanger\DSC01202.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130322-25 Stavanger_442mm_DSC01202.JPG
+35mm Equiv:  442.9684mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130322-25 Stavanger\DSC01204.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130322-25 Stavanger_442mm_DSC01204.JPG
+35mm Equiv:  442.9684mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130322-25 Stavanger\DSC01245.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130322-25 Stavanger_500mm_DSC01245.JPG
+35mm Equiv:  500.18mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130322-25 Stavanger\DSC01249.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130322-25 Stavanger_339mm_DSC01249.JPG
+35mm Equiv:  339.6166mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130322-25 Stavanger\DSC01263.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130322-25 Stavanger_376mm_DSC01263.JPG
+35mm Equiv:  376.6524mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130322-25 Stavanger\DSC01329.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130322-25 Stavanger_339mm_DSC01329.JPG
+35mm Equiv:  339.6166mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130322-25 Stavanger\DSC01330.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130322-25 Stavanger_339mm_DSC01330.JPG
+35mm Equiv:  339.6166mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130322-25 Stavanger\DSC01331.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130322-25 Stavanger_500mm_DSC01331.JPG
+35mm Equiv:  500.18mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130322-25 Stavanger\DSC01337.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130322-25 Stavanger_500mm_DSC01337.JPG
+35mm Equiv:  500.18mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130322-25 Stavanger\DSC01403.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130322-25 Stavanger_500mm_DSC01403.JPG
+35mm Equiv:  500.18mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130322-25 Stavanger\DSC01431.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130322-25 Stavanger_500mm_DSC01431.JPG
+35mm Equiv:  500.18mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130322-25 Stavanger\DSC01451.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130322-25 Stavanger_314mm_DSC01451.JPG
+35mm Equiv:  314.6076mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130322-25 Stavanger\DSC01565.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130322-25 Stavanger_397mm_DSC01565.JPG
+35mm Equiv:  397.2216mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130322-25 Stavanger\DSC01567.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130322-25 Stavanger_397mm_DSC01567.JPG
+35mm Equiv:  397.2216mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130322-25 Stavanger\DSC01570.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130322-25 Stavanger_500mm_DSC01570.JPG
+35mm Equiv:  500.18mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130322-25 Stavanger\DSC01583.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130322-25 Stavanger_500mm_DSC01583.JPG
+35mm Equiv:  500.18mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130322-25 Stavanger\DSC01592.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130322-25 Stavanger_397mm_DSC01592.JPG
+35mm Equiv:  397.2216mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130322-25 Stavanger\DSC01604.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130322-25 Stavanger_500mm_DSC01604.JPG
+35mm Equiv:  500.18mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130322-25 Stavanger\DSC01607.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130322-25 Stavanger_500mm_DSC01607.JPG
+35mm Equiv:  500.18mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130322-25 Stavanger\DSC01608.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130322-25 Stavanger_314mm_DSC01608.JPG
+35mm Equiv:  314.6076mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130322-25 Stavanger\DSC01611.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130322-25 Stavanger_306mm_DSC01611.JPG
+35mm Equiv:  306.57099999999997mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130322-25 Stavanger\DSC01613.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130322-25 Stavanger_339mm_DSC01613.JPG
+35mm Equiv:  339.6166mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130322-25 Stavanger\DSC01643.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130322-25 Stavanger_466mm_DSC01643.JPG
+35mm Equiv:  466.5162mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130322-25 Stavanger\Patty Cam\DSC06042.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130322-25 Stavanger_Patty Cam_376mm_DSC06042.JPG
+35mm Equiv:  376.6524mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130517 Grunnlovsdag\DSC01779 88.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130517 Grunnlovsdag_419mm_DSC01779 88.JPG
+35mm Equiv:  419.98260000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130517 Grunnlovsdag\DSC01780.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130517 Grunnlovsdag_499mm_DSC01780.JPG
+35mm Equiv:  499.11220000000003mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130517 Grunnlovsdag\DSC01808.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130517 Grunnlovsdag_357mm_DSC01808.JPG
+35mm Equiv:  357.432mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130607-13 OSL STO Halden\DSC01919.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130607-13 OSL STO Halden_500mm_DSC01919.JPG
+35mm Equiv:  500.18mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130607-13 OSL STO Halden\DSC01931.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130607-13 OSL STO Halden_500mm_DSC01931.JPG
+35mm Equiv:  500.18mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130607-13 OSL STO Halden\DSC01942.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130607-13 OSL STO Halden_322mm_DSC01942.JPG
+35mm Equiv:  322.6442mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130607-13 OSL STO Halden\DSC01945.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130607-13 OSL STO Halden_500mm_DSC01945.JPG
+35mm Equiv:  500.18mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130607-13 OSL STO Halden\DSC01956.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130607-13 OSL STO Halden_500mm_DSC01956.JPG
+35mm Equiv:  500.18mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130607-13 OSL STO Halden\DSC01974.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130607-13 OSL STO Halden_476mm_DSC01974.JPG
+35mm Equiv:  476.51980000000003mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130607-13 OSL STO Halden\DSC01987.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130607-13 OSL STO Halden_466mm_DSC01987.JPG
+35mm Equiv:  466.5162mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130607-13 OSL STO Halden\DSC02035.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130607-13 OSL STO Halden_314mm_DSC02035.JPG
+35mm Equiv:  314.6076mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130607-13 OSL STO Halden\DSC02173.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130607-13 OSL STO Halden_500mm_DSC02173.JPG
+35mm Equiv:  500.18mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130607-13 OSL STO Halden\DSC02192.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130607-13 OSL STO Halden_500mm_DSC02192.JPG
+35mm Equiv:  500.18mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130607-13 OSL STO Halden\DSC02201.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130607-13 OSL STO Halden_348mm_DSC02201.JPG
+35mm Equiv:  348.4962mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130607-13 OSL STO Halden\DSC02288.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130607-13 OSL STO Halden_331mm_DSC02288.JPG
+35mm Equiv:  331.1304mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130607-13 OSL STO Halden\DSC02311.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130607-13 OSL STO Halden_339mm_DSC02311.JPG
+35mm Equiv:  339.6166mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130607-13 OSL STO Halden\DSC02327.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130607-13 OSL STO Halden_500mm_DSC02327.JPG
+35mm Equiv:  500.18mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130607-13 OSL STO Halden\DSC02332.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130607-13 OSL STO Halden_500mm_DSC02332.JPG
+35mm Equiv:  500.18mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130607-13 OSL STO Halden\DSC02495.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130607-13 OSL STO Halden_483mm_DSC02495.JPG
+35mm Equiv:  483.37620000000004mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130607-13 OSL STO Halden\DSC02505.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130607-13 OSL STO Halden_500mm_DSC02505.JPG
+35mm Equiv:  500.18mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130607-13 OSL STO Halden\DSC02507.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130607-13 OSL STO Halden_419mm_DSC02507.JPG
+35mm Equiv:  419.98260000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130607-13 OSL STO Halden\DSC02508.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130607-13 OSL STO Halden_419mm_DSC02508.JPG
+35mm Equiv:  419.98260000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130607-13 OSL STO Halden\DSC02610.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130607-13 OSL STO Halden_490mm_DSC02610.JPG
+35mm Equiv:  490.907mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130607-13 OSL STO Halden\DSC02637.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130607-13 OSL STO Halden_366mm_DSC02637.JPG
+35mm Equiv:  366.8736mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130607-13 OSL STO Halden\DSC02649.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130607-13 OSL STO Halden_357mm_DSC02649.JPG
+35mm Equiv:  357.432mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130607-13 OSL STO Halden\DSC02651.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130607-13 OSL STO Halden_357mm_DSC02651.JPG
+35mm Equiv:  357.432mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130607-13 OSL STO Halden\DSC02652.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130607-13 OSL STO Halden_357mm_DSC02652.JPG
+35mm Equiv:  357.432mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130607-13 OSL STO Halden\DSC02682.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130607-13 OSL STO Halden_466mm_DSC02682.JPG
+35mm Equiv:  466.5162mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130607-13 OSL STO Halden\DSC02687.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130607-13 OSL STO Halden_500mm_DSC02687.JPG
+35mm Equiv:  500.18mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130607-13 OSL STO Halden\DSC02690.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130607-13 OSL STO Halden_331mm_DSC02690.JPG
+35mm Equiv:  331.1304mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130607-13 OSL STO Halden\DSC02692.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130607-13 OSL STO Halden_357mm_DSC02692.JPG
+35mm Equiv:  357.432mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130607-13 OSL STO Halden\DSC02720.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130607-13 OSL STO Halden_500mm_DSC02720.JPG
+35mm Equiv:  500.18mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130607-13 OSL STO Halden\DSC02722.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130607-13 OSL STO Halden_500mm_DSC02722.JPG
+35mm Equiv:  500.18mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130607-13 OSL STO Halden\DSC02727.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130607-13 OSL STO Halden_500mm_DSC02727.JPG
+35mm Equiv:  500.18mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130621-24 Preikestolen og Kjerag\Zhang S\norway 016.jpg
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130621-24 Preikestolen og Kjerag_Zhang S_392mm_norway 016.jpg
+35mm Equiv:  392.199mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130621-24 Preikestolen og Kjerag\Zhang S\norway 056.jpg
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130621-24 Preikestolen og Kjerag_Zhang S_433mm_norway 056.jpg
+35mm Equiv:  433.78499999999997mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130721-26 Czech Republic\Patty\DSC06082.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20130721-26 Czech Republic_Patty_384mm_DSC06082.JPG
+35mm Equiv:  384.85760000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20131027-1109 Tunisia\DSC03029.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20131027-1109 Tunisia_331mm_DSC03029.JPG
+35mm Equiv:  331.1304mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20131027-1109 Tunisia\DSC03032.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20131027-1109 Tunisia_500mm_DSC03032.JPG
+35mm Equiv:  500.18mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20131027-1109 Tunisia\DSC03060.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20131027-1109 Tunisia_397mm_DSC03060.JPG
+35mm Equiv:  397.2216mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20131027-1109 Tunisia\DSC03295.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20131027-1109 Tunisia_397mm_DSC03295.JPG
+35mm Equiv:  397.2216mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20131027-1109 Tunisia\DSC03296.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20131027-1109 Tunisia_500mm_DSC03296.JPG
+35mm Equiv:  500.18mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20131027-1109 Tunisia\DSC03297.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20131027-1109 Tunisia_500mm_DSC03297.JPG
+35mm Equiv:  500.18mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20131027-1109 Tunisia\DSC03298.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20131027-1109 Tunisia_500mm_DSC03298.JPG
+35mm Equiv:  500.18mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20131027-1109 Tunisia\DSC03299.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20131027-1109 Tunisia_500mm_DSC03299.JPG
+35mm Equiv:  500.18mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20131027-1109 Tunisia\DSC03303.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20131027-1109 Tunisia_454mm_DSC03303.JPG
+35mm Equiv:  454.48940000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20131027-1109 Tunisia\DSC03304.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20131027-1109 Tunisia_454mm_DSC03304.JPG
+35mm Equiv:  454.48940000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20131027-1109 Tunisia\DSC03316.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20131027-1109 Tunisia_500mm_DSC03316.JPG
+35mm Equiv:  500.18mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20131027-1109 Tunisia\DSC03318.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20131027-1109 Tunisia_500mm_DSC03318.JPG
+35mm Equiv:  500.18mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20131027-1109 Tunisia\DSC03322.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20131027-1109 Tunisia_483mm_DSC03322.JPG
+35mm Equiv:  483.37620000000004mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20131027-1109 Tunisia\DSC03385.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20131027-1109 Tunisia_376mm_DSC03385.JPG
+35mm Equiv:  376.6524mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20131027-1109 Tunisia\DSC03415.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20131027-1109 Tunisia_500mm_DSC03415.JPG
+35mm Equiv:  500.18mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20131027-1109 Tunisia\DSC03416.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20131027-1109 Tunisia_500mm_DSC03416.JPG
+35mm Equiv:  500.18mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20131027-1109 Tunisia\DSC03417.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20131027-1109 Tunisia_500mm_DSC03417.JPG
+35mm Equiv:  500.18mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20131027-1109 Tunisia\DSC03439.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20131027-1109 Tunisia_500mm_DSC03439.JPG
+35mm Equiv:  500.18mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20131027-1109 Tunisia\DSC03584.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20131027-1109 Tunisia_408mm_DSC03584.JPG
+35mm Equiv:  408.12440000000004mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20131027-1109 Tunisia\Selected\DSC03029.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20131027-1109 Tunisia_Selected_331mm_DSC03029.JPG
+35mm Equiv:  331.1304mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20131027-1109 Tunisia\Selected\DSC03032.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20131027-1109 Tunisia_Selected_500mm_DSC03032.JPG
+35mm Equiv:  500.18mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20131027-1109 Tunisia\Selected\DSC03304.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20131027-1109 Tunisia_Selected_454mm_DSC03304.JPG
+35mm Equiv:  454.48940000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20140401 Kyllingstup\DSC04173.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20140401 Kyllingstup_386mm_DSC04173.JPG
+35mm Equiv:  386.5998mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20140401 Kyllingstup\DSC04175.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20140401 Kyllingstup_322mm_DSC04175.JPG
+35mm Equiv:  322.6442mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20140401 Kyllingstup\DSC04178.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20140401 Kyllingstup_466mm_DSC04178.JPG
+35mm Equiv:  466.5162mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20140401 Kyllingstup\DSC04183.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20140401 Kyllingstup_306mm_DSC04183.JPG
+35mm Equiv:  306.57099999999997mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20140401 Kyllingstup\DSC04270.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20140401 Kyllingstup_454mm_DSC04270.JPG
+35mm Equiv:  454.48940000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20140413-16 Briksdalbreen\Chen LH\DSC04689.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20140413-16 Briksdalbreen_Chen LH_348mm_DSC04689.JPG
+35mm Equiv:  348.4962mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20140413-16 Briksdalbreen\Chen LH\DSC04690.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20140413-16 Briksdalbreen_Chen LH_499mm_DSC04690.JPG
+35mm Equiv:  499.11220000000003mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20140413-16 Briksdalbreen\Selected\DSC04689.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20140413-16 Briksdalbreen_Selected_348mm_DSC04689.JPG
+35mm Equiv:  348.4962mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20140413-16 Briksdalbreen\Selected\DSC04690.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20140413-16 Briksdalbreen_Selected_499mm_DSC04690.JPG
+35mm Equiv:  499.11220000000003mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20140425-27 Tromsø\Patty\DSC04745.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20140425-27 Tromsø_Patty_339mm_DSC04745.JPG
+35mm Equiv:  339.6166mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20140425-27 Tromsø\Patty\DSC04747.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20140425-27 Tromsø_Patty_339mm_DSC04747.JPG
+35mm Equiv:  339.6166mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20140425-27 Tromsø\Patty\DSC04748.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20140425-27 Tromsø_Patty_339mm_DSC04748.JPG
+35mm Equiv:  339.6166mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20140425-27 Tromsø\Patty\DSC04749.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20140425-27 Tromsø_Patty_339mm_DSC04749.JPG
+35mm Equiv:  339.6166mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20140425-27 Tromsø\Selected\DSC04745.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20140425-27 Tromsø_Selected_339mm_DSC04745.JPG
+35mm Equiv:  339.6166mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20140425-27 Tromsø\Selected\DSC04748.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20140425-27 Tromsø_Selected_339mm_DSC04748.JPG
+35mm Equiv:  339.6166mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20140805-17 Turkey\105MSDCF\DSC04871.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20140805-17 Turkey_105MSDCF_322mm_DSC04871.JPG
+35mm Equiv:  322.6442mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20140805-17 Turkey\105MSDCF\DSC04873.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20140805-17 Turkey_105MSDCF_419mm_DSC04873.JPG
+35mm Equiv:  419.98260000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20140805-17 Turkey\105MSDCF\DSC04901.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20140805-17 Turkey_105MSDCF_454mm_DSC04901.JPG
+35mm Equiv:  454.48940000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20140805-17 Turkey\105MSDCF\DSC04902.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20140805-17 Turkey_105MSDCF_357mm_DSC04902.JPG
+35mm Equiv:  357.432mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20140805-17 Turkey\105MSDCF\DSC05159.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20140805-17 Turkey_105MSDCF_500mm_DSC05159.JPG
+35mm Equiv:  500.18mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20140805-17 Turkey\105MSDCF\DSC05161.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20140805-17 Turkey_105MSDCF_500mm_DSC05161.JPG
+35mm Equiv:  500.18mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20141011-13 Oslo avec le Vent\DSC05591.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20141011-13 Oslo avec le Vent_419mm_DSC05591.JPG
+35mm Equiv:  419.98260000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20141011-13 Oslo avec le Vent\DSC05592.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20141011-13 Oslo avec le Vent_419mm_DSC05592.JPG
+35mm Equiv:  419.98260000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20141011-13 Oslo avec le Vent\DSC05593.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20141011-13 Oslo avec le Vent_419mm_DSC05593.JPG
+35mm Equiv:  419.98260000000005mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20141011-13 Oslo avec le Vent\Fra Lan\DSC_5689.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20141011-13 Oslo avec le Vent_Fra Lan_540mm_DSC_5689.JPG
+35mm Equiv:  540.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20141228-20150109 SAGA\D3200\DSC_1674.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20141228-20150109 SAGA_D3200_450mm_DSC_1674.JPG
+35mm Equiv:  450.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20141228-20150109 SAGA\D3200\DSC_1679.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20141228-20150109 SAGA_D3200_450mm_DSC_1679.JPG
+35mm Equiv:  450.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20141228-20150109 SAGA\D3200\DSC_1681.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20141228-20150109 SAGA_D3200_345mm_DSC_1681.JPG
+35mm Equiv:  345.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20141228-20150109 SAGA\D3200\DSC_1688.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20141228-20150109 SAGA_D3200_450mm_DSC_1688.JPG
+35mm Equiv:  450.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20141228-20150109 SAGA\D3200\DSC_1691.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20141228-20150109 SAGA_D3200_345mm_DSC_1691.JPG
+35mm Equiv:  345.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20141228-20150109 SAGA\D3200\DSC_1712.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20141228-20150109 SAGA_D3200_450mm_DSC_1712.JPG
+35mm Equiv:  450.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20141228-20150109 SAGA\D3200\DSC_1719.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20141228-20150109 SAGA_D3200_330mm_DSC_1719.JPG
+35mm Equiv:  330.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20141228-20150109 SAGA\D3200\DSC_1850.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20141228-20150109 SAGA_D3200_375mm_DSC_1850.JPG
+35mm Equiv:  375.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20141228-20150109 SAGA\D3200\DSC_1855.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20141228-20150109 SAGA_D3200_360mm_DSC_1855.JPG
+35mm Equiv:  360.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20141228-20150109 SAGA\D3200\DSC_1859.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20141228-20150109 SAGA_D3200_450mm_DSC_1859.JPG
+35mm Equiv:  450.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20141228-20150109 SAGA\D3200\DSC_1862.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20141228-20150109 SAGA_D3200_405mm_DSC_1862.JPG
+35mm Equiv:  405.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20141228-20150109 SAGA\D3200\DSC_1863.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20141228-20150109 SAGA_D3200_405mm_DSC_1863.JPG
+35mm Equiv:  405.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20141228-20150109 SAGA\D3200\DSC_1869.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20141228-20150109 SAGA_D3200_450mm_DSC_1869.JPG
+35mm Equiv:  450.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20141228-20150109 SAGA\D3200\DSC_1941.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20141228-20150109 SAGA_D3200_450mm_DSC_1941.JPG
+35mm Equiv:  450.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20141228-20150109 SAGA\D3200\DSC_1942.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20141228-20150109 SAGA_D3200_450mm_DSC_1942.JPG
+35mm Equiv:  450.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20141228-20150109 SAGA\D3200\DSC_1952.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20141228-20150109 SAGA_D3200_450mm_DSC_1952.JPG
+35mm Equiv:  450.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20141228-20150109 SAGA\D3200\DSC_2023.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20141228-20150109 SAGA_D3200_450mm_DSC_2023.JPG
+35mm Equiv:  450.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20141228-20150109 SAGA\D3200\DSC_2025.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20141228-20150109 SAGA_D3200_450mm_DSC_2025.JPG
+35mm Equiv:  450.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20141228-20150109 SAGA\D3200\DSC_2026.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20141228-20150109 SAGA_D3200_450mm_DSC_2026.JPG
+35mm Equiv:  450.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20141228-20150109 SAGA\D3200\DSC_2028.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20141228-20150109 SAGA_D3200_450mm_DSC_2028.JPG
+35mm Equiv:  450.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20141228-20150109 SAGA\D3200\DSC_2030.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20141228-20150109 SAGA_D3200_450mm_DSC_2030.JPG
+35mm Equiv:  450.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20141228-20150109 SAGA\D3200\DSC_2032.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20141228-20150109 SAGA_D3200_450mm_DSC_2032.JPG
+35mm Equiv:  450.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20141228-20150109 SAGA\D3200\DSC_2035.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20141228-20150109 SAGA_D3200_450mm_DSC_2035.JPG
+35mm Equiv:  450.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20141228-20150109 SAGA\D3200\DSC_2036.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20141228-20150109 SAGA_D3200_450mm_DSC_2036.JPG
+35mm Equiv:  450.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20141228-20150109 SAGA\HX30\DSC05627.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20141228-20150109 SAGA_HX30_500mm_DSC05627.JPG
+35mm Equiv:  500.18mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20141228-20150109 SAGA\HX30\DSC05657.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20141228-20150109 SAGA_HX30_386mm_DSC05657.JPG
+35mm Equiv:  386.5998mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20141228-20150109 SAGA\HX30\DSC05715.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20141228-20150109 SAGA_HX30_483mm_DSC05715.JPG
+35mm Equiv:  483.37620000000004mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20141228-20150109 SAGA\Selected Hu\DSC_1691.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20141228-20150109 SAGA_Selected Hu_345mm_DSC_1691.JPG
+35mm Equiv:  345.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20141228-20150109 SAGA\Selected Hu\DSC_1850.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20141228-20150109 SAGA_Selected Hu_375mm_DSC_1850.JPG
+35mm Equiv:  375.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20141228-20150109 SAGA\Selected Hu\DSC_1941.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20141228-20150109 SAGA_Selected Hu_450mm_DSC_1941.JPG
+35mm Equiv:  450.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00056.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_720mm_DSC00056.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00071.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_720mm_DSC00071.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00081.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_300mm_DSC00081.JPG
+35mm Equiv:  300.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00094.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_571mm_DSC00094.JPG
+35mm Equiv:  571.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00096.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_720mm_DSC00096.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00101.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_484mm_DSC00101.JPG
+35mm Equiv:  484.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00102.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_453mm_DSC00102.JPG
+35mm Equiv:  453.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00104.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_720mm_DSC00104.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00106.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_720mm_DSC00106.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00109.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_672mm_DSC00109.JPG
+35mm Equiv:  672.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00111.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_672mm_DSC00111.JPG
+35mm Equiv:  672.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00112.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_672mm_DSC00112.JPG
+35mm Equiv:  672.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00119.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_571mm_DSC00119.JPG
+35mm Equiv:  571.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00148.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_636mm_DSC00148.JPG
+35mm Equiv:  636.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00153.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_720mm_DSC00153.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00177.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_720mm_DSC00177.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00178.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_720mm_DSC00178.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00180.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_720mm_DSC00180.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00182.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_439mm_DSC00182.JPG
+35mm Equiv:  439.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00185.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_344mm_DSC00185.JPG
+35mm Equiv:  344.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00186.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_344mm_DSC00186.JPG
+35mm Equiv:  344.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00191.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_720mm_DSC00191.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00192.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_720mm_DSC00192.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00194.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_720mm_DSC00194.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00196.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_702mm_DSC00196.JPG
+35mm Equiv:  702.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00199.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_720mm_DSC00199.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00200.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_720mm_DSC00200.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00202.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_720mm_DSC00202.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00203.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_720mm_DSC00203.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00207.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_720mm_DSC00207.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00209.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_468mm_DSC00209.JPG
+35mm Equiv:  468.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00211.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_468mm_DSC00211.JPG
+35mm Equiv:  468.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00212.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_453mm_DSC00212.JPG
+35mm Equiv:  453.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00214.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_720mm_DSC00214.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00215.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_720mm_DSC00215.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00220.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_720mm_DSC00220.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00225.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_711mm_DSC00225.JPG
+35mm Equiv:  711.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00226.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_720mm_DSC00226.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00230.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_720mm_DSC00230.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00232.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_654mm_DSC00232.JPG
+35mm Equiv:  654.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00233.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_672mm_DSC00233.JPG
+35mm Equiv:  672.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00234.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_468mm_DSC00234.JPG
+35mm Equiv:  468.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00244.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_316mm_DSC00244.JPG
+35mm Equiv:  316.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00245.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_571mm_DSC00245.JPG
+35mm Equiv:  571.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00247.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_571mm_DSC00247.JPG
+35mm Equiv:  571.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00248.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_720mm_DSC00248.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00249.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_556mm_DSC00249.JPG
+35mm Equiv:  556.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00250.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_720mm_DSC00250.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00252.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_528mm_DSC00252.JPG
+35mm Equiv:  528.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00254.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_720mm_DSC00254.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00256.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_720mm_DSC00256.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00258.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_720mm_DSC00258.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00259.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_500mm_DSC00259.JPG
+35mm Equiv:  500.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00260.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_720mm_DSC00260.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00263.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_717mm_DSC00263.JPG
+35mm Equiv:  717.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00264.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_717mm_DSC00264.JPG
+35mm Equiv:  717.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00269.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_720mm_DSC00269.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00275.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_720mm_DSC00275.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00279.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_720mm_DSC00279.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00281.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_720mm_DSC00281.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00282.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_718mm_DSC00282.JPG
+35mm Equiv:  718.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00283.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_718mm_DSC00283.JPG
+35mm Equiv:  718.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00284.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_718mm_DSC00284.JPG
+35mm Equiv:  718.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00287.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_468mm_DSC00287.JPG
+35mm Equiv:  468.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00289.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_468mm_DSC00289.JPG
+35mm Equiv:  468.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00290.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_468mm_DSC00290.JPG
+35mm Equiv:  468.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00292.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_711mm_DSC00292.JPG
+35mm Equiv:  711.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00295.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_720mm_DSC00295.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00307.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_720mm_DSC00307.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00321.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_426mm_DSC00321.JPG
+35mm Equiv:  426.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00325.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_400mm_DSC00325.JPG
+35mm Equiv:  400.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\HX90\DSC00361.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_HX90_720mm_DSC00361.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\Selected\DSC00094.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_Selected_571mm_DSC00094.JPG
+35mm Equiv:  571.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\Selected\DSC00101.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_Selected_484mm_DSC00101.JPG
+35mm Equiv:  484.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\Selected\DSC00109.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_Selected_672mm_DSC00109.JPG
+35mm Equiv:  672.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\Selected\DSC00148.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_Selected_636mm_DSC00148.JPG
+35mm Equiv:  636.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\Selected\DSC00191.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_Selected_720mm_DSC00191.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\Selected\DSC00234.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_Selected_468mm_DSC00234.JPG
+35mm Equiv:  468.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\Selected\DSC00247.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_Selected_571mm_DSC00247.JPG
+35mm Equiv:  571.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\Selected\DSC00258.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_Selected_720mm_DSC00258.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\Selected\DSC00279.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_Selected_720mm_DSC00279.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard\Selected\DSC00281.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20150718-24 Svalbard_Selected_720mm_DSC00281.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20151001-04 Lofoten\HX90\DSC00516.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20151001-04 Lofoten_HX90_528mm_DSC00516.JPG
+35mm Equiv:  528.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20151001-04 Lofoten\HX90\DSC00555.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20151001-04 Lofoten_HX90_377mm_DSC00555.JPG
+35mm Equiv:  377.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20151001-04 Lofoten\HX90\DSC00556.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20151001-04 Lofoten_HX90_377mm_DSC00556.JPG
+35mm Equiv:  377.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20151119-1206 Paris\DSC00801.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20151119-1206 Paris_720mm_DSC00801.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20151119-1206 Paris\DSC00818.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20151119-1206 Paris_453mm_DSC00818.JPG
+35mm Equiv:  453.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20160617-28 Baltics\1 Helsinki\DSC01433.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20160617-28 Baltics_1 Helsinki_366mm_DSC01433.JPG
+35mm Equiv:  366.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20160617-28 Baltics\1 Helsinki\DSC01437.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20160617-28 Baltics_1 Helsinki_672mm_DSC01437.JPG
+35mm Equiv:  672.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20160617-28 Baltics\1 Helsinki\HX30\DSC01433.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20160617-28 Baltics_1 Helsinki_HX30_366mm_DSC01433.JPG
+35mm Equiv:  366.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20160617-28 Baltics\1 Helsinki\HX30\DSC01437.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20160617-28 Baltics_1 Helsinki_HX30_672mm_DSC01437.JPG
+35mm Equiv:  672.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20160617-28 Baltics\2 Tallinn\DSC01536.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20160617-28 Baltics_2 Tallinn_316mm_DSC01536.JPG
+35mm Equiv:  316.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20160617-28 Baltics\2 Tallinn\DSC01574.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20160617-28 Baltics_2 Tallinn_720mm_DSC01574.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20160617-28 Baltics\2 Tallinn\DSC01576.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20160617-28 Baltics_2 Tallinn_720mm_DSC01576.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20160617-28 Baltics\2 Tallinn\DSC01589.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20160617-28 Baltics_2 Tallinn_300mm_DSC01589.JPG
+35mm Equiv:  300.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20160617-28 Baltics\2 Tallinn\DSC01673.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20160617-28 Baltics_2 Tallinn_439mm_DSC01673.JPG
+35mm Equiv:  439.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20160617-28 Baltics\3 Riga\DSC01825.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20160617-28 Baltics_3 Riga_300mm_DSC01825.JPG
+35mm Equiv:  300.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20160617-28 Baltics\3 Riga\DSC01830.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20160617-28 Baltics_3 Riga_453mm_DSC01830.JPG
+35mm Equiv:  453.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20160617-28 Baltics\3 Riga\DSC01876.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20160617-28 Baltics_3 Riga_389mm_DSC01876.JPG
+35mm Equiv:  389.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20160617-28 Baltics\3 Riga\DSC01929.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20160617-28 Baltics_3 Riga_334mm_DSC01929.JPG
+35mm Equiv:  334.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20160617-28 Baltics\4 Vilnius\DSC01991.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20160617-28 Baltics_4 Vilnius_720mm_DSC01991.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20160617-28 Baltics\4 Vilnius\DSC02081.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20160617-28 Baltics_4 Vilnius_718mm_DSC02081.JPG
+35mm Equiv:  718.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20160617-28 Baltics\4 Vilnius\DSC02083.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20160617-28 Baltics_4 Vilnius_720mm_DSC02083.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20160617-28 Baltics\4 Vilnius\DSC02084.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20160617-28 Baltics_4 Vilnius_355mm_DSC02084.JPG
+35mm Equiv:  355.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20160617-28 Baltics\4 Vilnius\DSC02157.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20160617-28 Baltics_4 Vilnius_308mm_DSC02157.JPG
+35mm Equiv:  308.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20160617-28 Baltics\4 Vilnius\DSC02190.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20160617-28 Baltics_4 Vilnius_439mm_DSC02190.JPG
+35mm Equiv:  439.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20160617-28 Baltics\4 Vilnius\DSC02191.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20160617-28 Baltics_4 Vilnius_439mm_DSC02191.JPG
+35mm Equiv:  439.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20160617-28 Baltics\5 Trakai\DSC02237.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20160617-28 Baltics_5 Trakai_344mm_DSC02237.JPG
+35mm Equiv:  344.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20160617-28 Baltics\5 Trakai\DSC02306.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20160617-28 Baltics_5 Trakai_308mm_DSC02306.JPG
+35mm Equiv:  308.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20160617-28 Baltics\5 Trakai\DSC02307.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20160617-28 Baltics_5 Trakai_720mm_DSC02307.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20160617-28 Baltics\5 Trakai\DSC02309.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20160617-28 Baltics_5 Trakai_672mm_DSC02309.JPG
+35mm Equiv:  672.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20160617-28 Baltics\5 Trakai\DSC02311.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20160617-28 Baltics_5 Trakai_672mm_DSC02311.JPG
+35mm Equiv:  672.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20160617-28 Baltics\5 Trakai\DSC02312.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20160617-28 Baltics_5 Trakai_672mm_DSC02312.JPG
+35mm Equiv:  672.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20160617-28 Baltics\5 Trakai\DSC02313.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20160617-28 Baltics_5 Trakai_672mm_DSC02313.JPG
+35mm Equiv:  672.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20160617-28 Baltics\5 Trakai\DSC02314.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20160617-28 Baltics_5 Trakai_618mm_DSC02314.JPG
+35mm Equiv:  618.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20160617-28 Baltics\5 Trakai\DSC02316.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20160617-28 Baltics_5 Trakai_718mm_DSC02316.JPG
+35mm Equiv:  718.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20160617-28 Baltics\5 Trakai\DSC02317.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20160617-28 Baltics_5 Trakai_718mm_DSC02317.JPG
+35mm Equiv:  718.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20160617-28 Baltics\from iPhone\IMG_1306.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20160617-28 Baltics_from iPhone_334mm_IMG_1306.JPG
+35mm Equiv:  334.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722\HX90\DSC03321.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20170707-22 Caucasus 0722_HX90_334mm_DSC03321.JPG
+35mm Equiv:  334.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722\HX90\DSC03322.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20170707-22 Caucasus 0722_HX90_334mm_DSC03322.JPG
+35mm Equiv:  334.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722\HX90\DSC03323.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20170707-22 Caucasus 0722_HX90_334mm_DSC03323.JPG
+35mm Equiv:  334.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722\HX90\DSC03327.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20170707-22 Caucasus 0722_HX90_325mm_DSC03327.JPG
+35mm Equiv:  325.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722\HX90\DSC03328.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20170707-22 Caucasus 0722_HX90_325mm_DSC03328.JPG
+35mm Equiv:  325.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722\HX90\DSC03329.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20170707-22 Caucasus 0722_HX90_500mm_DSC03329.JPG
+35mm Equiv:  500.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722\HX90\DSC03331.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20170707-22 Caucasus 0722_HX90_500mm_DSC03331.JPG
+35mm Equiv:  500.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722\HX90\DSC03334.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20170707-22 Caucasus 0722_HX90_720mm_DSC03334.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722\HX90\DSC03336.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20170707-22 Caucasus 0722_HX90_711mm_DSC03336.JPG
+35mm Equiv:  711.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722\HX90\DSC03337.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20170707-22 Caucasus 0722_HX90_711mm_DSC03337.JPG
+35mm Equiv:  711.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722\HX90\DSC03338.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20170707-22 Caucasus 0722_HX90_711mm_DSC03338.JPG
+35mm Equiv:  711.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722\HX90\DSC03342.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20170707-22 Caucasus 0722_HX90_711mm_DSC03342.JPG
+35mm Equiv:  711.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722\HX90\DSC03343.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20170707-22 Caucasus 0722_HX90_720mm_DSC03343.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722\HX90\DSC03344.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20170707-22 Caucasus 0722_HX90_720mm_DSC03344.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722\HX90\DSC03345.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20170707-22 Caucasus 0722_HX90_720mm_DSC03345.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722\HX90\DSC03346.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20170707-22 Caucasus 0722_HX90_720mm_DSC03346.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722\HX90\DSC03347.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20170707-22 Caucasus 0722_HX90_720mm_DSC03347.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722\HX90\DSC03348.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20170707-22 Caucasus 0722_HX90_720mm_DSC03348.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722\HX90\DSC03351.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20170707-22 Caucasus 0722_HX90_720mm_DSC03351.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722\HX90\DSC03360.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20170707-22 Caucasus 0722_HX90_484mm_DSC03360.JPG
+35mm Equiv:  484.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722\HX90\DSC03361.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20170707-22 Caucasus 0722_HX90_344mm_DSC03361.JPG
+35mm Equiv:  344.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722\HX90\DSC03390.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20170707-22 Caucasus 0722_HX90_413mm_DSC03390.JPG
+35mm Equiv:  413.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722\HX90\DSC03395.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20170707-22 Caucasus 0722_HX90_413mm_DSC03395.JPG
+35mm Equiv:  413.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722\HX90\DSC03398.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20170707-22 Caucasus 0722_HX90_718mm_DSC03398.JPG
+35mm Equiv:  718.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722\HX90\DSC03402.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20170707-22 Caucasus 0722_HX90_600mm_DSC03402.JPG
+35mm Equiv:  600.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722\HX90\DSC03404.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20170707-22 Caucasus 0722_HX90_718mm_DSC03404.JPG
+35mm Equiv:  718.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722\HX90\DSC03409.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20170707-22 Caucasus 0722_HX90_720mm_DSC03409.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722\HX90\DSC03447.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20170707-22 Caucasus 0722_HX90_468mm_DSC03447.JPG
+35mm Equiv:  468.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722\HX90\DSC03453.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20170707-22 Caucasus 0722_HX90_453mm_DSC03453.JPG
+35mm Equiv:  453.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722\HX90\DSC03473.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20170707-22 Caucasus 0722_HX90_600mm_DSC03473.JPG
+35mm Equiv:  600.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722\HX90\DSC03484.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20170707-22 Caucasus 0722_HX90_325mm_DSC03484.JPG
+35mm Equiv:  325.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722\HX90\DSC03587.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20170707-22 Caucasus 0722_HX90_468mm_DSC03587.JPG
+35mm Equiv:  468.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722\HX90\DSC03588.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20170707-22 Caucasus 0722_HX90_468mm_DSC03588.JPG
+35mm Equiv:  468.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722\HX90\DSC03614.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20170707-22 Caucasus 0722_HX90_585mm_DSC03614.JPG
+35mm Equiv:  585.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722\HX90\DSC03645.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20170707-22 Caucasus 0722_HX90_308mm_DSC03645.JPG
+35mm Equiv:  308.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722\HX90\DSC03646.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20170707-22 Caucasus 0722_HX90_720mm_DSC03646.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722\HX90\DSC03648.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20170707-22 Caucasus 0722_HX90_718mm_DSC03648.JPG
+35mm Equiv:  718.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722\HX90\DSC03765.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20170707-22 Caucasus 0722_HX90_344mm_DSC03765.JPG
+35mm Equiv:  344.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722\HX90\DSC03796.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20170707-22 Caucasus 0722_HX90_316mm_DSC03796.JPG
+35mm Equiv:  316.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722\HX90\DSC03797.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20170707-22 Caucasus 0722_HX90_514mm_DSC03797.JPG
+35mm Equiv:  514.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722\HX90\DSC03798.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20170707-22 Caucasus 0722_HX90_514mm_DSC03798.JPG
+35mm Equiv:  514.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722\HX90\DSC03904.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20170707-22 Caucasus 0722_HX90_316mm_DSC03904.JPG
+35mm Equiv:  316.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722\Selected\DSC03329.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20170707-22 Caucasus 0722_Selected_500mm_DSC03329.JPG
+35mm Equiv:  500.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722\Selected\DSC03334.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20170707-22 Caucasus 0722_Selected_720mm_DSC03334.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722\Selected\DSC03336.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20170707-22 Caucasus 0722_Selected_711mm_DSC03336.JPG
+35mm Equiv:  711.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722\Selected\DSC03360.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20170707-22 Caucasus 0722_Selected_484mm_DSC03360.JPG
+35mm Equiv:  484.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722\Selected\DSC03402.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20170707-22 Caucasus 0722_Selected_600mm_DSC03402.JPG
+35mm Equiv:  600.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722\Selected\DSC03447.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20170707-22 Caucasus 0722_Selected_468mm_DSC03447.JPG
+35mm Equiv:  468.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722\Selected\DSC03484.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20170707-22 Caucasus 0722_Selected_325mm_DSC03484.JPG
+35mm Equiv:  325.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722\Selected\DSC03645.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20170707-22 Caucasus 0722_Selected_308mm_DSC03645.JPG
+35mm Equiv:  308.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722\Selected\DSC03796.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20170707-22 Caucasus 0722_Selected_316mm_DSC03796.JPG
+35mm Equiv:  316.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20180107-10 Alicante Valencia\DSC09483.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20180107-10 Alicante Valencia_308mm_DSC09483.JPG
+35mm Equiv:  308.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20180107-10 Alicante Valencia\DSC09545.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20180107-10 Alicante Valencia_355mm_DSC09545.JPG
+35mm Equiv:  355.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20180107-10 Alicante Valencia\DSC09567.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20180107-10 Alicante Valencia_366mm_DSC09567.JPG
+35mm Equiv:  366.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20180107-10 Alicante Valencia\DSC09725.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20180107-10 Alicante Valencia_500mm_DSC09725.JPG
+35mm Equiv:  500.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20180107-10 Alicante Valencia\DSC09728.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20180107-10 Alicante Valencia_468mm_DSC09728.JPG
+35mm Equiv:  468.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20180107-10 Alicante Valencia\DSC09756.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20180107-10 Alicante Valencia_344mm_DSC09756.JPG
+35mm Equiv:  344.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20180107-10 Alicante Valencia\DSC09775.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20180107-10 Alicante Valencia_300mm_DSC09775.JPG
+35mm Equiv:  300.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20180107-10 Alicante Valencia\DSC09786.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20180107-10 Alicante Valencia_600mm_DSC09786.JPG
+35mm Equiv:  600.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20180107-10 Alicante Valencia\DSC09788.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20180107-10 Alicante Valencia_720mm_DSC09788.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20180107-10 Alicante Valencia\DSC09789.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20180107-10 Alicante Valencia_413mm_DSC09789.JPG
+35mm Equiv:  413.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20180107-10 Alicante Valencia\DSC09795.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20180107-10 Alicante Valencia_344mm_DSC09795.JPG
+35mm Equiv:  344.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20180107-10 Alicante Valencia\DSC09796.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20180107-10 Alicante Valencia_344mm_DSC09796.JPG
+35mm Equiv:  344.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20180107-10 Alicante Valencia\DSC09815.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20180107-10 Alicante Valencia_571mm_DSC09815.JPG
+35mm Equiv:  571.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20180718-0805 Japan\HX90\DSC00213.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20180718-0805 Japan_HX90_711mm_DSC00213.JPG
+35mm Equiv:  711.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20180718-0805 Japan\HX90\DSC00244.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20180718-0805 Japan_HX90_484mm_DSC00244.JPG
+35mm Equiv:  484.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20180718-0805 Japan\HX90\DSC00245.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20180718-0805 Japan_HX90_484mm_DSC00245.JPG
+35mm Equiv:  484.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20180718-0805 Japan\HX90\DSC00248.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20180718-0805 Japan_HX90_484mm_DSC00248.JPG
+35mm Equiv:  484.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20180718-0805 Japan\HX90\DSC00249.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20180718-0805 Japan_HX90_334mm_DSC00249.JPG
+35mm Equiv:  334.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20180718-0805 Japan\HX90\DSC00251.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20180718-0805 Japan_HX90_377mm_DSC00251.JPG
+35mm Equiv:  377.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20180718-0805 Japan\HX90\DSC00255.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20180718-0805 Japan_HX90_585mm_DSC00255.JPG
+35mm Equiv:  585.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20180718-0805 Japan\HX90\DSC00329.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20180718-0805 Japan_HX90_439mm_DSC00329.JPG
+35mm Equiv:  439.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20180718-0805 Japan\HX90\DSC00372.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20180718-0805 Japan_HX90_439mm_DSC00372.JPG
+35mm Equiv:  439.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20180718-0805 Japan\HX90\DSC00399.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20180718-0805 Japan_HX90_702mm_DSC00399.JPG
+35mm Equiv:  702.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20180718-0805 Japan\Japan Selected\HX 90 selected\DSC00399.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20180718-0805 Japan_Japan Selected_HX 90 selected_702mm_DSC00399.JPG
+35mm Equiv:  702.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20181221-26 BeLux\DSC00896.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20181221-26 BeLux_300mm_DSC00896.JPG
+35mm Equiv:  300.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20181221-26 BeLux\DSC00902.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20181221-26 BeLux_556mm_DSC00902.JPG
+35mm Equiv:  556.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20181221-26 BeLux\DSC00903.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20181221-26 BeLux_556mm_DSC00903.JPG
+35mm Equiv:  556.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20181221-26 BeLux\DSC00905.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20181221-26 BeLux_355mm_DSC00905.JPG
+35mm Equiv:  355.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20181221-26 BeLux\DSC00929.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20181221-26 BeLux_528mm_DSC00929.JPG
+35mm Equiv:  528.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20181221-26 BeLux\DSC00932.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20181221-26 BeLux_542mm_DSC00932.JPG
+35mm Equiv:  542.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20181221-26 BeLux\DSC00942.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20181221-26 BeLux_720mm_DSC00942.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20181221-26 BeLux\DSC00943.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20181221-26 BeLux_720mm_DSC00943.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20181221-26 BeLux\DSC00996.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20181221-26 BeLux_600mm_DSC00996.JPG
+35mm Equiv:  600.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20181221-26 BeLux\DSC00997.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20181221-26 BeLux_600mm_DSC00997.JPG
+35mm Equiv:  600.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20181221-26 BeLux\DSC01000.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20181221-26 BeLux_618mm_DSC01000.JPG
+35mm Equiv:  618.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20181221-26 BeLux\DSC01001.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20181221-26 BeLux_571mm_DSC01001.JPG
+35mm Equiv:  571.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20190418-22 CZ and SK\DSC01109.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20190418-22 CZ and SK_720mm_DSC01109.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20190418-22 CZ and SK\DSC01113.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20190418-22 CZ and SK_500mm_DSC01113.JPG
+35mm Equiv:  500.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20190418-22 CZ and SK\DSC01220.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20190418-22 CZ and SK_720mm_DSC01220.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20190418-22 CZ and SK\DSC01254.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20190418-22 CZ and SK_344mm_DSC01254.JPG
+35mm Equiv:  344.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20190418-22 CZ and SK\DSC01327.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20190418-22 CZ and SK_334mm_DSC01327.JPG
+35mm Equiv:  334.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20190613-16 London\DSC01355.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20190613-16 London_571mm_DSC01355.JPG
+35mm Equiv:  571.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20190613-16 London\DSC01406.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20190613-16 London_355mm_DSC01406.JPG
+35mm Equiv:  355.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20191009-16 South Spain\DSC01644.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20191009-16 South Spain_413mm_DSC01644.JPG
+35mm Equiv:  413.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20191009-16 South Spain\DSC02030.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20191009-16 South Spain_325mm_DSC02030.JPG
+35mm Equiv:  325.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20191009-16 South Spain\DSC02053.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20191009-16 South Spain_377mm_DSC02053.JPG
+35mm Equiv:  377.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20191009-16 South Spain\DSC02071.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20191009-16 South Spain_720mm_DSC02071.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20191009-16 South Spain\DSC02076.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20191009-16 South Spain_688mm_DSC02076.JPG
+35mm Equiv:  688.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20191009-16 South Spain\DSC02077.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20191009-16 South Spain_636mm_DSC02077.JPG
+35mm Equiv:  636.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20191009-16 South Spain\DSC02078.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20191009-16 South Spain_636mm_DSC02078.JPG
+35mm Equiv:  636.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20191009-16 South Spain\DSC02080.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20191009-16 South Spain_439mm_DSC02080.JPG
+35mm Equiv:  439.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20191009-16 South Spain\DSC02081.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20191009-16 South Spain_720mm_DSC02081.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20191009-16 South Spain\DSC02084.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20191009-16 South Spain_654mm_DSC02084.JPG
+35mm Equiv:  654.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20191009-16 South Spain\DSC02087.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20191009-16 South Spain_400mm_DSC02087.JPG
+35mm Equiv:  400.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20191009-16 South Spain\DSC02088.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20191009-16 South Spain_720mm_DSC02088.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20191009-16 South Spain\DSC02095.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20191009-16 South Spain_720mm_DSC02095.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20191009-16 South Spain\DSC02097.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20191009-16 South Spain_316mm_DSC02097.JPG
+35mm Equiv:  316.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20191009-16 South Spain\P30\IMG_20191009_183106.jpg
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20191009-16 South Spain_P30_505mm_IMG_20191009_183106.jpg
+35mm Equiv:  505.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20191225-29 Wien\DSC02206.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20191225-29 Wien_377mm_DSC02206.JPG
+35mm Equiv:  377.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20200710-15 Trolltunga Vestland\DSC02293.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20200710-15 Trolltunga Vestland_718mm_DSC02293.JPG
+35mm Equiv:  718.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20200710-15 Trolltunga Vestland\DSC02294.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20200710-15 Trolltunga Vestland_720mm_DSC02294.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20200710-15 Trolltunga Vestland\DSC02318.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20200710-15 Trolltunga Vestland_453mm_DSC02318.JPG
+35mm Equiv:  453.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20200710-15 Trolltunga Vestland\DSC02332.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20200710-15 Trolltunga Vestland_720mm_DSC02332.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20200710-15 Trolltunga Vestland\DSC02333.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20200710-15 Trolltunga Vestland_556mm_DSC02333.JPG
+35mm Equiv:  556.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20200710-15 Trolltunga Vestland\DSC02334.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20200710-15 Trolltunga Vestland_556mm_DSC02334.JPG
+35mm Equiv:  556.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20221223-30 Madrid Alicante\DSC02379.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20221223-30 Madrid Alicante_556mm_DSC02379.JPG
+35mm Equiv:  556.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20221223-30 Madrid Alicante\DSC02420.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20221223-30 Madrid Alicante_377mm_DSC02420.JPG
+35mm Equiv:  377.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20221223-30 Madrid Alicante\DSC02433.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20221223-30 Madrid Alicante_718mm_DSC02433.JPG
+35mm Equiv:  718.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20221223-30 Madrid Alicante\DSC02442.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20221223-30 Madrid Alicante_308mm_DSC02442.JPG
+35mm Equiv:  308.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20221223-30 Madrid Alicante\DSC02443.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20221223-30 Madrid Alicante_308mm_DSC02443.JPG
+35mm Equiv:  308.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20221223-30 Madrid Alicante\DSC02445.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20221223-30 Madrid Alicante_300mm_DSC02445.JPG
+35mm Equiv:  300.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20221223-30 Madrid Alicante\DSC02452.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20221223-30 Madrid Alicante_528mm_DSC02452.JPG
+35mm Equiv:  528.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20221223-30 Madrid Alicante\DSC02453.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20221223-30 Madrid Alicante_528mm_DSC02453.JPG
+35mm Equiv:  528.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2023 NOBA\20240821-24 Beograd\HX30\DSC02564.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20240821-24 Beograd_HX30_316mm_DSC02564.JPG
+35mm Equiv:  316.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2023 NOBA\20240821-24 Beograd\HX30\DSC02565.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20240821-24 Beograd_HX30_316mm_DSC02565.JPG
+35mm Equiv:  316.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2023 NOBA\20240821-24 Beograd\HX30\DSC02572.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20240821-24 Beograd_HX30_334mm_DSC02572.JPG
+35mm Equiv:  334.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2023 NOBA\20240821-24 Beograd\HX30\DSC02573.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20240821-24 Beograd_HX30_334mm_DSC02573.JPG
+35mm Equiv:  334.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2023 NOBA\20240821-24 Beograd\HX30\DSC02574.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20240821-24 Beograd_HX30_334mm_DSC02574.JPG
+35mm Equiv:  334.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2023 NOBA\20240821-24 Beograd\HX30\DSC02581.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20240821-24 Beograd_HX30_711mm_DSC02581.JPG
+35mm Equiv:  711.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2023 NOBA\20240821-24 Beograd\HX30\DSC02583.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20240821-24 Beograd_HX30_636mm_DSC02583.JPG
+35mm Equiv:  636.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2023 NOBA\20240821-24 Beograd\HX30\DSC02584.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20240821-24 Beograd_HX30_636mm_DSC02584.JPG
+35mm Equiv:  636.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2023 NOBA\20240821-24 Beograd\HX30\DSC02585.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20240821-24 Beograd_HX30_636mm_DSC02585.JPG
+35mm Equiv:  636.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2023 NOBA\20240821-24 Beograd\HX30\DSC02586.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20240821-24 Beograd_HX30_636mm_DSC02586.JPG
+35mm Equiv:  636.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2023 NOBA\20240821-24 Beograd\HX30\DSC02587.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20240821-24 Beograd_HX30_636mm_DSC02587.JPG
+35mm Equiv:  636.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2023 NOBA\20240821-24 Beograd\HX30\DSC02592.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20240821-24 Beograd_HX30_413mm_DSC02592.JPG
+35mm Equiv:  413.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2023 NOBA\20240821-24 Beograd\HX30\DSC02593.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20240821-24 Beograd_HX30_413mm_DSC02593.JPG
+35mm Equiv:  413.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2023 NOBA\20240821-24 Beograd\HX30\DSC02601.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20240821-24 Beograd_HX30_720mm_DSC02601.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2023 NOBA\20240821-24 Beograd\HX30\DSC02607.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20240821-24 Beograd_HX30_542mm_DSC02607.JPG
+35mm Equiv:  542.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2023 NOBA\20240821-24 Beograd\HX30\DSC02608.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20240821-24 Beograd_HX30_720mm_DSC02608.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2023 NOBA\20240821-24 Beograd\HX30\DSC02610.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20240821-24 Beograd_HX30_711mm_DSC02610.JPG
+35mm Equiv:  711.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2023 NOBA\20240821-24 Beograd\HX30\DSC02612.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20240821-24 Beograd_HX30_720mm_DSC02612.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2023 NOBA\20240821-24 Beograd\HX30\DSC02614.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20240821-24 Beograd_HX30_720mm_DSC02614.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2023 NOBA\20241009-13 Japan\HX90\DSC02647.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20241009-13 Japan_HX90_717mm_DSC02647.JPG
+35mm Equiv:  717.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2023 NOBA\20250426-29 Ravenna San Marino\DSC02911.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20250426-29 Ravenna San Marino_500mm_DSC02911.JPG
+35mm Equiv:  500.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2023 NOBA\20250426-29 Ravenna San Marino\DSC02912.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20250426-29 Ravenna San Marino_468mm_DSC02912.JPG
+35mm Equiv:  468.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2023 NOBA\20250426-29 Ravenna San Marino\DSC02913.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20250426-29 Ravenna San Marino_720mm_DSC02913.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2023 NOBA\20250426-29 Ravenna San Marino\DSC02914.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20250426-29 Ravenna San Marino_720mm_DSC02914.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2023 NOBA\20250426-29 Ravenna San Marino\DSC02931.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20250426-29 Ravenna San Marino_720mm_DSC02931.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2023 NOBA\20250426-29 Ravenna San Marino\DSC02935.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20250426-29 Ravenna San Marino_316mm_DSC02935.JPG
+35mm Equiv:  316.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2023 NOBA\20250426-29 Ravenna San Marino\DSC02936.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20250426-29 Ravenna San Marino_316mm_DSC02936.JPG
+35mm Equiv:  316.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2023 NOBA\20251025-30 Hellas\DSC03000.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20251025-30 Hellas_720mm_DSC03000.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2023 NOBA\20251025-30 Hellas\DSC03022.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20251025-30 Hellas_720mm_DSC03022.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2023 NOBA\20251025-30 Hellas\DSC03026.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20251025-30 Hellas_308mm_DSC03026.JPG
+35mm Equiv:  308.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2023 NOBA\20251025-30 Hellas\DSC03030.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20251025-30 Hellas_702mm_DSC03030.JPG
+35mm Equiv:  702.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2023 NOBA\20251025-30 Hellas\DSC03036.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20251025-30 Hellas_300mm_DSC03036.JPG
+35mm Equiv:  300.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2023 NOBA\20251025-30 Hellas\DSC03095.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20251025-30 Hellas_720mm_DSC03095.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2023 NOBA\20251025-30 Hellas\DSC03241.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20251025-30 Hellas_720mm_DSC03241.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2023 NOBA\20251025-30 Hellas\DSC03252.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20251025-30 Hellas_585mm_DSC03252.JPG
+35mm Equiv:  585.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2023 NOBA\20251025-30 Hellas\DSC03268.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20251025-30 Hellas_528mm_DSC03268.JPG
+35mm Equiv:  528.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2023 NOBA\20251025-30 Hellas\DSC03290.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20251025-30 Hellas_514mm_DSC03290.JPG
+35mm Equiv:  514.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2023 NOBA\20251025-30 Hellas\DSC03306.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20251025-30 Hellas_654mm_DSC03306.JPG
+35mm Equiv:  654.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2023 NOBA\20251025-30 Hellas\DSC03340.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20251025-30 Hellas_688mm_DSC03340.JPG
+35mm Equiv:  688.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2023 NOBA\20251025-30 Hellas\DSC03341.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20251025-30 Hellas_688mm_DSC03341.JPG
+35mm Equiv:  688.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2023 NOBA\20251025-30 Hellas\DSC03344.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20251025-30 Hellas_556mm_DSC03344.JPG
+35mm Equiv:  556.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2023 NOBA\20251025-30 Hellas\DSC03354.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20251025-30 Hellas_600mm_DSC03354.JPG
+35mm Equiv:  600.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2023 NOBA\20251025-30 Hellas\DSC03355.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20251025-30 Hellas_600mm_DSC03355.JPG
+35mm Equiv:  600.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2023 NOBA\20251025-30 Hellas\DSC03358.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20251025-30 Hellas_484mm_DSC03358.JPG
+35mm Equiv:  484.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2023 NOBA\20251025-30 Hellas\DSC03558.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20251025-30 Hellas_720mm_DSC03558.JPG
+35mm Equiv:  720.0mm
+
+Source:      F:\PRIVAT W BACKUP\Photos\2023 NOBA\20251025-30 Hellas\DSC03559.JPG
+Destination: D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm\20251025-30 Hellas_389mm_DSC03559.JPG
+35mm Equiv:  389.0mm
+
+
+================================================================================
+END OF LOG
+================================================================================

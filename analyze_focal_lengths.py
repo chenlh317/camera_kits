@@ -42,7 +42,7 @@ class Tee:
 
 
 def get_exif_data(image_path: Path) -> Optional[Dict[str, Any]]:
-    """Extract EXIF data from an image file."""
+    """Extract EXIF data from an image file, including sub-IFD data."""
     try:
         with Image.open(image_path) as image:
             # Try the public getexif() method first (more reliable across formats)
@@ -52,6 +52,20 @@ def get_exif_data(image_path: Path) -> Optional[Dict[str, Any]]:
                 for tag_id, value in exif_data.items():
                     tag = TAGS.get(tag_id, tag_id)
                     exif[tag] = value
+
+                # Also get EXIF sub-IFD data (contains FocalLength, FocalLengthIn35mmFilm, etc.)
+                try:
+                    from PIL.ExifTags import IFD
+
+                    exif_ifd = exif_data.get_ifd(IFD.Exif)
+                    if exif_ifd:
+                        for tag_id, value in exif_ifd.items():
+                            tag = TAGS.get(tag_id, tag_id)
+                            exif[tag] = value
+                except (ImportError, AttributeError):
+                    # Older Pillow versions may not have IFD
+                    pass
+
                 return exif if exif else None
 
             # Fallback to private _getexif() for older PIL/Pillow versions
@@ -214,11 +228,15 @@ def process_single_folder(folder: Path) -> Optional[pd.DataFrame]:
 
     # Create DataFrame
     if not data:
-        print("\nNo photos with 35mm equivalent focal length data found in this folder.")
+        print(
+            "\nNo photos with 35mm equivalent focal length data found in this folder."
+        )
         if files_without_data:
             print(f"Files without EXIF/focal length data: {len(files_without_data)}")
         if files_without_35mm_equiv:
-            print(f"Files without 35mm equivalent data: {len(files_without_35mm_equiv)}")
+            print(
+                f"Files without 35mm equivalent data: {len(files_without_35mm_equiv)}"
+            )
         return None
 
     df = pd.DataFrame(data)
@@ -264,7 +282,9 @@ def process_single_folder(folder: Path) -> Optional[pd.DataFrame]:
         if files_without_data:
             print(f"\nFiles without EXIF/focal length data: {len(files_without_data)}")
         if files_without_35mm_equiv:
-            print(f"Files without 35mm equivalent data (skipped): {len(files_without_35mm_equiv)}")
+            print(
+                f"Files without 35mm equivalent data (skipped): {len(files_without_35mm_equiv)}"
+            )
 
     return df
 
@@ -360,9 +380,7 @@ def process_folder(folder_path: str) -> None:
 
         # Frequency distribution for 35mm equivalent
         freq = combined_df["35mm Equivalent (mm)"].value_counts().sort_index()
-        freq_df = pd.DataFrame(
-            {"Focal Length (mm)": freq.index, "Count": freq.values}
-        )
+        freq_df = pd.DataFrame({"Focal Length (mm)": freq.index, "Count": freq.values})
         # Add percentage share and cumulative percentage
         total_count = freq_df["Count"].sum()
         freq_df["Percentage (%)"] = (freq_df["Count"] / total_count * 100).round(2)
@@ -426,7 +444,9 @@ if __name__ == "__main__":
     crop_factors_path = script_dir / "camera_crop_factors.yaml"
     _crop_factors = load_crop_factors(crop_factors_path)
     if _crop_factors:
-        print(f"Loaded crop factors for {len(_crop_factors.get('cameras', {}))} cameras")
+        print(
+            f"Loaded crop factors for {len(_crop_factors.get('cameras', {}))} cameras"
+        )
     else:
         print("No crop factors file found, will only use direct EXIF 35mm equivalent")
 
@@ -434,7 +454,7 @@ if __name__ == "__main__":
     with open(folders_file, "r", encoding="utf-8") as f:
         config = yaml.safe_load(f)
 
-    folder_paths = config.get('folders', [])
+    folder_paths = config.get("folders", [])
 
     if not folder_paths:
         print(f"Error: No folder paths found in {folders_file}")
