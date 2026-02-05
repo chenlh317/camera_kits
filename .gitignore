@@ -207,3 +207,6 @@ marimo/_lsp/
 __marimo__/
 
 _build/
+
+# Filtered photos output folders
+filtered_photos_*/
