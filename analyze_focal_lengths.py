@@ -44,19 +44,59 @@ class Tee:
 def get_exif_data(image_path: Path) -> Optional[Dict[str, Any]]:
     """Extract EXIF data from an image file."""
     try:
-        image: Image.Image = Image.open(image_path)
-        exif_data = image._getexif()
-        if exif_data is None:
-            return None
+        with Image.open(image_path) as image:
+            # Try the public getexif() method first (more reliable across formats)
+            exif_data = image.getexif()
+            if exif_data:
+                exif = {}
+                for tag_id, value in exif_data.items():
+                    tag = TAGS.get(tag_id, tag_id)
+                    exif[tag] = value
+                return exif if exif else None
 
-        exif = {}
-        for tag_id, value in exif_data.items():
-            tag = TAGS.get(tag_id, tag_id)
-            exif[tag] = value
-        return exif
+            # Fallback to private _getexif() for older PIL/Pillow versions
+            exif_data = image._getexif()
+            if exif_data is None:
+                return None
+
+            exif = {}
+            for tag_id, value in exif_data.items():
+                tag = TAGS.get(tag_id, tag_id)
+                exif[tag] = value
+            return exif if exif else None
     except Exception as e:
         print(f"Error reading {image_path}: {e}")
         return None
+
+
+# Global variable to hold crop factors (loaded once)
+_crop_factors: Optional[Dict[str, Any]] = None
+
+
+def load_crop_factors(yaml_path: Path) -> Optional[Dict[str, Any]]:
+    """
+    Load camera crop factors from YAML file.
+
+    Args:
+        yaml_path: Path to the camera_crop_factors.yaml file
+
+    Returns:
+        Dictionary with crop factors or None if file not found
+    """
+    if not yaml_path.exists():
+        return None
+
+    try:
+        with open(yaml_path, "r", encoding="utf-8") as f:
+            return yaml.safe_load(f)
+    except Exception as e:
+        print(f"Warning: Could not load crop factors: {e}")
+        return None
+
+
+def get_crop_factors() -> Optional[Dict[str, Any]]:
+    """Get the globally loaded crop factors."""
+    return _crop_factors
 
 
 def calculate_35mm_equivalent(
@@ -65,6 +105,7 @@ def calculate_35mm_equivalent(
 ) -> Optional[float]:
     """
     Calculate 35mm equivalent focal length.
+    Falls back to calculating from actual focal length and crop factor if available.
 
     Args:
         focal_length: Actual focal length in mm
@@ -77,9 +118,33 @@ def calculate_35mm_equivalent(
     if "FocalLengthIn35mmFilm" in exif and exif["FocalLengthIn35mmFilm"]:
         return float(exif["FocalLengthIn35mmFilm"])
 
-    # If not available, try to calculate from crop factor
-    # This requires sensor size information which may not always be available
-    # For now, return the actual focal length if we can't determine equivalent
+    # Fallback: calculate from actual focal length and crop factor
+    crop_factors = get_crop_factors()
+    if crop_factors is None:
+        return None
+
+    # Get camera make and model from EXIF
+    make = exif.get("Make", "").strip() if exif.get("Make") else ""
+    model = exif.get("Model", "").strip() if exif.get("Model") else ""
+
+    if not model:
+        return None
+
+    # Look up crop factor by camera key (Make + Model)
+    camera_key = f"{make} {model}".strip()
+
+    # Search in crop_factors
+    if "cameras" in crop_factors:
+        for key, camera_info in crop_factors["cameras"].items():
+            # Match by key or by make+model combination
+            if key == camera_key or (
+                camera_info.get("make", "") == make
+                and camera_info.get("model", "") == model
+            ):
+                crop_factor = camera_info.get("crop_factor")
+                if crop_factor:
+                    return focal_length * float(crop_factor)
+
     return None
 
 
@@ -307,20 +372,19 @@ def process_folder(folder_path: str) -> None:
         print(freq_df.to_string(index=False))
 
 
-def main(folder_path: str) -> None:
+def main(folder_path: str, output_dir: Path) -> None:
     """
     Main entry point.
 
     Args:
         folder_path: Path to the folder containing JPG photos
+        output_dir: Directory to save output files
     """
-    # Generate output filename based on folder name and timestamp
+    # Generate output filename based on folder name
     folder_name = Path(folder_path).name or "root"
-    timestamp = datetime.now().strftime("%Y-%m-%d_%H.%M.%S")
-    output_filename = f"{folder_name}_{timestamp}.txt"
-    # Save to the same folder as this script
-    script_dir = Path(__file__).parent
-    output_path = Path.joinpath(script_dir, "focal_length_analysis", output_filename)
+    output_filename = f"{folder_name}.txt"
+    # Save to the output directory
+    output_path = output_dir / output_filename
 
     # If file already exists, add a counter to keep both files
     if output_path.exists():
@@ -329,7 +393,7 @@ def main(folder_path: str) -> None:
         extension: str = output_filename.rsplit(".", 1)[1]  # Get extension
         while output_path.exists():
             output_filename = f"{base_name}_{counter}.{extension}"
-            output_path = script_dir / output_filename
+            output_path = output_dir / output_filename
             counter += 1
 
     # Open file and redirect output to both console and file
@@ -358,6 +422,14 @@ if __name__ == "__main__":
         print(f"Error: {folders_file} not found!")
         sys.exit(1)
 
+    # Load camera crop factors for fallback calculation
+    crop_factors_path = script_dir / "camera_crop_factors.yaml"
+    _crop_factors = load_crop_factors(crop_factors_path)
+    if _crop_factors:
+        print(f"Loaded crop factors for {len(_crop_factors.get('cameras', {}))} cameras")
+    else:
+        print("No crop factors file found, will only use direct EXIF 35mm equivalent")
+
     # Read all folder paths from the YAML file
     with open(folders_file, "r", encoding="utf-8") as f:
         config = yaml.safe_load(f)
@@ -370,9 +442,15 @@ if __name__ == "__main__":
 
     print(f"Found {len(folder_paths)} folder(s) to process")
 
+    # Create output directory with timestamp
+    run_timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    output_dir = script_dir / f"focal_length_analysis_{run_timestamp}"
+    output_dir.mkdir(parents=True, exist_ok=True)
+    print(f"Output directory: {output_dir}")
+
     # Process each folder
     for i, folder_path in enumerate(folder_paths, 1):
         print(f"\n{'=' * 80}")
         print(f"Processing folder {i}/{len(folder_paths)}: {folder_path}")
         print(f"{'=' * 80}")
-        main(folder_path)
+        main(folder_path, output_dir)
