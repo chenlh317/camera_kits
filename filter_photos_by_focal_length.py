@@ -410,8 +410,8 @@ def main(min_focal: int, max_focal: int, config: str = "photo_folders.yaml"):
     output_folder = create_output_folder(project_root, min_focal, max_focal)
     print(f"\nOutput folder: {output_folder}")
 
-    # Create log file path
-    log_file = output_folder / "filter_log.txt"
+    # Create log file path (same name as folder)
+    log_file = output_folder.parent / f"{output_folder.name}.txt"
 
     # Process photos
     total, with_exif, with_35mm, copied = process_photos(
@@ -443,7 +443,7 @@ def main(min_focal: int, max_focal: int, config: str = "photo_folders.yaml"):
 if __name__ == "__main__":
 
     main(
-        min_focal=200,
-        max_focal=1000,
+        min_focal=100,
+        max_focal=199,
         config="photo_folders.yaml",
     )
