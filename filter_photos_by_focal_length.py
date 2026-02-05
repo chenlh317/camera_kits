@@ -530,11 +530,16 @@ def main(min_focal: int, max_focal: int, config: str = "photo_folders.yaml"):
 
 if __name__ == "__main__":
 
-    min_focal_length, max_focal_length = 105, 299  # check if worth a good 70-200mm lens
-    # min_focal_length, max_focal_length = 300, 1000  # check if HX90 is good for 200-1000mm range
-
+    # check if worth a good 70-200mm lens
     main(
-        min_focal=min_focal_length,
-        max_focal=max_focal_length,
+        min_focal=105,
+        max_focal=299,
+        config="photo_folders.yaml",
+    )
+
+    # check if HX90 is good for 200mm+ range
+    main(
+        min_focal=300,
+        max_focal=1000,
         config="photo_folders.yaml",
     )
