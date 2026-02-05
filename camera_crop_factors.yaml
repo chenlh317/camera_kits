@@ -1,0 +1,984 @@
+description: Camera crop factors extracted from photo EXIF data
+generated: extract_camera_crop_factors.py
+note: Crop factors manually verified and completed on 2026-02-05
+cameras:
+  Apple iPad 2:
+    make: Apple
+    model: iPad 2
+    photo_count: 2
+    crop_factor: 9.6
+    sensor_size: 1/3.2 inch
+    source: manual_lookup
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20131027-1109 Tunisia
+    friendly_name: iPad 2
+  Apple iPhone 4:
+    make: Apple
+    model: iPhone 4
+    photo_count: 468
+    crop_factor: 7.61
+    sensor_size: 1/3.2 inch
+    source: local_database
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\05 iPhone 4 - 201201-201302
+    - F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120201-15 Portugal and Germany
+    friendly_name: iPhone 4
+  Apple iPhone 4S:
+    make: Apple
+    model: iPhone 4S
+    photo_count: 1376
+    crop_factor: 7.61
+    sensor_size: 1/3.2 inch
+    source: local_database
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\06 iPhone 4S - 201303-201411
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130621-24 Preikestolen og Kjerag
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130721-26 Czech Republic
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20131026 Utrecht and Amsterdam
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20131027-1109 Tunisia
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20140413-16 Briksdalbreen
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20140425-27 Tromsø
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20140619-22 Berlin Potzdam
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20140805-17 Turkey
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20141011-13 Oslo avec le Vent
+    friendly_name: iPhone 4S
+  Apple iPhone 5:
+    make: Apple
+    model: iPhone 5
+    photo_count: 740
+    crop_factor: 7.61
+    sensor_size: 1/3.2 inch
+    source: local_database
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\06 iPhone 4S - 201303-201411
+    - F:\PRIVAT W BACKUP\Photos\07 iPhone 5 - 201411-201510
+    - F:\PRIVAT W BACKUP\Photos\08 iPhone 6S - 201510-201907
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130517 Grunnlovsdag
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20141228-20150109 SAGA
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20151001-04 Lofoten
+    friendly_name: iPhone 5
+  Apple iPhone 5c:
+    make: Apple
+    model: iPhone 5c
+    photo_count: 234
+    crop_factor: 7.61
+    sensor_size: 1/3.2 inch
+    source: local_database_partial
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\07 iPhone 5 - 201411-201510
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20141228-20150109 SAGA
+    matched_entry: Apple iPhone 5
+    friendly_name: iPhone 5c
+  Apple iPhone 6:
+    make: Apple
+    model: iPhone 6
+    photo_count: 2
+    crop_factor: 7.21
+    sensor_size: 1/3 inch
+    source: local_database
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\08 iPhone 6S - 201510-201907
+    friendly_name: iPhone 6
+  Apple iPhone 6 Plus:
+    make: Apple
+    model: iPhone 6 Plus
+    photo_count: 312
+    crop_factor: 7.21
+    sensor_size: 1/3 inch
+    source: local_database
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\08 iPhone 6S - 201510-201907
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20151001-04 Lofoten
+    friendly_name: iPhone 6 Plus
+  Apple iPhone 6s:
+    make: Apple
+    model: iPhone 6s
+    photo_count: 6066
+    crop_factor: 7.21
+    sensor_size: 1/3 inch
+    source: local_database
+    folders:
+    - F:\PRIVAT W BACKUP\Musée du Louvre
+    - F:\PRIVAT W BACKUP\Photos\07 iPhone 5 - 201411-201510
+    - F:\PRIVAT W BACKUP\Photos\08 iPhone 6S - 201510-201907
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20151119-1206 Paris
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20160617-28 Baltics
+    - F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722
+    - F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20171223-26 Bergen
+    - F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20180107-10 Alicante Valencia
+    - F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20180718-0805 Japan
+    - F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20181221-26 BeLux
+    - F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20190418-22 CZ and SK
+    - F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20190613-16 London
+    friendly_name: iPhone 6s
+  Apple iPhone 7:
+    make: Apple
+    model: iPhone 7
+    photo_count: 396
+    crop_factor: 5.41
+    sensor_size: 1/2.6 inch
+    source: local_database
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\08 iPhone 6S - 201510-201907
+    - F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722
+    friendly_name: iPhone 7
+  Apple iPhone 7 Plus:
+    make: Apple
+    model: iPhone 7 Plus
+    photo_count: 40
+    crop_factor: 5.41
+    sensor_size: 1/2.6 inch
+    source: local_database
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\08 iPhone 6S - 201510-201907
+    - F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20171223-26 Bergen
+    friendly_name: iPhone 7 Plus
+  Apple iPhone 8 Plus:
+    make: Apple
+    model: iPhone 8 Plus
+    photo_count: 4
+    crop_factor: 5.41
+    sensor_size: 1/2.6 inch
+    source: local_database
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\08 iPhone 6S - 201510-201907
+    friendly_name: iPhone 8 Plus
+  Apple iPhone X:
+    make: Apple
+    model: iPhone X
+    photo_count: 4
+    crop_factor: 5.41
+    sensor_size: 1/2.6 inch
+    source: local_database
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\08 iPhone 6S - 201510-201907
+    friendly_name: iPhone X
+  Apple iPhone XS Max:
+    make: Apple
+    model: iPhone XS Max
+    photo_count: 6
+    crop_factor: 5.41
+    sensor_size: 1/2.55 inch
+    source: manual_lookup
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\08 iPhone 6S - 201510-201907
+    friendly_name: iPhone XS Max
+  CASIO COMPUTER CO.,LTD EX-Z4:
+    make: CASIO COMPUTER CO.,LTD
+    model: EX-Z4
+    photo_count: 208
+    crop_factor: 7.17
+    sensor_size: 1/2.5 inch
+    source: manual_lookup
+    notes: Casio Exilim EX-Z4, 1/2.5" CCD sensor
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\2002 师大附中高中\20040328清华之行
+    - F:\PRIVAT W BACKUP\Photos\2002 师大附中高中\20040508十渡春游
+    - F:\PRIVAT W BACKUP\Photos\2002 师大附中高中\20050525 毕业合影精选
+    - F:\PRIVAT W BACKUP\Photos\2005-1 高中毕业\20050721-23 大连之旅
+    friendly_name: Casio Exilim EX-Z4
+  Canon EOS 1100D:
+    make: Canon
+    model: Canon EOS 1100D
+    photo_count: 10
+    crop_factor: 1.6
+    sensor_size: APS-C (22.2 x 14.7 mm)
+    source: manual_lookup
+    notes: Canon Rebel T3 in US market
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\06 iPhone 4S - 201303-201411
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130607-13 OSL STO Halden
+    friendly_name: Canon EOS 1100D
+  Canon EOS 550D:
+    make: Canon
+    model: Canon EOS 550D
+    photo_count: 410
+    crop_factor: 1.6
+    sensor_size: APS-C (22.3 x 14.9 mm)
+    source: manual_lookup
+    notes: Canon Rebel T2i in US market
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20140413-16 Briksdalbreen
+    friendly_name: Canon EOS 550D
+  Canon EOS 5D Mark II:
+    make: Canon
+    model: Canon EOS 5D Mark II
+    photo_count: 314
+    crop_factor: 1.0
+    sensor_size: Full Frame (36 x 24 mm)
+    source: local_database_partial
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\08 iPhone 6S - 201510-201907
+    - F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120625 送别李恩
+    matched_entry: Canon EOS 5D
+    friendly_name: Canon EOS 5D Mark II
+  Canon EOS 5D Mark III:
+    make: Canon
+    model: Canon EOS 5D Mark III
+    photo_count: 2
+    crop_factor: 1.0
+    sensor_size: Full Frame (36 x 24 mm)
+    source: local_database_partial
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\08 iPhone 6S - 201510-201907
+    matched_entry: Canon EOS 5D
+    friendly_name: Canon EOS 5D Mark III
+  Canon EOS Kiss X7:
+    make: Canon
+    model: Canon EOS Kiss X7
+    photo_count: 58
+    crop_factor: 1.6
+    sensor_size: APS-C (22.3 x 14.9 mm)
+    source: manual_lookup
+    notes: Canon EOS 100D/Rebel SL1 in other markets
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20180718-0805 Japan
+    friendly_name: Canon EOS Kiss X7
+  Canon PowerShot A70:
+    make: Canon
+    model: Canon PowerShot A70
+    photo_count: 968
+    crop_factor: 7.21
+    sensor_size: 1/2.7 inch
+    source: manual_lookup
+    notes: 3.2MP CCD sensor
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\01 Samsung E488 - 200611-200712
+    - F:\PRIVAT W BACKUP\Photos\2002 师大附中高中\20040328清华之行
+    - F:\PRIVAT W BACKUP\Photos\2002 师大附中高中\20040508十渡春游
+    - F:\PRIVAT W BACKUP\Photos\2002 师大附中高中\20050525 毕业合影精选
+    - F:\PRIVAT W BACKUP\Photos\2005-1 高中毕业\20050727-0803 上海之旅
+    - F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20060619-25 鄂西之旅\20060619-25 鄂西之旅 Chen LH
+    - F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20070727-0808 SSLP\Calvin_Chen
+    - F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20070901-10 江南之行
+    friendly_name: Canon PowerShot A70
+  Canon PowerShot A80:
+    make: Canon
+    model: Canon PowerShot A80
+    photo_count: 22
+    crop_factor: 4.84
+    sensor_size: 1/1.8 inch
+    source: manual_lookup
+    notes: 4MP CCD sensor
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\2002 师大附中高中\20040328清华之行
+    friendly_name: Canon PowerShot A80
+  Canon PowerShot G1 X:
+    make: Canon
+    model: Canon PowerShot G1 X
+    photo_count: 376
+    crop_factor: 1.85
+    sensor_size: 1.5 inch (18.7 x 14 mm)
+    source: manual_lookup
+    notes: Large sensor compact camera
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120907-10 黄山 景德镇
+    friendly_name: Canon PowerShot G1 X
+  Canon PowerShot SD600:
+    make: Canon
+    model: Canon PowerShot SD600
+    photo_count: 16
+    crop_factor: 7.17
+    sensor_size: 1/2.5 inch
+    source: manual_lookup
+    notes: Digital ELPH / IXUS 60
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090119-0217 Across the Dream
+    friendly_name: Canon PowerShot SD600
+  Canon PowerShot SD870 IS:
+    make: Canon
+    model: Canon PowerShot SD870 IS
+    photo_count: 20
+    crop_factor: 7.17
+    sensor_size: 1/2.5 inch
+    source: manual_lookup
+    notes: Digital ELPH / IXUS 860 IS
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090119-0217 Across the Dream
+    friendly_name: Canon PowerShot SD870 IS
+  FUJIFILM FinePix F401:
+    make: FUJIFILM
+    model: FinePix F401
+    photo_count: 8
+    crop_factor: 7.21
+    sensor_size: 1/2.7 inch Super CCD
+    source: manual_lookup
+    notes: 2.1MP Super CCD (interpolated to 4MP)
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\2002 师大附中高中\20040328清华之行
+    friendly_name: Fujifilm FinePix F401
+  FUJIFILM FinePix JX350:
+    make: FUJIFILM
+    model: FinePix JX350
+    photo_count: 6
+    crop_factor: 5.62
+    sensor_size: 1/2.3 inch
+    source: manual_lookup
+    notes: 16MP CCD sensor
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20131027-1109 Tunisia
+    friendly_name: Fujifilm FinePix JX350
+  HUAWEI ALP-AL00:
+    make: HUAWEI
+    model: ALP-AL00
+    photo_count: 2
+    crop_factor: 4.59
+    sensor_size: 1/1.7 inch (main)
+    source: manual_lookup
+    notes: Huawei Mate 10 Pro
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\08 iPhone 6S - 201510-201907
+    friendly_name: Huawei Mate 10 Pro
+  HUAWEI ELE-AL00:
+    make: HUAWEI
+    model: ELE-AL00
+    photo_count: 3330
+    crop_factor: 4.59
+    sensor_size: 1/1.7 inch (main), 40MP
+    source: manual_lookup
+    notes: Huawei P30 (China version)
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\08 iPhone 6S - 201510-201907
+    - F:\PRIVAT W BACKUP\Photos\09 Huawei P30 - 201907-202301
+    - F:\PRIVAT W BACKUP\Photos\10 Samsung S22 - 202212-202502
+    - F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20191009-16 South Spain
+    - F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20191225-29 Wien
+    - F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20200710-15 Trolltunga Vestland
+    - F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20210309-0606 Sveits
+    - F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20210530-0602 Roma
+    - F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20221223-30 Madrid Alicante
+    friendly_name: Huawei P30
+  HUAWEI ELS-AN00:
+    make: HUAWEI
+    model: ELS-AN00
+    photo_count: 506
+    crop_factor: 3.49
+    sensor_size: 1/1.28 inch (main), 50MP
+    source: manual_lookup
+    notes: Huawei P40 Pro (China version)
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\11 Huawei P40 - 202311-202401
+    - F:\PRIVAT W BACKUP\Photos\2023 NOBA\20231130-1203 首尔
+    - F:\PRIVAT W BACKUP\Photos\2023 NOBA\20240112-14 上海
+    friendly_name: Huawei P40 Pro
+  HUAWEI EML-AL00:
+    make: HUAWEI
+    model: EML-AL00
+    photo_count: 12
+    crop_factor: 4.59
+    sensor_size: 1/1.7 inch (main)
+    source: manual_lookup
+    notes: Huawei P20 (China version)
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\08 iPhone 6S - 201510-201907
+    friendly_name: Huawei P20
+  HUAWEI P8max:
+    make: HUAWEI
+    model: HUAWEI P8max
+    photo_count: 2
+    crop_factor: 5.62
+    sensor_size: 1/2.6 inch
+    source: manual_lookup
+    notes: 13MP sensor
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\08 iPhone 6S - 201510-201907
+    friendly_name: Huawei P8max
+  HUAWEI PAR-AL00:
+    make: HUAWEI
+    model: PAR-AL00
+    photo_count: 2
+    crop_factor: 5.62
+    sensor_size: 1/2.3 inch
+    source: manual_lookup
+    notes: Huawei nova 3 (China version)
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\08 iPhone 6S - 201510-201907
+    friendly_name: Huawei nova 3
+  HUAWEI VTR-AL00:
+    make: HUAWEI
+    model: VTR-AL00
+    photo_count: 16
+    crop_factor: 5.62
+    sensor_size: 1/2.9 inch
+    source: manual_lookup
+    notes: Huawei P10 (China version)
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\08 iPhone 6S - 201510-201907
+    friendly_name: Huawei P10
+  LEICA CAMERA AG LEICA Q (Typ 116):
+    make: LEICA CAMERA AG
+    model: LEICA Q (Typ 116)
+    photo_count: 6
+    crop_factor: 1.0
+    sensor_size: Full Frame (36 x 24 mm)
+    source: manual_lookup
+    notes: 24MP full frame sensor with fixed 28mm f/1.7 Summilux lens
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\08 iPhone 6S - 201510-201907
+    friendly_name: Leica Q
+  Meitu GPS Meitu M6:
+    make: Meitu GPS
+    model: Meitu M6
+    photo_count: 10
+    crop_factor: 5.62
+    sensor_size: 1/2.3 inch (estimated)
+    source: manual_lookup
+    notes: 21MP front camera, selfie-focused phone
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\08 iPhone 6S - 201510-201907
+    friendly_name: Meitu M6
+  Meitu M6:
+    make: Meitu
+    model: Meitu M6
+    photo_count: 6
+    crop_factor: 5.62
+    sensor_size: 1/2.3 inch (estimated)
+    source: manual_lookup
+    notes: 21MP front camera, selfie-focused phone
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\08 iPhone 6S - 201510-201907
+    friendly_name: Meitu M6
+  Motorola EZX Camera:
+    make: Motorola
+    model: EZX Camera
+    photo_count: 2
+    crop_factor: 11.0
+    sensor_size: 1/4 inch (estimated)
+    source: manual_lookup
+    notes: Early Motorola Linux phone (A760/A768/E680 series), VGA camera
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090119-0217 Across the Dream
+    friendly_name: Motorola EZX
+  NIKON COOLPIX S32:
+    make: NIKON
+    model: COOLPIX S32
+    photo_count: 22
+    crop_factor: 5.62
+    sensor_size: 1/2.3 inch
+    source: manual_lookup
+    notes: Waterproof/shockproof compact, 13MP CMOS
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard
+    friendly_name: Nikon Coolpix S32
+  NIKON CORPORATION NIKON D300:
+    make: NIKON CORPORATION
+    model: NIKON D300
+    photo_count: 178
+    crop_factor: 1.5
+    sensor_size: APS-C (23.6 x 15.8 mm)
+    source: manual_lookup
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20141011-13 Oslo avec le Vent
+    friendly_name: Nikon D300
+  NIKON CORPORATION NIKON D3100:
+    make: NIKON CORPORATION
+    model: NIKON D3100
+    photo_count: 90
+    crop_factor: 1.5
+    sensor_size: APS-C (23.1 x 15.4 mm)
+    source: manual_lookup
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130621-24 Preikestolen og Kjerag
+    friendly_name: Nikon D3100
+  NIKON CORPORATION NIKON D3200:
+    make: NIKON CORPORATION
+    model: NIKON D3200
+    photo_count: 364
+    crop_factor: 1.5
+    sensor_size: APS-C (23.2 x 15.4 mm)
+    source: manual_lookup
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20141228-20150109 SAGA
+    friendly_name: Nikon D3200
+  NIKON CORPORATION NIKON D70:
+    make: NIKON CORPORATION
+    model: NIKON D70
+    photo_count: 80
+    crop_factor: 1.5
+    sensor_size: APS-C (23.7 x 15.6 mm)
+    source: manual_lookup
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\08 iPhone 6S - 201510-201907
+    - F:\PRIVAT W BACKUP\Photos\2005-1 高中毕业\20050727-0803 上海之旅
+    friendly_name: Nikon D70
+  NIKON CORPORATION NIKON D750:
+    make: NIKON CORPORATION
+    model: NIKON D750
+    photo_count: 752
+    crop_factor: 1.0
+    sensor_size: Full Frame (35.9 x 24 mm)
+    source: manual_lookup
+    notes: Full frame DSLR (was incorrectly listed as APS-C)
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150326-0405 Balkans
+    friendly_name: Nikon D750
+  NIKON CORPORATION NIKON D90:
+    make: NIKON CORPORATION
+    model: NIKON D90
+    photo_count: 26
+    crop_factor: 1.5
+    sensor_size: APS-C (23.6 x 15.8 mm)
+    source: manual_lookup
+    notes: First DSLR with video recording
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20131027-1109 Tunisia
+    friendly_name: Nikon D90
+  NIKON E7900:
+    make: NIKON
+    model: E7900
+    photo_count: 108
+    crop_factor: 7.17
+    sensor_size: 1/2.5 inch
+    source: manual_lookup
+    notes: Nikon Coolpix 7900, 7.1MP CCD
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20080404 沙河水库
+    - F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20080628-0702 华山之旅
+    friendly_name: Nikon Coolpix 7900
+  Nokia 1234:
+    make: Nokia
+    model: '1234'
+    photo_count: 46
+    crop_factor: 9.6
+    sensor_size: 1/4 inch (estimated)
+    source: manual_lookup
+    notes: Basic Nokia phone, VGA camera estimated
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\02 Nokia 3110c - 200805-200811
+    friendly_name: Nokia 1234
+  Nokia 6303c:
+    make: Nokia
+    model: 6303c
+    photo_count: 318
+    crop_factor: 8.65
+    sensor_size: 1/3.6 inch
+    source: local_database
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\03 Nokia 6303c - 200907-201104
+    friendly_name: Nokia 6303c
+  Nokia E5-00:
+    make: Nokia
+    model: E5-00
+    photo_count: 44
+    crop_factor: 8.65
+    sensor_size: 1/3.6 inch
+    source: local_database
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\04 Nokia E5 and E72 - 201104-201112
+    friendly_name: Nokia E5-00
+  Nokia E71:
+    make: Nokia
+    model: E71
+    photo_count: 2
+    crop_factor: 8.65
+    sensor_size: 1/3.6 inch
+    source: manual_lookup
+    notes: 3.2MP camera
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\03 Nokia 6303c - 200907-201104
+    friendly_name: Nokia E71
+  Nokia E72-1:
+    make: Nokia
+    model: E72-1
+    photo_count: 168
+    crop_factor: 8.65
+    sensor_size: 1/3.6 inch
+    source: local_database_partial
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\04 Nokia E5 and E72 - 201104-201112
+    matched_entry: Nokia E72
+    friendly_name: Nokia E72
+  Nokia N8-00:
+    make: Nokia
+    model: N8-00
+    photo_count: 26
+    crop_factor: 3.93
+    sensor_size: 1/1.83 inch
+    source: manual_lookup
+    notes: Large 12MP sensor, Carl Zeiss optics, revolutionary for its time
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130517 Grunnlovsdag
+    friendly_name: Nokia N8
+  OLYMPUS CORPORATION C-5000Z:
+    make: OLYMPUS CORPORATION
+    model: C-5000Z
+    photo_count: 6
+    crop_factor: 4.84
+    sensor_size: 1/1.8 inch
+    source: manual_lookup
+    notes: 5MP CCD sensor (not Micro Four Thirds)
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\2002 师大附中高中\20050525 毕业合影精选
+    friendly_name: Olympus Camedia C-5000 Zoom
+  OLYMPUS IMAGING CORP. FE200:
+    make: OLYMPUS IMAGING CORP.
+    model: FE200
+    photo_count: 30
+    crop_factor: 7.17
+    sensor_size: 1/2.5 inch
+    source: manual_lookup
+    notes: 6MP CCD sensor (not Micro Four Thirds)
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20131027-1109 Tunisia
+    friendly_name: Olympus FE-200
+  OLYMPUS IMAGING CORP. TG-830:
+    make: OLYMPUS IMAGING CORP.
+    model: TG-830
+    photo_count: 8
+    crop_factor: 5.62
+    sensor_size: 1/2.3 inch
+    source: manual_lookup
+    notes: 16MP BSI-CMOS, rugged waterproof camera (not Micro Four Thirds)
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard
+    friendly_name: Olympus Tough TG-830
+  OLYMPUS OPTICAL CO.,LTD C2020Z:
+    make: OLYMPUS OPTICAL CO.,LTD
+    model: C2020Z
+    photo_count: 6
+    crop_factor: 5.41
+    sensor_size: 1/2 inch
+    source: manual_lookup
+    notes: 2.1MP CCD sensor (not Micro Four Thirds)
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\2002 师大附中高中\20050525 毕业合影精选
+    friendly_name: Olympus Camedia C-2020 Zoom
+  OLYMPUS OPTICAL CO.,LTD C5050Z:
+    make: OLYMPUS OPTICAL CO.,LTD
+    model: C5050Z
+    photo_count: 40
+    crop_factor: 4.84
+    sensor_size: 1/1.8 inch
+    source: manual_lookup
+    notes: 5MP CCD sensor (not Micro Four Thirds)
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\2002 师大附中高中\20050525 毕业合影精选
+    friendly_name: Olympus Camedia C-5050 Zoom
+  OPPO Reno3 Pro 5G:
+    make: OPPO
+    model: OPPO Reno3 Pro 5G
+    photo_count: 4
+    crop_factor: 5.14
+    sensor_size: 1/2.0 inch
+    source: manual_lookup
+    notes: 48MP main sensor (Sony IMX586)
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\09 Huawei P30 - 201907-202301
+    - F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20210309-0606 Sveits
+    friendly_name: OPPO Reno3 Pro 5G
+  PENTAX K-5:
+    make: PENTAX
+    model: PENTAX K-5
+    photo_count: 2
+    crop_factor: 1.5
+    sensor_size: APS-C (23.7 x 15.7 mm)
+    source: manual_lookup
+    notes: 16.3MP CMOS sensor
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130621-24 Preikestolen og Kjerag
+    friendly_name: Pentax K-5
+  SAMSUNG GT-I9152:
+    make: SAMSUNG
+    model: GT-I9152
+    photo_count: 14
+    crop_factor: 7.61
+    sensor_size: 1/3.2 inch
+    source: manual_lookup
+    notes: Samsung Galaxy Mega 5.8, 8MP camera
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20140821-22 Konigssee og Saltzburg
+    friendly_name: Samsung Galaxy Mega 5.8
+  SAMSUNG SGH-E488:
+    make: SAMSUNG
+    model: SGH-E488
+    photo_count: 46
+    crop_factor: 9.6
+    sensor_size: 1/4 inch (estimated)
+    source: local_database
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\01 Samsung E488 - 200611-200712
+    friendly_name: Samsung SGH-E488
+  SONY DSC-H3:
+    make: SONY
+    model: DSC-H3
+    photo_count: 2158
+    crop_factor: 7.17
+    sensor_size: 1/2.5 inch
+    source: manual_lookup
+    notes: 8.1MP CCD, 10x optical zoom
+    folders:
+    - F:\PRIVAT W BACKUP\Musée du Louvre
+    - F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20080126-0205 西行掠影
+    - F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20080628-0702 华山之旅
+    - F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20081009-12 梦中的鼓浪屿
+    - F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090119-0217 Across the Dream
+    - F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\200903-04 毕业剧 校园风景
+    - F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090421-25 南京之旅
+    - F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20090712-15  内蒙古太仆寺旗
+    friendly_name: Sony Cyber-shot DSC-H3
+  SONY DSC-H7:
+    make: SONY
+    model: DSC-H7
+    photo_count: 226
+    crop_factor: 7.17
+    sensor_size: 1/2.5 inch
+    source: manual_lookup
+    notes: 8.1MP CCD, 15x optical zoom
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130621-24 Preikestolen og Kjerag
+    friendly_name: Sony Cyber-shot DSC-H7
+  SONY DSC-HX30:
+    make: SONY
+    model: DSC-HX30
+    photo_count: 4844
+    crop_factor: 5.62
+    sensor_size: 1/2.3 inch
+    source: manual_lookup
+    notes: 18.2MP Exmor R CMOS, 20x optical zoom
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\06 iPhone 4S - 201303-201411
+    - F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120907-10 黄山 景德镇
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130322-25 Stavanger
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130517 Grunnlovsdag
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130607-13 OSL STO Halden
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130621-24 Preikestolen og Kjerag
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20131026 Utrecht and Amsterdam
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20131027-1109 Tunisia
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20140401 Kyllingstup
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20140409 Graduation
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20140413-16 Briksdalbreen
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20140425-27 Tromsø
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20140805-17 Turkey
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20140821-22 Konigssee og Saltzburg
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20141011-13 Oslo avec le Vent
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20141228-20150109 SAGA
+    friendly_name: Sony Cyber-shot DSC-HX30
+  SONY DSC-HX90:
+    make: SONY
+    model: DSC-HX90
+    photo_count: 11292
+    crop_factor: 5.62
+    sensor_size: 1/2.3 inch (6.17 x 4.55 mm)
+    source: manual_lookup
+    notes: 18.2MP Exmor R CMOS, 30x optical zoom (24-720mm equiv)
+    folders:
+    - F:\PRIVAT W BACKUP\Musée du Louvre
+    - F:\PRIVAT W BACKUP\Photos\08 iPhone 6S - 201510-201907
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20151001-04 Lofoten
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20151119-1206 Paris
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20160131-0206 Budapest
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20160617-28 Baltics
+    - F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722
+    - F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20180107-10 Alicante Valencia
+    - F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20180718-0805 Japan
+    - F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20181221-26 BeLux
+    - F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20190418-22 CZ and SK
+    - F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20190613-16 London
+    - F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20191009-16 South Spain
+    - F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20191225-29 Wien
+    - F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20200710-15 Trolltunga Vestland
+    - F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20221223-30 Madrid Alicante
+    - F:\PRIVAT W BACKUP\Photos\2023 NOBA\20240821-24 Beograd
+    - F:\PRIVAT W BACKUP\Photos\2023 NOBA\20241009-13 Japan
+    - F:\PRIVAT W BACKUP\Photos\2023 NOBA\20250426-29 Ravenna San Marino
+    - F:\PRIVAT W BACKUP\Photos\2023 NOBA\20251025-30 Hellas
+    friendly_name: Sony Cyber-shot DSC-HX90
+  SONY DSC-HX9V:
+    make: SONY
+    model: DSC-HX9V
+    photo_count: 3108
+    crop_factor: 5.62
+    sensor_size: 1/2.3 inch
+    source: manual_lookup
+    notes: 16.2MP Exmor R CMOS, 16x optical zoom
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\08 iPhone 6S - 201510-201907
+    - F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120201-15 Portugal and Germany
+    - F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120604-09 Trondheim
+    - F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120821-30 台湾 香港
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130322-25 Stavanger
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130621-24 Preikestolen og Kjerag
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130721-26 Czech Republic
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150326-0405 Balkans
+    friendly_name: Sony Cyber-shot DSC-HX9V
+  SONY DSC-RX100:
+    make: SONY
+    model: DSC-RX100
+    photo_count: 386
+    crop_factor: 2.73
+    sensor_size: 1 inch (13.2 x 8.8 mm)
+    source: manual_lookup
+    notes: 20.2MP Exmor CMOS, premium compact
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130621-24 Preikestolen og Kjerag
+    friendly_name: Sony Cyber-shot DSC-RX100
+  SONY DSC-W200:
+    make: SONY
+    model: DSC-W200
+    photo_count: 188
+    crop_factor: 4.84
+    sensor_size: 1/1.8 inch
+    source: manual_lookup
+    notes: 12.1MP CCD sensor
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\09 Huawei P30 - 201907-202301
+    - F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20080126-0205 西行掠影
+    - F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20110430-0502 南通之行
+    - F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20210530-0602 Roma
+    friendly_name: Sony Cyber-shot DSC-W200
+  SONY DSLR-A550:
+    make: SONY
+    model: DSLR-A550
+    photo_count: 16746
+    crop_factor: 1.5
+    sensor_size: APS-C (23.4 x 15.6 mm)
+    source: manual_lookup
+    notes: 14.2MP Exmor CMOS sensor, Sony Alpha series
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\07 iPhone 5 - 201411-201510
+    - F:\PRIVAT W BACKUP\Photos\10 Samsung S22 - 202212-202502
+    - F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120201-15 Portugal and Germany
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130621-24 Preikestolen og Kjerag
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20130721-26 Czech Republic
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20140425-27 Tromsø
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20140619-22 Berlin Potzdam
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20140805-17 Turkey
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20140821-22 Konigssee og Saltzburg
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20141228-20150109 SAGA
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150311-18 Stupskolen 1
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150324 Kyllingstup
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150326-0405 Balkans
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20150718-24 Svalbard
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20151001-04 Lofoten
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20160131-0206 Budapest
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20160617-28 Baltics
+    - F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20170707-22 Caucasus 0722
+    - F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20211228 皮皮满月照
+    - F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20220307 皮皮百天
+    - F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20220527-0602 皮皮半岁组照
+    friendly_name: Sony Alpha A550
+  SONY ILCE-5100:
+    make: SONY
+    model: ILCE-5100
+    photo_count: 2
+    crop_factor: 1.5
+    sensor_size: APS-C (23.5 x 15.6 mm)
+    source: manual_lookup
+    notes: 24.3MP Exmor APS HD CMOS, mirrorless
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\08 iPhone 6S - 201510-201907
+    friendly_name: Sony Alpha A5100
+  SONY NEX-5C:
+    make: SONY
+    model: NEX-5C
+    photo_count: 1310
+    crop_factor: 1.5
+    sensor_size: APS-C (23.4 x 15.6 mm)
+    source: manual_lookup
+    notes: 14.2MP Exmor APS HD CMOS, early mirrorless
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20110430-0502 南通之行
+    - F:\PRIVAT W BACKUP\Photos\2009 清华硕士\20120821-30 台湾 香港
+    friendly_name: Sony NEX-5C
+  SONY SLT-A77:
+    make: SONY
+    model: SLT-A77
+    photo_count: 3672
+    crop_factor: 1.5
+    sensor_size: APS-C (23.5 x 15.6 mm)
+    source: manual_lookup
+    notes: 24.3MP Exmor APS HD CMOS, translucent mirror
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\08 iPhone 6S - 201510-201907
+    - F:\PRIVAT W BACKUP\Photos\2016 Greenfact\20180718-0805 Japan
+    friendly_name: Sony Alpha SLT-A77
+  Samsung Techwin < Digimax U-CA 5, Kenox U-CA 5 / Kenox U-CA 50 >:
+    make: Samsung Techwin
+    model: < Digimax U-CA 5, Kenox U-CA 5 / Kenox U-CA 50 >
+    photo_count: 2
+    crop_factor: 7.17
+    sensor_size: 1/2.5 inch
+    source: manual_lookup
+    notes: 5MP CCD sensor
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\2002 师大附中高中\20050525 毕业合影精选
+    friendly_name: Samsung Digimax U-CA 5
+  'Samsung Techwin <Digimax i50 MP3, Samsung #1 MP3>':
+    make: Samsung Techwin
+    model: '<Digimax i50 MP3, Samsung #1 MP3>'
+    photo_count: 250
+    crop_factor: 7.17
+    sensor_size: 1/2.5 inch
+    source: manual_lookup
+    notes: 5MP CCD sensor with MP3 player
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\2005-2 清华本科\20070128-0206 广西之行
+    friendly_name: Samsung Digimax i50 MP3
+  Snowcorp Foodie:
+    make: Snowcorp
+    model: Foodie
+    photo_count: 2
+    crop_factor: null
+    sensor_size: null
+    source: not_applicable
+    notes: This is a photo editing app, not a camera. Photos use the host device's sensor.
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\08 iPhone 6S - 201510-201907
+    friendly_name: Foodie App
+  Xiaomi Redmi K20 Pro:
+    make: Xiaomi
+    model: Redmi K20 Pro
+    photo_count: 28
+    crop_factor: 5.14
+    sensor_size: 1/2.0 inch
+    source: manual_lookup
+    notes: 48MP Sony IMX586 main sensor
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\09 Huawei P30 - 201907-202301
+    - F:\PRIVAT W BACKUP\Photos\2019 Bank Norwegian\20191009-16 South Spain
+    friendly_name: Xiaomi Redmi K20 Pro
+  samsung GT-I9152:
+    make: samsung
+    model: GT-I9152
+    photo_count: 198
+    crop_factor: 7.61
+    sensor_size: 1/3.2 inch
+    source: manual_lookup
+    notes: Samsung Galaxy Mega 5.8, 8MP camera
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\2012 NTNU PhD\20140821-22 Konigssee og Saltzburg
+    friendly_name: Samsung Galaxy Mega 5.8
+  samsung Galaxy S25:
+    make: samsung
+    model: Galaxy S25
+    photo_count: 4410
+    crop_factor: 4.47
+    sensor_size: 1/1.56 inch
+    source: manual_lookup
+    notes: 50MP main sensor (Samsung GN5)
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\12 Samsung S25 - 202502-
+    - F:\PRIVAT W BACKUP\Photos\2023 NOBA\20250426-29 Ravenna San Marino
+    - F:\PRIVAT W BACKUP\Photos\2023 NOBA\20250702-07 成都
+    - F:\PRIVAT W BACKUP\Photos\2023 NOBA\20250821-24 København
+    - F:\PRIVAT W BACKUP\Photos\2023 NOBA\20251025-30 Hellas
+    friendly_name: Samsung Galaxy S25
+  samsung SM-S901B:
+    make: samsung
+    model: SM-S901B
+    photo_count: 6066
+    crop_factor: 3.93
+    sensor_size: 1/1.57 inch
+    source: local_database
+    folders:
+    - F:\PRIVAT W BACKUP\Photos\10 Samsung S22 - 202212-202502
+    - F:\PRIVAT W BACKUP\Photos\2023 NOBA\20240821-24 Beograd
+    - F:\PRIVAT W BACKUP\Photos\2023 NOBA\20241009-13 Japan
+    - F:\PRIVAT W BACKUP\Photos\2023 NOBA\20241119-22 Seoul
+    friendly_name: Samsung Galaxy S22
+statistics:
+  total_cameras: 78
+  crop_factors_found: 77
+  crop_factors_not_applicable: 1
+  notes: Only "Snowcorp Foodie" has no crop factor as it's a photo editing app, not a camera

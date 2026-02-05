@@ -9,3 +9,7 @@ Need to
    - If 35mm equivalent is not provided, compute it from `camera_crop_factors.yaml` using the camera model and crop factor.
 
 2. More folders to scan for images
+
+
+- Find 35mm equivalent from `camera_crop_factors.yaml` if not provided in EXIF data
+- rerun

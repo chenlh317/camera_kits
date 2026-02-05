@@ -49,12 +49,17 @@ def get_exif_data(image_path: Path) -> Optional[Dict[str, Any]]:
         return None
 
 
-def get_35mm_equivalent(exif: Dict[str, Any]) -> Optional[float]:
+def get_35mm_equivalent(
+    exif: Dict[str, Any],
+    crop_factors: Optional[Dict[str, Any]] = None
+) -> Optional[float]:
     """
     Get 35mm equivalent focal length from EXIF data.
+    Falls back to calculating from actual focal length and crop factor if available.
 
     Args:
         exif: EXIF data dictionary
+        crop_factors: Dictionary of camera crop factors loaded from YAML
 
     Returns:
         35mm equivalent focal length or None if not available
@@ -62,7 +67,67 @@ def get_35mm_equivalent(exif: Dict[str, Any]) -> Optional[float]:
     # Try to get 35mm equivalent directly from EXIF
     if "FocalLengthIn35mmFilm" in exif and exif["FocalLengthIn35mmFilm"]:
         return float(exif["FocalLengthIn35mmFilm"])
+
+    # Fallback: calculate from actual focal length and crop factor
+    if crop_factors is None:
+        return None
+
+    # Get actual focal length
+    focal_length: Optional[float] = None
+    if "FocalLength" in exif:
+        fl = exif["FocalLength"]
+        if isinstance(fl, tuple):
+            focal_length = fl[0] / fl[1] if fl[1] != 0 else None
+        else:
+            focal_length = float(fl)
+
+    if focal_length is None:
+        return None
+
+    # Get camera make and model from EXIF
+    make = exif.get("Make", "").strip() if exif.get("Make") else ""
+    model = exif.get("Model", "").strip() if exif.get("Model") else ""
+
+    if not model:
+        return None
+
+    # Look up crop factor by camera key (Make + Model)
+    camera_key = f"{make} {model}".strip()
+
+    # Search in crop_factors
+    if "cameras" in crop_factors:
+        for key, camera_info in crop_factors["cameras"].items():
+            # Match by key or by make+model combination
+            if key == camera_key or (
+                camera_info.get("make", "") == make
+                and camera_info.get("model", "") == model
+            ):
+                crop_factor = camera_info.get("crop_factor")
+                if crop_factor:
+                    return focal_length * float(crop_factor)
+
     return None
+
+
+def load_crop_factors(yaml_path: Path) -> Optional[Dict[str, Any]]:
+    """
+    Load camera crop factors from YAML file.
+
+    Args:
+        yaml_path: Path to the camera_crop_factors.yaml file
+
+    Returns:
+        Dictionary with crop factors or None if file not found
+    """
+    if not yaml_path.exists():
+        return None
+
+    try:
+        with open(yaml_path, "r", encoding="utf-8") as f:
+            return yaml.safe_load(f)
+    except Exception as e:
+        print(f"Warning: Could not load crop factors: {e}")
+        return None
 
 
 def load_folders_from_yaml(yaml_path: Path) -> List[Path]:
@@ -98,21 +163,34 @@ def load_folders_from_yaml(yaml_path: Path) -> List[Path]:
 def find_all_image_files(folder: Path) -> List[Path]:
     """
     Find all image files in a folder and its subfolders recursively.
+    Uses PIL Image.open() to verify files are valid images.
 
     Args:
         folder: Root folder to search
 
     Returns:
-        List of Path objects for all image files found
+        List of Path objects for all valid image files found
     """
     image_files = []
-    for ext in IMAGE_EXTENSIONS:
-        # Search for both lowercase and uppercase extensions
-        image_files.extend(folder.rglob(f"*{ext}"))
-        image_files.extend(folder.rglob(f"*{ext.upper()}"))
 
-    # Remove duplicates and sort
-    return sorted(set(image_files))
+    # Get all files recursively
+    all_files = list(folder.rglob("*"))
+
+    for file_path in all_files:
+        if not file_path.is_file():
+            continue
+
+        # Try to open the file as an image
+        try:
+            with Image.open(file_path) as img:
+                # Verify it's a valid image by accessing format
+                if img.format:
+                    image_files.append(file_path)
+        except Exception:
+            # Not a valid image file, skip it
+            continue
+
+    return sorted(image_files)
 
 
 def sanitize_filename(name: str) -> str:
@@ -158,6 +236,7 @@ def process_photos(
     max_focal: int,
     output_folder: Path,
     log_file: Path,
+    crop_factors: Optional[Dict[str, Any]] = None,
 ) -> Tuple[int, int, int, int]:
     """
     Process all photos in the given folders.
@@ -168,6 +247,7 @@ def process_photos(
         max_focal: Maximum 35mm equivalent focal length (inclusive)
         output_folder: Destination folder for copied files
         log_file: Path to the log file
+        crop_factors: Dictionary of camera crop factors for fallback calculation
 
     Returns:
         Tuple of (total_files_scanned, files_with_exif, files_in_range, files_copied)
@@ -220,7 +300,7 @@ def process_photos(
             files_with_exif += 1
 
             # Get 35mm equivalent focal length
-            focal_35mm = get_35mm_equivalent(exif)
+            focal_35mm = get_35mm_equivalent(exif, crop_factors)
             if focal_35mm is None:
                 continue
 
@@ -403,6 +483,14 @@ def main(min_focal: int, max_focal: int, config: str = "photo_folders.yaml"):
         print("No valid folders found in configuration file.")
         sys.exit(1)
 
+    # Load camera crop factors for fallback calculation
+    crop_factors_path = project_root / "camera_crop_factors.yaml"
+    crop_factors = load_crop_factors(crop_factors_path)
+    if crop_factors:
+        print(f"Loaded crop factors for {len(crop_factors.get('cameras', {}))} cameras")
+    else:
+        print("No crop factors file found, will only use direct EXIF 35mm equivalent")
+
     print(f"\nFound {len(folders)} folders to process")
     print(f"Filtering photos with 35mm equivalent: {min_focal}mm - {max_focal}mm")
 
@@ -415,7 +503,7 @@ def main(min_focal: int, max_focal: int, config: str = "photo_folders.yaml"):
 
     # Process photos
     total, with_exif, with_35mm, copied = process_photos(
-        folders, min_focal, max_focal, output_folder, log_file
+        folders, min_focal, max_focal, output_folder, log_file, crop_factors
     )
 
     # Print final summary
@@ -443,7 +531,7 @@ def main(min_focal: int, max_focal: int, config: str = "photo_folders.yaml"):
 if __name__ == "__main__":
 
     main(
-        min_focal=100,
-        max_focal=199,
+        min_focal=200,
+        max_focal=1000,
         config="photo_folders.yaml",
     )
