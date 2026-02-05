@@ -1,4 +1,4 @@
-# Complete Camera Gear Recommendation: Data-Driven Analysis <!-- omit in toc -->
+﻿# Complete Camera Gear Recommendation: Data-Driven Analysis <!-- omit in toc -->
 
 - **Analysis Date:** 16 January, 2026
 - **Last Updated:** 5 February, 2026
@@ -12,6 +12,9 @@
   telephoto usage patterns — see [Can You Retire the HX90?](can-you-retire-hx90)
 - **NEW (Feb 2026):** Added "Mixed Nature" trip strategy and 70-180mm f/2.8 detour analysis
   for Option 1C (Two-Lens Flexibility)
+- **NEW (Feb 2026):** Image quality comparison across focal ranges
+  ("Bicycle vs Sedan" HX90 vs Superzoom; "Economy vs Luxury Sedan" Sigma vs SEL2070G;
+  "Mid-trim vs Fully-loaded Sedan" Sigma vs Tamron at telephoto)
 
 ---
 
@@ -285,6 +288,7 @@ Option 3 is an alternative for landscape-focused photographers who accept a 35-8
 - [📚 Reference: Superzoom Lens Comparison (Sigma vs Tamron)](reference-superzoom-lens-comparison-sigma-vs-tamron)
   - [🆚 Lens Comparison: Sigma vs Tamron Wide-Range Superzooms](lens-comparison-sigma-vs-tamron-wide-range-superzooms)
   - [Why Consider Superzooms Over SEL2070G + HX90](#why-consider-superzooms-over-sel2070g--hx90)
+  - [📸 Image Quality Comparison Across Focal Ranges](image-quality-comparison-across-focal-ranges)
   - [📊 Data-Based Analysis: Do You Need 200mm?](data-based-analysis-do-you-need-200mm)
   - [🔬 Deep Dive: What Do You Actually Shoot at 105mm+?](deep-dive-105mm-plus-analysis)
   - [🎯 Can You Actually Retire the HX90?](can-you-retire-hx90)
@@ -1545,6 +1549,117 @@ enables capturing memorable moments you'd otherwise miss.
 **Recommendation:** Consider trip-specific HX90 usage rather than full retirement.
 See [Can You Actually Retire the HX90?](can-you-retire-hx90) for detailed analysis.
 
+---
+
+(image-quality-comparison-across-focal-ranges)=
+### 📸 Image Quality Comparison Across Focal Ranges
+
+**Understanding the quality differences helps clarify when compromises matter:**
+
+#### At 70-200mm: Superzoom vs HX90 — "Bicycle vs Sedan"
+
+Even with optical compromises, the Sigma 20-200mm on full-frame is **dramatically better**
+than HX90 in the 70-200mm range. The comparison isn't close:
+
+| Factor               | **Sigma on Full-Frame**                 | **HX90**               | Winner                |
+| -------------------- | --------------------------------------- | ---------------------- | --------------------- |
+| **Sensor size**      | Full-frame (860mm²)                     | 1/2.3-inch (~28mm²)    | **Sigma: 30x larger** |
+| **Light gathering**  | ~30x more light                         | Tiny photosites        | **Sigma**             |
+| **High ISO**         | Clean to ISO 6400+                      | Noisy above ISO 400    | **Sigma: 3-4 stops**  |
+| **Dynamic range**    | ~14 stops                               | ~10-11 stops           | **Sigma: 3-4 stops**  |
+| **Detail at 200mm**  | "Weak" for full-frame = still excellent | Limited by sensor      | **Sigma**             |
+| **Crop flexibility** | Can crop 2-3x and retain quality        | Cropping degrades fast | **Sigma**             |
+
+**Key insight:** The Sigma's "compromises" are **relative to premium full-frame lenses**
+(like Sony 70-200mm f/4 G). Compared to HX90's 1/2.3-inch sensor:
+- Even the Sigma's "weakest point" (200mm edges) delivers **massively more detail**
+- The full-frame sensor's low-light advantage alone is worth 3-4 stops
+- A "soft" corner on full-frame still contains more information than HX90's sharp center
+
+**Practical impact for your 105-299mm photos (2,036 analyzed):**
+- **Portraits with compression** — Full-frame bokeh and skin tones far superior
+- **Distant scenes** — More detail retention for cropping
+- **Indoor/low-light** — ISO 3200 on full-frame vs ISO 400 on HX90
+
+#### At 20-70mm: Sigma vs SEL2070G — "Economy Sedan vs Luxury Sedan"
+
+Both are full-frame lenses on the same sensor, so we're comparing **lens optics only**:
+
+| Factor                         | **Sigma 20-200mm**            | **Sony SEL2070G** | Difference               |
+| ------------------------------ | ----------------------------- | ----------------- | ------------------------ |
+| **Center sharpness**           | Excellent                     | Excellent         | **~Equal**               |
+| **Edge/corner sharpness**      | Good-to-soft                  | Excellent         | **SEL2070G better**      |
+| **20mm distortion**            | **-8.55% barrel** (moustache) | Minimal           | **SEL2070G much better** |
+| **Vignetting at 20mm**         | Heavy (-4.81 EV)              | Well-controlled   | **SEL2070G better**      |
+| **Aperture**                   | f/3.5-6.3 (variable)          | f/4 (constant)    | Trade-off*               |
+| **Chromatic aberration**       | Moderate                      | Well-corrected    | **SEL2070G better**      |
+| **Software correction needed** | Significant                   | Minimal           | **SEL2070G easier**      |
+
+*Sigma is slightly faster at 20mm (f/3.5 vs f/4) but slower by 50mm onwards
+
+**When you'll likely notice the SEL2070G advantage:**
+- Shooting architecture with straight lines at 20mm (moustache distortion visible)
+- Pixel-peeping corners in landscape shots
+- Printing large (>16x20 inches)
+- Shooting wide-open at 20mm (vignetting)
+
+**When you likely won't notice:**
+- Shooting casually for social media/web
+- Subject is centered
+- Photos viewed at normal sizes
+- Camera applies auto-corrections (modern Sony bodies do this)
+
+#### Summary: Quality Gap by Focal Range
+
+| Comparison                   | Quality Gap                                      | Analogy                              |
+| ---------------------------- | ------------------------------------------------ | ------------------------------------ |
+| HX90 vs Superzoom (70-200mm) | **Massive** — different sensor classes           | Bicycle vs Sedan                     |
+| Sigma vs SEL2070G (20-70mm)  | **Noticeable** — same sensor, lens optics differ | Economy Sedan vs Luxury Sedan        |
+| Sigma vs Tamron (70-200mm)   | **Modest** — both full-frame, Tamron has edge    | Mid-trim Sedan vs Fully-loaded Sedan |
+
+**This is exactly why Option 1C recommends:**
+- **SEL2070G for city trips** — G-series quality where you shoot 65-80% of photos
+- **Tamron 25-200mm for safari trips** — Full-frame telephoto quality matters more than 20mm perfection
+
+#### At 70-200mm: Sigma vs Tamron — "Mid-trim vs Fully-loaded Sedan"
+
+When comparing the two superzooms specifically in the telephoto range:
+
+| Factor                   | **Sigma 20-200mm**    | **Tamron 25-200mm** | Advantage                           |
+| ------------------------ | --------------------- | ------------------- | ----------------------------------- |
+| **Aperture at 200mm**    | f/6.3                 | **f/5.6**           | **Tamron: 2/3 stop faster**         |
+| **Aperture at 70mm**     | ~f/5                  | **~f/4**            | **Tamron: ~1 stop faster**          |
+| **Zoom ratio**           | 10x (more extreme)    | 8x (less extreme)   | **Tamron: less optical compromise** |
+| **200mm sharpness**      | Weakest point of lens | Better optimized    | **Tamron likely better**            |
+| **AF motor**             | Standard              | VXD linear motor    | **Tamron: faster/quieter**          |
+| **Low-light capability** | Decent                | Better              | **Tamron**                          |
+
+**Why Tamron is likely better at telephoto:**
+
+1. **Less extreme zoom range** — 8x vs 10x means the Tamron can allocate more optical "budget"
+   to the tele end rather than stretching to 20mm
+
+2. **Faster aperture throughout** — f/5.6 at 200mm vs f/6.3 means:
+   - 2/3 stop more light (faster shutter or lower ISO)
+   - Slightly better subject isolation (shallower DOF)
+
+3. **Wide end is already "sacrificed"** — Tamron starts at 25mm,
+   which means the lens design can prioritize telephoto performance
+
+4. **VXD linear motor AF** — Faster, quieter autofocus for tracking moving subjects
+
+**Practical impact for your safari/wildlife use case (Option 1C Phase 2):**
+- Tamron's f/5.6 at 200mm helps with moving wildlife (faster shutter)
+- Tamron's VXD AF is faster for tracking animals
+- Both are dramatically better than HX90 — but Tamron has the edge
+
+**This reinforces why Option 1C recommends Tamron for Phase 2:**
+The 25mm wide end isn't a problem because you already have SEL2070G for wide-angle.
+When buying a superzoom specifically for safari/wildlife/telephoto-heavy trips,
+optimize for telephoto quality (Tamron) rather than wide-angle reach (Sigma).
+
+---
+
 (data-based-analysis-do-you-need-200mm)=
 ### 📊 Data-Based Analysis: Do You Need 200mm?
 
@@ -2032,13 +2147,13 @@ in exchange for dramatically simpler workflow and lighter kit.
 
 **For your typical family travel:**
 
-| Option                                    | Recommendation             | Why                                                 |
-| ----------------------------------------- | -------------------------- | --------------------------------------------------- |
-| **Option 1A: SEL2070G + HX90**            | ✅ Good choice              | G-series quality + HX90 telephoto backup            |
-| **Option 1B: Sigma 20-200mm**             | ✅ **Strongly recommended** | One lens, zero swaps, full coverage                 |
-| **Option 1C: SEL2070G (+ Tamron later)**  | ✅ **Excellent flexibility** | Right tool for each trip; city OR mixed nature      |
-| **SEL2070G + 70-200mm**                   | ⚠️ **Consider carefully**   | Substantial complexity for occasional benefit       |
-| **Three-lens kit**                        | ❌ Avoid                    | Diminishing returns, maximum hassle                 |
+| Option                                   | Recommendation              | Why                                            |
+| ---------------------------------------- | --------------------------- | ---------------------------------------------- |
+| **Option 1A: SEL2070G + HX90**           | ✅ Good choice               | G-series quality + HX90 telephoto backup       |
+| **Option 1B: Sigma 20-200mm**            | ✅ **Strongly recommended**  | One lens, zero swaps, full coverage            |
+| **Option 1C: SEL2070G (+ Tamron later)** | ✅ **Excellent flexibility** | Right tool for each trip; city OR mixed nature |
+| **SEL2070G + 70-200mm**                  | ⚠️ **Consider carefully**    | Substantial complexity for occasional benefit  |
+| **Three-lens kit**                       | ❌ Avoid                     | Diminishing returns, maximum hassle            |
 
 **Key principle:** Match your gear complexity to your trip type.
 - Photography trip → Consider two zooms
