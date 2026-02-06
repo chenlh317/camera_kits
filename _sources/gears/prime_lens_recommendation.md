@@ -1,6 +1,6 @@
 # Prime Lens Recommendation for Sony A7C II: Data-Driven Analysis <!-- omit in toc -->
 
-- **Analysis Date:** 5 February, 2026 (Updated)
+- **Analysis Date:** 6 February, 2026 (Updated)
 - **Camera Body:** Sony A7C II (Full-Frame, E-Mount)
 - **Data Source:** 70 photo collections spanning 2004-2025 + 12 mobile phone archives
 - **Total Photos Analyzed:** 75,974 with 35mm equivalent focal length data
@@ -41,14 +41,26 @@
 
 | Lens                        | Primary Use                        | Price Range | Weight |
 | --------------------------- | ---------------------------------- | ----------- | ------ |
-| **7Artisans AF 35mm f/1.8** | Night city, indoor events, museums | ~\$299      | 195g   |
+| **7Artisans AF 35mm f/1.8** | Night city, indoor events, museums | ~\$299      | 426g   |
 | **Viltrox 85mm f/2.0 Evo**  | Budget portrait with VCM AF        | ~\$350-400  | 298g   |
 
-**Total Ultra-Budget Kit:** ~\$650-700 for both (**493g — ultra-light!**)
+**Total Ultra-Budget Kit:** ~\$650-700 for both (**724g**)
 
 > ⭐ **New Best Value:** The 7Artisans AF 35mm f/1.8 at \$299 dramatically lowers the entry point
 > for a two-prime kit. Combined with the Viltrox 85mm f/2.0 Evo, you get a complete portrait kit
 > for under \$700 total — less than a single Sony 35mm f/1.8!
+
+### 🌙 Best Low-Light Kit (NEW)
+
+| Lens                           | Primary Use                         | Price Range | Weight |
+| ------------------------------ | ----------------------------------- | ----------- | ------ |
+| **SIRUI Aurora 35mm f/1.4** 🆕 | Night city, low-light, best bokeh   | ~\$549-599  | ~480g  |
+| **Viltrox 85mm f/2.0 Evo**     | Budget portrait with VCM AF         | ~\$350-400  | 298g   |
+
+**Total Low-Light Kit:** ~\$900-1,000 for both (**~778g**)
+
+> 🌙 **Best for Low-Light:** The SIRUI Aurora 35mm f/1.4 offers the fastest aperture at a budget price.
+> f/1.4 provides 2/3 stop more light than f/1.8 options, plus 15 aperture blades for exceptional bokeh.
 
 ---
 
@@ -228,7 +240,7 @@ the Sigma is excellent. The Sony is lighter, sharper, and has native AF advantag
 | Specification   | Value                       |
 | --------------- | --------------------------- |
 | **Aperture**    | f/1.8 - f/16                |
-| **Weight**      | ~195g                       |
+| **Weight**      | 426g                        |
 | **Size**        | 64.5 × 58mm                 |
 | **Filter**      | 49mm                        |
 | **Close Focus** | 0.29m (1:7.7 magnification) |
@@ -236,9 +248,8 @@ the Sigma is excellent. The Sony is lighter, sharper, and has native AF advantag
 
 **Why This is a Game-Changer:**
 - ✅ **Exceptional price** — Under \$300, ~15% cheaper than Viltrox, ~40% of Sony's price
-- ✅ **Lightest 35mm f/1.8** — 195g is 85g lighter than Sony (280g), 145g lighter than Viltrox (340g)
 - ✅ **Full f/1.8 aperture** — Same light gathering as Sony, faster than Sigma f/2
-- ✅ **Compact design** — Smallest in class, perfect for A7C II's compact philosophy
+- ✅ **Compact design** — Perfect for A7C II's compact philosophy
 - ✅ **9-blade circular aperture** — Smooth bokeh rendering
 - ✅ **STM autofocus** — Stepping motor for quiet, smooth AF
 - ✅ **Multi-mount** — Available for Sony E, Nikon Z, and Leica L mounts
@@ -252,9 +263,49 @@ the Sigma is excellent. The Sony is lighter, sharper, and has native AF advantag
 - ⚠️ **Close focus 29cm** — Longer than Sony (22cm) but shorter than Viltrox (40cm)
 
 **Verdict:** The 7Artisans is a remarkable value proposition. At \$299, it's the cheapest
-full-frame AF 35mm f/1.8 available and the lightest by a significant margin.
-Ideal for budget-conscious users who prioritize weight and don't need the absolute fastest AF.
+full-frame AF 35mm f/1.8 available. At 426g, it's heavier than the Sony (280g) but still
+ideal for budget-conscious users who prioritize value over weight and don't need the absolute fastest AF.
 
+
+---
+
+### **Fast Aperture Option: SIRUI AURORA 35mm F1.4** 🆕 NEW
+
+| Specification   | Value                       |
+| --------------- | --------------------------- |
+| **Aperture**    | f/1.4 - f/16                |
+| **Weight**      | ~480g                       |
+| **Size**        | ~80 × 90mm                  |
+| **Filter**      | 67mm                        |
+| **Close Focus** | ~0.35m                      |
+| **Price**       | **~\$549-599**              |
+
+**Why This is Interesting:**
+- ✅ **Fastest aperture in class** — f/1.4 is 2/3 stop faster than f/1.8 options
+- ✅ **15 rounded aperture blades** — most in class, exceptional bokeh circles
+- ✅ **Weather sealed** — dust/splash proof with fluorine coating on front element
+- ✅ **USB-C port** — firmware updates for future improvements
+- ✅ **Declickable aperture ring** — smooth transitions for video work
+- ✅ **Custom function button** — assignable via camera
+- ✅ **Multi-mount** — Sony E, Nikon Z, Fuji X, L-mount
+
+**Review-Based Considerations:**
+- ✅ Beautiful, creamy bokeh — strength of the Aurora series
+- ✅ Good sharpness at portrait distances (2.5-5m)
+- ⚠️ **STM AF motor** — quieter but not as fast as Sony's linear motor
+- ⚠️ **Heavier** — 480g vs Sony 280g, 7Artisans 426g
+- ⚠️ **Focus breathing** — noticeable but not unusually so for 35mm
+- ⚠️ **Sharpness at infinity** — optimized for portraits, less sharp at landscape distances
+
+**When to Choose SIRUI over Others:**
+- Low-light is critical (f/1.4 = 2/3 stop advantage)
+- Bokeh quality is priority (15 blades = exceptional circles)
+- Video work (declickable aperture, quiet AF)
+- Budget f/1.4 (Sony 35mm f/1.4 GM costs ~\$1,400)
+
+**Verdict:** The SIRUI Aurora 35mm F1.4 offers the fastest aperture in this comparison at a reasonable price.
+At ~\$550-600, it costs less than Sony's f/1.8 while offering f/1.4. The 15-blade aperture delivers
+exceptional bokeh. Trade-offs: heavier than f/1.8 options and STM AF is adequate but not fastest tier.
 
 ---
 
@@ -287,24 +338,27 @@ for environmental portraits. Consider if you need to get close to subjects.
 
 ### 35mm Comparison Table
 
-| Feature               | Sony FE 35/1.8 | Sigma 35/2 DN      | 7Artisans 35/1.8 ⭐ | Viltrox 35/1.8 |
-| --------------------- | -------------- | ------------------ | ------------------ | -------------- |
-| **Price**             | ~\$750-850     | ~\$700             | **~\$299** ⭐       | ~\$350         |
-| **Aperture**          | f/1.8          | f/2.0              | f/1.8              | f/1.8          |
-| **Weight**            | 280g           | 325g               | **195g** ⭐         | ~340g          |
-| **Min Focus**         | **22cm** ⭐     | 27cm               | 29cm               | ~40cm          |
-| **AF Speed**          | ⭐⭐⭐⭐⭐          | ⭐⭐⭐⭐               | ⭐⭐⭐                | ⭐⭐⭐            |
-| **Build**             | Excellent      | Premium Metal      | Good               | Good           |
-| **Weather Seal**      | Yes (limited)  | Yes (mount gasket) | Basic              | Limited        |
-| **Sharpness f/1.8-2** | ⭐⭐⭐⭐⭐          | ⭐⭐⭐⭐ (at f/2)      | ⭐⭐⭐⭐               | ⭐⭐⭐⭐           |
-| **Bokeh**             | ⭐⭐⭐⭐           | ⭐⭐⭐⭐ (smoother)    | ⭐⭐⭐⭐               | ⭐⭐⭐⭐           |
-| **Focus Breathing**   | Minimal        | **Significant** ⚠️  | Moderate           | Minimal        |
-| **Low-Light**         | Excellent      | Very Good          | Very Good          | Very Good      |
-| **Kid Eye-AF**        | ⭐⭐⭐⭐⭐          | ⭐⭐⭐⭐               | ⭐⭐⭐                | ⭐⭐⭐            |
+| Feature               | Sony FE 35/1.8 | Sigma 35/2 DN      | SIRUI Aurora 35/1.4 🆕 | 7Artisans 35/1.8 | Viltrox 35/1.8 |
+| --------------------- | -------------- | ------------------ | --------------------- | ---------------- | -------------- |
+| **Price**             | ~\$750-850     | ~\$700             | ~\$549-599            | **~\$299** ⭐     | ~\$350         |
+| **Aperture**          | f/1.8          | f/2.0              | **f/1.4** ⭐           | f/1.8            | f/1.8          |
+| **Weight**            | **280g** ⭐     | 325g               | ~480g                 | 426g             | ~340g          |
+| **Min Focus**         | **22cm** ⭐     | 27cm               | ~35cm                 | 29cm             | ~40cm          |
+| **AF Speed**          | ⭐⭐⭐⭐⭐          | ⭐⭐⭐⭐               | ⭐⭐⭐                   | ⭐⭐⭐              | ⭐⭐⭐            |
+| **Build**             | Excellent      | Premium Metal      | Good (Metal)          | Good             | Good           |
+| **Weather Seal**      | Yes (limited)  | Yes (mount gasket) | Yes (dust/splash)     | Basic            | Limited        |
+| **Sharpness wide**    | ⭐⭐⭐⭐⭐          | ⭐⭐⭐⭐ (at f/2)      | ⭐⭐⭐⭐ (at f/1.4)       | ⭐⭐⭐⭐             | ⭐⭐⭐⭐           |
+| **Bokeh**             | ⭐⭐⭐⭐           | ⭐⭐⭐⭐ (smoother)    | **⭐⭐⭐⭐⭐** (15 blades) | ⭐⭐⭐⭐             | ⭐⭐⭐⭐           |
+| **Focus Breathing**   | Minimal        | **Significant** ⚠️  | Moderate              | Moderate         | Minimal        |
+| **Low-Light**         | Excellent      | Very Good          | **Excellent** (f/1.4) | Very Good        | Very Good      |
+| **Kid Eye-AF**        | ⭐⭐⭐⭐⭐          | ⭐⭐⭐⭐               | ⭐⭐⭐                   | ⭐⭐⭐              | ⭐⭐⭐            |
 
 **Recommendation:**
 - **Best AF for kids:** Sony FE 35mm f/1.8 — fastest, most reliable eye-AF (22cm close focus)
-- **Best value:** 7Artisans AF 35mm f/1.8 ⭐ — lightest (195g), cheapest (\$299), full f/1.8
+- **Best low-light:** SIRUI Aurora 35mm f/1.4 🆕 — fastest aperture (f/1.4), 15-blade bokeh
+- **Best value:** 7Artisans AF 35mm f/1.8 ⭐ — cheapest (\$299), full f/1.8
+- **Best weight:** Sony FE 35mm f/1.8 — lightest at 280g
+- **Best bokeh:** SIRUI Aurora 35mm f/1.4 — 15 rounded aperture blades
 - **Premium build:** Sigma 35mm f/2 DG DN — metal construction, aperture ring
 
 ---
@@ -537,20 +591,18 @@ Sony E-mount lenses are not currently affected. As with any third-party lens, fi
 **Lenses:**
 | Lens                    | Use Case                  | Price     | Weight |
 | ----------------------- | ------------------------- | --------- | ------ |
-| 7Artisans AF 35mm f/1.8 | Night city, indoor events | \$299     | 195g   |
+| 7Artisans AF 35mm f/1.8 | Night city, indoor events | \$299     | 426g   |
 | Viltrox 85mm f/2.0 Evo  | Kid portraits (VCM AF)    | \$350-400 | 298g   |
 
-**Total:** ~\$650-700 | **493g** both primes (**lightest & cheapest kit!**)
+**Total:** ~\$650-700 | **724g** both primes (**cheapest kit!**)
 
 **Rationale:**
 - 7Artisans at \$299 is less than half the cost of any other 35mm f/1.8
-- At 195g, it's the lightest 35mm f/1.8 available (85g lighter than Sony)
 - Combined kit under \$700 = less than a single Sony 35mm f/1.8
 - Full f/1.8 aperture for low-light performance
 
 **Pros:**
 - **Extreme value** — complete two-prime kit for under \$700
-- **Ultra-light** — 493g total, 85g lighter than Strategy C
 - Both lenses have full f/1.8/f/2.0 apertures for low-light
 
 **Cons:**
@@ -564,42 +616,79 @@ or as a "try before you invest" kit to validate the focal length choices.
 
 ---
 
+### Strategy E: Best Low-Light (NEW) 🌙
+
+**Lenses:**
+| Lens                           | Use Case                    | Price     | Weight |
+| ------------------------------ | --------------------------- | --------- | ------ |
+| SIRUI Aurora 35mm f/1.4 🆕     | Night city, galas, best bokeh | \$549-599 | ~480g  |
+| Viltrox 85mm f/2.0 Evo         | Kid portraits (VCM AF)      | \$350-400 | 298g   |
+
+**Total:** ~\$900-1,000 | **~778g** both primes (**best low-light!**)
+
+**Rationale:**
+- SIRUI f/1.4 provides 2/3 stop more light than f/1.8 options
+- 15 rounded aperture blades = exceptional bokeh quality
+- Still cheaper than Sony's f/1.8 while offering faster aperture
+- Weather sealed with USB-C for firmware updates
+
+**Pros:**
+- **Best low-light** — f/1.4 = 2/3 stop advantage over all other 35mm options
+- **Best bokeh** — 15 aperture blades, creamy rendering
+- **Budget f/1.4** — less than Sony GM (~\$1,400)
+- Weather sealed
+
+**Cons:**
+- STM AF — not as fast as Sony's linear motor for kid tracking
+- Heaviest 35mm option (~480g)
+- Longer close focus (~35cm vs Sony's 22cm)
+- Less sharp at infinity/landscape distances
+
+**Best for:** Low-light specialists, bokeh enthusiasts, video shooters (declickable aperture),
+or those who want f/1.4 performance without GM prices.
+
+---
+
 ## 🌙 Low-Light Performance Analysis
 
-### Your Use Cases: How f/1.8 Helps
+### Your Use Cases: How Fast Apertures Help
 
 **Indoor Gala Night Scenario:**
-| Setting         | f/4 Zoom          | f/1.8 Prime      | Advantage       |
-| --------------- | ----------------- | ---------------- | --------------- |
-| Typical venue   | ISO 12800, 1/60s  | ISO 3200, 1/60s  | 2 stops cleaner |
-| Dance floor     | ISO 25600, 1/125s | ISO 6400, 1/125s | 2 stops cleaner |
-| Candlelit table | ISO 25600, 1/30s  | ISO 6400, 1/30s  | Usable vs noisy |
+| Setting         | f/4 Zoom          | f/1.8 Prime      | f/1.4 Prime 🆕   | Advantage            |
+| --------------- | ----------------- | ---------------- | ---------------- | -------------------- |
+| Typical venue   | ISO 12800, 1/60s  | ISO 3200, 1/60s  | ISO 2000, 1/60s  | 2-2.7 stops cleaner  |
+| Dance floor     | ISO 25600, 1/125s | ISO 6400, 1/125s | ISO 4000, 1/125s | 2-2.7 stops cleaner  |
+| Candlelit table | ISO 25600, 1/30s  | ISO 6400, 1/30s  | ISO 4000, 1/30s  | f/1.4 = most usable  |
 
 **Night City Sightseeing:**
-| Scenario     | f/4 Zoom        | f/1.8 Prime     | Advantage       |
-| ------------ | --------------- | --------------- | --------------- |
-| Blue hour    | ISO 800         | ISO 200         | Maximum quality |
-| Night street | ISO 6400, 1/60s | ISO 1600, 1/60s | 2 stops cleaner |
-| Indoor cafe  | ISO 3200        | ISO 800         | Minimal noise   |
+| Scenario     | f/4 Zoom        | f/1.8 Prime     | f/1.4 Prime 🆕  | Advantage            |
+| ------------ | --------------- | --------------- | --------------- | -------------------- |
+| Blue hour    | ISO 800         | ISO 200         | ISO 125         | Maximum quality      |
+| Night street | ISO 6400, 1/60s | ISO 1600, 1/60s | ISO 1000, 1/60s | 2-2.7 stops cleaner  |
+| Indoor cafe  | ISO 3200        | ISO 800         | ISO 500         | Minimal noise        |
 
 **🏛️ Museum Gallery (NEW):**
-| Scenario                  | f/4 Zoom        | f/1.8 Prime     | Advantage       |
-| ------------------------- | --------------- | --------------- | --------------- |
-| Bright gallery            | ISO 1600        | ISO 400         | Maximum detail  |
-| Dim Old Masters room      | ISO 6400, 1/60s | ISO 1600, 1/60s | 2 stops cleaner |
-| Sculpture hall            | ISO 3200        | ISO 800         | Clean shadows   |
-| Louvre Pyramid (interior) | ISO 800         | ISO 200         | Best quality    |
+| Scenario                  | f/4 Zoom        | f/1.8 Prime     | f/1.4 Prime 🆕  | Advantage            |
+| ------------------------- | --------------- | --------------- | --------------- | -------------------- |
+| Bright gallery            | ISO 1600        | ISO 400         | ISO 250         | Maximum detail       |
+| Dim Old Masters room      | ISO 6400, 1/60s | ISO 1600, 1/60s | ISO 1000, 1/60s | 2-2.7 stops cleaner  |
+| Sculpture hall            | ISO 3200        | ISO 800         | ISO 500         | Clean shadows        |
+| Louvre Pyramid (interior) | ISO 800         | ISO 200         | ISO 125         | Best quality         |
 
-**Museum-Specific Advantages of f/1.8:**
+> 🌙 **SIRUI Aurora f/1.4 Advantage:** The 2/3 stop advantage of f/1.4 over f/1.8 means ~60% lower ISO
+> in the same conditions. This translates to noticeably cleaner images in the darkest gala venues
+> and museum galleries.
+
+**Museum-Specific Advantages of Fast Primes:**
 - **No flash required** - Most museums prohibit flash photography
 - **Silent shooting** - A7C II electronic shutter + quiet prime AF
 - **Compact gear** - Museums may restrict professional-looking equipment
 - **Natural colors** - Avoid flash washing out artwork colors
 
-**A7C II + f/1.8 = No-Flash Photography**
+**A7C II + f/1.8 or f/1.4 = No-Flash Photography**
 
 The A7C II has excellent high-ISO performance up to ISO 6400 with acceptable noise. Combined with:
-- f/1.8 aperture (4× light vs f/4)
+- f/1.8 aperture (4× light vs f/4) or f/1.4 (5.7× light vs f/4)
 - 5-axis IBIS rated up to ~7 stops (CIPA, lens/body dependent)
 - Fast eye-AF (works in low EV)
 
@@ -659,18 +748,35 @@ You can shoot almost any indoor event or museum without flash, preserving natura
 
 | Item                    | Price      | Notes                      |
 | ----------------------- | ---------- | -------------------------- |
-| 7Artisans AF 35mm f/1.8 | ~\$299     | Lightest, cheapest f/1.8   |
+| 7Artisans AF 35mm f/1.8 | ~\$299     | Cheapest f/1.8             |
 | 49mm UV filter          | ~\$15      | Protection                 |
 | **Total Investment**    | **~\$315** | **60% cheaper than Sony!** |
+
+### 🌙 Best Low-Light: SIRUI Aurora 35mm f/1.4 (NEW)
+
+| Item                       | Price       | Notes                        |
+| -------------------------- | ----------- | ---------------------------- |
+| SIRUI Aurora 35mm f/1.4 🆕 | ~\$549-599  | Fastest aperture, best bokeh |
+| 67mm UV filter             | ~\$30       | Protection                   |
+| **Total Investment**       | **~\$580-630** | **f/1.4 cheaper than Sony f/1.8!** |
 
 ### Ultra-Budget Full Kit: 7Artisans + Viltrox
 
 | Item                    | Price          | Notes                         |
 | ----------------------- | -------------- | ----------------------------- |
-| 7Artisans AF 35mm f/1.8 | ~\$299         | Ultra-light 35mm              |
+| 7Artisans AF 35mm f/1.8 | ~\$299         | Budget 35mm                   |
 | Viltrox 85mm f/2.0 Evo  | ~\$350-400     | VCM AF portrait lens          |
 | 49mm + 62mm UV filters  | ~\$35          | Protection                    |
 | **Total Investment**    | **~\$685-735** | **Complete kit under \$750!** |
+
+### 🌙 Low-Light Full Kit: SIRUI + Viltrox (NEW)
+
+| Item                       | Price          | Notes                        |
+| -------------------------- | -------------- | ---------------------------- |
+| SIRUI Aurora 35mm f/1.4 🆕 | ~\$549-599     | Best low-light, best bokeh   |
+| Viltrox 85mm f/2.0 Evo     | ~\$350-400     | VCM AF portrait lens         |
+| 67mm + 62mm UV filters     | ~\$45          | Protection                   |
+| **Total Investment**       | **~\$945-1,045** | **f/1.4 kit under \$1,050!** |
 
 ---
 
@@ -696,10 +802,21 @@ You can shoot almost any indoor event or museum without flash, preserving natura
 
 **Why:**
 1. **Price:** At \$299, it's 60% cheaper than Sony — savings can fund the 85mm lens
-2. **Weight:** Lightest in class at 195g (85g lighter than Sony!)
-3. **Performance:** Full f/1.8 aperture for identical low-light capability
-4. **Compact:** Perfect match for A7C II's compact philosophy
-5. **Trade-off:** STM AF is adequate for most use cases, just not as fast as Sony for erratic kid movement
+2. **Performance:** Full f/1.8 aperture for identical low-light capability
+3. **Compact:** Reasonably compact design
+4. **Trade-off:** STM AF is adequate for most use cases, just not as fast as Sony for erratic kid movement
+5. **Trade-off:** Heavier than Sony (426g vs 280g)
+
+#### 🥉 If Low-Light & Bokeh are Critical: 🌙 NEW
+**Buy: SIRUI Aurora 35mm f/1.4** (~\$549-599)
+
+**Why:**
+1. **Fastest aperture:** f/1.4 is 2/3 stop faster than f/1.8 — more light in dark venues
+2. **Best bokeh:** 15 rounded aperture blades produce exceptional bokeh circles
+3. **Budget f/1.4:** Less than Sony's f/1.8 price, with faster aperture
+4. **Weather sealed:** Dust/splash proof for travel
+5. **Trade-off:** STM AF is adequate but not fastest tier for kid tracking
+6. **Trade-off:** Heaviest option at ~480g
 
 **Your Complete Two-Prime Kit (Premium):**
 | Lens               | Primary Role                                     | Price              | Weight   |
@@ -711,9 +828,9 @@ You can shoot almost any indoor event or museum without flash, preserving natura
 **Your Complete Two-Prime Kit (Ultra-Budget):** ⭐ NEW
 | Lens                    | Primary Role                                     | Price          | Weight   |
 | ----------------------- | ------------------------------------------------ | -------------- | -------- |
-| 7Artisans AF 35mm f/1.8 | Events, cities, museums, environmental portraits | ~\$299         | 195g     |
+| 7Artisans AF 35mm f/1.8 | Events, cities, museums, environmental portraits | ~\$299         | 426g     |
 | Viltrox 85mm f/2.0 Evo  | Kid portraits, artwork details, isolation        | ~\$350-400     | 298g     |
-| **Total**               | **Full coverage at minimal cost**                | **~\$650-700** | **493g** |
+| **Total**               | **Full coverage at minimal cost**                | **~\$650-700** | **724g** |
 
 > 💡 **Value Insight:** The ultra-budget kit costs less than a single Sony 35mm f/1.8,
 > while still covering all your use cases with full f/1.8 aperture capability!
@@ -731,12 +848,13 @@ You can shoot almost any indoor event or museum without flash, preserving natura
 ### TL;DR Decision
 
 **35mm Options:**
-| If You Value...                   | Buy This 35mm                     |
-| --------------------------------- | --------------------------------- |
-| **Best AF for kids**              | Sony FE 35mm f/1.8 (\$750-850)    |
-| **Premium build + aperture ring** | Sigma 35mm f/2 DG DN (~\$700)     |
-| **Best value** ⭐ NEW              | 7Artisans AF 35mm f/1.8 (~\$299)  |
-| **Budget alternative**            | Viltrox AF 35mm f/1.8 (\$350-400) |
+| If You Value...                   | Buy This 35mm                          |
+| --------------------------------- | -------------------------------------- |
+| **Best AF for kids**              | Sony FE 35mm f/1.8 (\$750-850)         |
+| **Best low-light + bokeh** 🌙     | SIRUI Aurora 35mm f/1.4 (~\$549-599)   |
+| **Premium build + aperture ring** | Sigma 35mm f/2 DG DN (~\$700)          |
+| **Best value** ⭐ NEW              | 7Artisans AF 35mm f/1.8 (~\$299)       |
+| **Budget alternative**            | Viltrox AF 35mm f/1.8 (\$350-400)      |
 
 **85mm Options:**
 | If You Value...           | Buy This 85mm                      |
@@ -773,11 +891,11 @@ You can shoot almost any indoor event or museum without flash, preserving natura
 
 | Lens                      | Price         | Weight   | Aperture      |
 | ------------------------- | ------------- | -------- | ------------- |
-| 📷 7Artisans AF 35mm f/1.8 | ~\$299        | 195g     | f/1.8         |
+| 📷 7Artisans AF 35mm f/1.8 | ~\$299        | 426g     | f/1.8         |
 | 📷 Viltrox 85mm f/2.0 Evo  | \$350-400     | 298g     | f/2.0         |
-| **Kit Total**             | **\$650-700** | **493g** | **Both fast** |
+| **Kit Total**             | **\$650-700** | **724g** | **Both fast** |
 
-> **Highlights:** Lightest kit · Under \$700 total · Full f/1.8 on 35mm · Great for travel
+> **Highlights:** Cheapest kit · Under \$700 total · Full f/1.8 on 35mm · Great value
 
 ---
 
@@ -795,6 +913,20 @@ You can shoot almost any indoor event or museum without flash, preserving natura
 
 ---
 
+#### Option 4: Best Low-Light 🌙 NEW (~\$900-1,000)
+
+| Lens                            | Price         | Weight    | Primary Use                      |
+| ------------------------------- | ------------- | --------- | -------------------------------- |
+| 📷 **SIRUI Aurora 35mm f/1.4** 🆕 | \$549-599     | ~480g     | Night cities, best bokeh, galas  |
+| 📷 **Viltrox 85mm f/2.0 Evo**    | \$350-400     | 298g      | Kid portraits, artwork details   |
+| **Kit Total**                   | **\$900-999** | **~778g** |                                  |
+
+> **Highlights:** Fastest aperture (f/1.4) · 15-blade exceptional bokeh · Weather sealed · Under \$1,000
+>
+> **Why this combo:** SIRUI's f/1.4 provides 2/3 stop more light than f/1.8 options — ideal for dark venues and night photography. The 15 aperture blades produce the best bokeh in this comparison.
+
+---
+
 ### 🆕 New Option: 7Artisans AF 35mm f/1.8 Analysis
 
 The 7Artisans AF 35mm f/1.8 at **\$299** represents a significant shift in the budget landscape:
@@ -802,13 +934,12 @@ The 7Artisans AF 35mm f/1.8 at **\$299** represents a significant shift in the b
 | Metric             | 7Artisans vs Sony | 7Artisans vs Viltrox |
 | ------------------ | ----------------- | -------------------- |
 | **Price savings**  | ~\$450-550 (60%)  | ~\$50-100 (15%)      |
-| **Weight savings** | 85g lighter       | 145g lighter         |
+| **Weight**         | 146g heavier      | 86g heavier          |
 | **Close focus**    | 7cm longer        | 11cm shorter         |
 | **AF speed**       | Slower (STM)      | Similar (STM)        |
 
 **When to choose 7Artisans over Sony:**
 - ✅ Budget is a primary concern
-- ✅ Weight is critical (travel, extended shooting)
 - ✅ Kids photography is NOT the primary use case (landscape, street, travel)
 - ✅ "Try before you buy" — validate 35mm as your focal length
 
@@ -820,5 +951,31 @@ The 7Artisans AF 35mm f/1.8 at **\$299** represents a significant shift in the b
 
 ---
 
+### 🌙 New Option: SIRUI Aurora 35mm f/1.4 Analysis
+
+The SIRUI Aurora 35mm f/1.4 at **~\$549-599** offers the fastest aperture in this comparison:
+
+| Metric          | SIRUI vs Sony f/1.8 | SIRUI vs 7Artisans |
+| --------------- | ------------------- | ------------------ |
+| **Price**       | ~\$150-300 cheaper  | ~\$250-300 more    |
+| **Aperture**    | **2/3 stop faster** | **2/3 stop faster**|
+| **Weight**      | 200g heavier        | 54g heavier        |
+| **Bokeh**       | Better (15 blades)  | Better (15 blades) |
+| **AF speed**    | Similar (STM)       | Similar (STM)      |
+
+**When to choose SIRUI Aurora:**
+- ✅ Low-light is critical (galas, night cities, dark museums)
+- ✅ Bokeh quality is a priority (15 blades = exceptional)
+- ✅ Video work (declickable aperture ring)
+- ✅ Want f/1.4 without paying Sony GM prices (~\$1,400)
+
+**When to choose Sony f/1.8 over SIRUI f/1.4:**
+- ✅ Kids photography priority (Sony's linear motor is faster)
+- ✅ Weight matters (280g vs ~480g)
+- ✅ Close focus needed (22cm vs ~35cm)
+
+---
+
 *This recommendation is based on analysis of 75,974+ photos from your personal archive,
-optimized for your Sony A7C II and specific use cases. Updated 5 February 2026 to include 7Artisans AF 35mm f/1.8.*
+optimized for your Sony A7C II and specific use cases. Updated 6 February 2026 to include
+7Artisans AF 35mm f/1.8 and SIRUI Aurora 35mm f/1.4.*

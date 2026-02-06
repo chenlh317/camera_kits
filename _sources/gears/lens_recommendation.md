@@ -1,7 +1,7 @@
 # Complete Camera Gear Recommendation: Data-Driven Analysis <!-- omit in toc -->
 
 - **Analysis Date:** 16 January, 2026
-- **Last Updated:** 5 February, 2026
+- **Last Updated:** 6 February, 2026
 - **Data Source:** 70 photo collections spanning 2004-2025
   PLUS 12 mobile phone archives (2006-2026)
 - **Total Photos Analyzed:** 75,974 with 35mm equivalent focal length data
@@ -12,6 +12,8 @@
   telephoto usage patterns — see [Can You Retire the HX90?](can-you-retire-hx90)
 - **NEW (Feb 2026):** Added "Mixed Nature" trip strategy and 70-180mm f/2.8 detour analysis
   for Option 1C (Two-Lens Flexibility)
+- **NEW (Feb 2026):** Added Option 1D — Tamron 25-200mm first, SEL2070G later
+  (reverse staged investment for balanced immediate upgrade)
 - **NEW (Feb 2026):** Image quality comparison across focal ranges
   ("Bicycle vs Sedan" HX90 vs Superzoom; "Economy vs Luxury Sedan" Sigma vs SEL2070G;
   "Mid-trim vs Fully-loaded Sedan" Sigma vs Tamron at telephoto)
@@ -29,7 +31,7 @@ optimized for your shooting style.**
 (top-gear-recommendations)=
 ### 🎯 Top Gear Recommendations
 
-**Three Top Lens Strategies (Plus One Alternative - Choose Based on Your Priorities):**
+**Four Top Lens Strategies (Plus One Alternative - Choose Based on Your Priorities):**
 
 ---
 
@@ -96,6 +98,21 @@ accept the optical compromises and keep HX90 only for nature/wildlife trips
 safari/wildlife trips are planned events;
 you prefer buying the right tool when actually needed
 
+---
+
+**🌟 Option 1D: Reverse Staged Investment Strategy** - ~\$1,000-1,300 now + ~\$1,100 later | **Balanced Immediate Upgrade**
+
+**Why this strategy:**
+- **Buy Tamron 25-200mm now:** Instant quality leap for BOTH 25-70mm AND 70-200mm ranges
+- **25mm = no loss vs current kit:** Your A550 + SAL1650 has 24mm equivalent anyway
+- **Immediate telephoto upgrade:** No waiting — you use 70-200mm on city trips too, not just safari
+- **Buy SEL2070G later:** Only if you genuinely need 20mm wide-angle or G-series perfection
+- **Minimize unused lens risk:** May never need SEL2070G if 25mm serves you well
+
+**Choose this if:** You want balanced upgrade across all focal lengths NOW;
+immediate 70-200mm quality matters;
+you're okay staying at 25mm wide end (same as your current 24mm)
+
 **Camera Body: Sony A7C II or A7 IV** - ~\$2,200-2,500
 
 **Why these bodies:**
@@ -159,7 +176,7 @@ for details).
 (your-complete-kit-strategy)=
 ### 🎒 Your Complete Kit Strategy
 
-**Three Recommended Systems (Choose Based on Priorities):**
+**Four Recommended Systems (Choose Based on Priorities):**
 
 **Option 1A: SEL2070G + Keep HX90 (Maximum Quality in Primary Zone)** → *See [Option 1A](option-1a-sony-sel2070g-fe-20-70mm-f4-g---best-quality-in-primary-zone)*
 1. **Sony A7C II or A7 IV body** (~\$2,200-2,500)
@@ -193,12 +210,24 @@ for details).
   + avoid optical compromises
 - 💡 **Same initial purchase as Option 1A** — you can decide later whether to add Tamron
 
+**🌟 Option 1D: Reverse Staged Investment (Tamron Now + SEL2070G Later)** → *See [Option 1D](option-1d-reverse-staged-investment-tamron-now--sel2070g-later)*
+1. **Sony A7C II or A7 IV body** (~\$2,200-2,500)
+2. **Tamron 25–200mm f/2.8–5.6 Di III VXD G2** (~\$1,000-1,300, ~570g) - Primary lens covering 25-200mm
+3. **Sony FE 85mm f/1.8** (~\$550-600, 371g) - Low-light portraits
+4. **Mobile** (already own) - Ultra-wide (13mm) + convenience
+5. **SEL2070G (20–70mm f/4 G)** (~\$1,100) - Buy later if 20mm or G-series quality genuinely needed
+- **Immediate Total:** ~\$3,750-4,400 | **Eventual Total:** ~\$4,850-5,500
+- **Best for:** Balanced immediate upgrade across ALL focal lengths;
+  instant 70-200mm quality leap; minimal unused lens risk
+- 💡 **May never need SEL2070G** — if 25mm wide end serves you well
+
 **Coverage:** All options provide 95%+ of your documented photography needs
 
 **Key Decision:**
 - **Quality in 20–70mm:** Option 1A or **Option 1C** (G-series excellence)
 - **Kit simplification now:** Option 1B (with optical trade-offs)
 - **Financial flexibility + no compromises:** **🌟 Option 1C** (staged purchase)
+- **Balanced immediate upgrade:** **🌟 Option 1D** (Tamron first, SEL2070G optional later)
 
 (what-this-document-includes)=
 ### 📸 What This Document Includes
@@ -219,15 +248,17 @@ for details).
 Either A7C II or A7 IV works perfectly for your style.
 For lens choice:
 
-| Option | Strategy                                    | Best For                                 |
-| ------ | ------------------------------------------- | ---------------------------------------- |
-| **1A** | SEL2070G (20–70mm f/4 G)                    | Best optical quality in your 85-90% zone |
-| **1B** | Sigma 20–200mm f/3.5–6.3 DG DN Contemporary | Kit simplification + retire HX90         |
-| **1C** | SEL2070G now + Tamron later                 | Staged investment + flexibility          |
-| **3**  | 16–35mm f/4 + 85mm prime                    | *Alternative:* Ultra-wide specialization |
+| Option | Strategy                                    | Best For                                     |
+| ------ | ------------------------------------------- | -------------------------------------------- |
+| **1A** | SEL2070G (20–70mm f/4 G)                    | Best optical quality in your 85-90% zone     |
+| **1B** | Sigma 20–200mm f/3.5–6.3 DG DN Contemporary | Kit simplification + retire HX90             |
+| **1C** | SEL2070G now + Tamron later                 | Staged investment + flexibility              |
+| **1D** | Tamron now + SEL2070G later                 | Balanced immediate upgrade across all ranges |
+| **3**  | 16–35mm f/4 + 85mm prime                    | *Alternative:* Ultra-wide specialization     |
 
-All three top strategies (1A, 1B, 1C) are equally valid - the decision depends on whether you prioritize
-optical excellence (1A), kit simplification (1B), or staged flexibility (1C).
+All four top strategies (1A, 1B, 1C, 1D) are equally valid - the decision depends on whether you prioritize
+optical excellence (1A), kit simplification (1B), staged flexibility with G-series first (1C),
+or balanced immediate upgrade across all focal lengths (1D).
 Option 3 is an alternative for landscape-focused photographers who accept a 35-85mm gap.
 
 ---
@@ -259,7 +290,7 @@ Option 3 is an alternative for landscape-focused photographers who accept a 35-8
   - ["Selected" Subfolder Analysis: What You Actually Keep](#selected-subfolder-analysis-what-you-actually-keep)
   - [Companion/Collaborative Photography Patterns](#companioncollaborative-photography-patterns)
 - [🎯 LENS RECOMMENDATIONS](lens-recommendations)
-  - [⭐ **TOP RECOMMENDATIONS: Three Excellent Options**](top-recommendations-three-excellent-options)
+  - [⭐ **TOP RECOMMENDATIONS: Four Excellent Options**](top-recommendations-four-excellent-options)
   - [⭐ **Option 1A: Sony SEL2070G (FE 20-70mm f/4 G)** - Best Quality in Primary Zone](option-1a-sony-sel2070g-fe-20-70mm-f4-g---best-quality-in-primary-zone)
     - [Perfect Focal Length Range](#perfect-focal-length-range)
     - [Ideal Ecosystem Integration](#ideal-ecosystem-integration)
@@ -280,6 +311,13 @@ Option 3 is an alternative for landscape-focused photographers who accept a 35-8
     - [When to Buy the Superzoom](#when-to-buy-the-superzoom)
     - [Why Tamron Over Sigma for Phase 2](#why-tamron-over-sigma-for-phase-2)
     - [🔎 Detour: What About a Dedicated 70-180mm f/2.8?](detour-70-180mm-f28)
+  - [⭐ **Option 1D: Reverse Staged Investment (Tamron Now + SEL2070G Later)**](option-1d-reverse-staged-investment-tamron-now--sel2070g-later)
+    - [The Core Insight: Opposite of 1C](#the-core-insight-opposite-of-1c)
+    - [The Reverse Strategy](#the-reverse-strategy)
+    - [Why This Makes Sense for You](#why-1d-makes-sense-for-you)
+    - [Complete Kit Analysis](#complete-kit-analysis-1d)
+    - [Trade-offs vs Option 1C](#trade-offs-vs-option-1c)
+    - [When to Buy SEL2070G](#when-to-buy-sel2070g)
 - [Alternative Options](#alternative-options)
   - [Option 2: **24-70mm f/2.8 or f/4** (Most Versatile)](#option-2-24-70mm-f28-or-f4-most-versatile)
   - [Option 3: **16-35mm f/4** (Ultra-Wide Specialist)](#option-3-16-35mm-f4-ultra-wide-specialist)
@@ -295,7 +333,7 @@ Option 3 is an alternative for landscape-focused photographers who accept a 35-8
   - [Detailed: Sigma 20-200mm f/3.5-6.3 DG DN Contemporary](#detailed-sigma-20-200mm-f35-63-dg-dn-contemporary)
   - [Detailed: Tamron 25-200mm f/2.8-5.6 Di III VXD G2](#detailed-tamron-25-200mm-f28-56-di-iii-vxd-g2)
   - [🎯 Recommendation: Sigma vs Tamron for Your Use Case](recommendation-sigma-vs-tamron-for-your-use-case)
-  - [📊 Complete Kit Comparison: Three Strategies](complete-kit-comparison-three-strategies)
+  - [📊 Complete Kit Comparison: Four Strategies](complete-kit-comparison-four-strategies)
   - [Final Verdict on Superzoom Strategy](#final-verdict-on-superzoom-strategy)
 - [🎒 Practicality Reality Check: Two Zooms (20-70mm + 70-200mm) on Non-Photography Trips](practicality-reality-check-two-zooms-20-70mm--70-200mm-on-non-photography-trips)
   - [The Two-Zoom Dream vs. Reality](#the-two-zoom-dream-vs-reality)
@@ -320,15 +358,16 @@ Option 3 is an alternative for landscape-focused photographers who accept a 35-8
   - [Choose **SEL2070G 20-70mm f/4 G** (Options 1A or 1C) if:](#choose-sel2070g-20-70mm-f4-g-options-1a-or-1c-if)
   - [Choose **Sigma 20-200mm f/3.5-6.3 DG DN** (Option 1B) if:](#choose-sigma-20-200mm-f35-63-dg-dn-option-1b-if)
   - [Choose **Two-Lens Flexibility Strategy** (Option 1C) if:](#choose-two-lens-flexibility-strategy-option-1c-if)
+  - [Choose **Reverse Staged Investment** (Option 1D) if:](#choose-reverse-staged-investment-option-1d-if)
   - [Choose **24-70mm f/2.8 GM** if:](#choose-24-70mm-f28-gm-if)
   - [Choose **16-35mm f/4** if:](#choose-16-35mm-f4-if)
 - [⚠️ Critical Insights About Your Photography](critical-insights-about-your-photography)
 - [Conclusion](#conclusion)
-  - [**Three Excellent Strategies - Quick Summary**](#three-excellent-strategies---quick-summary)
+  - [**Four Excellent Strategies - Quick Summary**](#four-excellent-strategies---quick-summary)
   - [**Alternative Strategies**](#alternative-strategies)
 - [📌 Quick Reference Summary](quick-reference-summary)
 - [🎯 Bottom Line: Your Optimal Lens Strategy](bottom-line-your-optimal-lens-strategy)
-  - [Your Three Top Strategies (Plus Alternative)](#your-three-top-strategies-plus-alternative)
+  - [Your Four Top Strategies (Plus Alternative)](#your-four-top-strategies-plus-alternative)
 - [Notes](#notes)
   - [Sources and Citations](#sources-and-citations)
 
@@ -971,21 +1010,22 @@ Your 65-80% wide-angle usage isn't because:
  (lens-recommendations)=
 ## 🎯 LENS RECOMMENDATIONS
 
-(top-recommendations-three-excellent-options)=
-### ⭐ **TOP RECOMMENDATIONS: Three Excellent Options**
+(top-recommendations-four-excellent-options)=
+### ⭐ **TOP RECOMMENDATIONS: Four Excellent Options**
 
 **Based on your 75,974 photos analyzed,
-you have three excellent lens strategies:**
+you have four excellent lens strategies:**
 
-| Rank    | Lens / Strategy                             | Price        | Best For                                                  |
-| ------- | ------------------------------------------- | ------------ | --------------------------------------------------------- |
-| **#1A** | Sony SEL2070G (20–70mm f/4 G)               | ~\$1,100     | Maximum quality in 20–70mm (your 85-90% zone)             |
-| **#1B** | Sigma 20–200mm f/3.5–6.3 DG DN Contemporary | ~\$900-1,100 | Kit simplification + retire HX90 (but optical trade-offs) |
-| **#1C** | SEL2070G now + Tamron 25–200mm later        | ~\$1,100 now | Staged investment + right tool for each trip type         |
+| Rank    | Lens / Strategy                             | Price          | Best For                                                  |
+| ------- | ------------------------------------------- | -------------- | --------------------------------------------------------- |
+| **#1A** | Sony SEL2070G (20–70mm f/4 G)               | ~\$1,100       | Maximum quality in 20–70mm (your 85-90% zone)             |
+| **#1B** | Sigma 20–200mm f/3.5–6.3 DG DN Contemporary | ~\$900-1,100   | Kit simplification + retire HX90 (but optical trade-offs) |
+| **#1C** | SEL2070G now + Tamron 25–200mm later        | ~\$1,100 now   | Staged investment + right tool for each trip type         |
+| **#1D** | Tamron 25–200mm now + SEL2070G later        | ~\$1,000-1,300 | Balanced immediate upgrade across all focal lengths       |
 
 > 💡 **Practical Note:** Options 1A and 1C start with the **same purchase** (SEL2070G ~\$1,100).
-> Buy the SEL2070G now, then decide later whether to keep HX90 long-term (1A)
-> or add Tamron when a safari/wildlife trip materializes (1C).
+> Options 1B and 1D both prioritize immediate telephoto quality,
+> but 1D (Tamron) has better telephoto aperture and avoids 1B's wide-angle distortion issues.
 
 ---
 
@@ -1407,6 +1447,140 @@ but **probably doesn't fit your documented patterns well**:
 **The 70-180mm f/2.8 becomes compelling only if** you develop a specific telephoto-heavy use case
 (wildlife photography hobby, child sports coverage, event photography)
 that your data doesn't currently show.
+
+---
+
+(option-1d-reverse-staged-investment-tamron-now--sel2070g-later)=
+### ⭐ **Option 1D: Reverse Staged Investment (Tamron Now + SEL2070G Later)**
+
+> 💡 **This is the opposite of Option 1C.** Instead of prioritizing G-series quality at 20-70mm first,
+> this strategy prioritizes a **balanced immediate upgrade** across ALL focal lengths.
+
+**This approach addresses concerns about waiting for telephoto quality improvement
+while providing a massive upgrade over your current A550 + SAL1650 kit:**
+
+(the-core-insight-opposite-of-1c)=
+#### The Core Insight: Opposite of 1C
+
+Option 1C says: *"Buy the best quality where you shoot most (20-70mm), defer telephoto."*
+
+Option 1D says: *"Buy good quality everywhere NOW, defer perfection."*
+
+**Your current kit reality:**
+- Sony A550 + SAL1650 = **24mm equivalent starting point**
+- Tamron 25-200mm = **25mm starting point (essentially the same)**
+- The comparison isn't "Tamron vs SEL2070G" — it's "A7Cii + Tamron vs A550 + SAL1650"
+
+From that perspective, **even Tamron's "superzoom compromises" represent a dramatic upgrade**
+in your primary 25-70mm zone — just not G-series perfection.
+
+(the-reverse-strategy)=
+#### The Reverse Strategy
+
+**Phase 1: Buy Tamron 25-200mm Now (~\$1,000-1,300)**
+- Covers 25-200mm with full-frame quality on A7Cii.
+- **25mm wide end = no regression** from your current 24mm equivalent.
+- **Instant telephoto quality leap:** 70-200mm goes from HX90's 1/2.3-inch sensor to full-frame.
+- **f/2.8 at 25mm, f/5.6 at 200mm** — faster than Sigma throughout the range.
+- You use 70-200mm on city trips too, not just safari — why wait?
+
+**Phase 2: Buy SEL2070G Later (If Needed, ~\$1,100)**
+- Purchase only if you genuinely need 20mm wide-angle.
+- Purchase if you want G-series optical perfection at 20-70mm.
+- Could be months, years, or never — defer the expense.
+- **Mobile 13mm ultra-wide** bridges dramatic wide-angle needs in the meantime.
+
+**Trip-by-Trip Lens Selection (After Phase 1):**
+
+| Trip Type                      | Lens to Pack      | Why                                           |
+| ------------------------------ | ----------------- | --------------------------------------------- |
+| **City travel (90% of trips)** | Tamron 25–200mm   | One lens covers everything; immediate quality |
+| **Safari/wildlife trips**      | Tamron 25–200mm   | Full-frame telephoto; no waiting              |
+| **Architecture-focused trips** | Consider SEL2070G | If 20mm and distortion-free wide-angle matter |
+| **Mixed nature** (after Ph. 2) | Both lenses       | G-series for landscapes, Tamron for wildlife  |
+
+(why-1d-makes-sense-for-you)=
+#### Why This Makes Sense for You
+
+**1. Your Data Supports This:**
+- **25mm ≈ 24mm** — You've been shooting at 24mm for years; 25mm is essentially the same.
+- **70-200mm usage is real:** You mentioned using this range on city trips, not just safari.
+- **A550 → A7Cii is the big upgrade:** Even Tamron's "compromises" are dramatically better than your current kit.
+
+**2. Immediate Balanced Upgrade:**
+- Option 1C gives "perfection in one zone, nothing in another" initially.
+- Option 1D gives "very good everywhere" immediately.
+- No waiting for telephoto quality improvement.
+
+**3. You Use 70-200mm Regularly:**
+- Unlike Option 1C which assumes telephoto is only for safari.
+- Your city trips include telephoto moments worth capturing well.
+- **Instant quality leap from HX90** — no more waiting.
+
+**4. Minimal Unused Lens Risk:**
+- If 25mm serves you well (it's what you've had for years), you may **never need SEL2070G**.
+- Avoids accumulating lenses you don't really use.
+- If you DO need 20mm or G-series quality later, SEL2070G is always available.
+
+**5. Mobile Bridges Ultra-Wide Gap:**
+- Samsung S25's 13mm ultra-wide handles dramatic wide shots.
+- 8% of your S25 photos are at 13mm — you actively use this when needed.
+- The 20mm vs 25mm difference may matter less than you think.
+
+(complete-kit-analysis-1d)=
+#### Complete Kit Analysis
+
+**Immediate Purchase:**
+
+| Lens/Device                             | Cost               | Weight | Role                            |
+| --------------------------------------- | ------------------ | ------ | ------------------------------- |
+| Tamron 25–200mm f/2.8–5.6 Di III VXD G2 | ~\$1,000-1,300     | ~570g  | Primary lens covering 25-200mm  |
+| Sony FE 85mm f/1.8                      | ~\$550-600         | 371g   | Low-light portraits             |
+| Mobile                                  | (owned)            | —      | Ultra-wide (13mm) + convenience |
+| **Total immediate investment:**         | **~\$1,550-1,900** |        |                                 |
+
+**Future Purchase (If Needed):**
+
+| Lens/Device                    | Cost               | Weight | Role                             |
+| ------------------------------ | ------------------ | ------ | -------------------------------- |
+| SEL2070G (20–70mm f/4 G)       | ~\$1,100           | 488g   | G-series quality + 20mm wide end |
+| **Total eventual investment:** | **~\$2,650-3,000** |        | (but may not be needed)          |
+
+(trade-offs-vs-option-1c)=
+#### Trade-offs vs Option 1C
+
+| Factor                         | **Option 1C** (SEL2070G first)  | **Option 1D** (Tamron first)            |
+| ------------------------------ | ------------------------------- | --------------------------------------- |
+| **Immediate 20-70mm quality**  | ⭐ G-series excellence           | Good (superzoom, but huge A550 upgrade) |
+| **Immediate 70-200mm quality** | HX90 unchanged                  | ⭐ Full-frame NOW                        |
+| **Breaks 24mm constraint?**    | ✅ Yes (20mm)                    | ❌ No (25mm ≈ your current 24mm)         |
+| **Balanced experience**        | Skewed: perfect wide, poor tele | ⭐ Good everywhere                       |
+| **Single-lens simplicity**     | No (SEL2070G + HX90)            | ⭐ Yes (Tamron covers 95%)               |
+| **Unused lens risk**           | Lower (SEL2070G always useful)  | ⭐ Lower (may never need SEL2070G)       |
+| **If you add 2nd lens later**  | Tamron for safari only          | SEL2070G creates 25-70mm overlap        |
+| **Mobile bridges gap?**        | HX90 for telephoto              | ⭐ 13mm ultra-wide for dramatic shots    |
+| **Immediate cost**             | ~\$1,650-1,700                  | ~\$1,550-1,900                          |
+| **Eventual cost**              | ~\$2,650-3,000                  | ~\$2,650-3,000 (if SEL2070G added)      |
+
+(when-to-buy-sel2070g)=
+#### When to Buy SEL2070G
+
+**Buy SEL2070G if:**
+- ✅ You genuinely miss the 20mm wide-angle after using 25mm.
+- ✅ Architecture photography with critical straight lines becomes important.
+- ✅ You want G-series optical perfection for serious landscape work.
+- ✅ The 25-70mm overlap doesn't bother you (use SEL2070G for city, Tamron for safari).
+
+**Don't rush to buy if:**
+- ❌ 25mm is serving you well (it's what you've had for years).
+- ❌ Mobile 13mm handles your ultra-wide needs.
+- ❌ You're happy with Tamron's 25-70mm quality (which is still a massive upgrade from A550).
+
+**Bottom Line:** Option 1D is the **"balanced upgrade now, perfection later"** approach.
+It trades G-series excellence at 20-70mm for **immediate quality improvement everywhere**,
+including the 70-200mm range you use on city trips.
+Your instinct is correct — this is a pragmatic strategy that minimizes waiting
+and reduces the risk of accumulating lenses you don't need.
 
 ---
 
@@ -1875,8 +2049,8 @@ the SEL2070G remains the better choice for your primary 20-70mm zone.
 - **Less ideal for you as primary lens** - Wide end doesn't improve your constraint.
 - ✅ **Excellent for Option 1C** - Buy later when safari/wildlife trip is planned.
 
-(complete-kit-comparison-three-strategies)=
-### 📊 Complete Kit Comparison: Three Strategies
+(complete-kit-comparison-four-strategies)=
+### 📊 Complete Kit Comparison: Four Strategies
 
 **Option 1A: SEL2070G + 85mm + HX90 (Maximum Quality at 20-70mm)**
 
@@ -1925,22 +2099,45 @@ the SEL2070G remains the better choice for your primary 20-70mm zone.
 >
 > ✅ Benefit: G-series quality now, superzoom quality later when actually needed
 
-**Key Trade-offs (Three-Way Comparison):**
+**🌟 Option 1D: Reverse Staged Investment (Tamron Now + SEL2070G Later)**
 
-| Factor                 | Option 1A (SEL2070G)            | Option 1B (Sigma 20-200mm)        | Option 1C (Two-Lens)               |
-| ---------------------- | ------------------------------- | --------------------------------- | ---------------------------------- |
-| **Wide-angle quality** | ⭐ Excellent (G-series)          | Good center, distortion at edges* | ⭐ Excellent (G-series)             |
-| **20mm distortion**    | ⭐ Minimal                       | **Severe (-8.55% barrel)**        | ⭐ Minimal (SEL2070G)               |
-| **70–200mm quality**   | HX90 (1/2.3-inch sensor)        | **Full-frame (massive upgrade)**  | ⭐ Tamron f/2.8–5.6 (when needed)   |
-| **200mm sharpness**    | N/A (HX90 handles)              | Weakest point of lens             | ⭐ Better (Tamron lens design)      |
-| **Weight per trip**    | 859g (3 devices)                | **~941g (2 devices)**             | 859g city / ~570g safari           |
-| **Simplicity NOW**     | 3 devices to manage             | **2 devices, one lens for 95%**   | 3 devices (HX90 bridges gap)       |
-| **Low-light wide**     | f/4 constant                    | f/3.5 (slightly better)           | f/4 constant                       |
-| **Low-light tele**     | HX90 struggles                  | f/6.3 + full-frame (better)       | ⭐ f/5.6 + full-frame (best)        |
-| **Vignetting**         | ⭐ Well-controlled               | Heavy on full frame*              | ⭐ Well-controlled (both lenses)    |
-| **Cost NOW**           | ~\$1,650-1,700                  | ~\$1,450-1,700                    | ~\$1,650-1,700                     |
-| **Cost EVENTUAL**      | ~\$1,650-1,700 (may add 70-200) | ~\$1,450-1,700 (complete)         | ~\$2,650-3,000 (if safari planned) |
-| **Trip flexibility**   | One kit always                  | One kit always                    | ⭐ Right lens for each trip         |
+**Phase 1 - Buy Now (All Trip Types):**
+
+| Lens/Device                             | Range              | Weight    | Cost               | Role                            |
+| --------------------------------------- | ------------------ | --------- | ------------------ | ------------------------------- |
+| Tamron 25–200mm f/2.8–5.6 Di III VXD G2 | 25–200mm f/2.8–5.6 | ~570g     | ~\$1,000-1,300     | Primary (95%)                   |
+| Sony FE 85mm f/1.8                      | 85mm f/1.8         | 371g      | ~\$550-600         | Low-light portraits             |
+| Mobile                                  | 13–69mm            | N/A       | (owned)            | Ultra-wide (13mm) + convenience |
+| **Total primary kit:**                  |                    | **~941g** | **~\$1,550-1,900** | **Devices: 2**                  |
+
+**Phase 2 - Buy Later (If Needed):**
+
+| Lens/Device              | Range       | Weight | Cost     | Role                         |
+| ------------------------ | ----------- | ------ | -------- | ---------------------------- |
+| SEL2070G (20–70mm f/4 G) | 20–70mm f/4 | 488g   | ~\$1,100 | G-series quality + 20mm wide |
+
+> Coverage: 95%+ now | Eventual total: ~\$2,650-3,000 (if SEL2070G added)
+>
+> ✅ Benefit: Balanced upgrade everywhere NOW; may never need SEL2070G
+
+**Key Trade-offs (Four-Way Comparison):**
+
+| Factor                 | Option 1A (SEL2070G)            | Option 1B (Sigma 20-200mm)        | Option 1C (SEL2070G first)         | Option 1D (Tamron first)             |
+| ---------------------- | ------------------------------- | --------------------------------- | ---------------------------------- | ------------------------------------ |
+| **Wide-angle quality** | ⭐ Excellent (G-series)          | Good center, distortion at edges* | ⭐ Excellent (G-series)             | Good (superzoom, but A550 upgrade)   |
+| **20mm available?**    | ⭐ Yes                           | ⭐ Yes                             | ⭐ Yes                              | ❌ No (25mm start)                    |
+| **20mm distortion**    | ⭐ Minimal                       | **Severe (-8.55% barrel)**        | ⭐ Minimal (SEL2070G)               | N/A (25mm)                           |
+| **70–200mm quality**   | HX90 (1/2.3-inch sensor)        | **Full-frame (massive upgrade)**  | ⭐ Tamron f/2.8–5.6 (when bought)   | ⭐ **Full-frame NOW**                 |
+| **200mm sharpness**    | N/A (HX90 handles)              | Weakest point of lens             | ⭐ Better (Tamron lens design)      | ⭐ Better (Tamron lens design)        |
+| **Weight per trip**    | 859g (3 devices)                | **~941g (2 devices)**             | 859g city / ~570g safari           | **~941g (2 devices)**                |
+| **Simplicity NOW**     | 3 devices to manage             | **2 devices, one lens for 95%**   | 3 devices (HX90 bridges gap)       | ⭐ **2 devices, one lens for 95%**    |
+| **Low-light wide**     | f/4 constant                    | f/3.5 (slightly better)           | f/4 constant                       | **f/2.8** (fastest)                  |
+| **Low-light tele**     | HX90 struggles                  | f/6.3 + full-frame (better)       | ⭐ f/5.6 + full-frame (best)        | ⭐ **f/5.6 + full-frame NOW**         |
+| **Vignetting**         | ⭐ Well-controlled               | Heavy on full frame*              | ⭐ Well-controlled (both lenses)    | Good (Tamron better than Sigma)      |
+| **Cost NOW**           | ~\$1,650-1,700                  | ~\$1,450-1,700                    | ~\$1,650-1,700                     | ~\$1,550-1,900                       |
+| **Cost EVENTUAL**      | ~\$1,650-1,700 (may add 70-200) | ~\$1,450-1,700 (complete)         | ~\$2,650-3,000 (if safari planned) | ~\$2,650-3,000 (if SEL2070G added)   |
+| **Trip flexibility**   | One kit always                  | One kit always                    | ⭐ Right lens for each trip         | One lens now; add SEL2070G if needed |
+| **Balanced upgrade**   | Skewed to wide zone             | Balanced but optical compromises  | Skewed to wide zone initially      | ⭐ **Balanced everywhere NOW**        |
 
 *Per LensTip technical review, Jan 2026. Software correction handles most issues automatically.
 
@@ -2006,12 +2203,21 @@ The Sigma 20-200mm remains compelling for your use case IF:
 - HX90 is adequate for rare city telephoto shots (2-5% of shots).
 - You may not need a superzoom for years—defer the investment.
 
+**Consider Option 1D (Reverse Staged Investment) IF:**
+- You want **balanced upgrade across ALL focal lengths NOW** — not just 20-70mm.
+- You use 70-200mm regularly on city trips, not just safari.
+- 25mm wide end is acceptable (same as your current 24mm equivalent).
+- You prefer **immediate telephoto quality leap** over waiting.
+- You want to minimize unused lens accumulation — may never need SEL2070G.
+- Mobile 13mm ultra-wide can handle dramatic wide shots when needed.
+
 **Bottom Line:**
 - **Maximum quality at 20-70mm:** SEL2070G + HX90 (Option 1A)
 - **Maximum convenience for city trips:** Sigma 20-200mm (Option 1B)—but with optical caveats per LensTip review;
   still consider keeping HX90 for nature/wildlife trips
-- **Best of both worlds with staged investment:** SEL2070G now + Tamron later (Option 1C) — **Recommended**
-  given new analysis showing HX90's 300-720mm range is genuinely useful for "telescope documentary" shots
+- **G-series first with staged investment:** SEL2070G now + Tamron later (Option 1C)
+- **Balanced immediate upgrade:** Tamron now + SEL2070G later (Option 1D) — **Also Recommended**
+  if you want quality improvement everywhere NOW
 
 **NEW Insight (Feb 2026):** Analysis of 1,280 photos at 300mm+ reveals heavy usage
 at 450-720mm for wildlife/documentary shots. While 105-299mm photos (2,036 analyzed)
@@ -2152,14 +2358,15 @@ in exchange for dramatically simpler workflow and lighter kit.
 | **Option 1A: SEL2070G + HX90**           | ✅ Good choice               | G-series quality + HX90 telephoto backup       |
 | **Option 1B: Sigma 20-200mm**            | ✅ **Strongly recommended**  | One lens, zero swaps, full coverage            |
 | **Option 1C: SEL2070G (+ Tamron later)** | ✅ **Excellent flexibility** | Right tool for each trip; city OR mixed nature |
+| **Option 1D: Tamron (+ SEL2070G later)** | ✅ **Balanced upgrade**      | One lens, full coverage, better tele than 1B   |
 | **SEL2070G + 70-200mm**                  | ⚠️ **Consider carefully**    | Substantial complexity for occasional benefit  |
 | **Three-lens kit**                       | ❌ Avoid                     | Diminishing returns, maximum hassle            |
 
 **Key principle:** Match your gear complexity to your trip type.
 - Photography trip → Consider two zooms
-- Safari/wildlife trip → Bring Tamron 25-200mm alone (Option 1C Phase 2)
+- Safari/wildlife trip → Tamron 25-200mm alone (Option 1C Phase 2 or Option 1D Phase 1)
 - Mixed nature trip → SEL2070G + Tamron 25-200mm (both lenses, swap as needed)
-- Family/casual city travel → SEL2070G alone is sufficient (Options 1A or 1C)
+- Family/casual city travel → SEL2070G alone (1A/1C) or Tamron alone (1D)
 
 ### The Decision Matrix
 
@@ -2186,8 +2393,18 @@ in exchange for dramatically simpler workflow and lighter kit.
 - ✅ HX90 adequately handles rare city telephoto needs
 - ✅ For "mixed nature" trips, you're willing to bring both lenses and swap as needed
 
+**Choose Reverse Staged Investment (Option 1D) IF:**
+- ✅ You want balanced upgrade across ALL focal lengths NOW
+- ✅ You use 70-200mm regularly on city trips too, not just safari
+- ✅ 25mm wide end is acceptable (same as your current 24mm equivalent)
+- ✅ You prefer immediate telephoto quality leap over waiting
+- ✅ You want single-lens simplicity like Option 1B but with better telephoto quality
+- ✅ Mobile 13mm ultra-wide can bridge dramatic wide-angle needs
+- ⚠️ You accept not having 20mm wide-angle initially (but can add SEL2070G later)
+
 **This analysis supports multiple strategies depending on your priorities.
-For maximum simplicity NOW, Option 1B (Sigma). For maximum quality in your primary zone, Options 1A or 1C.**
+For maximum simplicity NOW, Option 1B (Sigma) or **Option 1D (Tamron)**.
+For maximum quality in your primary zone, Options 1A or 1C.**
 
 ---
 
@@ -2526,9 +2743,9 @@ Note: IBIS and card slot specs verified via Sony product pages for A7C II (ILCE�
 **Critical: Try both in person before buying** - The grip difference is
 significant and highly subjective. What feels "too small" to one person feels "perfect" to another.
 
-**Your Complete Recommended Kit (Three Top Lens Strategies):**
+**Your Complete Recommended Kit (Four Top Lens Strategies):**
 
-The camera body options below work with any of the three top lens strategies (1A, 1B, or 1C).
+The camera body options below work with any of the four top lens strategies (1A, 1B, 1C, or 1D).
 Option 3 (16-35mm f/4 + 85mm) is also compatible if you prefer ultra-wide specialization.
 
 **Camera Body Option A: Maximum Portability (A7C II)**
@@ -2606,6 +2823,20 @@ comfort - personal preference determines which is right for you.
 - ✅ Budget: ~\$1,650-1,700 now for lenses (SEL2070G + 85mm); superzoom ~\$1,000-1,300 can wait.
 - ✅ **Best for:** Photographers who mostly travel cities and prefer buying the right tool when actually needed.
 
+### Choose **Reverse Staged Investment** (Option 1D) if:
+
+- ✅ **You want balanced upgrade across ALL focal lengths NOW** — not just 20-70mm.
+- ✅ **You use 70-200mm on city trips too** — not just safari/wildlife.
+- ✅ **25mm wide end is acceptable** — same as your current 24mm equivalent (no regression).
+- ✅ **You prefer immediate telephoto quality leap** — no waiting for HX90 replacement.
+- ✅ **You want single-lens simplicity** — like Option 1B, but with better telephoto quality (Tamron's f/5.6 > Sigma's f/6.3).
+- ✅ **Mobile 13mm ultra-wide can bridge dramatic wide-angle needs** — you already use this 8% of the time.
+- ✅ **You want to minimize unused lens risk** — may never need SEL2070G if 25mm serves you well.
+- ⚠️ You accept not having 20mm initially — can add SEL2070G later if genuinely needed.
+- ✅ Budget: ~\$1,550-1,900 now for lenses (Tamron + 85mm); SEL2070G ~\$1,100 is optional later.
+- ✅ **Best for:** Photographers who want quality improvement everywhere NOW
+  and may never need G-series perfection at wide-angle.
+
 ### Choose **24-70mm f/2.8 GM** if:
 
 - ⚠️ You absolutely need f/2.8 for low-light work.
@@ -2673,22 +2904,24 @@ comfort - personal preference determines which is right for you.
 
 ## Conclusion
 
-### **Three Excellent Strategies - Quick Summary**
+### **Four Excellent Strategies - Quick Summary**
 
 Based on **75,974 photos analyzed** across 21 years,
 here's the bottom line:
 
-| Your Priority                              | Best Choice                | See Details                                                                           |
-| ------------------------------------------ | -------------------------- | ------------------------------------------------------------------------------------- |
-| Best quality at 20-70mm (your 85-90% zone) | **SEL2070G (1A or 1C)**    | [Option 1A](#-option-1a-sony-sel2070g-fe-20-70mm-f4-g---best-quality-in-primary-zone) |
-| Minimal distortion at 20mm (architecture)  | **SEL2070G (1A or 1C)**    | [Option 1A](#-option-1a-sony-sel2070g-fe-20-70mm-f4-g---best-quality-in-primary-zone) |
-| f/4 constant aperture                      | **SEL2070G (1A or 1C)**    | [Option 1A](#-option-1a-sony-sel2070g-fe-20-70mm-f4-g---best-quality-in-primary-zone) |
-| Retire HX90 immediately                    | **Sigma 20-200mm (1B)**    | [Option 1B](option-1b-sigma-20-200mm-f35-63-dg-dn---best-kit-simplification)          |
-| Kit simplification (fewer devices NOW)     | **Sigma 20-200mm (1B)**    | [Option 1B](option-1b-sigma-20-200mm-f35-63-dg-dn---best-kit-simplification)          |
-| Staged investment / defer costs            | **Two-Lens Strategy (1C)** | [Option 1C](option-1c-two-lens-flexibility-strategy-sel2070g-now--superzoom-later)    |
-| Right tool for each trip type              | **Two-Lens Strategy (1C)** | [Option 1C](option-1c-two-lens-flexibility-strategy-sel2070g-now--superzoom-later)    |
-| Avoid all superzoom compromises            | **Two-Lens Strategy (1C)** | [Option 1C](option-1c-two-lens-flexibility-strategy-sel2070g-now--superzoom-later)    |
-| Ultra-wide specialization (landscapes)     | **16-35mm f/4 (Option 3)** | [Option 3](#option-3-16-35mm-f4-ultra-wide-specialist)                                |
+| Your Priority                              | Best Choice                      | See Details                                                                           |
+| ------------------------------------------ | -------------------------------- | ------------------------------------------------------------------------------------- |
+| Best quality at 20-70mm (your 85-90% zone) | **SEL2070G (1A or 1C)**          | [Option 1A](#-option-1a-sony-sel2070g-fe-20-70mm-f4-g---best-quality-in-primary-zone) |
+| Minimal distortion at 20mm (architecture)  | **SEL2070G (1A or 1C)**          | [Option 1A](#-option-1a-sony-sel2070g-fe-20-70mm-f4-g---best-quality-in-primary-zone) |
+| f/4 constant aperture                      | **SEL2070G (1A or 1C)**          | [Option 1A](#-option-1a-sony-sel2070g-fe-20-70mm-f4-g---best-quality-in-primary-zone) |
+| Retire HX90 immediately                    | **Sigma 20-200mm (1B)**          | [Option 1B](option-1b-sigma-20-200mm-f35-63-dg-dn---best-kit-simplification)          |
+| Kit simplification (fewer devices NOW)     | **Sigma (1B) or Tamron (1D)**    | [Option 1B](option-1b-sigma-20-200mm-f35-63-dg-dn---best-kit-simplification) / 1D     |
+| G-series first, staged investment          | **Two-Lens Strategy (1C)**       | [Option 1C](option-1c-two-lens-flexibility-strategy-sel2070g-now--superzoom-later)    |
+| Right tool for each trip type              | **Two-Lens Strategy (1C)**       | [Option 1C](option-1c-two-lens-flexibility-strategy-sel2070g-now--superzoom-later)    |
+| Balanced upgrade across ALL ranges NOW     | **Reverse Strategy (1D)**        | [Option 1D](option-1d-reverse-staged-investment-tamron-now--sel2070g-later)           |
+| Immediate telephoto quality + simplicity   | **Reverse Strategy (1D)**        | [Option 1D](option-1d-reverse-staged-investment-tamron-now--sel2070g-later)           |
+| Avoid all superzoom compromises            | **Two-Lens Strategy (1C or 1D)** | Both use Tamron eventually — better optics than Sigma                                 |
+| Ultra-wide specialization (landscapes)     | **16-35mm f/4 (Option 3)**       | [Option 3](#option-3-16-35mm-f4-ultra-wide-specialist)                                |
 
 ### **Alternative Strategies**
 
@@ -2713,13 +2946,14 @@ You're already shooting 40-50% of daily life on mobile.
 8. **50-70mm is your "dead zone"** - minimal documented usage (but nice to have).
 9. **Trip types are predictable** - city travel vs. safari/wildlife trips are planned differently.
 
-**Three Top Strategies (Plus One Alternative):**
+**Four Top Strategies (Plus One Alternative):**
 
 - **Best optical quality at 20-70mm:** SEL2070G (Options 1A/1C - G-series excellence in your 85-90% zone).
 - **Best kit simplification for city trips:** Sigma 20-200mm (Option 1B - full-frame telephoto; keep HX90 for nature trips).
-- **Best flexibility with staged investment:** Two-Lens Strategy (Option 1C - SEL2070G now + Tamron later when needed). **Recommended.**
+- **Best flexibility with G-series first:** Two-Lens Strategy (Option 1C - SEL2070G now + Tamron later when needed).
+- **Balanced immediate upgrade:** Reverse Strategy (Option 1D - Tamron now + SEL2070G later if needed). **Also Recommended.**
 - **Alternative - ultra-wide specialization:** 16-35mm f/4 + 85mm prime (Option 3 - accept 35-85mm gap).
-- **All break your 24mm constraint** with 16-20mm wide end.
+- **Options 1A/1C/1D break your 24mm constraint** with 20-25mm wide end; **1B gives 20mm** but with optical trade-offs.
 
 ---
 
@@ -2739,17 +2973,19 @@ who values **environmental context** over **isolated subjects**.
 
 With a young child, this style is PERFECT - it captures the experience, not just the subject.
 
-### Your Three Top Strategies (Plus Alternative)
+### Your Four Top Strategies (Plus Alternative)
 
 > 💡 **Practical tip:** Options 1A and 1C are the **same initial purchase** (SEL2070G ~\$1,100).
-> Buy the SEL2070G now, then decide later whether to keep HX90 for telephoto (1A) or add Tamron for safari trips (1C).
+> Option 1D starts with Tamron (~\$1,000-1,300) instead.
+> Choose based on whether you prioritize G-series quality first (1A/1C) or balanced upgrade everywhere (1D).
 
-| Option | Strategy                    | Why It Works for You                                                                        |
-| ------ | --------------------------- | ------------------------------------------------------------------------------------------- |
-| **1A** | SEL2070G (20-70mm f/4 G)    | Best optics in your 85-90% zone, light enough for travel with a 4-year-old                  |
-| **1B** | Sigma 20-200mm f/3.5-6.3    | Kit simplification for city trips; keep HX90 for nature trips (optical trade-offs)          |
-| **1C** | SEL2070G now + Tamron later | Staged investment—best quality now, add telephoto when safari trips happen. **Recommended** |
-| **3**  | 16-35mm f/4 + 85mm prime    | *Alternative:* Ultra-wide specialization, accept 35-85mm gap                                |
+| Option | Strategy                    | Why It Works for You                                                                   |
+| ------ | --------------------------- | -------------------------------------------------------------------------------------- |
+| **1A** | SEL2070G (20-70mm f/4 G)    | Best optics in your 85-90% zone, light enough for travel with a 4-year-old             |
+| **1B** | Sigma 20-200mm f/3.5-6.3    | Kit simplification for city trips; keep HX90 for nature trips (optical trade-offs)     |
+| **1C** | SEL2070G now + Tamron later | Staged investment—G-series quality now, add telephoto when safari trips happen         |
+| **1D** | Tamron now + SEL2070G later | Balanced upgrade everywhere NOW; telephoto quality instantly; SEL2070G if needed later |
+| **3**  | 16-35mm f/4 + 85mm prime    | *Alternative:* Ultra-wide specialization, accept 35-85mm gap                           |
 
 **Most important tip:** The photos you'll treasure most aren't the technically perfect ones -
 they're the ones that captured genuine moments.
@@ -2784,11 +3020,13 @@ to your dedicated camera with superior image quality.
 - Data spans 21 years (2004-2025) for dedicated cameras, 20 years (2006-2026) for mobile phones
 - Budapest trip (87% at 75mm) was portrait-focused using SAL1650 lens - not representative of typical travel patterns
 - **Sony FE 85mm f/1.8 (~\$550-600)** recommended as dedicated portrait lens for all kit options
-- **Three top lens strategies recommended as optimal matches for documented shooting style:**
+- **Four top lens strategies recommended as optimal matches for documented shooting style:**
   - **Option 1A - SEL2070G:** Best optical quality at 20-70mm (your 85-90% zone) + keep HX90
   - **Option 1B - Sigma 20-200mm:** Best kit simplification for city trips;
     keep HX90 for nature trips (optical trade-offs per LensTip review)
-  - **Option 1C - Two-Lens Flexibility:** SEL2070G now + Tamron 25-200mm later when safari/wildlife trips are planned. **Recommended.**
+  - **Option 1C - Two-Lens Flexibility:** SEL2070G now + Tamron 25-200mm later when safari/wildlife trips are planned
+  - **Option 1D - Reverse Staged Investment (NEW Feb 2026):** Tamron 25-200mm now for balanced upgrade everywhere;
+    SEL2070G optional later if 20mm or G-series quality genuinely needed
 - **Alternative strategy:**
   - **Option 3 - 16-35mm f/4 + 85mm prime:** Ultra-wide specialization (accepts 35-85mm gap)
 - Mobile phone usage: 16,932 photos showing 74% at 23-29mm primary wide angle,
