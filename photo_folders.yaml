@@ -3,11 +3,20 @@
 
 folders:
 
+  # copied photos for specific focal lengths:
   - D:\camera_kits\filtered_photos_20260205_184941_105mm-299mm
   - D:\camera_kits\filtered_photos_20260205_190031_300mm-1000mm
 
+  - D:\camera_kits\filtered_photos_20260207_144422_105mm-299mm-Diving
+  - D:\camera_kits\filtered_photos_20260207_144505_300mm-1000mm-Diving
+
+  # museum photo folders:
   - F:\PRIVAT W BACKUP\Musée du Louvre
 
+  # diving school photo folders:
+  - F:\PRIVAT W BACKUP\Schools and companies\Diving
+
+  # mobile phone photo folders:
   - F:\PRIVAT W BACKUP\Photos\01 Samsung E488 - 200611-200712
   - F:\PRIVAT W BACKUP\Photos\02 Nokia 3110c - 200805-200811
   - F:\PRIVAT W BACKUP\Photos\03 Nokia 6303c - 200907-201104
@@ -21,6 +30,7 @@ folders:
   - F:\PRIVAT W BACKUP\Photos\11 Huawei P40 - 202311-202401
   - F:\PRIVAT W BACKUP\Photos\12 Samsung S25 - 202502-
 
+  # chronological photo folders:
   - F:\PRIVAT W BACKUP\Photos\2002 师大附中高中\20040328清华之行
   - F:\PRIVAT W BACKUP\Photos\2002 师大附中高中\20040508十渡春游
   - F:\PRIVAT W BACKUP\Photos\2002 师大附中高中\20050525 毕业合影精选

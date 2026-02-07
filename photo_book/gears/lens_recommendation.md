@@ -1,7 +1,7 @@
 # Complete Camera Gear Recommendation: Data-Driven Analysis <!-- omit in toc -->
 
 - **Analysis Date:** 16 January, 2026
-- **Last Updated:** 6 February, 2026
+- **Last Updated:** 7 February, 2026
 - **Data Source:** 70 photo collections spanning 2004-2025
   PLUS 12 mobile phone archives (2006-2026)
 - **Total Photos Analyzed:** 75,974 with 35mm equivalent focal length data
@@ -17,6 +17,9 @@
 - **NEW (Feb 2026):** Image quality comparison across focal ranges
   ("Bicycle vs Sedan" HX90 vs Superzoom; "Economy vs Luxury Sedan" Sigma vs SEL2070G;
   "Mid-trim vs Fully-loaded Sedan" Sigma vs Tamron at telephoto)
+- **NEW (Feb 7, 2026):** Diving school analysis (2,894 photos) reveals bimodal
+  sports photography pattern — 21% wide-angle + 28% telephoto (105mm+);
+  validates HX90 retention for sports/action events
 
 ---
 
@@ -158,6 +161,11 @@ Try both in person before deciding - grip comfort is highly subjective.
   While superzoom replaces HX90 for city trips,
   its 720mm reach remains valuable for Svalbard-type encounters.
   See [Can You Retire the HX90?](can-you-retire-hx90) for details.
+- ⚠️ **HX90 for sports/action events (diving, swimming, etc.)** — Diving school analysis (2,894 photos)
+  shows bimodal pattern: 21% wide-angle (venue context) + 28% telephoto (105mm+ action shots).
+  385mm ceiling heavily used (7.6% of all shots) for capturing divers mid-air.
+  **Superzooms (200mm max) insufficient** for poolside action photography.
+  See [Sports/Action Photography (Diving School)](#sportsaction-photography-diving-school-2011-2012) for details.
 
 **NEW Finding (Feb 2026): 105-299mm Quality Upgrade**
 - Your 105-299mm shots (2,036 photos analyzed) are primarily portraits,
@@ -657,6 +665,51 @@ Analyzing frequency distributions across all major travel collections:
   - Telephoto virtually unused (<5% beyond 50mm)
 - **Implication:** SEL2070G's 20mm wide end is IDEAL for museum visits;
   confirms your wide-angle preference extends to all photography contexts
+
+**Sports/Action Photography (Diving School 2011-2012):**
+
+- **2,894 photos** across 34 folders (training sessions, competitions, school events)
+- **Focal range:** 17mm – 500mm, **Mean: 96mm, Median: 52mm**
+- **Bimodal distribution** — fundamentally different from travel photography
+- **Wide-angle cluster (21% at 24mm):** Pool/venue context, group shots, environmental
+- **Telephoto cluster (28% at 105mm+):** Capturing divers in action from poolside
+  - **105mm:** 198 photos (6.84%) — most common mid-telephoto for training documentation
+  - **385mm:** 220 photos (7.60%) — maximum HX90 reach for capturing apex of dives
+  - **300-500mm band:** 284 photos total, 77% concentrated at 385mm ceiling
+- **Why telephoto dominates action shots:**
+  - Indoor pools have restricted poolside access (safety regulations)
+  - Divers move fast — need reach to fill frame without cropping
+  - 385mm "ceiling effect" = HX90's max focal length used extensively
+- **Pattern contrast vs travel photography:**
+  | Metric       | Travel Photography | Diving School         |
+  | ------------ | ------------------ | --------------------- |
+  | 24mm usage   | 65-80%             | 21%                   |
+  | 105mm+ usage | <5%                | 28%                   |
+  | Mean focal   | 30-40mm            | 96mm                  |
+  | Distribution | Single-mode (wide) | Bimodal (wide + tele) |
+- **Implication for lens strategy:**
+  - Sports events justify keeping HX90 for 300-500mm reach
+  - **Superzoom (Sigma 20-200mm or Tamron 25-200mm) insufficient** for diving—
+    need 300mm+ for action shots from restricted positions
+  - Quality upgrade path: 70-200mm f/2.8 + 1.4x teleconverter (280mm f/4) for
+    higher image quality, but still falls short of 385mm reach
+  - **Realistic conclusion:** For occasional sports photography (diving club, swimming meets),
+    HX90's 720mm reach remains practical; dedicated sports shooting would need
+    Sony 200-600mm f/5.6-6.3 G (~\$2,000, 2,115g) — overkill for infrequent use
+
+**Sports & School Events (Future Consideration):**
+
+- **Diving school data validates** the need for extreme telephoto at sports events
+- **Typical event scenarios requiring 300mm+ reach:**
+  - Swimming/diving meets: 200-400mm from spectator stands
+  - Sports days/track events: 300-600mm for finish line action
+  - School plays/concerts: 70-200mm from seating area
+  - Graduation ceremonies: 100-200mm for stage shots
+- **HX90's 720mm reach** covers all these scenarios without additional investment
+- **Quality trade-off acknowledged:** Small sensor = less detail in low light;
+  acceptable for documentary purposes, not gallery prints
+- **Implication:** Keep HX90 specifically for sports/action events (your own diving, family sports);
+  consider dedicated telephoto only if event photography becomes a regular focus
 
 ---
 
@@ -1402,13 +1455,14 @@ enabling 1/500s where the f/5.6 would only manage 1/125s.
 Using HX90's tiny sensor for wide-angle (to pair with 70-180mm)
 would sacrifice quality where you shoot most (65-80% at 20-35mm).
 
-| Scenario                       | **70-180mm f/2.8 Makes Sense?** | **Reasoning**                                                           |
-| ------------------------------ | ------------------------------- | ----------------------------------------------------------------------- |
-| **City travel (90% of trips)** | ❌ **No**                        | You'd need SEL2070G anyway; creates redundant kit                       |
-| **Wildlife/safari trips**      | ⚠️ **Partial**                   | Better telephoto quality, but still want SEL2070G for 65-80% wide shots |
-| **Dedicated telephoto day**    | ✅ **Yes**                       | Zoos, sports, bird photography — telephoto dominates                    |
-| **Low-light telephoto events** | ✅ **Yes**                       | Indoor performances, evening wildlife — f/2.8 shines                    |
-| **Child sports/activities**    | ✅ **Yes**                       | Soccer games, dance recitals — fast action at distance needs f/2.8      |
+| Scenario                          | **70-180mm f/2.8 Makes Sense?** | **Reasoning**                                                           |
+| --------------------------------- | ------------------------------- | ----------------------------------------------------------------------- |
+| **City travel (90% of trips)**    | ❌ **No**                        | You'd need SEL2070G anyway; creates redundant kit                       |
+| **Wildlife/safari trips**         | ⚠️ **Partial**                   | Better telephoto quality, but still want SEL2070G for 65-80% wide shots |
+| **Dedicated telephoto day**       | ✅ **Yes**                       | Zoos, bird photography — telephoto dominates                            |
+| **Low-light telephoto events**    | ✅ **Yes**                       | Indoor performances, evening wildlife — f/2.8 shines                    |
+| **Field/court sports**            | ✅ **Yes**                       | Soccer, basketball, dance recitals — f/2.8 helps in gyms/evening light  |
+| **Pool sports (diving/swimming)** | ❌ **No**                        | Diving school data: 7.6% at 385mm — 180mm reach insufficient            |
 
 #### When 70-180mm f/2.8 Genuinely Makes Sense
 
@@ -1418,8 +1472,8 @@ would sacrifice quality where you shoot most (65-80% at 20-35mm).
 2. **Indoor events** (school plays, concerts) —
    f/2.8 at 180mm lets you capture without flash from back of venue
 
-3. **Child sports** — Soccer, swimming, skating —
-   action at distance where f/2.8 prevents motion blur
+3. **Field/court sports** — Soccer, basketball, skating —
+   action at distance where f/2.8 prevents motion blur; 180mm reach is sufficient
 
 4. **Evening safaris/wildlife** —
    Dawn/dusk is when animals are active and light is challenging
@@ -1427,15 +1481,34 @@ would sacrifice quality where you shoot most (65-80% at 20-35mm).
 5. **As a *supplement* to your kit** (not replacement) —
    Bring it *in addition to* SEL2070G for trips where telephoto matters
 
+#### When 70-180mm f/2.8 Falls Short: Diving School Evidence
+
+**Your diving school data (2,894 photos) reveals a critical limitation:**
+
+- **28% of shots at 105mm+** — confirms telephoto need for action photography
+- **7.6% at 385mm** (220 photos) — HX90's maximum reach used extensively
+- **77% of 300-500mm shots concentrated at 385mm ceiling** — hitting the limit constantly
+
+**Why 180mm isn't enough for pool sports:**
+- Spectator positions at pools are often 15-30m from diving boards/platforms
+- Safety regulations restrict poolside access during competitions
+- Capturing diver at apex of dive requires filling the frame from distance
+- **385mm was the MOST USED single focal length** in the 300mm+ range
+
+**Implication:** For diving, swimming, or similar pool sports,
+even the excellent 70-180mm f/2.8 would leave you cropping heavily or missing shots.
+**HX90's 720mm reach** (or a dedicated 200-600mm) remains essential for this specific use case.
+
 #### Verdict on 70-180mm f/2.8
 
 **The 70-180mm f/2.8 genuinely solves blur problems** at telephoto,
 but **probably doesn't fit your documented patterns well**:
 
-- ✅ It **genuinely solves your blur problem** at telephoto
+- ✅ It **genuinely solves your blur problem** at telephoto (up to 180mm)
 - ❌ It **creates a kit gap** unless paired with another wide lens
 - ❌ Using HX90 for wide-angle **sacrifices quality where you shoot most**
 - ❌ Your telephoto usage (10-20%) doesn't justify dedicated premium glass
+- ❌ **Diving school data shows 180mm is insufficient** for pool sports (7.6% at 385mm)
 - ⚠️ It makes a **~\$2,300-2,400 two-lens kit** (SEL2070G + 70-180mm)
   vs **~\$1,100** for SEL2070G alone
 
@@ -1443,10 +1516,12 @@ but **probably doesn't fit your documented patterns well**:
 1. **Maximize IBIS usage** — A7C II/A7 IV provides 5+ stops stabilization
 2. **Accept slightly higher ISO** — Modern full-frame sensors are clean to ISO 6400
 3. **Tamron 25-200mm as planned** — f/5.6 at 200mm + IBIS + high ISO is adequate for most daylight telephoto
+4. **Keep HX90 for pool sports** — 720mm reach essential; accept small-sensor quality trade-off
 
 **The 70-180mm f/2.8 becomes compelling only if** you develop a specific telephoto-heavy use case
-(wildlife photography hobby, child sports coverage, event photography)
+(wildlife photography hobby, **field/court** sports coverage, event photography)
 that your data doesn't currently show.
+**For pool sports (diving, swimming), even 180mm falls short** — HX90's 720mm trumps f/2.8 speed.
 
 ---
 
