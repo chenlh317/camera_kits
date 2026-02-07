@@ -161,10 +161,11 @@ Try both in person before deciding - grip comfort is highly subjective.
   While superzoom replaces HX90 for city trips,
   its 720mm reach remains valuable for Svalbard-type encounters.
   See [Can You Retire the HX90?](can-you-retire-hx90) for details.
-- ⚠️ **HX90 for sports/action events (diving, swimming, etc.)** — Diving school analysis (2,894 photos)
-  shows bimodal pattern: 21% wide-angle (venue context) + 28% telephoto (105mm+ action shots).
-  385mm ceiling heavily used (7.6% of all shots) for capturing divers mid-air.
-  **Superzooms (200mm max) insufficient** for poolside action photography.
+- ⚠️ **HX90 for competition sports photography** — Diving school analysis (2,894 photos)
+  shows 7.6% at 385mm ceiling for action shots.
+  **However:** For casual club activities, superzoom's 200mm → 300mm (APS-C crop)
+  offers **better image quality** than HX90 despite 85mm less reach.
+  Keep HX90 primarily for competition shoots from spectator stands (15-30m away).
   See [Sports/Action Photography (Diving School)](#sportsaction-photography-diving-school-2011-2012) for details.
 
 **NEW Finding (Feb 2026): 105-299mm Quality Upgrade**
@@ -674,12 +675,12 @@ Analyzing frequency distributions across all major travel collections:
 - **Wide-angle cluster (21% at 24mm):** Pool/venue context, group shots, environmental
 - **Telephoto cluster (28% at 105mm+):** Capturing divers in action from poolside
   - **105mm:** 198 photos (6.84%) — most common mid-telephoto for training documentation
-  - **385mm:** 220 photos (7.60%) — maximum HX90 reach for capturing apex of dives
+  - **385mm:** 220 photos (7.60%) — the longest focal length used in these photos
   - **300-500mm band:** 284 photos total, 77% concentrated at 385mm ceiling
 - **Why telephoto dominates action shots:**
   - Indoor pools have restricted poolside access (safety regulations)
   - Divers move fast — need reach to fill frame without cropping
-  - 385mm "ceiling effect" = HX90's max focal length used extensively
+  - 385mm “ceiling effect” = max focal length available was used extensively
 - **Pattern contrast vs travel photography:**
   | Metric       | Travel Photography | Diving School         |
   | ------------ | ------------------ | --------------------- |
@@ -689,27 +690,40 @@ Analyzing frequency distributions across all major travel collections:
   | Distribution | Single-mode (wide) | Bimodal (wide + tele) |
 - **Implication for lens strategy:**
   - Sports events justify keeping HX90 for 300-500mm reach
-  - **Superzoom (Sigma 20-200mm or Tamron 25-200mm) insufficient** for diving—
-    need 300mm+ for action shots from restricted positions
-  - Quality upgrade path: 70-200mm f/2.8 + 1.4x teleconverter (280mm f/4) for
-    higher image quality, but still falls short of 385mm reach
-  - **Realistic conclusion:** For occasional sports photography (diving club, swimming meets),
-    HX90's 720mm reach remains practical; dedicated sports shooting would need
-    Sony 200-600mm f/5.6-6.3 G (~\$2,000, 2,115g) — overkill for infrequent use
+  - **But wait — APS-C crop mode changes the math:**
+    - 200mm superzoom × 1.5 APS-C crop = **300mm equivalent**
+    - 180mm f/2.8 × 1.5 APS-C crop = **270mm equivalent**
+    - Resolution drops: 33MP → ~14MP (A7C II/A7 IV), but still sharp
+    - **14MP full-frame crop >> HX90's 18MP on 1/2.3" sensor** for image quality
+  - **Revised assessment for club activities (non-professional):**
+    - 300mm (superzoom + APS-C) vs 385mm (HX90) = only 1.28× reach difference
+    - With cropping headroom from 14MP, effective reach gap is minimal
+    - **Superzoom in APS-C mode likely sufficient** for diving club documentation
+    - Quality advantage: larger pixels, better high-ISO, more detail
+  - **When HX90 still wins:** Competition photography from spectator stands (15-30m away),
+    where every mm of reach matters and you can't crop further
+  - **Realistic conclusion:** For occasional club activities,
+    superzoom's 200mm (300mm APS-C) offers **better quality** than HX90's 385mm;
+    keep HX90 only for competition shooting where maximum reach is essential
 
 **Sports & School Events (Future Consideration):**
 
-- **Diving school data validates** the need for extreme telephoto at sports events
-- **Typical event scenarios requiring 300mm+ reach:**
-  - Swimming/diving meets: 200-400mm from spectator stands
-  - Sports days/track events: 300-600mm for finish line action
-  - School plays/concerts: 70-200mm from seating area
-  - Graduation ceremonies: 100-200mm for stage shots
-- **HX90's 720mm reach** covers all these scenarios without additional investment
-- **Quality trade-off acknowledged:** Small sensor = less detail in low light;
-  acceptable for documentary purposes, not gallery prints
-- **Implication:** Keep HX90 specifically for sports/action events (your own diving, family sports);
-  consider dedicated telephoto only if event photography becomes a regular focus
+- **Diving school data validates** the need for telephoto at sports events
+- **Typical event scenarios and lens recommendations:**
+  | Event Type                | Distance         | Recommended Approach                           |
+  | ------------------------- | ---------------- | ---------------------------------------------- |
+  | **Club training/casual**  | Close (5-10m)    | Superzoom 200mm → 300mm (APS-C) — best quality |
+  | **Swimming/diving meets** | Far (15-30m)     | HX90 720mm or superzoom 300mm + heavy crop     |
+  | **Sports days/track**     | Variable         | Superzoom 300mm (APS-C) usually sufficient     |
+  | **School plays/concerts** | Seating (10-20m) | Superzoom 70-200mm — f/5.6 adequate with IBIS  |
+  | **Graduation ceremonies** | Seating          | Superzoom 100-200mm — plenty of reach          |
+- **APS-C crop mode insight:** Superzoom's 200mm → 300mm equivalent at 14MP
+  delivers **better image quality** than HX90's 385mm on tiny sensor
+- **When to use what:**
+  - **Superzoom (APS-C mode):** Club activities, school events, casual sports — better quality
+  - **HX90:** Competition photography from spectator stands — maximum reach essential
+- **Implication:** For most sports/action events, superzoom suffices;
+  keep HX90 specifically for competition shoots where extreme reach trumps quality
 
 ---
 
@@ -1485,43 +1499,77 @@ would sacrifice quality where you shoot most (65-80% at 20-35mm).
 
 **Your diving school data (2,894 photos) reveals a critical limitation:**
 
-- **28% of shots at 105mm+** — confirms telephoto need for action photography
-- **7.6% at 385mm** (220 photos) — HX90's maximum reach used extensively
-- **77% of 300-500mm shots concentrated at 385mm ceiling** — hitting the limit constantly
+- **7.6% at 385mm** (220 photos) — max focal length used in these photos
+- **77% of 300-500mm shots concentrated at 385mm** — hitting the lens ceiling constantly
+- **180mm (270mm APS-C) falls 115mm short** of the 385mm you actually used
 
-**Why 180mm isn't enough for pool sports:**
-- Spectator positions at pools are often 15-30m from diving boards/platforms
-- Safety regulations restrict poolside access during competitions
-- Capturing diver at apex of dive requires filling the frame from distance
-- **385mm was the MOST USED single focal length** in the 300mm+ range
+**But APS-C crop mode offers a practical alternative** for casual club activities:
+- Superzoom's 200mm → 300mm (APS-C) at 14MP delivers **better image quality** than HX90's 385mm
+- Reach gap is only 1.28× — often acceptable for non-professional documentation
+- See [Sports/Action Photography (Diving School)](#sportsaction-photography-diving-school-2011-2012) for detailed analysis
 
-**Implication:** For diving, swimming, or similar pool sports,
-even the excellent 70-180mm f/2.8 would leave you cropping heavily or missing shots.
-**HX90's 720mm reach** (or a dedicated 200-600mm) remains essential for this specific use case.
+**Bottom line:** For competition photography from spectator stands, HX90's 385-720mm reach wins.
+For casual club activities where you're closer to the action, superzoom in APS-C mode offers
+better quality despite 85mm less reach.
+
+#### APS-C Crop Mode: Extended Reach Option
+
+**Modern full-frame cameras offer APS-C crop mode** that extends reach:
+
+| Lens                 | Native (FF) | APS-C Crop (1.5×) | Resolution (A7C II)  |
+| -------------------- | ----------- | ----------------- | -------------------- |
+| **Tamron 70-180mm**  | 180mm       | **270mm**         | ~14MP                |
+| **Tamron 25-200mm**  | 200mm       | **300mm**         | ~14MP                |
+| **HX90 (reference)** | 720mm       | N/A               | 18MP (1/2.3" sensor) |
+
+**Key insight:** 14MP from full-frame APS-C crop >> 18MP from HX90's tiny sensor
+for detail, noise, and dynamic range. For more analysis, see
+[Sports/Action Photography (Diving School)](#sportsaction-photography-diving-school-2011-2012).
+
+#### Is a Dedicated 70-180mm f/2.8 Worth It for Infrequent Sports?
+
+**For diving/swimming — probably not.** See detailed analysis in
+[Sports/Action Photography (Diving School)](#sportsaction-photography-diving-school-2011-2012).
+
+**Quick comparison:**
+
+| Factor                       | **70-180mm f/2.8**         | **Superzoom (25-200mm)** |
+| ---------------------------- | -------------------------- | ------------------------ |
+| **Max reach (APS-C mode)**   | 270mm                      | **300mm**                |
+| **Light gathering**          | **f/2.8 (2 stops better)** | f/5.6                    |
+| **Versatility**              | 70-180mm only              | **25-200mm all-in-one**  |
+| **Need separate wide lens?** | Yes (+\$1,100)             | **No**                   |
+
+**Verdict:** Superzoom's 300mm (APS-C) achieves better reach than 70-180mm's 270mm,
+and the f/2.8 advantage is limited for well-lit indoor pools where you need
+fast shutter speeds (1/500s+) regardless of aperture.
 
 #### Verdict on 70-180mm f/2.8
 
 **The 70-180mm f/2.8 genuinely solves blur problems** at telephoto,
 but **probably doesn't fit your documented patterns well**:
 
-- ✅ It **genuinely solves your blur problem** at telephoto (up to 180mm)
+- ✅ It **genuinely solves your blur problem** at telephoto (up to 180mm / 270mm APS-C)
 - ❌ It **creates a kit gap** unless paired with another wide lens
 - ❌ Using HX90 for wide-angle **sacrifices quality where you shoot most**
 - ❌ Your telephoto usage (10-20%) doesn't justify dedicated premium glass
-- ❌ **Diving school data shows 180mm is insufficient** for pool sports (7.6% at 385mm)
+- ⚠️ For pool sports: **superzoom's 300mm (APS-C) > 70-180mm's 270mm (APS-C)** for reach
 - ⚠️ It makes a **~\$2,300-2,400 two-lens kit** (SEL2070G + 70-180mm)
   vs **~\$1,100** for SEL2070G alone
 
 **Better alternatives for your blur concerns:**
 1. **Maximize IBIS usage** — A7C II/A7 IV provides 5+ stops stabilization
 2. **Accept slightly higher ISO** — Modern full-frame sensors are clean to ISO 6400
-3. **Tamron 25-200mm as planned** — f/5.6 at 200mm + IBIS + high ISO is adequate for most daylight telephoto
-4. **Keep HX90 for pool sports** — 720mm reach essential; accept small-sensor quality trade-off
+3. **Tamron 25-200mm + APS-C crop** — 300mm equivalent with better quality than HX90
+4. **Keep HX90 only for competitions** — when maximum reach (720mm) matters more than quality
 
 **The 70-180mm f/2.8 becomes compelling only if** you develop a specific telephoto-heavy use case
 (wildlife photography hobby, **field/court** sports coverage, event photography)
 that your data doesn't currently show.
-**For pool sports (diving, swimming), even 180mm falls short** — HX90's 720mm trumps f/2.8 speed.
+
+**For pool sports (diving, swimming):**
+- **Casual club activities:** Superzoom 200mm → 300mm (APS-C) is sufficient and better quality
+- **Competition photography:** HX90's 720mm still wins for maximum reach from spectator stands
 
 ---
 
@@ -2010,6 +2058,8 @@ to extend telephoto reach:
 | ------------------------------- | ---------------- | --------------------------------------------------------------------------- |
 | **City travel (90%)**           | ✅ **Yes**        | 200mm full-frame + APS-C crop (300mm) likely suffices; rare telephoto needs |
 | **Nature/wildlife trips (10%)** | ❌ **No**         | Svalbard-type trips need 450-720mm reach for documentary shots              |
+| **Sports competitions**         | ❌ **No**         | Diving school data: 385mm heavily used from spectator stands (15-30m)       |
+| **Sports club activities**      | ✅ **Yes**        | Superzoom 300mm (APS-C) offers better quality when closer to action         |
 | **Mixed/uncertain**             | ⚠️ **Keep HX90**  | Lightweight (245g) insurance for unexpected encounters                      |
 
 #### Practical Recommendation
