@@ -210,3 +210,6 @@ _build/
 
 # Filtered photos output folders
 filtered_photos_*/
+
+# MS tem files
+~$*
