@@ -563,6 +563,7 @@ Analyzing frequency distributions across all major travel collections:
 - **Implication:** SEL2070G's 20mm wide end is IDEAL for museum visits;
   confirms your wide-angle preference extends to all photography contexts
 
+(sportsaction-photography-diving-school-2011-2012)=
 **Sports/Action Photography (Diving School 2011-2012):**
 
 - **2,894 photos** across 34 folders (training sessions, competitions, school events)
