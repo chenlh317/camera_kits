@@ -50,43 +50,9 @@ All accessories already in hand — kit is fully operational.
 
 ---
 
-## Table of Contents <!-- omit in toc -->
-
-- [📋 Executive Summary](#-executive-summary)
-  - [🛒 What You Bought and Why](#-what-you-bought-and-why)
-- [📸 Luoyang Field Report: Lessons from the First Trip](#-luoyang-field-report-lessons-from-the-first-trip)
-  - [🎯 Lens Usage by Scenario](#-lens-usage-by-scenario)
-  - [✅ What Worked Well](#-what-worked-well)
-  - [⚠️ Pain Points and Honest Reflections](#field-pain-points)
-- [📷 Photographing Cosplayers \& Strangers on the Street](#-photographing-cosplayers--strangers-on-the-street)
-  - [🎯 Equipment Setup](#-equipment-setup)
-  - [📐 Shooting Distance \& Composition](#-shooting-distance--composition)
-  - [🖤 Black Mist Filter Usage Guide](#-black-mist-filter-usage-guide)
-- [🎹 New Use Case: Recording Piano Performances at Home](#-new-use-case-recording-piano-performances-at-home)
-  - [🎯 Lens Choice for Piano Recording](#-lens-choice-for-piano-recording)
-  - [🎤 Audio Setup: Røde VideoMicro II](#-audio-setup-røde-videomicro-ii)
-  - [📹 Camera Settings for Piano Video](#-camera-settings-for-piano-video)
-  - [🎬 Practical Recording Workflow](#-practical-recording-workflow)
-  - [🎵 Advanced: Getting Better Piano Audio](#-advanced-getting-better-piano-audio)
-- [🎒 Trip Packing Guide: Your Actual Kit](#-trip-packing-guide-your-actual-kit)
-  - [☀️ Daytime Sightseeing (80% of trip days)](#packing-daytime-sightseeing)
-  - [🌙 Dusk-to-Night City Walk](#-dusk-to-night-city-walk)
-  - [👘 Cosplayer / Street Portrait Session](#-cosplayer--street-portrait-session)
-  - [🎹 Piano Recording (Home)](#-piano-recording-home)
-  - [🏛️ Museum / Indoor Exhibition](#packing-museum-visit)
-- [💡 Quick Reference: Tips by Lens](#-quick-reference-tips-by-lens)
-  - [Sigma 20-200mm f/3.5-6.3 DG DN Contemporary](#sigma-20-200mm-f35-63-dg-dn-contemporary)
-  - [SIRUI Aurora 35mm f/1.4](#sirui-aurora-35mm-f14)
-  - [Viltrox AF 85mm f/2.0 Evo](#viltrox-af-85mm-f20-evo)
-- [📊 Your Kit in Perspective](#-your-kit-in-perspective)
-  - [What Your Data-Driven Analysis Recommended vs What You Bought](#what-your-data-driven-analysis-recommended-vs-what-you-bought)
-- [🔮 Recommended Future Investments](#-recommended-future-investments)
-  - [✅ Already Acquired (accessories in hand)](#-already-acquired-accessories-in-hand)
-  - [🥈 Medium Priority (piano recording upgrades — buy only when the habit is established)](#-medium-priority-piano-recording-upgrades--buy-only-when-the-habit-is-established)
-  - [🥉 Low Priority (nice-to-have, buy only when a specific trip/need demands it)](#-low-priority-nice-to-have-buy-only-when-a-specific-tripneed-demands-it)
-  - [❌ What You Do NOT Need](#-what-you-do-not-need)
-  - [🤔 Do You Ever Need Sony GM (or Equivalent Premium) Glass?](#-do-you-ever-need-sony-gm-or-equivalent-premium-glass)
-  - [💰 Budget Perspective](#-budget-perspective)
+```{contents}
+:depth: 3
+```
 
 ---
 
