@@ -19,17 +19,19 @@ for getting the most out of what you actually own.**
 (what-you-bought-and-why)=
 ### 🛒 What You Bought and Why
 
-| #   | Item                                            | Price Range    | Weight | Rationale                                                     |
-| --- | ----------------------------------------------- | -------------- | ------ | ------------------------------------------------------------- |
-| 1   | **Sony A7C II** (body)                          | ~\$2,200-2,500 | 514g   | Compact full-frame, AI AF, IBIS                               |
-| 2   | **Sigma 20-200mm f/3.5-6.3 DG DN Contemporary** | ~\$900-1,100   | ~570g  | 20mm wide end for tourism, one-lens sightseeing solution      |
-| 3   | **SIRUI Aurora 35mm f/1.4**                     | ~\$549-599     | ~480g  | Low-light city walks, f/1.4 for night, 15-blade bokeh         |
-| 4   | **Viltrox AF 85mm f/2.0 Evo**                   | ~\$350-400     | 298g   | Photographing strangers at distance, compact + discreet       |
-| 5   | **1/4 Black Mist filter** (for Viltrox 85mm)    | ~\$20-40       | —      | Soften skin, dreamy portrait look for cosplayer/street photos |
+| #   | Item                                            | Retail Price   | **Paid**    | Weight | Rationale                                                     |
+| --- | ----------------------------------------------- | -------------- | ----------- | ------ | ------------------------------------------------------------- |
+| 1   | **Sony A7C II** (body)                          | ~\$2,200-2,500 | **\$1,400** | 514g   | Compact full-frame, AI AF, IBIS                               |
+| 2   | **Sigma 20-200mm f/3.5-6.3 DG DN Contemporary** | ~\$900-1,100   | **\$650**   | ~570g  | 20mm wide end for tourism, one-lens sightseeing solution      |
+| 3   | **SIRUI Aurora 35mm f/1.4**                     | ~\$549-599     | **\$450**   | ~480g  | Low-light city walks, f/1.4 for night, 15-blade bokeh         |
+| 4   | **Viltrox AF 85mm f/2.0 Evo**                   | ~\$350-400     | **\$180**   | 298g   | Photographing strangers at distance, compact + discreet       |
+| 5   | **1/4 Black Mist filter** (for Viltrox 85mm)    | ~\$20-40       | —           | —      | Soften skin, dreamy portrait look for cosplayer/street photos |
+
+**Total spent:** ~\$2,680 for body + 3 lenses (vs ~\$3,950-4,200 at retail — **~32% saved**)
 
 **Key Decision Principles:**
 - **Newer models over Sony brand** — SIRUI and Viltrox offer modern optics (VCM AF, USB-C firmware updates, declickable aperture) at a fraction of Sony's price
-- **Price-to-performance optimization** — total prime kit ~\$900-1,000 vs ~\$1,350-1,550 for Sony 35/1.8 + 85/1.8, while gaining f/1.4 at the 35mm end
+- **Price-to-performance optimization** — total prime kit \$630 (paid) vs ~\$1,350-1,550 retail for Sony 35/1.8 + 85/1.8, while gaining f/1.4 at the 35mm end
 - **20mm wide angle** — chose Sigma 20-200mm over Tamron 25-200mm specifically for the 20mm start, critical for tourism coverage (matching SEL2070G's wide end)
 
 ---
@@ -99,36 +101,76 @@ and atmospheric city scenes that a f/3.5-6.3 zoom simply cannot.
 (field-pain-points)=
 ### ⚠️ Pain Points and Honest Reflections
 
-**4. SIRUI Aurora 35mm f/1.4 is a bit too big**
+**4. SIRUI Aurora 35mm f/1.4 is a bit bulky — but no regrets**
 
 At ~480g and ~80 × 90mm, this lens noticeably changes the A7C II's compact character.
-It's not heavy by f/1.4 standards (Sony 35mm f/1.4 GM is 524g),
-but when you're switching between primes in the field, bulk adds friction.
+When switching between primes in the field, the bulk adds friction.
+But the SIRUI was a deliberate, well-reasoned choice — not a compromise:
 
-> **The 35mm f/1.8 question:** "Should I have chosen a 35mm f/1.8 instead?"
+> **Why f/1.4 at 35mm was the right call:**
 >
-> | Factor               | SIRUI Aurora 35mm f/1.4        | Alternatives at f/1.8          |
-> | -------------------- | ------------------------------ | ------------------------------ |
-> | **Weight**           | ~480g                          | Sony: 280g / Viltrox: ~340g / 7Artisans: 426g |
-> | **Size**             | ~80 × 90mm                     | Sony: 65.6 × 73mm (smallest)  |
-> | **Low-light advantage** | 2/3 stop more than f/1.8    | Good enough with A7C II's high ISO |
-> | **Bokeh**            | 15 blades — exceptional        | 9 blades — very good           |
-> | **Night city reality** | Comfortable at ISO 1600      | Would need ISO 2500 for same shutter speed |
-> | **Filter size**      | 67mm                           | 49-58mm (smaller, lighter filters) |
+> 1. **Intentionally exploring f/1.4 performance.** This is your first f/1.4 lens.
+>    Part of upgrading to a full-frame system is experiencing what fast glass can do —
+>    the shallow depth of field, the light-gathering, the rendering character.
+>    You can't evaluate "do I need f/1.4?" without actually owning one.
 >
-> **Honest verdict:** The f/1.4 advantage is real but narrow.
-> The A7C II's excellent high-ISO performance (clean up to ISO 6400)
-> partially compensates for f/1.8's 2/3 stop disadvantage.
-> If compactness matters more than the last stop of light, a 35mm f/1.8
-> (especially the Sony at 280g) would pair more naturally with the A7C II's compact philosophy.
+> 2. **Possibly the cheapest f/1.4 with reasonable performance.**
+>    Purchased at ~\$450 — significantly cheaper than Sony 35mm f/1.4 GM (~\$1,400)
+>    or Sigma 35mm f/1.4 DG DN Art (~\$800). For a "try f/1.4" experiment,
+>    the financial risk is minimal.
 >
-> **However:** You already own the SIRUI. The f/1.4 + 15-blade bokeh is genuinely beautiful
-> for night scenes and environmental portraits. Rather than second-guessing,
-> maximize what it offers:
-> - Use f/1.4 for night city walks and low-light events (its strength)
-> - Accept the size trade-off as the "price of admission" for faster glass
-> - If you eventually find it stays home too often due to bulk,
->   *then* consider a compact f/1.8 as a future complement (not replacement)
+> 3. **f/1.4 bokeh advantage is more visible at 35mm than at 85mm.**
+>    At 85mm, even f/2.0 already produces strong background separation.
+>    At 35mm, the jump from f/1.8 to f/1.4 makes a more noticeable difference
+>    in bokeh intensity — wide-angle lenses need every bit of aperture
+>    to achieve meaningful subject isolation.
+>
+> 4. **Light for an f/1.4 prime.**
+>    At ~480g, the SIRUI is lighter than most f/1.4 alternatives across focal lengths
+>    (Sony 35mm f/1.4 GM: 524g; Sigma 35mm f/1.4 Art: 645g; Sony 50mm f/1.4 GM: 516g).
+>    It's heavier than f/1.8 options, yes — but that's comparing across aperture classes.
+>    Within the f/1.4 category, the SIRUI is genuinely compact.
+>
+> | Factor                  | SIRUI Aurora 35mm f/1.4  | Context                                              |
+> | ----------------------- | ------------------------ | ---------------------------------------------------- |
+> | **Purchase price**      | ~\$450                   | Cheapest f/1.4 AF option with good optics            |
+> | **Weight**              | ~480g                    | Light for f/1.4 (Sony GM: 524g, Sigma Art: 645g)    |
+> | **Bokeh at 35mm**       | 15 blades, f/1.4         | More visible than f/1.4 vs f/1.8 difference at 85mm |
+> | **Low-light**           | 2/3 stop over f/1.8      | Comfortable at ISO 1600 where f/1.8 needs ISO 2500  |
+> | **Learning value**      | First f/1.4 experience   | Can't evaluate fast glass without owning one         |
+>
+> **The size trade-off is real but acceptable.** The SIRUI is bigger than any f/1.8 35mm,
+> but it's not a "pain point" — it's the price of admission for the fastest aperture
+> at the lowest cost. Use it where its strengths matter (night walks, video, bokeh),
+> and leave it on the tripod for piano recording where weight is irrelevant.
+
+**However — the SIRUI does feel intrusive when photographing friends casually.**
+Even people comfortable in front of a mobile phone can tense up
+when a large lens points at them. This is a real social friction, separate from weight/bulk.
+
+**Tips to reduce the "big camera intimidation" effect:**
+
+- **Shoot from the hip / waist level.** Don't raise the camera to your eye every time.
+  The A7C II's **vari-angle touchscreen** lets you compose and tap-to-focus at waist level —
+  far less confrontational than eye-level shooting. People barely notice a camera held casually at your side.
+- **Start with your phone, then "upgrade."** Take the first few casual shots on mobile
+  so friends relax into their natural state. Once the mood is set,
+  switch to the SIRUI for the "real" shots — by then, nobody's posing stiffly.
+- **Keep shooting, don't aim.** The more you raise-aim-lower the camera in deliberate bursts,
+  the more people feel "photographed." Instead, keep the camera in hand
+  and shoot continuously during conversation — the sound of a single random click
+  is far less noticeable than the ritual of lifting a large lens to your face.
+  (Electronic silent shutter helps here too.)
+- **Show them the results.** People relax when they see a beautiful f/1.4 portrait
+  with creamy bokeh on the back screen — suddenly the big lens is a feature, not a threat.
+  Share one good shot early and their self-consciousness drops.
+- **Physical camouflage helps modestly.** A small, dark-colored lens hood (rather than a shiny bare front element)
+  and no lens cap dangling make the setup look slightly less "professional gear."
+  The 67mm front element is the SIRUI's visual signature — a hood shrouds it.
+- **Accept the limit.** For truly casual, relaxed group photos with friends
+  (dinner table, drinks, walking around), **the mobile phone is the right tool.**
+  The SIRUI shines when you *intend* to take a portrait — not for every candid moment.
+  Don't force the dedicated camera into the mobile phone's role.
 
 **5. Switching between 35mm and 85mm is annoying — but the alternatives are worse**
 
@@ -439,3 +481,60 @@ is genuinely discreet for stranger photography.
 The only open question — 35mm f/1.4 vs f/1.8 size — is a personal comfort trade-off,
 not a wrong decision. Keep using the SIRUI where its strengths matter (night, video, bokeh),
 and don't carry it when the Sigma covers the day.
+
+---
+
+(recommended-future-investments)=
+## 🔮 Recommended Future Investments
+
+Your current kit covers the vast majority of shooting scenarios.
+The savings from discount hunting (~32% below retail) give you a healthy future budget.
+Here's what to consider — **only when a genuine need arises, not as preemptive purchases.**
+
+### 🥇 High Priority (fills real gaps in current kit)
+
+| Item                                     | Why                                                                                       | Est. Cost | When to Buy                     |
+| ---------------------------------------- | ----------------------------------------------------------------------------------------- | --------- | ------------------------------- |
+| **Second battery (NP-FZ100)**            | One battery is risky for full-day trips, especially video recording                       | ~\$50-70  | Before your next multi-day trip |
+| **Lens pouch / quick-access belt case**  | Reduces 35↔85mm swap friction — your #5 pain point                                        | ~\$20-40  | Immediately                     |
+| **UV or clear protection filter (67mm)** | Protect SIRUI's exposed 67mm front element during travel (lens hood helps but isn't full) | ~\$15-30  | Before next trip                |
+
+### 🥈 Medium Priority (meaningful quality-of-life upgrades)
+
+| Item                                       | Why                                                                                          | Est. Cost  | When to Buy                                          |
+| ------------------------------------------ | -------------------------------------------------------------------------------------------- | ---------- | ---------------------------------------------------- |
+| **Compact LED panel light**                | Consistent, flattering lighting for piano videos; eliminates dependence on window/room light | ~\$30-80   | When you start recording piano regularly             |
+| **Peak Design Capture Clip or similar**    | Clip camera to backpack strap for instant access; frees hands for sightseeing with child     | ~\$70-80   | If you find the camera-in-bag → grab cycle too slow  |
+| **Røde VideoMic GO II** (audio upgrade)    | USB-C, headphone monitoring jack, better preamp than VideoMicro II; still compact            | ~\$100     | If piano recordings reveal audio quality limitations |
+| **Zoom H1n or H1 XLR** (external recorder) | Record piano audio separately with built-in stereo X/Y mics; sync in post for best quality   | ~\$100-150 | For serious piano recording sessions                 |
+
+### 🥉 Low Priority (nice-to-have, buy only when a specific trip/need demands it)
+
+| Item                                        | Why                                                                                               | Est. Cost      | When to Buy                                           |
+| ------------------------------------------- | ------------------------------------------------------------------------------------------------- | -------------- | ----------------------------------------------------- |
+| **1/4 Black Mist filter (67mm for SIRUI)**  | Same dreamy portrait effect on the 35mm for night environmental portraits of friends              | ~\$20-40       | If you find yourself wanting the look at 35mm too     |
+| **Compact 35mm f/1.8** (Sony or Viltrox)    | A lighter 35mm (~280-340g) for casual daytime use where f/1.4 isn't needed and size matters       | ~\$350-750     | Only if the SIRUI consistently stays home due to bulk |
+| **Tamron 28-200mm f/2.8-5.6 Di III VXD G2** | For safari/wildlife/zoo trips where 200mm+ reach AND better optical quality than Sigma are needed | ~\$1,000-1,300 | When a specific nature trip is booked                 |
+
+### ❌ What You Do NOT Need
+
+| Item                            | Why Not                                                                                          |
+| ------------------------------- | ------------------------------------------------------------------------------------------------ |
+| **24-70mm f/2.8 zoom**          | Sigma 20-200mm covers this range; for low-light you already have the SIRUI f/1.4                 |
+| **Sony FE 85mm f/1.8**          | The Viltrox Evo at \$180 already delivers — upgrading to Sony for ~\$600 is marginal improvement |
+| **Any f/1.2 lens**              | Enormous, heavy, expensive; contradicts your compact A7C II philosophy                           |
+| **External flash / speedlight** | Your shooting style is natural light; data confirms minimal flash usage across 21 years          |
+| **Second camera body**          | One A7C II + mobile phone covers your needs; you're not a dual-body event shooter                |
+
+### 💰 Budget Perspective
+
+| Category                           | Amount         |
+| ---------------------------------- | -------------- |
+| **Retail value of your kit**       | ~\$3,950-4,200 |
+| **Actually paid**                  | ~\$2,680       |
+| **Saved through discounts**        | ~\$1,270-1,520 |
+| **High priority accessories**      | ~\$85-140      |
+| **Medium priority upgrades (all)** | ~\$300-410     |
+
+The discount savings alone could fund *all* high and medium priority items
+with money left over. No rush — buy accessories when the need is proven, not anticipated.
