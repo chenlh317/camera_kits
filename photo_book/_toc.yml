@@ -13,3 +13,4 @@ parts:
   - caption: Tips
     chapters:
       - file: tips/photographing_tips
+      - file: tips/post_purchase_usage
