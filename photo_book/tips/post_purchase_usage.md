@@ -373,25 +373,110 @@ For piano recording, placement matters more than usual:
 **Option A: On-camera (simplest)**
 
 - Mount the VideoMicro II on the A7C II's hot shoe
-- **Placement:** Position the tripod **at the piano's open lid side** (for grand/upright with open top)
-  or **slightly off to one side** so the mic points toward the soundboard/strings
+- **Placement:** Position the tripod **slightly off to one side** so the mic points toward the piano
 - **Distance:** 2-3m from the piano, tripod at roughly seated ear height
 - **Pros:** Simple, one setup, mic automatically records in sync
-- **Cons:** Room reverb and ambient noise are picked up; mic is far from the sound source
+- **Cons:** Room reverb and ambient noise are picked up; mic is far from the sound source;
+  the shotgun pattern picks up whatever the camera faces (you), not the piano's sound source (behind you)
 
-**Option B: Detached mic (better audio)**
+**Option B: Detached mic near the piano (better audio) — recommended for your setup**
 
-If you have a longer 3.5mm TRS extension cable (or Røde's own extension):
+Your upright piano sits near a wall, which creates a specific acoustic situation:
+the soundboard (the main sound-radiating surface) faces *away from you* toward the wall,
+and the hammers/strings are enclosed behind the front panel.
+This means the mic should be placed where the sound actually escapes — not where you sit.
 
-- Place the Røde VideoMicro II on a **small tabletop stand near the piano** (50-100cm from the strings/hammers),
-  aimed at the soundboard, and run the cable back to the camera's mic input
-- **Pros:** Much closer to sound source = richer piano tone, less room noise
-- **Cons:** Extra cable, slightly more setup time
+**You'll need:** a 3.5mm TRS extension cable (1-3m) to connect the detached VideoMicro II
+back to the A7C II's mic input. Røde's SC1 or any quality TRS extension works.
+
+**Where sound escapes on an upright piano:**
+
+| Opening                     | Location                                                  | Sound Character                   |
+| --------------------------- | --------------------------------------------------------- | --------------------------------- |
+| **Top opening**             | Lift or remove the top lid above the hammers              | Brightest, most direct tone       |
+| **Bottom opening**          | Gap between the bottom panel and the floor/pedal assembly | Fuller, warmer bass frequencies   |
+| **Front panel (if opened)** | Remove the front board above the keyboard                 | Direct hammer attack, very bright |
+
+> 💡 **For casual home recording, don't remove panels.**
+> Most upright pianos project enough sound from the top opening and bottom gap
+> to produce a good recording without disassembly.
+
+**Recommended placement — top opening method (best starting point):**
+
+1. **Open (lift) the top lid** of the upright piano so it angles upward,
+   exposing the top of the string/hammer area
+2. Place the VideoMicro II on a **small tabletop stand or clamp**
+   on top of the piano or on a nearby shelf, **aimed down into the open top** at roughly 30-45°
+3. **Distance from strings:** 30-60cm above the opening
+4. **Horizontal position:** Aim the mic at the **center-to-treble area** of the strings
+   (roughly above middle C to one octave higher) — this captures the fullest tonal balance.
+   Pointing at the bass end alone sounds boomy; the treble end alone sounds thin
+5. Run the TRS extension cable from the mic down behind the piano to the camera
+
+**Alternative placement — in front and above:**
+
+If you can't open the top lid or prefer not to:
+
+1. Place the mic on a small stand **on top of the piano**, pointing forward and slightly downward
+   toward the keyboard area
+2. **Distance:** directly on the piano top, 20-40cm back from the front edge
+3. This captures a mix of mechanical key action and reflected sound from the wall —
+   less direct than the open-top method, but simpler and still far better than on-camera audio
+
+**Wall proximity — working with it, not against it:**
+
+Your upright piano's back (soundboard) faces the wall. This creates early reflections
+that can either help or hurt:
+
+- **If the piano is very close to the wall (< 10cm):** The wall reinforces bass but can sound "boxy."
+  Placing the mic at the top opening avoids most wall reflection issues
+- **If the piano is 10-30cm from the wall:** This is actually fine acoustically.
+  Some reflected bass warmth adds body to the recording
+- **Pulling the piano out further is unnecessary** — the top-opening mic placement
+  captures mostly direct sound before wall reflections arrive
+- **Avoid placing the mic *behind* the piano** (between the soundboard and wall).
+  The space is too narrow and reflective — the sound will be muddy and resonant
+
+**Quick-reference placement diagram (top-down view):**
+
+```
+          ┌──────── WALL ────────┐
+          │                      │
+     ┌────┴────────────────┐     │
+     │   SOUNDBOARD (back) │     │
+     │                     │     │
+     │   strings/hammers   │     │
+     │                     │     │
+     │   ┌──── top lid ──┐ │     │
+     │   │  🎤 mic here  │ │     │  ← mic above open top,
+     │   │  (30-60cm up) │ │     │    aimed down into strings
+     │   └───────────────┘ │     │
+     │                     │     │
+     │   ═══ keyboard ═══  │     │
+     └─────────────────────┘     │
+                                 │
+         🧑 you (seated)         │
+                                 │
+              📷 camera          │  ← 2-3m away, to one side
+              (on tripod)        │
+```
+
+**Pros:** Much closer to sound source = richer piano tone, less room noise,
+captures the piano's actual tonal character rather than room reverb
+
+**Cons:** Extra cable, slightly more setup time, may need to adjust mic position
+to find the sweet spot for your specific piano
 
 > 💡 **Tip:** The VideoMicro II has an integrated windshield but no highpass filter switch.
 > If your room has air conditioning hum or traffic rumble, consider enabling
 > any in-camera audio highpass filter (A7C II: Menu → Audio → Wind Noise Reduction)
 > to reduce low-frequency noise that muddies piano recordings.
+
+> 💡 **Tip:** Do a quick test recording before a real session.
+> Play a passage with both soft (pianissimo) and loud (fortissimo) dynamics,
+> then listen back with headphones. If the bass sounds boomy, move the mic
+> toward the treble side. If it sounds thin or clacky, move it toward the center
+> or increase distance slightly. Small adjustments (10-20cm) make a big difference.
 
 ### 📹 Camera Settings for Piano Video
 
