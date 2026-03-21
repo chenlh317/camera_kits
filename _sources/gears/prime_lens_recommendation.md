@@ -174,6 +174,7 @@ From your city trip data (Wien, Seoul, Japan, Madrid):
 **Critical Finding:** For city/night photography, you consistently shoot **70-85% at 23-27mm**.
 A 35mm prime hits the sweet spot between your 23-27mm mobile coverage and your portrait needs.
 
+(museum-photography-analysis-new)=
 ### 🏛️ Museum Photography Analysis (NEW)
 
 From your **Musée du Louvre** data (668 photos across 2015-2018):
@@ -944,6 +945,7 @@ You can shoot almost any indoor event or museum without flash, preserving natura
 
 **"Portrait for kids, night/low-light city sightseeing, indoor events like a gala night, museums"**
 
+(if-af-speed-is-critical)=
 #### 🥇 If AF Speed is Critical (Kids Photography Priority):
 **Buy: Sony FE 35mm f/1.8** (~\$750-850)
 
@@ -955,6 +957,7 @@ You can shoot almost any indoor event or museum without flash, preserving natura
 5. **Weight:** Very light (280g) complements compact A7C II
 6. **Quality:** Native Sony = best compatibility, fastest AF
 
+(if-budget-weight-are-critical)=
 #### 🥈 If Budget & Weight are Critical: ⭐ NEW RECOMMENDATION
 **Buy: 7Artisans AF 35mm f/1.8** (~\$299)
 
@@ -965,6 +968,7 @@ You can shoot almost any indoor event or museum without flash, preserving natura
 4. **Trade-off:** STM AF is adequate for most use cases, just not as fast as Sony for erratic kid movement
 5. **Trade-off:** Heavier than Sony (426g vs 280g)
 
+(if-low-light-bokeh-are-critical)=
 #### 🥉 If Low-Light & Bokeh are Critical: 🌙 NEW
 **Buy: SIRUI Aurora 35mm f/1.4** (~\$549-599)
 
@@ -1034,6 +1038,7 @@ You can shoot almost any indoor event or museum without flash, preserving natura
 
 ### Your Two-Prime Kit
 
+(option-1-premium-sony)=
 #### Option 1: Premium Sony (~\$1,350-1,550)
 
 | Lens                 | Price             | Weight   | Aperture       |
@@ -1046,6 +1051,7 @@ You can shoot almost any indoor event or museum without flash, preserving natura
 
 ---
 
+(option-2-ultra-budget)=
 #### Option 2: Ultra-Budget ⭐ NEW (~\$650-700)
 
 | Lens                      | Price         | Weight   | Aperture      |
@@ -1058,6 +1064,7 @@ You can shoot almost any indoor event or museum without flash, preserving natura
 
 ---
 
+(option-3-best-value)=
 #### Option 3: Best Value ⭐ RECOMMENDED (~\$1,100-1,250)
 
 | Lens                         | Price             | Weight   | Primary Use                        |
@@ -1072,6 +1079,7 @@ You can shoot almost any indoor event or museum without flash, preserving natura
 
 ---
 
+(option-4-best-low-light)=
 #### Option 4: Best Low-Light 🌙 NEW (~\$900-1,000)
 
 | Lens                            | Price         | Weight    | Primary Use                     |
@@ -1086,6 +1094,7 @@ You can shoot almost any indoor event or museum without flash, preserving natura
 
 ---
 
+(option-5-ultimate-bokeh)=
 #### Option 5: Ultimate Bokeh 🌟 NEW (~\$1,050-1,150)
 
 | Lens                            | Price             | Weight      | Primary Use                     |
