@@ -50,6 +50,46 @@ All accessories already in hand — kit is fully operational.
 
 ---
 
+## Table of Contents <!-- omit in toc -->
+
+- [📋 Executive Summary](#-executive-summary)
+  - [🛒 What You Bought and Why](#-what-you-bought-and-why)
+- [📸 Luoyang Field Report: Lessons from the First Trip](#-luoyang-field-report-lessons-from-the-first-trip)
+  - [🎯 Lens Usage by Scenario](#-lens-usage-by-scenario)
+  - [✅ What Worked Well](#-what-worked-well)
+  - [⚠️ Pain Points and Honest Reflections](#️-pain-points-and-honest-reflections)
+- [📷 Photographing Cosplayers \& Strangers on the Street](#-photographing-cosplayers--strangers-on-the-street)
+  - [🎯 Equipment Setup](#-equipment-setup)
+  - [📐 Shooting Distance \& Composition](#-shooting-distance--composition)
+  - [🖤 Black Mist Filter Usage Guide](#-black-mist-filter-usage-guide)
+- [🎹 New Use Case: Recording Piano Performances at Home](#-new-use-case-recording-piano-performances-at-home)
+  - [🎯 Lens Choice for Piano Recording](#-lens-choice-for-piano-recording)
+  - [🎤 Audio Setup: Røde VideoMicro II](#-audio-setup-røde-videomicro-ii)
+  - [📹 Camera Settings for Piano Video](#-camera-settings-for-piano-video)
+  - [🎬 Practical Recording Workflow](#-practical-recording-workflow)
+  - [🎵 Advanced: Getting Better Piano Audio](#-advanced-getting-better-piano-audio)
+- [🎒 Trip Packing Guide: Your Actual Kit](#-trip-packing-guide-your-actual-kit)
+  - [☀️ Daytime Sightseeing (80% of trip days)](#️-daytime-sightseeing-80-of-trip-days)
+  - [🌙 Dusk-to-Night City Walk](#-dusk-to-night-city-walk)
+  - [👘 Cosplayer / Street Portrait Session](#-cosplayer--street-portrait-session)
+  - [🎹 Piano Recording (Home)](#-piano-recording-home)
+  - [🏛️ Museum / Indoor Exhibition](#️-museum--indoor-exhibition)
+- [💡 Quick Reference: Tips by Lens](#-quick-reference-tips-by-lens)
+  - [Sigma 20-200mm f/3.5-6.3 DG DN Contemporary](#sigma-20-200mm-f35-63-dg-dn-contemporary)
+  - [SIRUI Aurora 35mm f/1.4](#sirui-aurora-35mm-f14)
+  - [Viltrox AF 85mm f/2.0 Evo](#viltrox-af-85mm-f20-evo)
+- [📊 Your Kit in Perspective](#-your-kit-in-perspective)
+  - [What Your Data-Driven Analysis Recommended vs What You Bought](#what-your-data-driven-analysis-recommended-vs-what-you-bought)
+- [🔮 Recommended Future Investments](#-recommended-future-investments)
+  - [✅ Already Acquired (accessories in hand)](#-already-acquired-accessories-in-hand)
+  - [🥈 Medium Priority (piano recording upgrades — buy only when the habit is established)](#-medium-priority-piano-recording-upgrades--buy-only-when-the-habit-is-established)
+  - [🥉 Low Priority (nice-to-have, buy only when a specific trip/need demands it)](#-low-priority-nice-to-have-buy-only-when-a-specific-tripneed-demands-it)
+  - [❌ What You Do NOT Need](#-what-you-do-not-need)
+  - [🤔 Do You Ever Need Sony GM (or Equivalent Premium) Glass?](#-do-you-ever-need-sony-gm-or-equivalent-premium-glass)
+  - [💰 Budget Perspective](#-budget-perspective)
+
+---
+
 (luoyang-field-report)=
 ## 📸 Luoyang Field Report: Lessons from the First Trip
 
@@ -619,6 +659,128 @@ Here's what to consider — **only when a genuine need arises, not as preemptive
 | **Any f/1.2 lens**              | Enormous, heavy, expensive; contradicts your compact A7C II philosophy                           |
 | **External flash / speedlight** | Your shooting style is natural light; data confirms minimal flash usage across 21 years          |
 | **Second camera body**          | One A7C II + mobile phone covers your needs; you're not a dual-body event shooter                |
+
+(do-you-ever-need-gm-glass)=
+### 🤔 Do You Ever Need Sony GM (or Equivalent Premium) Glass?
+
+A Sony FE 24-70mm f/2.8 GM II retails at ~\$2,200. A Sony FE 70-200mm f/2.8 GM II
+costs ~\$2,800. The Sony FE 35mm f/1.4 GM sits at ~\$1,400.
+Each of these single lenses costs more than your *entire three-lens kit* (\$1,280 paid).
+That price gap — roughly \$1,000-2,000 per lens — is not a rounding error.
+It's the cost of a round-trip flight to Southeast Asia, a week in Japan,
+or two domestic trips within China.
+
+**Your instinct is correct: for a travel-and-memory-oriented photographer,
+experiences almost always outweigh incremental optical quality.**
+
+Here's why — and then the honest exceptions.
+
+**📐 The diminishing-returns argument (why GM glass is hard to justify):**
+
+| Factor                     | Your Current Kit                                | Sony GM Equivalent                                                                 | Real-World Delta                                                                                   |
+| -------------------------- | ----------------------------------------------- | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| **Sharpness (center)**     | Very good (90-95th percentile)                  | Excellent (98-99th)                                                                | Invisible at screen viewing & social media; visible only in large prints (>A2) or heavy crops      |
+| **Sharpness (corners)**    | Good to very good                               | Excellent                                                                          | Matters for architecture and landscape — but your Sigma 20-200mm's corners suffice for sightseeing |
+| **Autofocus speed**        | Fast VCM (Viltrox Evo, SIRUI)                   | Marginally faster linear motors                                                    | A7C II's AI AF compensates; difference is <0.1s in most scenarios                                  |
+| **Build quality**          | Good (dust/splash resistance varies)            | Weather-sealed, tank-like                                                          | Relevant for rain-forest treks or blizzard conditions; irrelevant for city sightseeing             |
+| **Bokeh rendering**        | Very pleasing (SIRUI 15 blades, Viltrox smooth) | Slightly smoother transitions                                                      | Noticeable to bokeh connoisseurs; invisible to photo subjects and social media followers           |
+| **Flare/ghost resistance** | Adequate                                        | Superior nano-coating                                                              | Matters in backlit golden-hour shooting; correctable in post for most situations                   |
+| **Weight**                 | Light kit (~1,292g for body + 2 primes)         | Significantly heavier (GM 35/1.4: 524g, GM 24-70/2.8: 695g, GM 70-200/2.8: 1,045g) | Heavier kit means more fatigue, less willingness to carry it, fewer photos taken                   |
+
+The pattern is clear: GM glass improves output by single-digit percentages
+in controlled comparisons, but **your limiting factor is never the lens optics** —
+it's light, timing, composition, and being present. A \$2,200 zoom
+that stays in the hotel room because it's too heavy produces strictly worse photos
+than a \$650 superzoom on your shoulder.
+
+**🧮 The "lens vs. trip" thought experiment:**
+
+| Spending Option                                 | Cost     | What You Get                                                                                                |
+| ----------------------------------------------- | -------- | ----------------------------------------------------------------------------------------------------------- |
+| **Sony FE 24-70mm f/2.8 GM II**                 | ~\$2,200 | Marginally sharper corners, f/2.8 constant aperture (but your SIRUI is already f/1.4), 695g of extra weight |
+| **Two international trips**                     | ~\$2,200 | Thousands of irreplaceable photos in new locations, life memories, cultural experiences                     |
+| **Sony FE 70-200mm f/2.8 GM II**                | ~\$2,800 | Best-in-class telephoto zoom, but 1,045g — a brick on your neck all day                                     |
+| **Three domestic trips + a Tamron 28-200mm G2** | ~\$2,800 | A meaningful optical upgrade (~\$1,000-1,300) *plus* one or two trips to use it on                          |
+
+The math overwhelmingly favors trips. **Gear depreciates; memories don't.**
+Your 21-year photo archive proves the point — the value of those images lies
+in *where you were and who you were with*, not which lens resolved the finest detail.
+
+**🔍 However — scenarios where premium glass becomes genuinely justified:**
+
+Despite the above, there are *specific, concrete* conditions under which
+investing in a GM-class lens stops being aspirational and starts being functional.
+Be honest with yourself about whether these apply:
+
+**1. You start selling prints or doing paid photography.**
+
+If someone commissions you to photograph an event, a portrait session,
+or sells prints at A1+ size, the optical quality delta becomes visible *and* valuable.
+Clients paying for results expect professional-grade rendering.
+Your current kit is enthusiast-grade — superb for personal use,
+but a paid engagement changes the equation.
+
+- **Threshold:** If you earn more from photography than a lens costs, it pays for itself.
+  Until then, it's a hobby expense competing with travel.
+- **Most likely candidate:** Sony FE 85mm f/1.4 GM (~\$1,800) —
+  the portrait lens where optical perfection is most visible and most valued by clients.
+
+**2. You commit seriously to a specific genre that demands it.**
+
+| Genre                  | Why Premium Glass Helps                              | Specific Lens                            | Reality Check                                                     |
+| ---------------------- | ---------------------------------------------------- | ---------------------------------------- | ----------------------------------------------------------------- |
+| **Wildlife / birding** | Need 400-600mm with fast AF tracking                 | Sony FE 200-600mm f/5.6-6.3 G (~\$2,000) | Are you booking safari trips regularly, or was it one zoo visit?  |
+| **Astrophotography**   | Coma correction, f/1.4 edge sharpness at wide angles | Sony FE 14mm f/1.8 GM (~\$1,600)         | Do you travel to dark-sky locations specifically for this?        |
+| **Sports / action**    | Constant f/2.8 at telephoto for fast shutter speeds  | Sony FE 70-200mm f/2.8 GM II (~\$2,800)  | Are you on the sidelines regularly, or is this theoretical?       |
+| **Professional video** | Cinema-grade focus breathing, parfocal behavior      | Sony FE 24-70mm f/2.8 GM II (~\$2,200)   | Your piano recording doesn't need this; travel vlogs don't either |
+
+The pattern: premium glass is justified by *sustained, repeated need* in a specific genre —
+not by one trip or one hypothetical scenario. If a single trip demands a lens,
+**rent it** (~\$50-100/week for most GM lenses) rather than buying.
+
+**3. Your third-party lenses develop problems that Sony lenses wouldn't.**
+
+This is the most pragmatic scenario. Third-party manufacturers (SIRUI, Viltrox, Sigma)
+occasionally face compatibility issues after Sony firmware updates,
+or exhibit AF inconsistencies that Sony-native lenses avoid.
+If your SIRUI or Viltrox develops persistent AF hunting, firmware stalls,
+or compatibility quirks that Sony's own lenses wouldn't have,
+*then* replacing with a Sony FE 35mm f/1.8 (~\$750) or Sony FE 85mm f/1.8 (~\$600)
+becomes a reliability investment, not a luxury upgrade.
+
+- **Note:** This argues for the **Sony FE non-GM lenses** (f/1.8 series),
+  not even the GM tier. The Sony FE 35mm f/1.8 and 85mm f/1.8 are compact,
+  reliable, optically excellent — and still far cheaper than GM.
+  If you ever "upgrade to Sony" for reliability, start here, not at GM.
+
+**4. You upgrade the camera body to a higher-resolution platform.**
+
+Your A7C II at 33MP doesn't outresolve your current lenses —
+they're well-matched to the sensor. But if you someday move to a 61MP body
+(Sony A7R V or equivalent), the higher pixel density *does* expose
+lens optical limits more aggressively. At 61MP, the sharpness gap between
+a Viltrox 85mm f/2.0 and a Sony 85mm f/1.4 GM becomes measurable and visible.
+
+- **But:** This is a hypothetical cascade — you'd first need to justify
+  a \$3,500 camera body, *then* justify lenses to match it.
+  Unless your photography becomes semi-professional, this is unlikely.
+
+**🏁 Bottom line on premium glass:**
+
+> **Your current lenses are not the bottleneck.** Your photos are limited by
+> where you go, when you go, and what you notice — not by MTF charts or nano-coatings.
+> Every dollar spent on a GM lens instead of a plane ticket
+> is a dollar that *cannot* produce an irreplaceable memory in a new place.
+>
+> The only honest triggers for GM-class glass:
+> 1. Photography becomes income (paid work demands professional tools)
+> 2. A sustained genre commitment demands specialized optics (wildlife, astro)
+> 3. Third-party reliability fails (switch to Sony-native, but FE f/1.8 first, not GM)
+> 4. A high-resolution body upgrade exposes lens limits (unlikely near-term)
+>
+> Until one of these triggers fires, **invest in destinations, not glass.**
+> The \$2,200 you'd spend on one GM zoom buys two trips that fill your archive
+> with photos no lens upgrade could have created.
 
 ### 💰 Budget Perspective
 
