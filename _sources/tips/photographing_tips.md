@@ -69,37 +69,11 @@ Trust your instincts - your consistency isn't a limitation, it's your photograph
 
 ---
 
-## Table of Contents <!-- omit in toc -->
+```{contents}
+:depth: 3
+```
 
-- [📋 Executive Summary](photographing-tips-executive-summary)
-  - [Key Findings from Your 21 Years of Data](key-findings-from-your-21-years-of-data)
-  - [Your Proven Equipment Strategy](your-proven-equipment-strategy)
-  - [Core Philosophy: "Good Enough" is Actually Great](core-philosophy-good-enough-is-actually-great)
-  - [Quick Reference: When to Use What](quick-reference-when-to-use-what)
-  - [The Bottom Line](the-bottom-line)
-- [**1. Your Proven Shooting Style: Wide-Angle Storytelling**](1-your-proven-shooting-style-wide-angle-storytelling)
-- [**2. The "Two-Camera Travel System" for Parents**](2-the-two-camera-travel-system-for-parents)
-- [**3. Focal Length Strategy for Family Travel**](3-focal-length-strategy-for-family-travel)
-- [**4. Travel Photography Strategy with a Young Child**](4-travel-photography-strategy-with-a-young-child)
-- [**5. Composition Tips Based on Your Focal Length Preferences**](5-composition-tips-based-on-your-focal-length-preferences)
-- [**6. Low-Light Travel Photography with Kids**](6-low-light-travel-photography-with-kids)
-- [**7. Packing Strategy Based on Your Shooting Patterns**](7-packing-strategy-based-on-your-shooting-patterns)
-  - [**Daily Carry (90% of days):**](daily-carry-90-of-days)
-  - [**Special Occasion Additions (10% of days):**](special-occasion-additions-10-of-days)
-  - [**Wildlife/Safari Days (swap entire kit):**](wildlifesafari-days-swap-entire-kit)
-- [**8. Capturing Authentic Travel Moments with a 4-Year-Old**](8-capturing-authentic-travel-moments-with-a-4-year-old)
-- [**9. Specific Scenarios from Your Travel History**](9-specific-scenarios-from-your-travel-history)
-- [**10. Practical Travel Photography Habits** *(learned from your data patterns)*](10-practical-travel-photography-habits-learned-from-your-data-patterns)
-- [**11. The "Good Enough" Philosophy for Casual Photography**](11-the-good-enough-philosophy-for-casual-photography)
-- [**12. Final Practical Tips from Your Data**](12-final-practical-tips-from-your-data)
-- [**13. Simple Ways to Gradually Improve** *(without making it a project)*](13-simple-ways-to-gradually-improve-without-making-it-a-project)
-  - [**A. Occasionally Try Your "Dead Zone": 50-70mm**](a-occasionally-try-your-dead-zone-50-70mm)
-  - [**B. Use Your 85mm Prime More** *(when it doesn't feel like extra work)*](b-use-your-85mm-prime-more-when-it-doesnt-feel-like-extra-work)
-  - [**C. Stick with Wide-Angle** *(it's clearly your strength)*](c-stick-with-wide-angle-its-clearly-your-strength)
-  - [**D. Don't Worry About Low-Light** *(f/4 will be fine)*](d-dont-worry-about-low-light-f4-will-be-fine)
-  - [**E. Your Photos Are Already Great** *(skip the "projects")*](e-your-photos-are-already-great-skip-the-projects)
-- [**14. Data Snapshot Across Mobile Devices (2019–2026)**](14-data-snapshot-across-mobile-devices-20192026)
-- [**References**](references)
+---
 
 (1-your-proven-shooting-style-wide-angle-storytelling)=
 ## **1. Your Proven Shooting Style: Wide-Angle Storytelling**
