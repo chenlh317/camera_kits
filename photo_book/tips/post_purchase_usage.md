@@ -19,15 +19,29 @@ for getting the most out of what you actually own.**
 (what-you-bought-and-why)=
 ### 🛒 What You Bought and Why
 
-| #   | Item                                            | Retail Price   | **Paid**    | Weight | Rationale                                                     |
-| --- | ----------------------------------------------- | -------------- | ----------- | ------ | ------------------------------------------------------------- |
-| 1   | **Sony A7C II** (body)                          | ~\$2,200-2,500 | **\$1,400** | 514g   | Compact full-frame, AI AF, IBIS                               |
-| 2   | **Sigma 20-200mm f/3.5-6.3 DG DN Contemporary** | ~\$900-1,100   | **\$650**   | ~570g  | 20mm wide end for tourism, one-lens sightseeing solution      |
-| 3   | **SIRUI Aurora 35mm f/1.4**                     | ~\$549-599     | **\$450**   | ~480g  | Low-light city walks, f/1.4 for night, 15-blade bokeh         |
-| 4   | **Viltrox AF 85mm f/2.0 Evo**                   | ~\$350-400     | **\$180**   | 298g   | Photographing strangers at distance, compact + discreet       |
-| 5   | **1/4 Black Mist filter** (for Viltrox 85mm)    | ~\$20-40       | —           | —      | Soften skin, dreamy portrait look for cosplayer/street photos |
+**📷 Camera & Lenses:**
+
+| #   | Item                                            | Retail Price   | **Paid**    | Weight | Rationale                                                |
+| --- | ----------------------------------------------- | -------------- | ----------- | ------ | -------------------------------------------------------- |
+| 1   | **Sony A7C II** (body)                          | ~\$2,200-2,500 | **\$1,400** | 514g   | Compact full-frame, AI AF, IBIS                          |
+| 2   | **Sigma 20-200mm f/3.5-6.3 DG DN Contemporary** | ~\$900-1,100   | **\$650**   | ~570g  | 20mm wide end for tourism, one-lens sightseeing solution |
+| 3   | **SIRUI Aurora 35mm f/1.4**                     | ~\$549-599     | **\$450**   | ~480g  | Low-light city walks, f/1.4 for night, 15-blade bokeh    |
+| 4   | **Viltrox AF 85mm f/2.0 Evo**                   | ~\$350-400     | **\$180**   | 298g   | Photographing strangers at distance, compact + discreet  |
 
 **Total spent:** ~\$2,680 for body + 3 lenses (vs ~\$3,950-4,200 at retail — **~32% saved**)
+
+**🧰 Accessories:**
+
+| #   | Item                                         | Retail Price | Rationale                                                     |
+| --- | -------------------------------------------- | ------------ | ------------------------------------------------------------- |
+| 5   | **1/4 Black Mist filter** (for Viltrox 85mm) | ~\$20-40     | Soften skin, dreamy portrait look for cosplayer/street photos |
+| 6   | **CPL filter** (for Sigma 20-200mm)          | ~\$20-50     | Cut reflections, deepen skies for daytime sightseeing         |
+| 7   | **UV protection filters** (all lenses)       | ~\$30-60     | Front element protection during travel                        |
+| 8   | **Second battery (NP-FZ100)**                | ~\$50-70     | Full-day trips + video recording                              |
+| 9   | **Lens pouch / quick-access belt case**      | ~\$20-40     | Reduces 35↔85mm swap friction                                 |
+| 10  | **Peak Design Capture Clip**                 | ~\$70-80     | Clip camera to backpack strap for instant access              |
+
+All accessories already in hand — kit is fully operational.
 
 **Key Decision Principles:**
 - **Newer models over Sony brand** — SIRUI and Viltrox offer modern optics (VCM AF, USB-C firmware updates, declickable aperture) at a fraction of Sony's price
@@ -40,18 +54,20 @@ for getting the most out of what you actually own.**
 ## 📸 Luoyang Field Report: Lessons from the First Trip
 
 Luoyang offered a diverse test: Longmen Grottoes (landscape + cultural heritage),
+Erlitou Site Museum of the Xia Capital (dim indoor exhibits),
 vibrant street life, and spontaneous cosplayer photography — combining sightseeing,
-low-light night walks, and candid street portraiture in a single trip.
+low-light museum visits, night walks, and candid street portraiture in a single trip.
 
 (field-report-lens-usage-by-scenario)=
 ### 🎯 Lens Usage by Scenario
 
-| Time of Day      | Scenario                     | Lens Used               | Why                                                    |
-| ---------------- | ---------------------------- | ----------------------- | ------------------------------------------------------ |
-| **Daytime**      | Longmen Grottoes sightseeing | Sigma 20-200mm          | One lens for wide landscape + telephoto detail shots   |
-| **Daytime**      | Street sightseeing           | Sigma 20-200mm          | Flexible for architecture, signs, food, crowds         |
-| **After sunset** | Night city walks             | SIRUI Aurora 35mm f/1.4 | f/1.4 gathers enough light for handheld night photos   |
-| **Anytime**      | Cosplayer/street portraits   | Viltrox 85mm f/2.0 Evo  | Shoot from distance without intruding, compact profile |
+| Time of Day      | Scenario                      | Lens Used                              | Why                                                     |
+| ---------------- | ----------------------------- | -------------------------------------- | ------------------------------------------------------- |
+| **Daytime**      | Longmen Grottoes sightseeing  | Sigma 20-200mm                         | One lens for wide landscape + telephoto detail shots    |
+| **Daytime**      | Street sightseeing            | Sigma 20-200mm                         | Flexible for architecture, signs, food, crowds          |
+| **Indoors**      | Erlitou Museum (dim exhibits) | SIRUI 35mm f/1.4 ✅ or Sigma 20-200mm ⚠️ | Fast prime for dim galleries; zoom struggles with light |
+| **After sunset** | Night city walks              | SIRUI Aurora 35mm f/1.4                | f/1.4 gathers enough light for handheld night photos    |
+| **Anytime**      | Cosplayer/street portraits    | Viltrox 85mm f/2.0 Evo                 | Shoot from distance without intruding, compact profile  |
 
 (field-reflections)=
 ### ✅ What Worked Well
@@ -98,10 +114,66 @@ and atmospheric city scenes that a f/3.5-6.3 zoom simply cannot.
 - **Tip:** Shoot at f/1.4-f/2.0 for atmospheric night shots (soft bokeh on background lights).
   Stop down to f/2.8-f/4 when you want sharper architecture details.
 
+(museum-low-light-tips)=
+**4. Museums are where the Sigma 20-200mm hits its limit — and your primes shine**
+
+At the **Erlitou Site Museum of the Xia Capital**, the Sigma 20-200mm's slow aperture
+(f/3.5 at 20mm, climbing to f/6.3 at 200mm) became a real problem.
+Museum galleries with dim, spot-lit exhibits push the lens to its limits:
+at f/5-6.3 in the telephoto range, you need ISO 6400+ and still risk slow shutter speeds.
+
+**The problem quantified:**
+
+| Lens on A7C II         | Aperture at ~50mm | Shutter speed at ISO 3200 (typical dim gallery) | Result                        |
+| ---------------------- | ----------------- | ----------------------------------------------- | ----------------------------- |
+| **Sigma 20-200mm**     | ~f/5.0            | ~1/15s                                          | ⚠️ Motion blur risk, noisy     |
+| **SIRUI 35mm f/1.4**   | f/1.4             | ~1/125s                                         | ✅ Sharp, clean, hand-holdable |
+| **Viltrox 85mm f/2.0** | f/2.0             | ~1/80s                                          | ✅ Good for exhibit details    |
+
+The SIRUI gives you **~3.5 stops more light** than the Sigma at 35-50mm,
+and the Viltrox gives **~2.5 stops more** than the Sigma at the telephoto end.
+That's the difference between a sharp shot and a blurry one.
+
+**Museum photography tips with your kit:**
+
+- **Bring the SIRUI 35mm f/1.4 as your primary museum lens.**
+  35mm at f/1.4 is ideal for gallery interiors: wide enough for room context,
+  fast enough for dim lighting, and the shallow DoF can isolate exhibits
+  against busy gallery backgrounds.
+- **Bring the Viltrox 85mm f/2.0 Evo as your detail lens.**
+  For exhibit details behind glass barriers or small artifacts you can't approach,
+  85mm at f/2.0 gathers far more light than the zoom at equivalent reach.
+  Remove the Black Mist filter in museums — you want sharpness, not softness, for artifacts.
+- **Leave the Sigma 20-200mm at the hotel** (or in the bag) for museum days.
+  Its only advantage (zoom flexibility) is outweighed by the aperture penalty indoors.
+  Exception: if the museum has bright, naturally-lit atrium spaces, the zoom is fine there.
+- **The two-prime approach works perfectly in museums:**
+  35mm for galleries/rooms + 85mm for exhibit close-ups = full coverage.
+  Museum visits are slow-paced, so lens swapping is less disruptive than on the street.
+- **Camera settings for dim museums:**
+  - Auto ISO, cap at **ISO 6400** (A7C II handles this cleanly)
+  - Minimum shutter speed: **1/60s** (prevents hand-shake blur)
+  - **Silent electronic shutter** — mandatory in quiet galleries
+  - **No flash** — prohibited in most museums; unnecessary with f/1.4-f/2.0
+  - **White Balance:** Set to a preset or custom K value (museum lighting
+    is often warm tungsten or mixed; auto WB can shift between shots)
+- **Steady shot discipline:** Even with IBIS, brace against walls or door frames
+  when shooting at 1/30-1/60s. For critical shots, use burst mode and keep the sharpest frame.
+
+> 💡 **Lesson learned from Erlitou:** Plan your lens around the *interior lighting*,
+> not the time of day. A museum visit at 2pm is a "low-light" scenario for your lenses.
+> The SIRUI's bulk, which feels like a trade-off outdoors,
+> becomes a genuine advantage in dim galleries — this is exactly why you bought f/1.4.
+>
+> **Note:** The [photographing tips](photographing_tips) chapter recommends mobile phone
+> for museums when shooting casually with a child. That advice still holds for
+> bright, well-lit museums. For dim, spot-lit galleries like Erlitou,
+> the dedicated camera with fast primes produces noticeably better results.
+
 (field-pain-points)=
 ### ⚠️ Pain Points and Honest Reflections
 
-**4. SIRUI Aurora 35mm f/1.4 is a bit bulky — but no regrets**
+**5. SIRUI Aurora 35mm f/1.4 is a bit bulky — but no regrets**
 
 At ~480g and ~80 × 90mm, this lens noticeably changes the A7C II's compact character.
 When switching between primes in the field, the bulk adds friction.
@@ -172,7 +244,7 @@ when a large lens points at them. This is a real social friction, separate from 
   The SIRUI shines when you *intend* to take a portrait — not for every candid moment.
   Don't force the dedicated camera into the mobile phone's role.
 
-**5. Switching between 35mm and 85mm is annoying — but the alternatives are worse**
+**6. Switching between 35mm and 85mm is annoying — but the alternatives are worse**
 
 Lens swapping on the street interrupts your flow and risks dust on the sensor.
 But your reasoning for not using a zoom at night is sound:
@@ -423,6 +495,20 @@ Now that you own specific gear (not theoretical recommendations), here's how to 
 
 **Philosophy:** Tripod negates the SIRUI's weight disadvantage. f/1.4 + bokeh are maximized.
 
+(packing-museum-visit)=
+### 🏛️ Museum / Indoor Exhibition
+
+| Item                        | Weight | Notes                                    |
+| --------------------------- | ------ | ---------------------------------------- |
+| ✅ A7C II + SIRUI 35mm f/1.4 | ~994g  | Primary — f/1.4 for dim galleries        |
+| ✅ Viltrox 85mm f/2.0 Evo    | 298g   | Detail lens for exhibits behind barriers |
+| ✅ Mobile phone              | —      | Quick snaps, ultra-wide for grand halls  |
+
+**Total:** ~1,292g camera gear
+**Philosophy:** Fast primes for dim interiors. Leave the Sigma zoom in the bag —
+its slow aperture (f/5-6.3 at museum focal lengths) forces high ISO and slow shutter speeds.
+Museum pace is slower, so lens swapping between 35mm and 85mm is less disruptive here than on the street.
+
 ---
 
 (practical-tips-summary)=
@@ -430,33 +516,37 @@ Now that you own specific gear (not theoretical recommendations), here's how to 
 
 ### Sigma 20-200mm f/3.5-6.3 DG DN Contemporary
 
-| Tip                                       | Detail                                                                  |
-| ----------------------------------------- | ----------------------------------------------------------------------- |
-| **Use it as your "default" daytime lens** | Mount it when you leave the hotel, leave it on all day                  |
-| **20mm for interiors & tight spaces**     | Your advantage over 25mm-start superzooms — use it actively             |
-| **Watch f-stop at telephoto end**         | At 200mm you're at f/6.3 — raise ISO or accept shutter speed trade-off  |
-| **Distortion at 20mm is real**            | Avoid placing faces near frame edges at 20mm; correct in post if needed |
-| **Not for after dark**                    | f/3.5-6.3 is too slow for handheld night shooting — switch to primes    |
+| Tip                                       | Detail                                                                                                               |
+| ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| **Use it as your "default" daytime lens** | Mount it when you leave the hotel, leave it on all day                                                               |
+| **20mm for interiors & tight spaces**     | Your advantage over 25mm-start superzooms — use it actively                                                          |
+| **Watch f-stop at telephoto end**         | At 200mm you're at f/6.3 — raise ISO or accept shutter speed trade-off                                               |
+| **Not for dim museums**                   | f/5-6.3 at exhibit-viewing focal lengths is too slow — switch to fast primes indoors                                 |
+| **Distortion at 20mm is real**            | Avoid placing faces near frame edges at 20mm; correct in post if needed                                              |
+| **Not for after dark**                    | f/3.5-6.3 is too slow for handheld night shooting — switch to primes                                                 |
+| **CPL filter for daytime sightseeing**    | Cuts water/glass reflections, deepens blue skies; rotate to taste. Remove indoors or in low light (costs ~1-2 stops) |
 
 ### SIRUI Aurora 35mm f/1.4
 
-| Tip                                           | Detail                                                                   |
-| --------------------------------------------- | ------------------------------------------------------------------------ |
-| **Night city walks = its reason to exist**    | f/1.4 + IBIS = handheld night city photography                           |
-| **f/1.4 for atmosphere, f/2.8 for sharpness** | Wide open for mood; stop down 2 stops for corner-to-corner sharpness     |
-| **Keep it for video/piano too**               | Declickable aperture + 35mm FOV = ideal for home video recording         |
-| **Accept the size**                           | It's your biggest prime, but your only f/1.4 — worth it for what it does |
-| **APS-C crop mode → 52.5mm**                  | Emergency "normal lens" without carrying a third prime                   |
+| Tip                                           | Detail                                                                         |
+| --------------------------------------------- | ------------------------------------------------------------------------------ |
+| **Night city walks = its reason to exist**    | f/1.4 + IBIS = handheld night city photography                                 |
+| **Museum / indoor exhibits**                  | f/1.4 outperforms the zoom by ~3.5 stops indoors — your primary dim-light lens |
+| **f/1.4 for atmosphere, f/2.8 for sharpness** | Wide open for mood; stop down 2 stops for corner-to-corner sharpness           |
+| **Keep it for video/piano too**               | Declickable aperture + 35mm FOV = ideal for home video recording               |
+| **Accept the size**                           | It's your biggest prime, but your only f/1.4 — worth it for what it does       |
+| **APS-C crop mode → 52.5mm**                  | Emergency "normal lens" without carrying a third prime                         |
 
 ### Viltrox AF 85mm f/2.0 Evo
 
-| Tip                             | Detail                                                                   |
-| ------------------------------- | ------------------------------------------------------------------------ |
-| **Default portrait lens**       | Compact (298g) + fast VCM AF + discreet profile                          |
-| **1/4 Black Mist as default**   | Leave it on for all people photography; remove only for non-portrait use |
-| **5-8m for stranger portraits** | Full/3/4 body at this distance — respectful, non-intrusive               |
-| **Electronic silent shutter**   | Combine with quiet VCM motor for truly silent operation                  |
-| **f/2.0 is plenty fast**        | At 85mm, f/2.0 already gives very shallow DoF — no need for f/1.4        |
+| Tip                             | Detail                                                                        |
+| ------------------------------- | ----------------------------------------------------------------------------- |
+| **Default portrait lens**       | Compact (298g) + fast VCM AF + discreet profile                               |
+| **1/4 Black Mist as default**   | Leave it on for all people photography; remove for artifacts or architecture  |
+| **5-8m for stranger portraits** | Full/3/4 body at this distance — respectful, non-intrusive                    |
+| **Museum detail lens**          | f/2.0 gathers ~2.5 stops more light than zoom at telephoto; remove Black Mist |
+| **Electronic silent shutter**   | Combine with quiet VCM motor for truly silent operation                       |
+| **f/2.0 is plenty fast**        | At 85mm, f/2.0 already gives very shallow DoF — no need for f/1.4             |
 
 ---
 
@@ -491,22 +581,26 @@ Your current kit covers the vast majority of shooting scenarios.
 The savings from discount hunting (~32% below retail) give you a healthy future budget.
 Here's what to consider — **only when a genuine need arises, not as preemptive purchases.**
 
-### 🥇 High Priority (fills real gaps in current kit)
+### ✅ Already Acquired (accessories in hand)
 
-| Item                                     | Why                                                                                       | Est. Cost | When to Buy                     |
-| ---------------------------------------- | ----------------------------------------------------------------------------------------- | --------- | ------------------------------- |
-| **Second battery (NP-FZ100)**            | One battery is risky for full-day trips, especially video recording                       | ~\$50-70  | Before your next multi-day trip |
-| **Lens pouch / quick-access belt case**  | Reduces 35↔85mm swap friction — your #5 pain point                                        | ~\$20-40  | Immediately                     |
-| **UV or clear protection filter (67mm)** | Protect SIRUI's exposed 67mm front element during travel (lens hood helps but isn't full) | ~\$15-30  | Before next trip                |
+| Item                                    | Status  | Notes                                                                     |
+| --------------------------------------- | ------- | ------------------------------------------------------------------------- |
+| **Second battery (NP-FZ100)**           | ✅ Owned | Full-day trips and video recording covered                                |
+| **Lens pouch / quick-access belt case** | ✅ Owned | Reduces 35↔85mm swap friction — critical accessory                        |
+| **UV protection filters (all lenses)**  | ✅ Owned | Front element protection on all three lenses                              |
+| **Peak Design Capture Clip**            | ✅ Owned | Camera on backpack strap = instant access, hands free for sightseeing     |
+| **CPL filter (for Sigma 20-200mm)**     | ✅ Owned | Cut reflections on water/glass, deepen blue skies for daytime sightseeing |
 
-### 🥈 Medium Priority (meaningful quality-of-life upgrades)
+> 💡 **Kit status:** All essential accessories are covered.
+> Your setup is fully operational — no urgent purchases needed before the next trip.
 
-| Item                                       | Why                                                                                          | Est. Cost  | When to Buy                                          |
-| ------------------------------------------ | -------------------------------------------------------------------------------------------- | ---------- | ---------------------------------------------------- |
-| **Compact LED panel light**                | Consistent, flattering lighting for piano videos; eliminates dependence on window/room light | ~\$30-80   | When you start recording piano regularly             |
-| **Peak Design Capture Clip or similar**    | Clip camera to backpack strap for instant access; frees hands for sightseeing with child     | ~\$70-80   | If you find the camera-in-bag → grab cycle too slow  |
-| **Røde VideoMic GO II** (audio upgrade)    | USB-C, headphone monitoring jack, better preamp than VideoMicro II; still compact            | ~\$100     | If piano recordings reveal audio quality limitations |
-| **Zoom H1n or H1 XLR** (external recorder) | Record piano audio separately with built-in stereo X/Y mics; sync in post for best quality   | ~\$100-150 | For serious piano recording sessions                 |
+### 🥈 Medium Priority (piano recording upgrades — buy only when the habit is established)
+
+| Item                                       | Why                                                                                          | Est. Cost  | When to Buy                                           |
+| ------------------------------------------ | -------------------------------------------------------------------------------------------- | ---------- | ----------------------------------------------------- |
+| **Compact LED panel light**                | Consistent, flattering lighting for piano videos; eliminates dependence on window/room light | ~\$30-80   | When you record piano regularly and want better video |
+| **Røde VideoMic GO II** (audio upgrade)    | USB-C, headphone monitoring jack, better preamp than VideoMicro II; still compact            | ~\$100     | If piano recordings reveal audio quality limitations  |
+| **Zoom H1n or H1 XLR** (external recorder) | Record piano audio separately with built-in stereo X/Y mics; sync in post for best quality   | ~\$100-150 | For serious piano recording sessions                  |
 
 ### 🥉 Low Priority (nice-to-have, buy only when a specific trip/need demands it)
 
@@ -528,13 +622,15 @@ Here's what to consider — **only when a genuine need arises, not as preemptive
 
 ### 💰 Budget Perspective
 
-| Category                           | Amount         |
-| ---------------------------------- | -------------- |
-| **Retail value of your kit**       | ~\$3,950-4,200 |
-| **Actually paid**                  | ~\$2,680       |
-| **Saved through discounts**        | ~\$1,270-1,520 |
-| **High priority accessories**      | ~\$85-140      |
-| **Medium priority upgrades (all)** | ~\$300-410     |
+| Category                               | Amount         |
+| -------------------------------------- | -------------- |
+| **Retail value of core kit**           | ~\$3,950-4,200 |
+| **Actually paid (body + lenses)**      | ~\$2,680       |
+| **Saved through discounts**            | ~\$1,270-1,520 |
+| **Accessories already acquired**       | ✅ Complete     |
+| **Remaining medium priority upgrades** | ~\$130-310     |
 
-The discount savings alone could fund *all* high and medium priority items
-with money left over. No rush — buy accessories when the need is proven, not anticipated.
+All essential accessories are already in hand.
+No high-priority purchases remain — the kit is complete.
+The remaining future investments are purely optional upgrades
+(piano audio/lighting, filters, lenses) — buy only when a specific need is proven.
