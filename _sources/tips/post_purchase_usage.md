@@ -1,0 +1,441 @@
+# Post-Purchase Usage: Field Notes & Practical Tips <!-- omit in toc -->
+
+- **Date:** March 2026
+- **Camera Body:** Sony A7C II (Full-Frame, E-Mount)
+- **Context:** First field trip with new gear — Luoyang, China (March 2026)
+- **Gear Purchased:** Sigma 20-200mm, SIRUI Aurora 35mm f/1.4, Viltrox AF 85mm f/2.0 Evo
+- **New Use Case (Home):** Piano performance recording with Røde VideoMicro II
+
+---
+
+(post-purchase-executive-summary)=
+## 📋 Executive Summary
+
+**You chose Option 1B (Sigma 20-200mm superzoom) with a "newer model + value" prime kit
+(SIRUI Aurora 35mm f/1.4 + Viltrox 85mm f/2.0 Evo).
+After one real-world trip, here are grounded observations and practical tips
+for getting the most out of what you actually own.**
+
+(what-you-bought-and-why)=
+### 🛒 What You Bought and Why
+
+| #   | Item                                            | Price Range    | Weight | Rationale                                                     |
+| --- | ----------------------------------------------- | -------------- | ------ | ------------------------------------------------------------- |
+| 1   | **Sony A7C II** (body)                          | ~\$2,200-2,500 | 514g   | Compact full-frame, AI AF, IBIS                               |
+| 2   | **Sigma 20-200mm f/3.5-6.3 DG DN Contemporary** | ~\$900-1,100   | ~570g  | 20mm wide end for tourism, one-lens sightseeing solution      |
+| 3   | **SIRUI Aurora 35mm f/1.4**                     | ~\$549-599     | ~480g  | Low-light city walks, f/1.4 for night, 15-blade bokeh         |
+| 4   | **Viltrox AF 85mm f/2.0 Evo**                   | ~\$350-400     | 298g   | Photographing strangers at distance, compact + discreet       |
+| 5   | **1/4 Black Mist filter** (for Viltrox 85mm)    | ~\$20-40       | —      | Soften skin, dreamy portrait look for cosplayer/street photos |
+
+**Key Decision Principles:**
+- **Newer models over Sony brand** — SIRUI and Viltrox offer modern optics (VCM AF, USB-C firmware updates, declickable aperture) at a fraction of Sony's price
+- **Price-to-performance optimization** — total prime kit ~\$900-1,000 vs ~\$1,350-1,550 for Sony 35/1.8 + 85/1.8, while gaining f/1.4 at the 35mm end
+- **20mm wide angle** — chose Sigma 20-200mm over Tamron 25-200mm specifically for the 20mm start, critical for tourism coverage (matching SEL2070G's wide end)
+
+---
+
+(luoyang-field-report)=
+## 📸 Luoyang Field Report: Lessons from the First Trip
+
+Luoyang offered a diverse test: Longmen Grottoes (landscape + cultural heritage),
+vibrant street life, and spontaneous cosplayer photography — combining sightseeing,
+low-light night walks, and candid street portraiture in a single trip.
+
+(field-report-lens-usage-by-scenario)=
+### 🎯 Lens Usage by Scenario
+
+| Time of Day      | Scenario                     | Lens Used               | Why                                                    |
+| ---------------- | ---------------------------- | ----------------------- | ------------------------------------------------------ |
+| **Daytime**      | Longmen Grottoes sightseeing | Sigma 20-200mm          | One lens for wide landscape + telephoto detail shots   |
+| **Daytime**      | Street sightseeing           | Sigma 20-200mm          | Flexible for architecture, signs, food, crowds         |
+| **After sunset** | Night city walks             | SIRUI Aurora 35mm f/1.4 | f/1.4 gathers enough light for handheld night photos   |
+| **Anytime**      | Cosplayer/street portraits   | Viltrox 85mm f/2.0 Evo  | Shoot from distance without intruding, compact profile |
+
+(field-reflections)=
+### ✅ What Worked Well
+
+**1. Sigma 20-200mm is extremely handy for daytime sightseeing**
+
+The superzoom validated Option 1B's promise: one lens for an entire day of tourism.
+At Longmen Grottoes, you go wide (20mm) for the cliff-face panorama,
+then zoom to 200mm for Buddha statue details — no lens change, no missed moments.
+
+- **Tip:** For cultural sites with both grand spaces and intricate carvings,
+  start wide for establishing shots, then zoom progressively tighter for details.
+  The 20-200mm range lets you tell a complete visual story without touching the lens mount.
+- **Tip:** Use 20mm for interior cave/grotto shots where space is tight —
+  this is exactly the advantage over 25mm-start superzooms.
+
+**2. Viltrox 85mm f/2.0 Evo is ideal for photographing strangers**
+
+The compact body (298g, 66 × 75mm) paired with the small A7C II
+creates a non-intimidating setup — perfect for candid street photography
+where you can't (and shouldn't) approach subjects.
+
+- **Tip:** On the A7C II, enable **silent electronic shutter** (Menu → Shutter/Silent → Silent Shooting: On).
+  Combined with the Viltrox Evo's quiet VCM motor, you're virtually invisible.
+- **Tip:** Use continuous AF (AF-C) with **Subject Recognition → Human** (eye/face detection)
+  for cosplayer shots. At 85mm and f/2.0, depth of field is shallow —
+  let the AI AF nail focus on the eyes while you concentrate on timing and framing.
+- **Tip:** The 1/4 Black Mist filter softens highlights and harsh skin details,
+  adding a cinematic glow to portrait shots. Keep it on the Viltrox 85mm as a default
+  for street portraits — it makes contrasty midday light more flattering,
+  and adds atmosphere to evening shots under artificial lighting.
+  Remove it only when you need maximum sharpness (e.g., architecture details at 85mm).
+
+**3. 35mm f/1.4 handles after-sunset city walks**
+
+Once the sun goes down, f/1.4 is a genuine advantage.
+At ISO 1600-3200 and f/1.4, you can maintain hand-holdable shutter speeds (1/30-1/60s)
+with the A7C II's IBIS — capturing neon-lit streets, night markets,
+and atmospheric city scenes that a f/3.5-6.3 zoom simply cannot.
+
+- **Tip:** For night city walks, set **Auto ISO with Max ISO 6400** and
+  **Minimum Shutter Speed to 1/30s** (or 1/60s if you're walking, not standing still).
+  A7C II's IBIS + 35mm f/1.4 can reliably produce sharp handheld shots at 1/30s.
+- **Tip:** Shoot at f/1.4-f/2.0 for atmospheric night shots (soft bokeh on background lights).
+  Stop down to f/2.8-f/4 when you want sharper architecture details.
+
+(field-pain-points)=
+### ⚠️ Pain Points and Honest Reflections
+
+**4. SIRUI Aurora 35mm f/1.4 is a bit too big**
+
+At ~480g and ~80 × 90mm, this lens noticeably changes the A7C II's compact character.
+It's not heavy by f/1.4 standards (Sony 35mm f/1.4 GM is 524g),
+but when you're switching between primes in the field, bulk adds friction.
+
+> **The 35mm f/1.8 question:** "Should I have chosen a 35mm f/1.8 instead?"
+>
+> | Factor               | SIRUI Aurora 35mm f/1.4        | Alternatives at f/1.8          |
+> | -------------------- | ------------------------------ | ------------------------------ |
+> | **Weight**           | ~480g                          | Sony: 280g / Viltrox: ~340g / 7Artisans: 426g |
+> | **Size**             | ~80 × 90mm                     | Sony: 65.6 × 73mm (smallest)  |
+> | **Low-light advantage** | 2/3 stop more than f/1.8    | Good enough with A7C II's high ISO |
+> | **Bokeh**            | 15 blades — exceptional        | 9 blades — very good           |
+> | **Night city reality** | Comfortable at ISO 1600      | Would need ISO 2500 for same shutter speed |
+> | **Filter size**      | 67mm                           | 49-58mm (smaller, lighter filters) |
+>
+> **Honest verdict:** The f/1.4 advantage is real but narrow.
+> The A7C II's excellent high-ISO performance (clean up to ISO 6400)
+> partially compensates for f/1.8's 2/3 stop disadvantage.
+> If compactness matters more than the last stop of light, a 35mm f/1.8
+> (especially the Sony at 280g) would pair more naturally with the A7C II's compact philosophy.
+>
+> **However:** You already own the SIRUI. The f/1.4 + 15-blade bokeh is genuinely beautiful
+> for night scenes and environmental portraits. Rather than second-guessing,
+> maximize what it offers:
+> - Use f/1.4 for night city walks and low-light events (its strength)
+> - Accept the size trade-off as the "price of admission" for faster glass
+> - If you eventually find it stays home too often due to bulk,
+>   *then* consider a compact f/1.8 as a future complement (not replacement)
+
+**5. Switching between 35mm and 85mm is annoying — but the alternatives are worse**
+
+Lens swapping on the street interrupts your flow and risks dust on the sensor.
+But your reasoning for not using a zoom at night is sound:
+
+- A zoom covering 35-85mm with f/1.4-2.0 **doesn't exist** at any reasonable price/size
+- A 24-70mm f/2.8 zoom is **larger and heavier** (~800g+) than carrying both primes (~778g combined)
+- A slower zoom (f/4) **defeats the purpose** of shooting after dark
+- The two-prime approach keeps you **discreet** — no large, intimidating lens barrel
+
+**Practical tips to reduce lens-swap friction:**
+
+- **Pre-plan by location, not by moment:** Decide which lens to mount *before* leaving the hotel.
+  Night market walk? Mount the 35mm. Heading to a cosplay-heavy area? Mount the 85mm.
+  - Don't swap lenses mid-scene — work with what's on the camera
+- **Use a lens pouch on your belt or bag strap:** Keep the unused prime accessible in a padded pouch
+  (not buried in a backpack). This cuts swap time from 30+ seconds to under 10 seconds
+- **A7C II's APS-C crop mode** as emergency workaround:
+  The 35mm lens becomes ~52.5mm equivalent in APS-C crop mode (14MP from the 33MP sensor).
+  Not a replacement for 85mm, but workable for a "slightly tighter" shot
+  when you don't want to swap lenses
+- **Accept the trade-off:** Two sub-500g fast primes is the lightest, smallest,
+  most discreet way to cover f/1.4-2.0 from 35-85mm. The swap friction is the cost of
+  keeping your night kit compact and fast
+
+---
+
+(cosplayer-street-photography-tips)=
+## 📷 Photographing Cosplayers & Strangers on the Street
+
+This is a new shooting style for you — not posed model shoots,
+but candid/semi-candid captures of eye-catching people in public spaces.
+Here are specific tips with your equipment.
+
+### 🎯 Equipment Setup
+
+**Lens:** Viltrox AF 85mm f/2.0 Evo (your best tool for this)
+
+| Setting                 | Recommended Value         | Why                                               |
+| ----------------------- | ------------------------- | ------------------------------------------------- |
+| **Aperture**            | f/2.0 - f/2.8             | Shallow DoF isolates subject from busy background |
+| **AF Mode**             | AF-C (Continuous)         | Tracks moving subjects                            |
+| **Subject Recognition** | Human (Face/Eye priority) | Locks onto cosplayer's face in crowd              |
+| **Drive Mode**          | Continuous Hi (10fps)     | Capture best expression/pose in a burst           |
+| **Shutter**             | Electronic (Silent)       | No shutter sound = truly discreet                 |
+| **Black Mist filter**   | 1/4 strength — keep on    | Softens skin, reduces blemishes, cinematic feel   |
+
+### 📐 Shooting Distance & Composition
+
+At 85mm on full frame, here's your working distance reference:
+
+| Framing              | Approximate Distance | Notes                                       |
+| -------------------- | -------------------- | ------------------------------------------- |
+| **Full body**        | 5-8m                 | Shows costume in full + environment context |
+| **3/4 body**         | 3-5m                 | Good balance of costume detail and context  |
+| **Waist up**         | 2-3m                 | Classic portrait framing                    |
+| **Head & shoulders** | 1.5-2m               | Expression focus, strong background blur    |
+
+- **Sweet spot for "stranger" photography:** 5-8m (full to 3/4 body).
+  Close enough for detail, far enough to not intrude.
+- **Tip:** Position yourself where cosplayers pose for others — you can photograph
+  from an angle while they interact with other fans. No need to ask, no intrusion.
+
+### 🖤 Black Mist Filter Usage Guide
+
+The 1/4 Black Mist creates a subtle halation effect (light bleeding around highlights),
+which softens skin texture and adds a dreamy, cinematic quality.
+
+| Situation                          | 1/4 Black Mist? | Why                                                |
+| ---------------------------------- | --------------- | -------------------------------------------------- |
+| **Cosplayer portraits**            | ✅ Yes           | Flattering skin, fairy-tale atmosphere             |
+| **Night street portraits**         | ✅ Yes           | Neon/street lights create beautiful glow halos     |
+| **Harsh midday sun portraits**     | ✅ Yes           | Reduces contrast, softens unflattering shadows     |
+| **Landscape/architecture at 85mm** | ❌ Remove        | You want maximum sharpness for details             |
+| **Low-contrast overcast day**      | ❌ Remove        | Already soft light, filter may make image too flat |
+
+---
+
+(piano-recording-tips)=
+## 🎹 New Use Case: Recording Piano Performances at Home
+
+**Additional equipment purchased:**
+- **Røde VideoMicro II** — compact on-camera shotgun microphone
+- **Tripod** — stable platform for self-recording
+- **Remote control** — start/stop recording without leaving the piano bench
+
+This is a fundamentally different use case from travel photography:
+stationary subject (you), controlled indoor environment, both audio AND video matter.
+
+(piano-lens-recommendation)=
+### 🎯 Lens Choice for Piano Recording
+
+| Lens                        | Focal Length | Framing at ~2-3m        | Verdict                                                 |
+| --------------------------- | ------------ | ----------------------- | ------------------------------------------------------- |
+| **Sigma 20-200mm**          | 20mm         | Full room + piano + you | Too wide — distorted, unflattering                      |
+| **Sigma 20-200mm**          | 35-50mm      | Piano + upper body      | ⚠️ Usable but f/5+ at this range                         |
+| **SIRUI Aurora 35mm f/1.4** | 35mm         | Piano + upper body      | ✅ **Best overall choice**                               |
+| **Viltrox 85mm f/2.0**      | 85mm         | Tight on hands or face  | ⚠️ Too tight unless room is large (needs ~5-6m distance) |
+
+**🥇 Recommended: SIRUI Aurora 35mm f/1.4**
+
+This is where the SIRUI's bulk *stops being a drawback* — it sits on a tripod,
+and its strengths shine:
+
+- **f/1.4 for indoor lighting:** Living rooms are typically dimmer than outdoor scenes.
+  f/1.4 lets you shoot at lower ISO (cleaner video) without adding studio lights
+- **35mm framing at ~2-3m:** Captures you, the piano keyboard, and enough room context
+  for a natural "living room performance" feel — not a clinical close-up, not a wide establishing shot
+- **15-blade bokeh:** The background (bookshelf, living room furniture) melts into a smooth,
+  non-distracting blur at f/1.4-f/2.0. This is *the* use case for beautiful bokeh
+- **Declickable aperture ring:** Smooth, silent aperture changes during video recording —
+  a SIRUI feature that travel photography rarely uses, but video recording benefits from directly
+- **Video-friendly:** The 35mm field of view is the standard "talking head" / performance framing
+  used by most content creators for a reason — natural, immersive, not distorted
+
+### 🎤 Audio Setup: Røde VideoMicro II
+
+The Røde VideoMicro II is a directional (shotgun) microphone designed to mount on the camera's hot shoe.
+For piano recording, placement matters more than usual:
+
+**Option A: On-camera (simplest)**
+
+- Mount the VideoMicro II on the A7C II's hot shoe
+- **Placement:** Position the tripod **at the piano's open lid side** (for grand/upright with open top)
+  or **slightly off to one side** so the mic points toward the soundboard/strings
+- **Distance:** 2-3m from the piano, tripod at roughly seated ear height
+- **Pros:** Simple, one setup, mic automatically records in sync
+- **Cons:** Room reverb and ambient noise are picked up; mic is far from the sound source
+
+**Option B: Detached mic (better audio)**
+
+If you have a longer 3.5mm TRS extension cable (or Røde's own extension):
+
+- Place the Røde VideoMicro II on a **small tabletop stand near the piano** (50-100cm from the strings/hammers),
+  aimed at the soundboard, and run the cable back to the camera's mic input
+- **Pros:** Much closer to sound source = richer piano tone, less room noise
+- **Cons:** Extra cable, slightly more setup time
+
+> 💡 **Tip:** The VideoMicro II has an integrated windshield but no highpass filter switch.
+> If your room has air conditioning hum or traffic rumble, consider enabling
+> any in-camera audio highpass filter (A7C II: Menu → Audio → Wind Noise Reduction)
+> to reduce low-frequency noise that muddies piano recordings.
+
+### 📹 Camera Settings for Piano Video
+
+| Setting             | Recommended Value                                | Why                                                         |
+| ------------------- | ------------------------------------------------ | ----------------------------------------------------------- |
+| **Mode**            | Movie mode (dedicated)                           | Access video-specific settings                              |
+| **Resolution**      | 4K 24fps or 30fps                                | Cinematic look, manageable file sizes                       |
+| **Aperture**        | f/1.4 - f/2.0                                    | Shallow DoF for living room background blur                 |
+| **ISO**             | Auto (cap at ISO 6400)                           | Let camera adapt to indoor light changes                    |
+| **Shutter speed**   | 1/50 (at 24fps) or 1/60 (at 30fps)               | 180-degree shutter rule for natural motion blur             |
+| **AF mode**         | AF-C with Face/Eye detect                        | Tracks your face as you play                                |
+| **Stabilization**   | IBIS On (Standard)                               | Tripod-mounted, but IBIS helps with micro-vibrations        |
+| **Audio**           | External mic (VideoMicro II)                     | Set audio input to External in Menu → Audio                 |
+| **Audio level**     | Manual, ~70% of peak                             | Avoid clipping on loud passages (fortissimo)                |
+| **White Balance**   | Manual / Preset (e.g., Incandescent or custom K) | Indoor lighting changes; lock WB to avoid color shifts      |
+| **Picture Profile** | S-Cinetone or Standard                           | S-Cinetone for filmic skin tones; Standard for easy sharing |
+
+### 🎬 Practical Recording Workflow
+
+1. **Set up tripod + camera at ~2-3m**, slightly to one side (not straight-on center)
+   → Angled view shows both your face/expression AND hands on the keyboard
+2. **Mount SIRUI Aurora 35mm f/1.4, set to f/1.4-f/2.0**
+3. **Attach Røde VideoMicro II** to hot shoe (or position near piano with extension cable)
+4. **Frame the shot:** Upper body + keyboard visible, room context softly blurred behind you
+   → Use the A7C II's **vari-angle screen** flipped forward to check framing from the piano bench
+5. **Set audio levels:** Play a loud passage (fortissimo) and ensure the meter doesn't peak/clip;
+   aim for peaks at about 70-80% (-6 to -3 dB)
+6. **Use the remote control** to start recording from the piano bench
+   → No need to walk to the camera and back, which disrupts audio continuity
+   → Trim the first 2-3 seconds in post if needed
+7. **Record in one continuous take** or record section by section — either works,
+   but continuous takes feel more authentic for musical performances
+8. **Natural lighting tip:** If you have a window, position the piano so natural light
+   falls on your face from the side (not behind you). This creates flattering light direction
+   without any extra equipment. Close curtains on windows behind you to avoid backlighting
+
+### 🎵 Advanced: Getting Better Piano Audio
+
+The Røde VideoMicro II is a solid starting point, but piano is one of the hardest instruments to record well
+due to its wide frequency range and dynamic range. A few upgrades to consider *in the future*
+(not necessary to buy now):
+
+| Upgrade                                   | Why                                                                              | Price Range |
+| ----------------------------------------- | -------------------------------------------------------------------------------- | ----------- |
+| **Røde VideoMic GO II** (upgrade)         | USB-C + headphone monitoring, better preamp                                      | ~\$100      |
+| **Zoom H1n / H1 XLR** (external recorder) | Record audio separately, sync in post, better preamps & built-in stereo X/Y mics | ~\$100-150  |
+| **Simple LED panel light**                | Consistent indoor lighting for video                                             | ~\$30-80    |
+
+> ⚠️ **For now:** The VideoMicro II + A7C II combination produces perfectly shareable piano videos
+> for social media and personal archives. Don't over-invest in audio gear
+> before establishing a regular recording habit.
+
+---
+
+(trip-packing-guide-with-your-actual-kit)=
+## 🎒 Trip Packing Guide: Your Actual Kit
+
+Now that you own specific gear (not theoretical recommendations), here's how to pack for different scenarios:
+
+(packing-daytime-sightseeing)=
+### ☀️ Daytime Sightseeing (80% of trip days)
+
+| Item                      | Weight  | Notes                            |
+| ------------------------- | ------- | -------------------------------- |
+| ✅ A7C II + Sigma 20-200mm | ~1,084g | One lens does everything         |
+| ✅ Mobile phone            | —       | Pocket backup, ultra-wide (13mm) |
+| ✅ One extra battery       | ~45g    | Safety margin                    |
+
+**Total:** ~1,130g camera gear
+**Philosophy:** One camera, one lens, zero lens swaps. Maximum presence in the moment.
+
+(packing-dusk-to-night-city-walk)=
+### 🌙 Dusk-to-Night City Walk
+
+| Item                        | Weight | Notes                                              |
+| --------------------------- | ------ | -------------------------------------------------- |
+| ✅ A7C II + SIRUI 35mm f/1.4 | ~994g  | Low-light workhorse                                |
+| ✅ Viltrox 85mm f/2.0 Evo    | 298g   | In belt pouch for cosplayer/portrait opportunities |
+| ✅ 1/4 Black Mist (on 85mm)  | —      | Pre-mounted, ready to swap                         |
+| ✅ Mobile phone              | —      | Ultra-wide backup                                  |
+
+**Total:** ~1,292g camera gear
+**Philosophy:** Fast aperture for low light, portrait lens within reach.
+
+(packing-dedicated-street-portrait)=
+### 👘 Cosplayer / Street Portrait Session
+
+| Item                          | Weight | Notes                            |
+| ----------------------------- | ------ | -------------------------------- |
+| ✅ A7C II + Viltrox 85mm Evo   | ~812g  | Primary — compact and discreet   |
+| ✅ 1/4 Black Mist filter       | —      | Default on for portraits         |
+| ✅ SIRUI 35mm f/1.4 (optional) | ~480g  | Only if you also want wide shots |
+| ✅ Mobile phone                | —      | Scene-setting wide shots         |
+
+**Total:** ~812g (85mm only) or ~1,292g (both primes)
+**Philosophy:** Smallest, least intimidating setup for stranger photography.
+
+(packing-piano-recording)=
+### 🎹 Piano Recording (Home)
+
+| Item                        | Notes                             |
+| --------------------------- | --------------------------------- |
+| ✅ A7C II + SIRUI 35mm f/1.4 | Tripod-mounted, f/1.4 for indoors |
+| ✅ Røde VideoMicro II        | Hot shoe or near-piano placement  |
+| ✅ Tripod                    | Stable platform, ~2-3m from piano |
+| ✅ Remote control            | Start/stop from piano bench       |
+
+**Philosophy:** Tripod negates the SIRUI's weight disadvantage. f/1.4 + bokeh are maximized.
+
+---
+
+(practical-tips-summary)=
+## 💡 Quick Reference: Tips by Lens
+
+### Sigma 20-200mm f/3.5-6.3 DG DN Contemporary
+
+| Tip                                       | Detail                                                                  |
+| ----------------------------------------- | ----------------------------------------------------------------------- |
+| **Use it as your "default" daytime lens** | Mount it when you leave the hotel, leave it on all day                  |
+| **20mm for interiors & tight spaces**     | Your advantage over 25mm-start superzooms — use it actively             |
+| **Watch f-stop at telephoto end**         | At 200mm you're at f/6.3 — raise ISO or accept shutter speed trade-off  |
+| **Distortion at 20mm is real**            | Avoid placing faces near frame edges at 20mm; correct in post if needed |
+| **Not for after dark**                    | f/3.5-6.3 is too slow for handheld night shooting — switch to primes    |
+
+### SIRUI Aurora 35mm f/1.4
+
+| Tip                                           | Detail                                                                   |
+| --------------------------------------------- | ------------------------------------------------------------------------ |
+| **Night city walks = its reason to exist**    | f/1.4 + IBIS = handheld night city photography                           |
+| **f/1.4 for atmosphere, f/2.8 for sharpness** | Wide open for mood; stop down 2 stops for corner-to-corner sharpness     |
+| **Keep it for video/piano too**               | Declickable aperture + 35mm FOV = ideal for home video recording         |
+| **Accept the size**                           | It's your biggest prime, but your only f/1.4 — worth it for what it does |
+| **APS-C crop mode → 52.5mm**                  | Emergency "normal lens" without carrying a third prime                   |
+
+### Viltrox AF 85mm f/2.0 Evo
+
+| Tip                             | Detail                                                                   |
+| ------------------------------- | ------------------------------------------------------------------------ |
+| **Default portrait lens**       | Compact (298g) + fast VCM AF + discreet profile                          |
+| **1/4 Black Mist as default**   | Leave it on for all people photography; remove only for non-portrait use |
+| **5-8m for stranger portraits** | Full/3/4 body at this distance — respectful, non-intrusive               |
+| **Electronic silent shutter**   | Combine with quiet VCM motor for truly silent operation                  |
+| **f/2.0 is plenty fast**        | At 85mm, f/2.0 already gives very shallow DoF — no need for f/1.4        |
+
+---
+
+(your-kit-in-perspective)=
+## 📊 Your Kit in Perspective
+
+### What Your Data-Driven Analysis Recommended vs What You Bought
+
+| Category       | Recommended (Pre-Purchase)                          | Actual Purchase                     | Assessment         |
+| -------------- | --------------------------------------------------- | ----------------------------------- | ------------------ |
+| **Body**       | Sony A7C II or A7 IV                                | Sony A7C II                         | ✅ As recommended   |
+| **Zoom**       | Option 1B: Sigma 20-200mm                           | Sigma 20-200mm                      | ✅ As recommended   |
+| **35mm prime** | Sony FE 35mm f/1.8 (top) or SIRUI f/1.4 (low-light) | SIRUI Aurora 35mm f/1.4             | ✅ Low-light kit    |
+| **85mm prime** | Sony FE 85mm f/1.8 (top) or Viltrox Evo (value)     | Viltrox AF 85mm f/2.0 Evo           | ✅ Value pick       |
+| **Philosophy** | Best quality in primary zone                        | Newer models + price-to-performance | ✅ Conscious choice |
+
+**Bottom line:** You followed the data-driven analysis, chose the value/low-light path,
+and the Luoyang trip validated the approach. The Sigma superzoom handles daytime effortlessly,
+the fast primes handle low-light and portraits, and the compact Viltrox + A7C II combo
+is genuinely discreet for stranger photography.
+
+The only open question — 35mm f/1.4 vs f/1.8 size — is a personal comfort trade-off,
+not a wrong decision. Keep using the SIRUI where its strengths matter (night, video, bokeh),
+and don't carry it when the Sigma covers the day.
