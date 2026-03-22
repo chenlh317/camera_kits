@@ -543,19 +543,48 @@ finishing the entire archive in a few focused sessions.
 (notebook-lens-choice)=
 ### 🎯 Lens Choice
 
-| Lens                        | Verdict     | Why                                                                                                                                                    |
-| --------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Sigma 20-200mm**          | ✅ **Best**  | Better edge sharpness at ~35mm than the SIRUI; zoom lets you frame any notebook size without moving the tripod; good close-focus / magnification ratio |
-| **SIRUI Aurora 35mm f/1.4** | ⚠️ Usable    | Decent stopped down, but tested edge sharpness at f/5.6 is slightly worse than the Sigma at ~35mm                                                      |
-| **Viltrox 85mm f/2.0 Evo**  | ❌ Too tight | Needs ~80-100cm distance to frame a page, making the setup awkwardly tall                                                                              |
+| Lens                        | Verdict     | Why                                                                                                                                                                                                                           |
+| --------------------------- | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sigma 20-200mm**          | ✅ **Best**  | Best edge sharpness at ~50mm f/8 ([LensTip review confirms](https://www.lenstip.com/716.4-Lens_review-Sigma_C_20-200_mm_f_3.5-6.3_DG_Image_resolution.html)); zoom lets you frame any notebook size without moving the tripod |
+| **SIRUI Aurora 35mm f/1.4** | ⚠️ Usable    | Decent stopped down, but tested edge sharpness at f/5.6 is worse than the Sigma at equivalent focal length                                                                                                                    |
+| **Viltrox 85mm f/2.0 Evo**  | ❌ Too tight | Needs ~80-100cm distance to frame a page, making the setup awkwardly tall                                                                                                                                                     |
 
 **🥇 Recommended: Sigma 20-200mm f/3.5-6.3 DG DN Contemporary**
 
-A surprising result from real-world testing: the Sigma superzoom at ~35mm delivers **better edge-to-edge
-sharpness** at f/5.6 than the SIRUI 35mm f/1.4 stopped down to the same aperture.
+A surprising result from real-world testing: the Sigma superzoom delivers **better edge-to-edge
+sharpness** than the SIRUI 35mm f/1.4 stopped down to the same aperture.
 This matters because document archival demands razor-sharp corners — exactly where the SIRUI's
 fast-prime optical design (optimized for wide-open rendering and bokeh) gives up a fraction
 of resolution compared to the Sigma's zoom formula.
+
+**Optimal focal length: ~50mm at f/8**
+
+The [LensTip resolution test](https://www.lenstip.com/716.4-Lens_review-Sigma_C_20-200_mm_f_3.5-6.3_DG_Image_resolution.html)
+measured the Sigma's MTF50 at 20, 30, 50, 100, and 200mm across apertures.
+The findings most relevant to notebook archiving (where **full-frame edge/corner sharpness**
+is the priority):
+
+| Focal Length | Center (lpmm) | FF Edge Performance                               | Practical for Notebooks?                              |
+| ------------ | ------------- | ------------------------------------------------- | ----------------------------------------------------- |
+| **20 mm**    | Excellent     | ✅ Best (tied with 100mm)                          | Working distance too short (~25cm) — lighting blocked |
+| **35 mm**    | Excellent     | Good, decent from f/4.5                           | Usable at ~40-50cm, but not peak edge performance     |
+| **50 mm**    | Excellent     | ✅ **Very good ("beyond reproach" on APS-C edge)** | ✅ **Best practical choice** at ~60-70cm               |
+| **100 mm**   | Excellent     | ✅ Best (tied with 20mm)                           | Needs ~120-140cm — impractically tall tripod setup    |
+| **200 mm**   | Weakest       | ❌ Weak (“first weak spot”)                        | Unusable for flat-field work                          |
+
+The review shows that at f/8.0 the Sigma reaches the **diffraction limit (~63-68 lpmm)**
+across a wide range of focal lengths — this is actually a major achievement for a 10× superzoom.
+
+**Why 50mm is the sweet spot:**
+- **Best edge sharpness in the practical range:** 50mm and 100mm produce the cleanest edges,
+  but 100mm requires an impractically tall camera-to-page distance (~120-140cm).
+  At 50mm, the working distance is ~60-70cm — easy to achieve with a standard tripod.
+- **20mm has excellent FF edge sharpness** but at ~25cm working distance,
+  the camera body physically blocks the lights from reaching the page evenly.
+- **35mm is decent but not optimal** — the review places it a tier below 50mm and 100mm
+  for edge performance, noting it's “positioned a tad lower” on the APS-C edge.
+- **f/8 is the optimal aperture** — the lens reaches peak sharpness (diffraction limit)
+  by f/8 at all focal lengths. Going narrower (f/11+) only degrades quality.
 
 **Why the Sigma's "slow" aperture is irrelevant here:**
 
@@ -570,7 +599,7 @@ can be as slow as needed (1/10s, 1/4s — the page isn't moving), so the max ape
   (landscape vs portrait pages) can be perfectly framed by zooming in or out —
   no need to raise or lower the tripod. This saves significant time across 2,000 pages.
 - **Good close-focus ability across the zoom range:** The Sigma's short minimum focus distance
-  helps when working at the short distances (~35-50cm) needed for page-filling framing.
+  helps when working at the short distances (~60-70cm at 50mm) needed for page-filling framing.
   Some primes struggle with minimum focus distance at these working distances.
 - **One less lens swap:** If you're already using the Sigma as your default lens,
   you can start an archiving session without changing lenses at all.
@@ -582,7 +611,7 @@ can be as slow as needed (1/10s, 1/4s — the page isn't moving), so the max ape
 ```
         📷 camera (on tripod, pointing down)
          │
-         │  ~40-50cm
+         │  ~60-70cm (at 50mm)
          │
     ┌────┴────┐
     │ 📓 note-│
@@ -599,8 +628,8 @@ can be as slow as needed (1/10s, 1/4s — the page isn't moving), so the max ape
   Alternatively, use a tripod with a horizontal center column arm.
   The key requirement is that the sensor plane is **parallel to the page** — any tilt introduces
   trapezoidal distortion (one edge of the page is closer than the other, making text uneven).
-- **Working distance:** At ~35mm on full frame, a standard A4/B5 notebook fills the frame
-  at roughly 40-50cm. Adjust height until the page fills the frame with a small margin on each side
+- **Working distance:** At ~50mm on full frame, a standard A4/B5 notebook fills the frame
+  at roughly 60-70cm. Adjust height until the page fills the frame with a small margin on each side
   (5-10% border — this gives you room for slight page-position variation without cutting text).
   With the Sigma zoom, you can fine-tune framing by zooming slightly rather than adjusting tripod height.
 - **Keep the notebook flat:** Place a sheet of clean glass or a transparent acrylic sheet
@@ -616,17 +645,17 @@ can be as slow as needed (1/10s, 1/4s — the page isn't moving), so the max ape
 (notebook-camera-settings)=
 ### ⚙️ Camera Settings
 
-| Setting                | Recommended Value                  | Why                                                                                                   |
-| ---------------------- | ---------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| **Mode**               | **Aperture Priority (A)**          | Lock aperture for consistent sharpness; let camera handle shutter speed                               |
-| **Aperture**           | **f/5.6 – f/8**                    | Sweet spot for edge-to-edge sharpness (see below)                                                     |
-| **ISO**                | **100 – 400** (as low as possible) | Tripod-mounted = no need for high ISO; minimize noise for clean text                                  |
-| **Shutter speed**      | Whatever the camera selects        | On a tripod with remote, even 1/10s is fine — nothing is moving                                       |
-| **White Balance**      | **Manual / Custom K**              | Lock to match your lighting; prevents color shifts between pages                                      |
-| **Focus mode**         | **Manual Focus (MF)** ✅            | See focus section below                                                                               |
-| **Image format**       | **JPEG Fine (Large)**              | RAW is unnecessary for document archival — JPEG saves storage and post-processing time                |
-| **Drive mode**         | **Single shot**                    | One click per page                                                                                    |
-| **Electronic shutter** | **On (Silent)**                    | Eliminates mechanical shutter vibration at slow shutter speeds (mirror-slap equivalent on mirrorless) |
+| Setting                | Recommended Value                  | Why                                                                                                                                                                     |
+| ---------------------- | ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Mode**               | **Aperture Priority (A)**          | Lock aperture for consistent sharpness; let camera handle shutter speed                                                                                                 |
+| **Aperture**           | **f/8**                            | Diffraction-limit sharpness for Sigma 20-200mm at 50mm ([LensTip data](https://www.lenstip.com/716.4-Lens_review-Sigma_C_20-200_mm_f_3.5-6.3_DG_Image_resolution.html)) |
+| **ISO**                | **100 – 400** (as low as possible) | Tripod-mounted = no need for high ISO; minimize noise for clean text                                                                                                    |
+| **Shutter speed**      | Whatever the camera selects        | On a tripod with remote, even 1/10s is fine — nothing is moving                                                                                                         |
+| **White Balance**      | **Manual / Custom K**              | Lock to match your lighting; prevents color shifts between pages                                                                                                        |
+| **Focus mode**         | **Manual Focus (MF)** ✅            | See focus section below                                                                                                                                                 |
+| **Image format**       | **JPEG Fine (Large)**              | RAW is unnecessary for document archival — JPEG saves storage and post-processing time                                                                                  |
+| **Drive mode**         | **Single shot**                    | One click per page                                                                                                                                                      |
+| **Electronic shutter** | **On (Silent)**                    | Eliminates mechanical shutter vibration at slow shutter speeds (mirror-slap equivalent on mirrorless)                                                                   |
 
 (notebook-aperture-selection)=
 ### 🔍 Aperture: Why f/5.6–f/8 (Edge Sharpness)
@@ -647,15 +676,17 @@ is just as important as the text in the center.
 | **f/11**  | Very good        | Very good             | ⚠️ Diffraction starts softening the image on a 33MP sensor |
 | **f/16+** | Good             | Good                  | ❌ Diffraction clearly degrades sharpness — avoid          |
 
-Real-world testing confirmed that the Sigma 20-200mm at ~35mm and f/5.6 produces
-sharper corners than the SIRUI 35mm f/1.4 at the same aperture.
-This is a reminder that fast primes are optimized for wide-open rendering,
-not necessarily for stopped-down flat-field work — zoom lenses designed for
-across-the-range sharpness can actually win in copy-work scenarios.
+Real-world testing confirmed that the Sigma 20-200mm at ~50mm and f/8 produces
+the sharpest corners of any lens in your kit for flat-field work.
+The [LensTip review](https://www.lenstip.com/716.4-Lens_review-Sigma_C_20-200_mm_f_3.5-6.3_DG_Image_resolution.html)
+shows the Sigma reaches its diffraction limit (~63-68 lpmm) by f/8 across most focal lengths,
+with 50mm and 100mm delivering the best edge performance on the full-frame sensor.
 
 > 💡 **Rule of thumb:** For flat-field copy work (documents, art reproductions, notebook pages),
-> always stop down to f/5.6–f/8. This is the opposite of every other use case in this guide.
-> And for this specific task, the Sigma zoom outperforms the SIRUI prime — use it.
+> use the Sigma at **~50mm, f/8**. This is the opposite of every other use case in this guide
+> (where you shoot wide open for bokeh or at wider focal lengths for coverage).
+> The 50mm + f/8 combination is confirmed by both your testing and LensTip's MTF measurements
+> as the sharpest setting for edge-to-edge resolution on this lens.
 
 (notebook-focus-tips)=
 ### 🎯 Focus: Use Manual Focus (MF), Not AF
@@ -750,7 +781,7 @@ on the opposite side, is a simple and effective document lighting setup.
 With ~20 notebooks × ~100 pages, efficiency matters. Here's a streamlined workflow:
 
 1. **Set up once, shoot an entire notebook without stopping.**
-   Lock tripod, set focus (MF), set exposure (A mode, f/5.6, Auto ISO capped at 400),
+   Lock tripod, set focus (MF), set exposure (A mode, **50mm, f/8**, Auto ISO capped at 400),
    lock white balance. Don't touch settings until you change notebooks.
 
 2. **Shoot a "chapter marker" between notebooks.**
@@ -863,17 +894,18 @@ Museum pace is slower, so lens swapping between 35mm and 85mm is less disruptive
 (packing-notebook-archiving)=
 ### 📓 Notebook Archiving (Home)
 
-| Item                                                | Notes                                                           |
-| --------------------------------------------------- | --------------------------------------------------------------- |
-| ✅ A7C II + Sigma 20-200mm                           | Tripod-mounted at ~35mm, f/5.6–f/8 — best edge sharpness tested |
-| ✅ Tripod (center column inverted or horizontal arm) | Camera pointing straight down at the page                       |
-| ✅ Remote control                                    | Avoid shaking the tripod with each shot                         |
-| ✅ Glass/acrylic sheet                               | Press pages flat                                                |
-| ✅ Two desk lamps (daylight LED)                     | Even cross-lighting at 45° from each side                       |
+| Item                                                | Notes                                                               |
+| --------------------------------------------------- | ------------------------------------------------------------------- |
+| ✅ A7C II + Sigma 20-200mm                           | Tripod-mounted at ~50mm, f/8 — best edge sharpness per LensTip data |
+| ✅ Tripod (center column inverted or horizontal arm) | Camera pointing straight down at the page                           |
+| ✅ Remote control                                    | Avoid shaking the tripod with each shot                             |
+| ✅ Glass/acrylic sheet                               | Press pages flat                                                    |
+| ✅ Two desk lamps (daylight LED)                     | Even cross-lighting at 45° from each side                           |
 
 **Philosophy:** The Sigma zoom wins over the SIRUI prime for this use case — better edge sharpness
-at f/5.6 (confirmed by testing), plus zoom flexibility to frame different notebook sizes
-without adjusting the tripod. Stop down to f/5.6–f/8, use MF, and keep lighting even.
+at ~50mm f/8 (confirmed by [LensTip MTF data](https://www.lenstip.com/716.4-Lens_review-Sigma_C_20-200_mm_f_3.5-6.3_DG_Image_resolution.html) and your testing),
+plus zoom flexibility to frame different notebook sizes
+without adjusting the tripod. Use MF and keep lighting even.
 
 ---
 
@@ -882,16 +914,16 @@ without adjusting the tripod. Stop down to f/5.6–f/8, use MF, and keep lightin
 
 ### Sigma 20-200mm f/3.5-6.3 DG DN Contemporary
 
-| Tip                                       | Detail                                                                                                               |
-| ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| **Use it as your "default" daytime lens** | Mount it when you leave the hotel, leave it on all day                                                               |
-| **20mm for interiors & tight spaces**     | Your advantage over 25mm-start superzooms — use it actively                                                          |
-| **Watch f-stop at telephoto end**         | At 200mm you're at f/6.3 — raise ISO or accept shutter speed trade-off                                               |
-| **Not for dim museums**                   | f/5-6.3 at exhibit-viewing focal lengths is too slow — switch to fast primes indoors                                 |
-| **Distortion at 20mm is real**            | Avoid placing faces near frame edges at 20mm; correct in post if needed                                              |
-| **Not for after dark**                    | f/3.5-6.3 is too slow for handheld night shooting — switch to primes                                                 |
-| **CPL filter for daytime sightseeing**    | Cuts water/glass reflections, deepens blue skies; rotate to taste. Remove indoors or in low light (costs ~1-2 stops) |
-| **Notebook archiving at ~35mm**           | Better edge sharpness than SIRUI at f/5.6 (confirmed by testing); zoom to frame different notebook sizes on tripod   |
+| Tip                                       | Detail                                                                                                                                                                                                  |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Use it as your "default" daytime lens** | Mount it when you leave the hotel, leave it on all day                                                                                                                                                  |
+| **20mm for interiors & tight spaces**     | Your advantage over 25mm-start superzooms — use it actively                                                                                                                                             |
+| **Watch f-stop at telephoto end**         | At 200mm you're at f/6.3 — raise ISO or accept shutter speed trade-off                                                                                                                                  |
+| **Not for dim museums**                   | f/5-6.3 at exhibit-viewing focal lengths is too slow — switch to fast primes indoors                                                                                                                    |
+| **Distortion at 20mm is real**            | Avoid placing faces near frame edges at 20mm; correct in post if needed                                                                                                                                 |
+| **Not for after dark**                    | f/3.5-6.3 is too slow for handheld night shooting — switch to primes                                                                                                                                    |
+| **CPL filter for daytime sightseeing**    | Cuts water/glass reflections, deepens blue skies; rotate to taste. Remove indoors or in low light (costs ~1-2 stops)                                                                                    |
+| **Notebook archiving at ~50mm f/8**       | Best edge sharpness in the kit per [LensTip MTF data](https://www.lenstip.com/716.4-Lens_review-Sigma_C_20-200_mm_f_3.5-6.3_DG_Image_resolution.html); zoom to frame different notebook sizes on tripod |
 
 ### SIRUI Aurora 35mm f/1.4
 
