@@ -4,7 +4,7 @@
 - **Camera Body:** Sony A7C II (Full-Frame, E-Mount)
 - **Context:** First field trip with new gear — Luoyang, China (March 2026)
 - **Gear Purchased:** Sigma 20-200mm, SIRUI Aurora 35mm f/1.4, Viltrox AF 85mm f/2.0 Evo
-- **New Use Case (Home):** Piano performance recording with Røde VideoMicro II
+- **New Use Cases (Home):** Piano performance recording with Røde VideoMicro II; handwritten notebook archiving
 
 ---
 
@@ -543,16 +543,37 @@ finishing the entire archive in a few focused sessions.
 (notebook-lens-choice)=
 ### 🎯 Lens Choice
 
-| Lens                        | Verdict     | Why                                                                                              |
-| --------------------------- | ----------- | ------------------------------------------------------------------------------------------------ |
-| **Sigma 20-200mm**          | ⚠️ Usable    | Zoom to frame the page, but slow aperture forces higher ISO or longer exposure                   |
-| **SIRUI Aurora 35mm f/1.4** | ✅ **Best**  | Sharp across the frame when stopped down; plenty of light; 35mm covers an A4/B5 page at ~40-50cm |
-| **Viltrox 85mm f/2.0 Evo**  | ❌ Too tight | Needs ~80-100cm distance to frame a page, making the setup awkwardly tall                        |
+| Lens                        | Verdict     | Why                                                                                                                                                    |
+| --------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Sigma 20-200mm**          | ✅ **Best**  | Better edge sharpness at ~35mm than the SIRUI; zoom lets you frame any notebook size without moving the tripod; good close-focus / magnification ratio |
+| **SIRUI Aurora 35mm f/1.4** | ⚠️ Usable    | Decent stopped down, but tested edge sharpness at f/5.6 is slightly worse than the Sigma at ~35mm                                                      |
+| **Viltrox 85mm f/2.0 Evo**  | ❌ Too tight | Needs ~80-100cm distance to frame a page, making the setup awkwardly tall                                                                              |
 
-**🥇 Recommended: SIRUI Aurora 35mm f/1.4**
+**🥇 Recommended: Sigma 20-200mm f/3.5-6.3 DG DN Contemporary**
 
-This is the second home use case (after piano recording) where the SIRUI's bulk is irrelevant —
-it lives on a tripod. What matters is optical quality stopped down and sufficient light gathering.
+A surprising result from real-world testing: the Sigma superzoom at ~35mm delivers **better edge-to-edge
+sharpness** at f/5.6 than the SIRUI 35mm f/1.4 stopped down to the same aperture.
+This matters because document archival demands razor-sharp corners — exactly where the SIRUI's
+fast-prime optical design (optimized for wide-open rendering and bokeh) gives up a fraction
+of resolution compared to the Sigma's zoom formula.
+
+**Why the Sigma's "slow" aperture is irrelevant here:**
+
+The Sigma's f/3.5-6.3 variable aperture is a genuine disadvantage for handheld low-light shooting —
+but for tripod-mounted document work you're shooting at f/5.6 anyway, well within the Sigma's range
+at ~35mm (~f/4.5 max at that focal length). On a tripod with a remote control, shutter speed
+can be as slow as needed (1/10s, 1/4s — the page isn't moving), so the max aperture simply doesn't matter.
+
+**Additional Sigma advantages for this use case:**
+
+- **Zoom to frame precisely:** Different notebook sizes (A4, B5, A5, pocket) and orientations
+  (landscape vs portrait pages) can be perfectly framed by zooming in or out —
+  no need to raise or lower the tripod. This saves significant time across 2,000 pages.
+- **Good close-focus ability across the zoom range:** The Sigma's short minimum focus distance
+  helps when working at the short distances (~35-50cm) needed for page-filling framing.
+  Some primes struggle with minimum focus distance at these working distances.
+- **One less lens swap:** If you're already using the Sigma as your default lens,
+  you can start an archiving session without changing lenses at all.
 
 ### 📐 Physical Setup
 
@@ -578,9 +599,10 @@ it lives on a tripod. What matters is optical quality stopped down and sufficien
   Alternatively, use a tripod with a horizontal center column arm.
   The key requirement is that the sensor plane is **parallel to the page** — any tilt introduces
   trapezoidal distortion (one edge of the page is closer than the other, making text uneven).
-- **Working distance:** At 35mm on full frame, a standard A4/B5 notebook fills the frame
+- **Working distance:** At ~35mm on full frame, a standard A4/B5 notebook fills the frame
   at roughly 40-50cm. Adjust height until the page fills the frame with a small margin on each side
   (5-10% border — this gives you room for slight page-position variation without cutting text).
+  With the Sigma zoom, you can fine-tune framing by zooming slightly rather than adjusting tripod height.
 - **Keep the notebook flat:** Place a sheet of clean glass or a transparent acrylic sheet
   on top of the open notebook to press pages flat. Curved pages near the spine
   cause blurred text and uneven lighting. Weigh down the corners if needed.
@@ -625,13 +647,15 @@ is just as important as the text in the center.
 | **f/11**  | Very good        | Very good             | ⚠️ Diffraction starts softening the image on a 33MP sensor |
 | **f/16+** | Good             | Good                  | ❌ Diffraction clearly degrades sharpness — avoid          |
 
-The SIRUI Aurora 35mm f/1.4's 15 aperture blades produce a smooth, round aperture opening
-at all f-stops, but that doesn't help with edge sharpness — what matters is the optical formula's
-performance when stopped down. Most modern primes reach peak across-frame sharpness
-around f/5.6–f/8, and the SIRUI is no exception.
+Real-world testing confirmed that the Sigma 20-200mm at ~35mm and f/5.6 produces
+sharper corners than the SIRUI 35mm f/1.4 at the same aperture.
+This is a reminder that fast primes are optimized for wide-open rendering,
+not necessarily for stopped-down flat-field work — zoom lenses designed for
+across-the-range sharpness can actually win in copy-work scenarios.
 
 > 💡 **Rule of thumb:** For flat-field copy work (documents, art reproductions, notebook pages),
 > always stop down to f/5.6–f/8. This is the opposite of every other use case in this guide.
+> And for this specific task, the Sigma zoom outperforms the SIRUI prime — use it.
 
 (notebook-focus-tips)=
 ### 🎯 Focus: Use Manual Focus (MF), Not AF
@@ -839,16 +863,17 @@ Museum pace is slower, so lens swapping between 35mm and 85mm is less disruptive
 (packing-notebook-archiving)=
 ### 📓 Notebook Archiving (Home)
 
-| Item                                                | Notes                                                   |
-| --------------------------------------------------- | ------------------------------------------------------- |
-| ✅ A7C II + SIRUI 35mm f/1.4                         | Tripod-mounted, stopped down to f/5.6–f/8 for sharpness |
-| ✅ Tripod (center column inverted or horizontal arm) | Camera pointing straight down at the page               |
-| ✅ Remote control                                    | Avoid shaking the tripod with each shot                 |
-| ✅ Glass/acrylic sheet                               | Press pages flat                                        |
-| ✅ Two desk lamps (daylight LED)                     | Even cross-lighting at 45° from each side               |
+| Item                                                | Notes                                                           |
+| --------------------------------------------------- | --------------------------------------------------------------- |
+| ✅ A7C II + Sigma 20-200mm                           | Tripod-mounted at ~35mm, f/5.6–f/8 — best edge sharpness tested |
+| ✅ Tripod (center column inverted or horizontal arm) | Camera pointing straight down at the page                       |
+| ✅ Remote control                                    | Avoid shaking the tripod with each shot                         |
+| ✅ Glass/acrylic sheet                               | Press pages flat                                                |
+| ✅ Two desk lamps (daylight LED)                     | Even cross-lighting at 45° from each side                       |
 
-**Philosophy:** Same tripod + remote + SIRUI combo as piano recording, but pointed down instead of across.
-Sharpness across the entire frame is the priority — stop down to f/5.6–f/8, use MF, and keep lighting even.
+**Philosophy:** The Sigma zoom wins over the SIRUI prime for this use case — better edge sharpness
+at f/5.6 (confirmed by testing), plus zoom flexibility to frame different notebook sizes
+without adjusting the tripod. Stop down to f/5.6–f/8, use MF, and keep lighting even.
 
 ---
 
@@ -866,6 +891,7 @@ Sharpness across the entire frame is the priority — stop down to f/5.6–f/8, 
 | **Distortion at 20mm is real**            | Avoid placing faces near frame edges at 20mm; correct in post if needed                                              |
 | **Not for after dark**                    | f/3.5-6.3 is too slow for handheld night shooting — switch to primes                                                 |
 | **CPL filter for daytime sightseeing**    | Cuts water/glass reflections, deepens blue skies; rotate to taste. Remove indoors or in low light (costs ~1-2 stops) |
+| **Notebook archiving at ~35mm**           | Better edge sharpness than SIRUI at f/5.6 (confirmed by testing); zoom to frame different notebook sizes on tripod   |
 
 ### SIRUI Aurora 35mm f/1.4
 
@@ -926,7 +952,7 @@ Here's what the upgrade to the A7C II system concretely gained (and what little 
 | **Sensor**        | APS-C, 12.3 MP               | Full-frame, 33 MP                               | ~2.7× resolution; noticeably cleaner high-ISO (usable ISO 6400)   |
 | **Stabilization** | None (body) — lens-dependent | 5-axis IBIS (7 stops rated)                     | Handheld night shooting now viable; old kit required a tripod     |
 | **Autofocus**     | 9-point phase detect         | 759-point hybrid + AI subject recognition       | Eye/face AF tracks reliably; old kit needed manual focus for eyes |
-| **Video**         | 720p (limited)               | 4K 30fps, S-Cinetone, silent electronic shutter | Piano recording use case simply didn't exist on the A550          |
+| **Video**         | None                         | 4K 30fps, S-Cinetone, silent electronic shutter | Piano recording use case simply didn't exist on the A550          |
 | **Mount**         | A-mount (discontinued)       | E-mount (active ecosystem, 200+ native lenses)  | Future-proof; old A-mount lenses are a dead end                   |
 | **Weight**        | 599 g (body only)            | 514 g (body only)                               | Lighter despite a larger sensor                                   |
 
