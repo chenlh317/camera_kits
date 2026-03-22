@@ -1,7 +1,7 @@
 # Photography Tips Based on Your Usage Patterns <!-- omit in toc -->
 
 - **Analysis Date:** 5 February, 2026
-- **Last Updated:** 5 February, 2026
+- **Last Updated:** 22 March, 2026
 - **Data Source:** 70 photo collections spanning 2004-2025
   PLUS 12 mobile phone archives (2006-2026)
 - **Total Photos Analyzed:** 75,974 with 35mm equivalent focal length data
@@ -9,6 +9,8 @@
 - **Note:** Counts reflect photos with EXIF 35mm-equivalent; older sets may be excluded
 - **Mobile Phone Photos:** 16,932 spanning 20 years across 12 devices
   (Samsung, Nokia, iPhone, Huawei)
+- **Camera Body:** Sony A7C II (Full-Frame, E-Mount)
+- **Current Lenses:** Sigma 20-200mm f/3.5-6.3, SIRUI Aurora 35mm f/1.4, Viltrox AF 85mm f/2.0 Evo
 
 ---
 
@@ -36,35 +38,40 @@ while enjoying the experience, not turning every outing into a photo shoot.
 (your-proven-equipment-strategy)=
 ### Your Proven Equipment Strategy
 
-- **Daily Workhorse:** SEL2070G (20-70mm f/4) covers 90-95% of your shooting style
-- **Portrait Addition:** 85mm f/1.8 prime for golden hour and special occasions
+- **Daytime Workhorse:** Sigma 20-200mm f/3.5-6.3 — one lens for an entire day of sightseeing, 20mm wide to 200mm telephoto
+- **Low-Light / Night Prime:** SIRUI Aurora 35mm f/1.4 — night city walks, dim museums, piano video recording
+- **Portrait Prime:** Viltrox AF 85mm f/2.0 Evo — compact (298g), discreet stranger/cosplayer photography
 - **Always-Ready Backup:** Mobile phone (Samsung S25) - 64% at 23mm mirrors your dedicated camera style
-- **Telephoto Option:** Tamron 28-200mm f/2.8-5.6 for wildlife trips and extended reach needs
 
 (core-philosophy-good-enough-is-actually-great)=
 ### Core Philosophy: "Good Enough" is Actually Great
 
 1. **Mobile photo beats no photo** - kid moments are fleeting, experience comes first
-2. **One lens is liberating** - less gear means more presence in the moment
-3. **f/4 is fine** - modern high ISO capability compensates; your SAL1650 f/2.8 experience confirms minimal practical difference
+2. **One lens is liberating** - the Sigma 20-200mm covers 90%+ of daytime shooting in a single lens
+3. **Fast primes for when it matters** - SIRUI f/1.4 for night, Viltrox f/2.0 for portraits; don't carry them when you don't need them
 4. **Your 59,000+ photo archive** proves imperfect photos become treasured memories
 
 (quick-reference-when-to-use-what)=
 ### Quick Reference: When to Use What
 
-| Situation                        | Recommended Approach                                           |
-| -------------------------------- | -------------------------------------------------------------- |
-| **Daily exploration with child** | Mobile phone only - stay light, stay present                   |
-| **Planned scenic moments**       | Dedicated camera + 20-70mm                                     |
-| **Golden hour portraits**        | Add 85mm prime                                                 |
-| **Museums & crowded spots**      | Mobile phone (safer, always ready)                             |
-| **Wildlife/telephoto needs**     | Swap to Tamron 28-200mm (safari, zoo, dedicated wildlife days) |
+| Situation                          | Recommended Approach                                                |
+| ---------------------------------- | ------------------------------------------------------------------- |
+| **Daily exploration with child**   | Mobile phone only - stay light, stay present                        |
+| **Daytime sightseeing**            | A7C II + Sigma 20-200mm — one lens, zero swaps                      |
+| **Golden hour / street portraits** | Viltrox 85mm f/2.0 Evo (+ 1/4 Black Mist filter)                    |
+| **Night city walks**               | SIRUI Aurora 35mm f/1.4 — handheld low-light                        |
+| **Dim museums / indoor exhibits**  | SIRUI 35mm f/1.4 (galleries) + Viltrox 85mm f/2.0 (exhibit details) |
+| **Bright museums & crowded spots** | Mobile phone (safer, always ready)                                  |
+| **Cosplayer / stranger photos**    | Viltrox 85mm f/2.0 Evo — compact, discreet, silent shutter          |
+| **Wildlife / telephoto needs**     | Sigma 20-200mm covers 200mm reach for casual wildlife & zoo visits  |
 
 (the-bottom-line)=
 ### The Bottom Line
 
 Your photography style has naturally evolved over 21 years into **efficient wide-angle storytelling**.
-The SEL2070G (20-70mm) perfectly matches this proven approach while removing the 24mm-only constraint.
+The Sigma 20-200mm covers your daytime needs in a single lens (from 20mm wide to 200mm telephoto),
+while the SIRUI 35mm f/1.4 and Viltrox 85mm f/2.0 Evo handle low-light and portrait scenarios
+that the zoom can't. Your Luoyang trip validated this three-lens approach.
 Trust your instincts - your consistency isn't a limitation, it's your photographic voice.
 
 ---
@@ -127,22 +134,29 @@ Your usage data reveals you've naturally evolved a brilliant workflow:
 - **Pro tip:** With a 4-year-old, the best camera is the one ready NOW.
 - **Reality:** You're shooting MORE on mobile recently - embrace it.
 
-**Dedicated Camera (20-70mm recommended): The "Quality Shots" Tool**
+**Dedicated Camera (Sigma 20-200mm): The "Quality Shots" Tool**
 
 **When to use:**
 
 - Planned photo opportunities (sunrise/sunset, landmarks).
-- Indoor museums, churches (better low-light than mobile).
+- When you need telephoto reach (100-200mm for distant details, wildlife, cosplayers).
 - Deliberate compositions you want to print.
 - When you have time to set up the shot.
 
 - **Your pattern:** 50-70% of shots at 20-35mm when using dedicated camera.
+- **Bonus:** 200mm telephoto reach means no separate wildlife lens for casual zoo/park trips.
+
+**When to Swap to Fast Primes:**
+
+1. **After sunset / dim museums:** Mount SIRUI 35mm f/1.4 (f/1.4 vs f/3.5-6.3 = 3+ stops more light).
+2. **Portrait sessions / cosplayer photography:** Mount Viltrox 85mm f/2.0 Evo (compact, discreet, fast AF).
+3. **Don't carry all three lenses every day** — choose by the day's plan.
 
 **Workflow Tip for Parents:**
 
 1. Start each day with mobile phone only (museums, walking tours with kid).
-2. Bring dedicated camera for specific photo objectives (sunset spots, special locations).
-3. Don't carry both all day - you'll resent the weight when carrying a tired 4-year-old.
+2. Bring dedicated camera + Sigma 20-200mm for specific photo objectives (scenic spots, wildlife, special locations).
+3. Don't carry both primes + zoom all day - pick the right lens for the day's plan.
 
 ---
 
@@ -197,18 +211,18 @@ Based on your historical usage, here's when to use what:
 - **Your pattern:** Dedicated portrait moments, not everyday snapshots.
 - **Parent reality:** Requires child cooperation - use sparingly on travel days.
 
-**100-200mm (Telephoto) - <5% using Tamron 28-200mm**
+**100-200mm (Telephoto) - <5% using Sigma 20-200mm**
 
 **Best for:**
 
 - Wildlife spotting (reindeer in Norway, birds in parks, zoo visits).
 - Distant architectural details.
 - Street performances child is watching.
-- Safari and wildlife parks (200mm reach essential).
+- Cosplayer and stranger photography at respectful distance.
 
 - **Your pattern:** Rare use, but when you need it, you REALLY need it.
-- **Tamron 28-200mm advantage:** One lens covers wide-to-telephoto when wildlife is the objective.
-- **When to swap lenses:** Safari days, zoo trips, or dedicated wildlife excursions - leave SEL2070G at hotel and bring Tamron as your only lens.
+- **Sigma 20-200mm advantage:** No lens swap needed — just zoom from 20mm wide to 200mm telephoto on the same lens.
+- **For dedicated portrait/cosplayer sessions:** Swap to Viltrox 85mm f/2.0 Evo for faster aperture, better bokeh, and discreet profile.
 
 ---
 
@@ -219,19 +233,19 @@ Your data reveals evolution toward **efficiency and spontaneity** - perfect for 
 
 **The "One Lens Day" Approach** *(recommended based on your 24mm workhorse usage)*
 
-**Bring ONLY SEL2070G (20-70mm):**
+**Bring ONLY Sigma 20-200mm:**
 
-- Covers 90-95% of your documented shooting style.
-- Less weight = more patience with tired kid.
-- No lens changing = fewer missed moments.
-- Weatherproof (one less thing to worry about).
+- Covers 90%+ of your documented shooting style — from 20mm wide to 200mm telephoto.
+- Less weight than carrying multiple lenses = more patience with tired kid.
+- No lens changing = fewer missed moments, less dust-on-sensor risk.
+- Your Luoyang trip validated this: Longmen Grottoes from wide panorama to Buddha statue details, all on one lens.
 
-**When to Bring the 85mm Prime:**
+**When to Bring Fast Primes Instead:**
 
-- Planned portrait sessions (golden hour at landmark).
-- Professional family photos (anniversary dinner, special outfit day).
-- Hotel room portrait sessions (rainy day activity).
-- **Reality check:** Maybe 1-2 outings per week-long trip.
+- **Night city walks:** Swap to SIRUI 35mm f/1.4 (the Sigma's f/3.5-6.3 is too slow after dark).
+- **Dim museums:** SIRUI 35mm f/1.4 for galleries + Viltrox 85mm f/2.0 for exhibit details.
+- **Planned portrait sessions:** Viltrox 85mm f/2.0 Evo for golden hour, cosplayer, or stranger photography.
+- **Reality check:** Fast primes shine in specific conditions — don't carry them all "just in case."
 
 **The Mobile-First Mindset:**
 
@@ -283,88 +297,108 @@ Your data reveals evolution toward **efficiency and spontaneity** - perfect for 
 (6-low-light-travel-photography-with-kids)=
 ## **6. Low-Light Travel Photography with Kids**
 
-Your SAL1650 experience (24-75mm f/2.8) shows you have experience with fast aperture zooms:
+Your new kit gives you genuine low-light capability that the old SAL1650 + A550 never had:
+the A7C II's IBIS + clean ISO 6400, plus fast primes (f/1.4 and f/2.0).
 
-**Managing f/4 Maximum Aperture (SEL2070G):**
+**Your Three-Tier Low-Light Strategy:**
 
-- ✅ Coming from SAL1650 f/2.8: One full stop difference to f/4 -
-  minimal practical impact.
-- ✅ Modern cameras excel at high ISO (confidently use ISO 1600-6400 to compensate).
-- ✅ Image stabilization helps (several stops of handholding advantage, depending on body/lens).
-- ✅ Wide angles (20-24mm) more forgiving for handholding.
-- ⚠️ Indoor museums/churches: bump ISO, accept minor grain.
-- ⚠️ Restaurants at night: use mobile phone (f/1.8-2.0) or 85mm prime (f/1.8).
-- 💡 Your SAL1650 f/2.8 experience means you understand fast aperture benefits -
-  f/4 is a reasonable trade-off for significantly wider focal range
-  (20mm vs 24mm start).
+- ✅ **Daytime / bright indoors:** Sigma 20-200mm handles everything — f/3.5-6.3 is fine with good light.
+- ✅ **Dim museums / churches:** Swap to SIRUI 35mm f/1.4 (~3.5 stops more light than the Sigma at similar focal lengths). Viltrox 85mm f/2.0 for exhibit details (~2.5 stops more than zoom at telephoto).
+- ✅ **Night city walks:** SIRUI 35mm f/1.4 + A7C II IBIS = handheld night photography at ISO 1600-3200, 1/30-1/60s.
+- ✅ **A7C II's IBIS** compensates generously for the Sigma's slower aperture in moderate low-light.
+- ⚠️ **The Sigma is NOT for after dark** — f/3.5-6.3 is too slow for handheld night shooting. Switch to primes.
+- 💡 **Your Luoyang experience confirmed this:** the SIRUI at f/1.4 captured night markets and neon-lit streets that the Sigma simply couldn't handle.
 
 **When Kids Won't Stay Still:**
 
 - **Fast shutter priority:** 1/200s minimum for moving 4-year-old.
 - **Raise ISO:** Better a grainy sharp photo than blurry "perfect" exposure.
 - **Your historical pattern:** You prefer available light over flash (minimal flash usage in data).
+- **A7C II advantage:** AI face/eye tracking + continuous AF keeps focus locked on moving kids — the old A550's 9-point AF couldn't do this.
 
 **Restaurant Photography Reality:**
 
 - Mobile phone often better (always-available, brighter aperture, HDR mode).
 - Your data confirms high mobile usage - lean into this for casual dining.
-- Save dedicated camera for well-lit outdoor cafes.
+- SIRUI 35mm f/1.4 works well for atmospheric restaurant shots if you're carrying it.
+- Viltrox 85mm f/2.0 captures candid moments across the table with nice background blur.
 
 ---
 
 (7-packing-strategy-based-on-your-shooting-patterns)=
 ## **7. Packing Strategy Based on Your Shooting Patterns**
 
-(daily-carry-90-of-days)=
-### **Daily Carry (90% of days):**
+(daytime-sightseeing)=
+### **Daytime Sightseeing (80% of travel days):**
 
 **Essential Kit**
 
-| Item                               | Notes              |
-| ---------------------------------- | ------------------ |
-| ✅ Camera body + SEL2070G (20-70mm) | Stays on camera    |
-| ✅ Mobile phone                     | Pocket/easy access |
-| ✅ One extra battery                | —                  |
-| ✅ Small lens cloth                 | —                  |
+| Item                      | Weight  | Notes                            |
+| ------------------------- | ------- | -------------------------------- |
+| ✅ A7C II + Sigma 20-200mm | ~1,084g | One lens does everything         |
+| ✅ Mobile phone            | —       | Pocket backup, ultra-wide (13mm) |
+| ✅ One extra battery       | ~45g    | Safety margin                    |
+| ✅ CPL filter (on Sigma)   | —       | Cut reflections, deepen skies    |
 
-**Total weight:** ~1kg camera gear
+**Total weight:** ~1,130g camera gear
 
-(special-occasion-additions-10-of-days)=
-### **Special Occasion Additions (10% of days):**
+**Philosophy:** One camera, one lens, zero swaps. Maximum presence in the moment.
 
-**Enhanced Kit**
+(night-city-walk-after-dark)=
+### **Night City Walk / After-Dark Sessions:**
 
-| Item                   | Notes                  |
-| ---------------------- | ---------------------- |
-| ✅ Add 85mm f/1.8 prime | Portraits, golden hour |
+**Low-Light Kit**
 
-**Total weight:** ~1.3kg camera gear
+| Item                        | Weight | Notes                                              |
+| --------------------------- | ------ | -------------------------------------------------- |
+| ✅ A7C II + SIRUI 35mm f/1.4 | ~994g  | Low-light workhorse                                |
+| ✅ Viltrox 85mm f/2.0 Evo    | 298g   | In belt pouch for cosplayer/portrait opportunities |
+| ✅ 1/4 Black Mist (on 85mm)  | —      | Pre-mounted, ready to swap                         |
+| ✅ Mobile phone              | —      | Ultra-wide backup                                  |
 
-(wildlifesafari-days-swap-entire-kit)=
-### **Wildlife/Safari Days (swap entire kit):**
+**Total weight:** ~1,292g camera gear
 
-**Telephoto Kit**
+**Philosophy:** Fast aperture for low light, portrait lens within reach.
 
-| Item                            | Notes                              |
-| ------------------------------- | ---------------------------------- |
-| ✅ Camera body + Tamron 28-200mm | One lens covers everything         |
-| ✅ Mobile phone                  | Pocket backup                      |
-| ✅ Two extra batteries           | Long days, heavy stabilization use |
+(museum-indoor-visits)=
+### **Museum / Indoor Exhibition:**
 
-**Total weight:** ~1.2kg camera gear
+**Fast-Prime Kit**
 
-**Why Tamron 28-200mm for wildlife days:**
-- 200mm reach essential for animals at distance
-- 28mm wide end still covers environmental shots
-- No lens changes in dusty/outdoor environments
-- f/2.8 at wide end, f/5.6 at telephoto - adequate for daylight wildlife
+| Item                        | Weight | Notes                                    |
+| --------------------------- | ------ | ---------------------------------------- |
+| ✅ A7C II + SIRUI 35mm f/1.4 | ~994g  | Primary — f/1.4 for dim galleries        |
+| ✅ Viltrox 85mm f/2.0 Evo    | 298g   | Detail lens for exhibits behind barriers |
+| ✅ Mobile phone              | —      | Quick snaps, ultra-wide for grand halls  |
+
+**Total weight:** ~1,292g camera gear
+
+**Philosophy:** Fast primes for dim interiors. Leave the Sigma zoom in the bag —
+its slow aperture (f/5-6.3 at museum focal lengths) forces high ISO and slow shutter speeds.
+Museum pace is slower, so lens swapping between 35mm and 85mm is less disruptive than on the street.
+
+(cosplayer-street-portrait-days)=
+### **Cosplayer / Street Portrait Session:**
+
+**Discreet Kit**
+
+| Item                              | Weight | Notes                            |
+| --------------------------------- | ------ | -------------------------------- |
+| ✅ A7C II + Viltrox 85mm f/2.0 Evo | ~812g  | Primary — compact and discreet   |
+| ✅ 1/4 Black Mist filter           | —      | Default on for portraits         |
+| ✅ SIRUI 35mm f/1.4 (optional)     | ~480g  | Only if you also want wide shots |
+| ✅ Mobile phone                    | —      | Scene-setting wide shots         |
+
+**Total weight:** ~812g (85mm only) or ~1,292g (both primes)
+
+**Philosophy:** Smallest, least intimidating setup for stranger photography.
 
 **Reality Check for Parents:**
 
 - You're also carrying: snacks, water, diapers/wipes, change of clothes, toys...
 - Every gram matters by day 3 of vacation
-- **Your data supports minimalism:** 24mm + 75mm covered 85%+ historically
-- SEL2070G (20-70mm) replicates this in ONE lens
+- **Your data supports minimalism:** Choose one lens configuration per outing
+- **The Sigma 20-200mm** handles most daytime situations without lens swaps
 
 ---
 
@@ -390,14 +424,15 @@ Your wide-angle preference naturally suits candid family documentation:
 - **Your advantage:** Wide angle = more forgiveness for precise focus.
 - **Pre-focus** on zone where child will be (playground, fountain, statue).
 - **Continuous shooting** when action happens (kid running, jumping).
-- **Your 20-70mm range:** Perfect for this style - enough reach, wide enough for context.
+- **Your 20-200mm range:** Perfect for this style - enough reach, wide enough for context.
 
 **Story Sequences** *(build photo essays)*
 
 - **Wide establishing shot (20mm):** Full scene, child in environment.
 - **Medium shot (35-50mm):** Child interacting with element.
-- **Detail shot (70-85mm):** Face, hands, expressions.
+- **Detail shot (85-200mm):** Face, hands, expressions.
 - **Your natural workflow:** You already do this (evidenced by focal length variety within trips).
+- **With Sigma 20-200mm:** The entire story sequence is possible on a single lens.
 
 ---
 
@@ -417,10 +452,11 @@ Based on your trip patterns, here's focal length guidance:
 **European City Breaks** *(Rome, Vienna, Prague, Budapest)*
 
 - **Primary focal length:** 24-35mm (streets, architecture, lifestyle).
-- **85mm prime moments:** Portraits at landmarks
-  (Trevi Fountain, Charles Bridge).
+- **Viltrox 85mm f/2.0 Evo moments:** Portraits at landmarks
+  (Trevi Fountain, Charles Bridge). Add 1/4 Black Mist for dreamy skin rendering.
 - **Mobile usage:** Quick street photography, crowded tourist sites.
 - **With child:** Capturing kid's reactions to gelato, street performers, pigeons.
+- **Night city walks:** SIRUI 35mm f/1.4 for atmospheric neon-lit street scenes.
 
 **Asian Travel** *(Seoul, Japan)*
 
@@ -431,9 +467,12 @@ Based on your trip patterns, here's focal length guidance:
 
 **Museum Days** *(your frequent activity)*
 
-- **Focal length:** 24-35mm (artwork + child examining it).
-- **Reality:** Policies vary; many restrict flash/tripods or certain areas. Mobile is often hassle-free.
-- **Strategy:** Use mobile liberally, save dedicated camera for allowed spaces.
+- **Primary lens:** SIRUI 35mm f/1.4 (f/1.4 for dim galleries, wide enough for room context).
+- **Detail lens:** Viltrox 85mm f/2.0 Evo (exhibits behind glass, small artifacts at distance). Remove 1/4 Black Mist for maximum sharpness on artifacts.
+- **Leave the Sigma zoom at the hotel** for museum days — its f/5-6.3 at museum focal lengths is too slow.
+  Exception: bright, naturally-lit atrium spaces.
+- **Bright museums:** Mobile phone is still fine (safer, always ready, policies often favor phones).
+- **Camera settings:** Silent electronic shutter mandatory, Auto ISO capped at 6400, minimum shutter 1/60s.
 - **With child:** Focus on reactions, not just artifacts.
 
 ---
@@ -445,7 +484,7 @@ Based on your trip patterns, here's focal length guidance:
 
 - ✅ Charge all batteries overnight (camera, mobile).
 - ✅ Start day with mobile in pocket (kids don't wait for camera prep).
-- ✅ Assess day's plan: **sightseeing day** (mobile only), **scenic day** (SEL2070G), or **wildlife day** (swap to Tamron 28-200mm).
+- ✅ Assess day's plan: **sightseeing day** (Sigma 20-200mm), **night/museum day** (SIRUI 35mm f/1.4 + Viltrox 85mm f/2.0), or **mobile-only day** (stay light).
 - ✅ Most important: Don't let gear decisions delay the start of your day.
 
 **During the Day (photography as secondary activity):**
@@ -477,8 +516,8 @@ Your evolution from film (constrained) → zoom lens (versatile) → mobile + de
 **Accept These Truths:**
 
 1. **Mobile photo beats no photo** - kid moments are fleeting, experience comes first.
-2. **f/4 is fine** - even coming from SAL1650 f/2.8, f/4 serves casual shooting perfectly.
-3. **One lens is liberating** - 90-95% coverage means you can focus on the trip, not gear.
+2. **One zoom lens is liberating** - the Sigma 20-200mm covers 20mm to 200mm without swapping. Zero lens changes, maximum presence.
+3. **Fast primes for when it matters** - SIRUI f/1.4 for night, Viltrox f/2.0 Evo for portraits. Don't carry them when light is good.
 4. **"Good enough" is actually great** - your 21-year archive is full of imperfect photos you treasure.
 5. **Perfect is the enemy of done** - capture the memory, don't chase technical perfection.
 
@@ -505,19 +544,20 @@ Your photography style developed naturally over 21 years - let it continue evolv
 
 **Apply This to Daily Life & Travel:**
 
-1. **Simplify gear:** SEL2070G + 85mm prime + mobile = 99% of casual photography needs.
+1. **Simplify gear:** Sigma 20-200mm handles most daytime shooting in one lens. Add fast primes only when the day demands it.
 2. **Embrace mobile:** It's your always-ready camera for daily life.
 3. **Stay wide:** 20-35mm is your proven sweet spot - it's intuitive for you now.
 4. **Pack light:** Less gear = more freedom to enjoy the experience.
 5. **Accept spontaneity:** Best photos often happen when you're NOT planning them.
-6. **Wildlife days:** Swap to Tamron 28-200mm - one versatile lens for the entire day.
+6. **Night walks:** Swap to SIRUI 35mm f/1.4 — the Sigma can't handle low light.
+7. **Portrait moments:** Viltrox 85mm f/2.0 Evo + 1/4 Black Mist for dreamy, discreet portraits.
 
 **Remember:**
 
 - Photography enriches your trips, but it shouldn't define them.
 - Your best photos came from 24mm constraint for years - gear matters less than you think.
-- 20-70mm removes that constraint while matching your style.
-- Your child won't remember perfect f/2.8 bokeh.
+- The Sigma 20-200mm removes both the 24mm-only constraint AND the telephoto gap.
+- Your child won't remember perfect f/1.4 bokeh.
 - They'll remember adventures you documented with whatever lens was ready.
 
 ---
@@ -527,30 +567,31 @@ Your photography style developed naturally over 21 years - let it continue evolv
 
 Your 21-year data shows remarkable consistency. Here are **effortless** ways to grow naturally while staying casual:
 
-(a-occasionally-try-your-dead-zone-50-70mm)=
-### **A. Occasionally Try Your "Dead Zone": 50-70mm**
+(a-occasionally-try-your-dead-zone-50-200mm)=
+### **A. Occasionally Try Your "Dead Zone": 50-200mm**
 
 **Why it's worth a try:**
 
-Your data shows minimal usage of 50-70mm, but it might just be lens limitation, not preference.
+Your data shows minimal usage of 50-200mm, but now the Sigma 20-200mm gives you this range without swapping lenses.
 
 **Simple experiment (no pressure):**
 
-- **Next time you're taking a portrait:** Try zooming to 50-60mm instead of your usual 24mm.
+- **Next time you're taking a portrait:** Try zooming to 50-85mm instead of your usual 24mm.
   - More flattering for faces (less wide-angle distortion).
-  - Nicer background blur even at f/4.
+  - At 85-200mm, nice background compression even at f/5.6-6.3.
   - Just see how it feels - no commitment needed.
-- **Casual observation:** Notice when 50-70mm gives you something different.
-  - Layered scenes with depth.
-  - Slightly compressed perspectives.
-  - If you don't like it, just go back to wide - no big deal.
+- **Telephoto moments:** Try 100-200mm for distant details you'd normally skip.
+  - Architectural details on buildings.
+  - Distant wildlife in parks.
+  - Street performers from a respectful distance.
+  - If you don't use it, no harm — it's just a zoom twist away.
 
-**Reality check:** With SEL2070G, it's literally just a zoom twist away. Try it when convenient, ignore it when not.
+**Reality check:** With the Sigma 20-200mm, exploring telephoto is literally free — no lens swap, no extra weight. Try it when convenient, ignore it when not.
 
 ---
 
 (b-use-your-85mm-prime-more-when-it-doesnt-feel-like-extra-work)=
-### **B. Use Your 85mm Prime More** *(when it doesn't feel like extra work)*
+### **B. Use Your Viltrox 85mm f/2.0 Evo More** *(when it doesn't feel like extra work)*
 
 **Current pattern:** 5-10% usage -
 you might be under-utilizing a great lens.
@@ -559,11 +600,17 @@ you might be under-utilizing a great lens.
 
 - **When light is nice:** If you notice pretty sunset/golden hour light, grab the 85mm.
   - No need for "dedicated portrait sessions" - just switch lenses if it's convenient.
-  - 10-15 minutes shooting at f/1.8-2.8, nice blurry backgrounds.
+  - 10-15 minutes shooting at f/2.0-2.8, nice blurry backgrounds.
+  - At 298g, it's lighter than your phone case — barely noticeable in a belt pouch.
   - If kid isn't cooperating, put it away - no stress.
 - **When environment is busy:** Use 85mm to isolate subject from chaotic backgrounds.
   - Crowded markets, busy tourist spots.
   - Works at playgrounds, museums - anywhere backgrounds are distracting.
+  - Add 1/4 Black Mist for flattering skin + cinematic glow.
+- **Cosplayer / stranger photography:** This is the Viltrox's sweet spot.
+  - 5-8m distance for full/3/4 body — non-intrusive, respectful.
+  - Silent electronic shutter + quiet VCM AF = truly invisible.
+  - Your Luoyang experience confirmed this works brilliantly.
 - **Detail moments:** Occasional close-ups when something catches your eye.
   - Hands holding ice cream, face reactions to new food.
   - Only if it feels natural in the moment.
@@ -587,8 +634,8 @@ you might be under-utilizing a great lens.
 
 - **Your 24mm served you for 13 years - trust your instincts:**
   - You naturally gravitate to wide because it matches how you see.
-  - 20-70mm just gives you MORE width (20mm) when you want it.
-  - No need to force yourself into 70mm if 24mm feels right.
+  - The Sigma 20-200mm gives you MORE width (20mm) when you want it AND telephoto (200mm) when you need it.
+  - No need to force yourself into 200mm if 24mm feels right.
 
 **Bottom line:** Your consistency isn't something to "fix" -
 it's evidence you've found your photographic voice.
@@ -610,18 +657,24 @@ it's evidence you've found your photographic voice.
 
 ---
 
-(d-dont-worry-about-low-light-f4-will-be-fine)=
-### **D. Don't Worry About Low-Light** *(f/4 will be fine)*
+(d-low-light-is-now-a-strength)=
+### **D. Low-Light Is Now a Strength, Not a Worry**
 
-**Coming from SAL1650 f/2.8:** One full stop difference to f/4 - you won't notice much.
+**Your kit has genuine low-light options:**
 
-**Modern cameras handle high ISO beautifully:**
+- **SIRUI 35mm f/1.4:** Your night city walk lens. f/1.4 + A7C II IBIS = handheld shots at ISO 1600-3200, 1/30-1/60s.
+- **Viltrox 85mm f/2.0:** Museum exhibit details and low-light portraits.
+- **Sigma 20-200mm:** Fine in daylight; swap to primes after dark.
+- **A7C II:** Clean ISO 6400, 5-axis IBIS — a generational leap from the old A550.
 
-- Museums, churches: Bump ISO to 3200-6400, accept tiny bit of grain.
-- Restaurants at night: Use mobile phone (f/1.8-2.0) or 85mm prime (f/1.8).
+**Practical low-light tips from your Luoyang experience:**
+
+- Museums, dim galleries: Mount the SIRUI 35mm f/1.4 as primary, keep Viltrox 85mm in belt pouch.
+- Night markets, neon streets: SIRUI at f/1.4-f/2.0 captures atmospheric handheld night shots.
+- Restaurants at night: Mobile phone (f/1.8-2.0 HDR) or SIRUI if you're carrying it.
 - Reality: You already prefer available light over flash (data shows minimal flash usage).
 
-**Optional if you're interested:** Try blue hour shooting (20-40 mins after sunset) for dramatic cityscapes with illuminated buildings. But your daytime shooting is already working great.
+**Blue hour opportunity:** Try shooting 20-40 mins after sunset for dramatic cityscapes with illuminated buildings. The SIRUI makes this easy handheld.
 
 ---
 
@@ -640,8 +693,7 @@ Your 59,000+ photos over 21 years show you already capture what matters:
 - Mix wide shots with occasional tighter shots (happens organically).
 - Your style will evolve naturally like it has for 21 years.
 
-**Bottom line:** Photography projects are for professional photographers. You're documenting life - you're already doing it right.
-**Bottom line:** You don't need structured projects; casual experimentation is plenty. You're documenting life — you're already doing it right.
+**Bottom line:** You don't need structured projects or photography exercises; casual experimentation is plenty. You're documenting life — you're already doing it right.
 
 ---
 
@@ -672,7 +724,9 @@ Notes:
 Your 21-year archive shows **remarkable consistency** -
 you've developed a clear photographic voice.
 You're excellent at wide-angle environmental storytelling,
-and the SEL2070G (20-70mm) matches that perfectly.
+and the Sigma 20-200mm matches that perfectly as your daytime workhorse,
+while the SIRUI 35mm f/1.4 and Viltrox 85mm f/2.0 Evo
+fill the gaps the zoom can't cover (night, museums, portraits).
 
 **No "growth plan" needed:**
 - You don't need to master new techniques.
@@ -682,7 +736,8 @@ and the SEL2070G (20-70mm) matches that perfectly.
 
 **Simple reality:**
 - Keep doing what you're doing (it's working).
-- SEL2070G just removes the 24mm limitation.
+- The Sigma 20-200mm removes both the 24mm constraint AND the telephoto gap.
+- Fast primes give you night and portrait capability the old kit never had.
 - Trust your instincts (65-80% at wide angle shows what you love).
 - Photography is a hobby that enriches your life - not a skill to perfect.
 
