@@ -531,6 +531,242 @@ due to its wide frequency range and dynamic range. A few upgrades to consider *i
 
 ---
 
+(notebook-archiving-tips)=
+## 📓 New Use Case: Archiving Handwritten Notebooks
+
+With ~20 notebooks of ~100 pages each (~2,000 pages total), a flatbed scanner is painfully slow —
+each page requires lifting the lid, positioning, closing, scanning, and repeating.
+Using the A7C II on a tripod with a remote control turns this into a much faster workflow:
+flip page, click, flip page, click. You can realistically shoot 5-10 pages per minute,
+finishing the entire archive in a few focused sessions.
+
+(notebook-lens-choice)=
+### 🎯 Lens Choice
+
+| Lens                        | Verdict     | Why                                                                                              |
+| --------------------------- | ----------- | ------------------------------------------------------------------------------------------------ |
+| **Sigma 20-200mm**          | ⚠️ Usable    | Zoom to frame the page, but slow aperture forces higher ISO or longer exposure                   |
+| **SIRUI Aurora 35mm f/1.4** | ✅ **Best**  | Sharp across the frame when stopped down; plenty of light; 35mm covers an A4/B5 page at ~40-50cm |
+| **Viltrox 85mm f/2.0 Evo**  | ❌ Too tight | Needs ~80-100cm distance to frame a page, making the setup awkwardly tall                        |
+
+**🥇 Recommended: SIRUI Aurora 35mm f/1.4**
+
+This is the second home use case (after piano recording) where the SIRUI's bulk is irrelevant —
+it lives on a tripod. What matters is optical quality stopped down and sufficient light gathering.
+
+### 📐 Physical Setup
+
+**Shooting orientation:** Camera faces straight down at the notebook on a flat surface.
+
+```
+        📷 camera (on tripod, pointing down)
+         │
+         │  ~40-50cm
+         │
+    ┌────┴────┐
+    │ 📓 note-│
+    │  book   │
+    │ (flat)  │
+    └─────────┘
+    ═══ table ═══
+     💡       💡
+  (light L)  (light R)
+```
+
+- **Tripod with center column inverted or horizontal arm:** Many tripods allow you to invert the center column
+  so the camera hangs upside-down between the legs, pointing straight at the table.
+  Alternatively, use a tripod with a horizontal center column arm.
+  The key requirement is that the sensor plane is **parallel to the page** — any tilt introduces
+  trapezoidal distortion (one edge of the page is closer than the other, making text uneven).
+- **Working distance:** At 35mm on full frame, a standard A4/B5 notebook fills the frame
+  at roughly 40-50cm. Adjust height until the page fills the frame with a small margin on each side
+  (5-10% border — this gives you room for slight page-position variation without cutting text).
+- **Keep the notebook flat:** Place a sheet of clean glass or a transparent acrylic sheet
+  on top of the open notebook to press pages flat. Curved pages near the spine
+  cause blurred text and uneven lighting. Weigh down the corners if needed.
+  If you don't have glass, press the spine firmly and photograph one page at a time
+  with the notebook opened past 180°.
+- **Remote control:** Essential. Pressing the shutter button by hand shakes the tripod —
+  use your existing remote control (same one as for piano recording).
+  Alternatively, use a 2-second self-timer, but this slows the workflow considerably
+  over 2,000 pages.
+
+(notebook-camera-settings)=
+### ⚙️ Camera Settings
+
+| Setting                | Recommended Value                  | Why                                                                                                   |
+| ---------------------- | ---------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| **Mode**               | **Aperture Priority (A)**          | Lock aperture for consistent sharpness; let camera handle shutter speed                               |
+| **Aperture**           | **f/5.6 – f/8**                    | Sweet spot for edge-to-edge sharpness (see below)                                                     |
+| **ISO**                | **100 – 400** (as low as possible) | Tripod-mounted = no need for high ISO; minimize noise for clean text                                  |
+| **Shutter speed**      | Whatever the camera selects        | On a tripod with remote, even 1/10s is fine — nothing is moving                                       |
+| **White Balance**      | **Manual / Custom K**              | Lock to match your lighting; prevents color shifts between pages                                      |
+| **Focus mode**         | **Manual Focus (MF)** ✅            | See focus section below                                                                               |
+| **Image format**       | **JPEG Fine (Large)**              | RAW is unnecessary for document archival — JPEG saves storage and post-processing time                |
+| **Drive mode**         | **Single shot**                    | One click per page                                                                                    |
+| **Electronic shutter** | **On (Silent)**                    | Eliminates mechanical shutter vibration at slow shutter speeds (mirror-slap equivalent on mirrorless) |
+
+(notebook-aperture-selection)=
+### 🔍 Aperture: Why f/5.6–f/8 (Edge Sharpness)
+
+This is the critical difference from portrait photography.
+For portraits, you shoot wide open (f/1.4–f/2.0) because you *want* soft edges and bokeh.
+For document archival, every corner of every page must be razor-sharp — the text in the margins
+is just as important as the text in the center.
+
+| Aperture  | Center Sharpness | Edge/Corner Sharpness | Verdict for Documents                                     |
+| --------- | ---------------- | --------------------- | --------------------------------------------------------- |
+| **f/1.4** | Good             | Soft                  | ❌ Corners will be noticeably blurry — unusable for text   |
+| **f/2.0** | Very good        | Moderate              | ❌ Still too soft at the edges for readable archival       |
+| **f/2.8** | Very good        | Good                  | ⚠️ Acceptable in a pinch, but not optimal                  |
+| **f/4.0** | Excellent        | Very good             | ✅ Usable — good balance if you need more light            |
+| **f/5.6** | Excellent        | Excellent             | ✅ **Sweet spot** — peak sharpness across entire frame     |
+| **f/8.0** | Excellent        | Excellent             | ✅ **Sweet spot** — marginally sharper corners than f/5.6  |
+| **f/11**  | Very good        | Very good             | ⚠️ Diffraction starts softening the image on a 33MP sensor |
+| **f/16+** | Good             | Good                  | ❌ Diffraction clearly degrades sharpness — avoid          |
+
+The SIRUI Aurora 35mm f/1.4's 15 aperture blades produce a smooth, round aperture opening
+at all f-stops, but that doesn't help with edge sharpness — what matters is the optical formula's
+performance when stopped down. Most modern primes reach peak across-frame sharpness
+around f/5.6–f/8, and the SIRUI is no exception.
+
+> 💡 **Rule of thumb:** For flat-field copy work (documents, art reproductions, notebook pages),
+> always stop down to f/5.6–f/8. This is the opposite of every other use case in this guide.
+
+(notebook-focus-tips)=
+### 🎯 Focus: Use Manual Focus (MF), Not AF
+
+For 2,000 pages of the same notebook at the same distance, **manual focus is strongly preferred:**
+
+1. **Set focus once, shoot 100 pages.** The distance between camera and page is fixed on a tripod.
+   Focus once with AF or live-view magnification, then **switch to MF** to lock it.
+   The focus point won't drift between pages because nothing moves.
+
+2. **AF introduces unnecessary risk.** Autofocus may hunt on low-contrast pages (blank areas,
+   faded ink, light pencil marks) or refocus on the glass/acrylic sheet pressing the pages flat.
+   Each misfire costs you a page you'll only discover later during review.
+
+3. **Focus peaking as a safety net.** Enable **Focus Peaking** (Menu → Focus → Peaking Display → On)
+   and set the color to red or yellow. This highlights in-focus edges in the EVF/screen,
+   letting you visually confirm focus is still correct without magnifying every shot.
+   Glance at the peaking overlay every 10-20 pages — if the text edges still light up,
+   you're good.
+
+4. **When to refocus:** Only refocus if you change the notebook thickness (a thicker spine
+   sits higher than a thin one), adjust the tripod height, or bump the focus ring accidentally.
+   Between pages of the same notebook, focus stays locked.
+
+> 💡 **Tip:** Use **live-view magnification** (press the focus magnifier button on the A7C II)
+> zoomed to 100% on a line of text near the **corner** of the page, not the center.
+> If the corner text is sharp at 100%, the center is guaranteed to be sharp too.
+> This is the fastest way to confirm your f/5.6–f/8 aperture is delivering edge-to-edge resolution.
+
+(notebook-lighting-tips)=
+### 💡 Lighting: Even Illumination Is Everything
+
+Uneven lighting is the #1 quality killer for document photography —
+far more damaging than a slightly imperfect focus or aperture choice.
+A bright spot in the center with dark corners makes text hard to read after archival.
+
+**What to aim for:** Even, diffused light across the entire page with no harsh shadows or hot spots.
+
+**Option A: Two desk lamps at 45° — simplest effective setup**
+
+Place two identical light sources at roughly 45° angles from opposite sides of the notebook,
+at the same height and distance. This cross-lighting cancels each other's shadows
+and produces even illumination.
+
+```
+         📷 (above, looking down)
+
+    💡────────45°──────────💡
+     \                    /
+      \                  /
+       ┌──────────────┐
+       │   📓 page    │
+       └──────────────┘
+```
+
+- Use **daylight-balanced LED bulbs/panels** (~5000-5500K) for neutral color reproduction.
+  Warm tungsten (~2700K) will tint the page yellow in photos; it's correctable in post but avoidable.
+- If using desk lamps, **bounce the light off a white card or diffuse through a sheet of paper**
+  to soften harsh shadows. Direct bare bulbs create strong shadows along the pen strokes and page ridges.
+- Both lights should be the **same color temperature** — mixing warm and cool lights
+  creates uneven color casts that are difficult to correct.
+
+**Option B: Window light + reflector — zero cost**
+
+Place the notebook near a large window (indirect daylight, not direct sun).
+Use a white sheet of paper or foam board on the opposite side as a fill reflector.
+This works well on overcast days; direct sunlight creates harsh shadows and changes intensity
+as clouds pass.
+
+- ⚠️ **Consistency issue:** Window light changes throughout the day and with weather.
+  For 2,000 pages across multiple sessions, artificial light is more repeatable.
+
+**Option C: The LED panel you may buy for piano recording**
+
+If you acquire a compact LED panel for piano videos (listed in the piano section's future upgrades),
+it does double duty here. One LED panel above and slightly to the side, plus a white reflector
+on the opposite side, is a simple and effective document lighting setup.
+
+**What to avoid:**
+
+- **On-camera flash:** Creates a bright central hot spot and harsh shadows — never use for documents
+- **Single light from one side:** Creates strong shadows on one edge — always use two-sided or diffused light
+- **Direct overhead room ceiling light:** Usually too dim and creates shadows from the camera/tripod above
+- **Glossy or coated notebook pages:** If your notebooks have any sheen, angle the lights so the
+  specular reflection (glare) bounces *away* from the camera, not into the lens.
+  This is the same principle as the CPL filter on your Sigma — except here you control
+  the light direction instead of filtering it
+
+(notebook-workflow-tips)=
+### ⚡ Batch Workflow: 2,000 Pages Efficiently
+
+With ~20 notebooks × ~100 pages, efficiency matters. Here's a streamlined workflow:
+
+1. **Set up once, shoot an entire notebook without stopping.**
+   Lock tripod, set focus (MF), set exposure (A mode, f/5.6, Auto ISO capped at 400),
+   lock white balance. Don't touch settings until you change notebooks.
+
+2. **Shoot a "chapter marker" between notebooks.**
+   Before starting each notebook, photograph its cover or a hand-written label
+   ("Notebook 7 / 20"). This makes sorting 2,000 images dramatically easier later.
+
+3. **Flip-and-shoot rhythm:** Open to page, press remote, flip to next page, press remote.
+   With practice, you can sustain 5-10 pages per minute — an entire 100-page notebook
+   in 10-20 minutes.
+
+4. **Review a sample every ~20 pages.** Zoom to 100% on the camera screen and check
+   a corner for sharpness. It's better to catch a bumped focus ring after 20 pages
+   than after 100.
+
+5. **File naming / organization:** Set the A7C II's file numbering to continuous
+   (not reset). After each session, transfer files to a folder named by notebook
+   (e.g., `notebook_01/`, `notebook_02/`). The chapter-marker shots help you split batches.
+
+6. **Storage estimate:** At 33MP JPEG Fine, each image is roughly 10-15 MB.
+   2,000 pages ≈ 20-30 GB — comfortably fits on a single SD card.
+   RAW would be ~60-80 GB with no archival benefit for text documents.
+
+7. **Post-processing (optional but recommended):**
+   A simple batch operation in Lightroom, Capture One, or even a free tool like IrfanView:
+   - Auto-crop to page edges (if your framing had margins)
+   - Auto-levels / auto-contrast for consistent white background
+   - Convert to PDF per notebook for searchable archiving
+   - Consider OCR software (e.g., Adobe Acrobat, ABBYY FineReader) if you want
+     the handwriting to be searchable — modern OCR handles neat handwriting reasonably well
+
+> 💡 **Why camera beats scanner for this volume:**
+> A flatbed scanner at ~1 page/minute needs ~33 hours for 2,000 pages.
+> A camera at ~7 pages/minute needs ~5 hours. The camera is ~6× faster,
+> and at 33MP (roughly equivalent to 6000 × 5500 pixels) the resolution exceeds
+> most consumer scanners (typically 600 DPI on A4 ≈ ~5000 × 7000 pixels).
+> The trade-off is slightly less even illumination and potential for page curl —
+> both solvable with the tips above.
+
+---
+
 (trip-packing-guide-with-your-actual-kit)=
 ## 🎒 Trip Packing Guide: Your Actual Kit
 
@@ -600,6 +836,20 @@ Now that you own specific gear (not theoretical recommendations), here's how to 
 its slow aperture (f/5-6.3 at museum focal lengths) forces high ISO and slow shutter speeds.
 Museum pace is slower, so lens swapping between 35mm and 85mm is less disruptive here than on the street.
 
+(packing-notebook-archiving)=
+### 📓 Notebook Archiving (Home)
+
+| Item                                                | Notes                                                   |
+| --------------------------------------------------- | ------------------------------------------------------- |
+| ✅ A7C II + SIRUI 35mm f/1.4                         | Tripod-mounted, stopped down to f/5.6–f/8 for sharpness |
+| ✅ Tripod (center column inverted or horizontal arm) | Camera pointing straight down at the page               |
+| ✅ Remote control                                    | Avoid shaking the tripod with each shot                 |
+| ✅ Glass/acrylic sheet                               | Press pages flat                                        |
+| ✅ Two desk lamps (daylight LED)                     | Even cross-lighting at 45° from each side               |
+
+**Philosophy:** Same tripod + remote + SIRUI combo as piano recording, but pointed down instead of across.
+Sharpness across the entire frame is the priority — stop down to f/5.6–f/8, use MF, and keep lighting even.
+
 ---
 
 (practical-tips-summary)=
@@ -662,6 +912,67 @@ is genuinely discreet for stranger photography.
 The only open question — 35mm f/1.4 vs f/1.8 size — is a personal comfort trade-off,
 not a wrong decision. Keep using the SIRUI where its strengths matter (night, video, bokeh),
 and don't carry it when the Sigma covers the day.
+
+(old-vs-new-gear-comparison)=
+### 🔄 Old Kit vs New Kit: What Actually Changed
+
+Your previous setup — **Sony A550 + SAL1650 f/2.8 + SAL50F14** — served you from roughly 2009 to 2025.
+Here's what the upgrade to the A7C II system concretely gained (and what little you traded away).
+
+**Camera body:**
+
+| Spec              | Sony A550 (old)              | Sony A7C II (new)                               | Impact                                                            |
+| ----------------- | ---------------------------- | ----------------------------------------------- | ----------------------------------------------------------------- |
+| **Sensor**        | APS-C, 12.3 MP               | Full-frame, 33 MP                               | ~2.7× resolution; noticeably cleaner high-ISO (usable ISO 6400)   |
+| **Stabilization** | None (body) — lens-dependent | 5-axis IBIS (7 stops rated)                     | Handheld night shooting now viable; old kit required a tripod     |
+| **Autofocus**     | 9-point phase detect         | 759-point hybrid + AI subject recognition       | Eye/face AF tracks reliably; old kit needed manual focus for eyes |
+| **Video**         | 720p (limited)               | 4K 30fps, S-Cinetone, silent electronic shutter | Piano recording use case simply didn't exist on the A550          |
+| **Mount**         | A-mount (discontinued)       | E-mount (active ecosystem, 200+ native lenses)  | Future-proof; old A-mount lenses are a dead end                   |
+| **Weight**        | 599 g (body only)            | 514 g (body only)                               | Lighter despite a larger sensor                                   |
+
+**Lenses — focal coverage:**
+
+| Coverage              | Old Kit (equiv. on APS-C)          | New Kit                       | Gain                                     |
+| --------------------- | ---------------------------------- | ----------------------------- | ---------------------------------------- |
+| **Ultra-wide**        | 24 mm (SAL1650 wide end × 1.5)     | **20 mm** (Sigma zoom)        | 4 mm wider — significant for interiors   |
+| **Standard zoom**     | 24-75 mm equiv                     | 20-200 mm                     | 2.7× more reach, wider start             |
+| **Telephoto**         | 75 mm equiv max                    | **200 mm**                    | Completely new capability                |
+| **Fast normal prime** | 75 mm equiv f/1.4 (SAL50F14 × 1.5) | 35 mm f/1.4 (SIRUI)           | True wide prime; old 50 was a short tele |
+| **Portrait prime**    | ❌ None                             | **85 mm f/2.0** (Viltrox Evo) | Dedicated portrait lens, new capability  |
+| **Fastest aperture**  | f/1.4 (SAL50F14)                   | f/1.4 (SIRUI 35mm)            | Same class, but on a full-frame sensor   |
+
+**Lenses — light gathering (the one trade-off):**
+
+| Scenario               | Old Kit                           | New Kit                                | Verdict                                             |
+| ---------------------- | --------------------------------- | -------------------------------------- | --------------------------------------------------- |
+| **Zoom in dim light**  | SAL1650 f/2.8 constant            | Sigma 20-200 f/3.5-6.3                 | ⚠️ Old zoom was ~1-3 stops faster                    |
+| **Prime in dim light** | SAL50F14 f/1.4 (75 mm equiv)      | SIRUI 35 mm f/1.4 + Viltrox 85 f/2.0   | ✅ Same or better — plus IBIS compensates generously |
+| **Overall low-light**  | Fast zoom, but no IBIS, noisy ISO | Slower zoom, but IBIS + clean ISO 6400 | ✅ New kit wins in practice despite slower zoom      |
+
+The old SAL1650's constant f/2.8 was genuinely useful indoors — it was a faster zoom than your current Sigma.
+But the A550's high-ISO performance capped around ISO 1600 before noise became objectionable,
+and without IBIS you needed a steady hand or tripod.
+The A7C II's IBIS + clean ISO 6400 more than compensates for the Sigma's slower aperture in real-world use,
+and you now have dedicated fast primes for scenarios where even that isn't enough.
+
+**What the old kit simply couldn't do:**
+
+- Handheld night city walks (no IBIS, noisy high ISO)
+- Telephoto beyond ~75 mm equiv (no reach for wildlife, distant details, or discreet stranger portraits)
+- Silent shooting (A550's mirror slap was loud)
+- Piano video recording (no meaningful video capability)
+- AI eye/face AF tracking (manual focus point selection only)
+- Ultra-wide below 24 mm equiv (tight interiors were cropped)
+
+**What you "lost":**
+
+- A constant f/2.8 zoom — replaced by primes that are faster, and a zoom that reaches far further
+- An optical viewfinder — the A7C II is EVF-only, which is actually an advantage for exposure preview
+
+In short: the old kit was an APS-C system limited by its era — decent optics held back by sensor noise,
+no stabilization, and a dead lens mount. The new kit is a generational leap in every dimension
+except zoom aperture, and even that gap is closed by IBIS and fast primes
+that the old system never had.
 
 ---
 
