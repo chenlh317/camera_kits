@@ -1,0 +1,2652 @@
+
+<!DOCTYPE html>
+
+
+<html lang="en" data-content_root="../" >
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Color Grading: In-Camera &amp; Post-Processing Tips &#8212; PhotoBook</title>
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
+  </script>
+  
+  <!-- Loaded before other Sphinx assets -->
+  <link href="../_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="../_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+
+  
+  <link href="../_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
+
+    <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=03e43079" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/sphinx-book-theme.css?v=eba8b062" />
+    <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css?v=9c3e77be" />
+    <link rel="stylesheet" type="text/css" href="../_static/copybutton.css?v=76b2166b" />
+    <link rel="stylesheet" type="text/css" href="../_static/mystnb.8ecb98da25f57f5357bf6f572d296f466b2cfe2517ffebfabe82451661e28f02.css?v=6644e6bb" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css?v=4fa983c6" />
+    <link rel="stylesheet" type="text/css" href="../_static/sphinx-design.min.css?v=95c83b7e" />
+  
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
+<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
+  <script src="../_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+    <script src="../_static/documentation_options.js?v=9eb32ce0"></script>
+    <script src="../_static/doctools.js?v=9a2dae69"></script>
+    <script src="../_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="../_static/clipboard.min.js?v=a7894cd8"></script>
+    <script src="../_static/copybutton.js?v=f281be69"></script>
+    <script src="../_static/scripts/sphinx-book-theme.js?v=887ef09a"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="../_static/togglebutton.js?v=1ae7504c"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="../_static/design-tabs.js?v=f930bc37"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script async="async" src="../_static/sphinx-thebe.js?v=c100c467"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'tips/color_grading';</script>
+    <link rel="icon" href="../_static/kamera_favicon.png"/>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="prev" title="Post-Purchase Usage: Field Notes &amp; Practical Tips" href="post_purchase_usage.html" />
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
+  </head>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
+
+  
+  
+  <div id="pst-skip-link" class="skip-link d-print-none"><a href="#main-content">Skip to main content</a></div>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>Back to top</button>
+
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="../search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search this book..."
+         aria-label="Search this book..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+
+  <div class="pst-async-banner-revealer d-none">
+  <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
+</div>
+
+  
+    <header class="bd-header navbar navbar-expand-lg bd-navbar d-print-none">
+    </header>
+  
+
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
+      
+      
+      
+      <div class="bd-sidebar-primary bd-sidebar">
+        
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+
+  
+    
+  
+
+<a class="navbar-brand logo" href="../index.html">
+  
+  
+  
+  
+  
+    
+    
+      
+    
+    
+    <img src="../_static/logo.png" class="logo__image only-light" alt="PhotoBook - Home"/>
+    <script>document.write(`<img src="../_static/logo.png" class="logo__image only-dark" alt="PhotoBook - Home"/>`);</script>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item">
+
+ <script>
+ document.write(`
+   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
+        <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
+        
+        <ul class="nav bd-sidenav bd-sidenav__home-link">
+            <li class="toctree-l1">
+                <a class="reference internal" href="../index.html">
+                    PhotoBook
+                </a>
+            </li>
+        </ul>
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Gears</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../gears/lens_recommendation.html">Complete Camera Gear Recommendation: Data-Driven Analysis <!-- omit in toc --></a></li>
+<li class="toctree-l1"><a class="reference internal" href="../gears/prime_lens_recommendation.html">Prime Lens Recommendation for Sony A7C II: Data-Driven Analysis <!-- omit in toc --></a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Tips</span></p>
+<ul class="current nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="photographing_tips.html">Photography Tips Based on Your Usage Patterns <!-- omit in toc --></a></li>
+<li class="toctree-l1"><a class="reference internal" href="post_purchase_usage.html">Post-Purchase Usage: Field Notes &amp; Practical Tips <!-- omit in toc --></a></li>
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">Color Grading: In-Camera &amp; Post-Processing Tips <!-- omit in toc --></a></li>
+</ul>
+
+    </div>
+</nav></div>
+    </div>
+  
+  
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
+  
+  <div id="rtd-footer-container"></div>
+
+
+      </div>
+      
+      <main id="main-content" class="bd-main" role="main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article d-print-none">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><button class="sidebar-toggle primary-toggle btn btn-sm" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</button></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-source-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Source repositories">
+    <i class="fab fa-github"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="https://github.com/chenlh317/camera_kits" target="_blank"
+   class="btn btn-sm btn-source-repository-button dropdown-item"
+   title="Source repository"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="btn__text-container">Repository</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/chenlh317/camera_kits/issues/new?title=Issue%20on%20page%20%2Ftips/color_grading.html&body=Your%20issue%20content%20here." target="_blank"
+   class="btn btn-sm btn-source-issues-button dropdown-item"
+   title="Open an issue"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="btn__text-container">Open issue</span>
+</a>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="../_sources/tips/color_grading.md" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.md</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
+    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
+    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
+  </button>
+`);
+</script>
+
+
+<script>
+document.write(`
+  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass fa-lg"></i>
+  </button>
+`);
+</script>
+<button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</button>
+</div></div>
+      
+    </div>
+  
+</div>
+</div>
+              
+              
+
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>Color Grading: In-Camera & Post-Processing Tips <!-- omit in toc --></h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#executive-summary">📋 Executive Summary</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#why-fl-and-in-are-strong-foundations">Why FL and IN Are Strong Foundations</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#quick-reference-which-look-for-what">Quick Reference: Which Look for What</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#how-color-grading-actually-works-the-theory-behind-the-numbers"><strong>0. How Color Grading Actually Works — The Theory Behind the Numbers</strong></a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#the-tonal-range-your-mental-model">The Tonal Range — Your Mental Model</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#what-each-parameter-actually-does">What Each Parameter Actually Does</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#how-parameters-interact-the-quick-reference-map">How Parameters Interact — The Quick Reference Map</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#visualizing-it-the-tone-curve-connection">Visualizing It: The Tone Curve Connection</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#color-vs-tone-two-independent-dimensions">Color vs. Tone: Two Independent Dimensions</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#in-camera-creative-look-fine-tuning"><strong>1. In-Camera Creative Look Fine-Tuning</strong></a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#portraits-based-on-fl">1.1 Portraits — Based on FL</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#cityscapes-daylight-night-indoor-outdoor">1.2 Cityscapes — Daylight &amp; Night, Indoor &amp; Outdoor</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#nature-landscapes-based-on-in">1.3 Nature Landscapes — Based on IN</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#piano-performance-video-recording-at-home-based-on-fl">1.4 Piano Performance Video Recording at Home — Based on FL</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#museums-classical-artworks-e-g-louvre-based-on-fl">1.5 Museums — Classical Artworks (e.g., Louvre) — Based on FL</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#three-ready-to-use-preset-plans-for-your-a7c-ii"><strong>2. Three Ready-to-Use Preset Plans for Your A7C II</strong></a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#preset-1-portrait-warm-fl-based">Preset 1: “Portrait Warm” — FL-Based</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#preset-2-city-vivid-in-based">Preset 2: “City Vivid” — IN-Based</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#preset-3-landscape-bold-in-based">Preset 3: “Landscape Bold” — IN-Based</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#bonus-preset-petrof-indoor-fl-based-field-validated">Bonus Preset: “Petrof Indoor” — FL-Based (Field-Validated)</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#side-by-side-comparison">Side-by-Side Comparison</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#habits-that-matter-more-than-parameters">Habits That Matter More Than Parameters</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#post-processing-basics-adobe-lightroom-classic-photoshop"><strong>3. Post-Processing Basics: Adobe Lightroom Classic &amp; Photoshop</strong></a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#lightroom-classic-your-primary-editing-tool">3.1 Lightroom Classic — Your Primary Editing Tool</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#adobe-photoshop-when-to-use-it">3.2 Adobe Photoshop — When to Use It</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#white-balance-fine-tuning"><strong>4. White Balance Fine-Tuning</strong></a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#how-the-a7c-ii-handles-white-balance">4.1 How the A7C II Handles White Balance</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#white-balance-by-use-case">4.2 White Balance by Use Case</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#white-balance-quick-reference">4.3 White Balance Quick Reference</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#emulating-leica-hasselblad-color-science-on-your-a7c-ii"><strong>5. Emulating Leica &amp; Hasselblad Color Science on Your A7C II</strong></a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#leica-color-character">5.1 Leica Color Character</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#hasselblad-color-character">5.2 Hasselblad Color Character</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#quick-comparison-sony-default-vs-leica-style-vs-hasselblad-style">5.3 Quick Comparison: Sony Default vs Leica-Style vs Hasselblad-Style</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#summary-your-color-grading-workflow"><strong>6. Summary: Your Color Grading Workflow</strong></a></li>
+</ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
+                
+<div id="searchbox"></div>
+                <article class="bd-article">
+                  
+  <section class="tex2jax_ignore mathjax_ignore" id="color-grading-in-camera-post-processing-tips">
+<h1><a class="toc-backref" href="#id6" role="doc-backlink">Color Grading: In-Camera &amp; Post-Processing Tips <!-- omit in toc --></a><a class="headerlink" href="#color-grading-in-camera-post-processing-tips" title="Link to this heading">#</a></h1>
+<ul class="simple">
+<li><p><strong>Date:</strong> March 2026</p></li>
+<li><p><strong>Camera Body:</strong> Sony A7C II (Full-Frame, E-Mount)</p></li>
+<li><p><strong>Current Lenses:</strong> Sigma 20-200mm f/3.5-6.3, SIRUI Aurora 35mm f/1.4, Viltrox AF 85mm f/2.0 Evo</p></li>
+<li><p><strong>Creative Look Foundations:</strong> FL (Film) and IN (Instant)</p></li>
+<li><p><strong>Post-Processing Software:</strong> Adobe Photoshop, Adobe Lightroom Classic</p></li>
+<li><p><strong>Context:</strong> Practical color grading for a casual photographer — prioritize
+in-camera presets that look great straight out of camera (SOOC),
+with PC post-processing as a secondary skill for special edits</p></li>
+</ul>
+<hr class="docutils" />
+<section id="executive-summary">
+<span id="color-grading-executive-summary"></span><h2><a class="toc-backref" href="#id7" role="doc-backlink">📋 Executive Summary</a><a class="headerlink" href="#executive-summary" title="Link to this heading">#</a></h2>
+<p><strong>Your philosophy is efficiency: get great color in-camera so you rarely need to sit at a PC.</strong>
+Sony’s Creative Looks on the A7C II let you bake a color grade into your JPEGs (and video)
+at the moment of capture. This chapter builds on <strong>FL (Film)</strong> and <strong>IN (Instant)</strong> —
+the two looks you already like — with targeted fine-tuning for your real-world scenarios.</p>
+<section id="why-fl-and-in-are-strong-foundations">
+<span id="id1"></span><h3><a class="toc-backref" href="#id8" role="doc-backlink">Why FL and IN Are Strong Foundations</a><a class="headerlink" href="#why-fl-and-in-are-strong-foundations" title="Link to this heading">#</a></h3>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Creative Look</p></th>
+<th class="head"><p>Character</p></th>
+<th class="head"><p>Strengths</p></th>
+<th class="head"><p>Best Suited For</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p><strong>FL (Film)</strong></p></td>
+<td><p>Warm highlights, desaturated shadows, gentle roll-off</p></td>
+<td><p>Nostalgic, organic feel; flattering skin tones; forgiving in mixed light</p></td>
+<td><p>Portraits, golden-hour cityscapes, travel memories, museums</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>IN (Instant)</strong></p></td>
+<td><p>Punchy contrast, boosted saturation, slightly faded blacks</p></td>
+<td><p>Vibrant, high-impact; makes colors pop; strong visual presence</p></td>
+<td><p>Daytime cityscapes, nature landscapes, street photography, bold scenes</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><strong>Key insight:</strong> FL leans warm and gentle (people-centric), IN leans vivid and punchy (scene-centric).
+Between these two, you cover most casual shooting — the fine-tuning below
+lets you adapt each to specific scenarios without starting from scratch.</p>
+<blockquote>
+<div><p>⚠️ <strong>Known issue with FL — the “stiff” (愣) look:</strong>
+FL out of the box can sometimes look cold, hard, and overly digital — especially in:
+indoor mixed-light scenes, grey city streets without sky/greenery, and close-up portraits.
+This is because FL’s default emphasizes sky blue and greenery green while maintaining
+high contrast and edge sharpness. The result: colors feel “present but rigid” instead of organic.
+The fix is NOT to switch away from FL, but to <strong>tame its aggressiveness</strong> —
+pull down Contrast, Highlights, and Clarity, and add a <strong>WB Shift of A+1 / M+1</strong>
+to counteract FL’s tendency toward a blue-green tint.
+All FL-based recommendations below already incorporate these fixes.</p>
+</div></blockquote>
+<blockquote>
+<div><p>💡 <strong>When FL doesn’t work — alternative Creative Looks:</strong>
+In certain situations, even fine-tuned FL may not be the best choice:</p>
+<ul class="simple">
+<li><p><strong>Harsh midday sun portraits:</strong> PT (Portrait) handles skin more gracefully under hard top-light</p></li>
+<li><p><strong>Bright, colorful indoor scenes (markets, malls, LED-heavy):</strong> SH (Soft Highlight) renders
+mixed artificial lighting more cleanly than FL</p></li>
+<li><p><strong>When you want maximum skin safety:</strong> IN with reduced saturation is the most “un-ruinable”
+base for faces — it’s not the most characterful, but it has the highest success rate</p></li>
+</ul>
+<p>You don’t need to memorize this — just know that if FL looks wrong and tweaks don’t help,
+try PT (for people) or SH (for vibrant indoor scenes) as fallbacks.</p>
+</div></blockquote>
+</section>
+<section id="quick-reference-which-look-for-what">
+<span id="color-grading-quick-reference"></span><h3><a class="toc-backref" href="#id9" role="doc-backlink">Quick Reference: Which Look for What</a><a class="headerlink" href="#quick-reference-which-look-for-what" title="Link to this heading">#</a></h3>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Scenario</p></th>
+<th class="head"><p>Base Look</p></th>
+<th class="head"><p>Why</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p><strong>Portraits (friends, strangers, cosplayers)</strong></p></td>
+<td><p>FL</p></td>
+<td><p>Warm, flattering skin; soft contrast hides blemishes</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Cityscape — daytime</strong></p></td>
+<td><p>IN</p></td>
+<td><p>Punchy color makes architecture and signage pop</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Cityscape — night</strong></p></td>
+<td><p>FL</p></td>
+<td><p>Gentle highlight roll-off tames neon/harsh street lights</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Nature landscapes</strong></p></td>
+<td><p>IN</p></td>
+<td><p>Vivid greens, blues, and earth tones for maximum impact</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Piano recording at home</strong></p></td>
+<td><p>FL</p></td>
+<td><p>Warm, cinematic mood; gentle on indoor mixed lighting</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Museums (classical art)</strong></p></td>
+<td><p>FL</p></td>
+<td><p>Preserves painting warmth; doesn’t over-saturate pigments</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<hr class="docutils" />
+<nav class="contents" id="contents">
+<p class="topic-title">Contents</p>
+<ul class="simple">
+<li><p><a class="reference internal" href="#color-grading-in-camera-post-processing-tips" id="id6">Color Grading: In-Camera &amp; Post-Processing Tips <!-- omit in toc --></a></p>
+<ul>
+<li><p><a class="reference internal" href="#executive-summary" id="id7">📋 Executive Summary</a></p>
+<ul>
+<li><p><a class="reference internal" href="#why-fl-and-in-are-strong-foundations" id="id8">Why FL and IN Are Strong Foundations</a></p></li>
+<li><p><a class="reference internal" href="#quick-reference-which-look-for-what" id="id9">Quick Reference: Which Look for What</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#how-color-grading-actually-works-the-theory-behind-the-numbers" id="id10"><strong>0. How Color Grading Actually Works — The Theory Behind the Numbers</strong></a></p>
+<ul>
+<li><p><a class="reference internal" href="#the-tonal-range-your-mental-model" id="id11">The Tonal Range — Your Mental Model</a></p></li>
+<li><p><a class="reference internal" href="#what-each-parameter-actually-does" id="id12">What Each Parameter Actually Does</a></p></li>
+<li><p><a class="reference internal" href="#how-parameters-interact-the-quick-reference-map" id="id13">How Parameters Interact — The Quick Reference Map</a></p></li>
+<li><p><a class="reference internal" href="#visualizing-it-the-tone-curve-connection" id="id14">Visualizing It: The Tone Curve Connection</a></p></li>
+<li><p><a class="reference internal" href="#color-vs-tone-two-independent-dimensions" id="id15">Color vs. Tone: Two Independent Dimensions</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#in-camera-creative-look-fine-tuning" id="id16"><strong>1. In-Camera Creative Look Fine-Tuning</strong></a></p>
+<ul>
+<li><p><a class="reference internal" href="#portraits-based-on-fl" id="id17">1.1 Portraits — Based on FL</a></p></li>
+<li><p><a class="reference internal" href="#cityscapes-daylight-night-indoor-outdoor" id="id18">1.2 Cityscapes — Daylight &amp; Night, Indoor &amp; Outdoor</a></p></li>
+<li><p><a class="reference internal" href="#nature-landscapes-based-on-in" id="id19">1.3 Nature Landscapes — Based on IN</a></p></li>
+<li><p><a class="reference internal" href="#piano-performance-video-recording-at-home-based-on-fl" id="id20">1.4 Piano Performance Video Recording at Home — Based on FL</a></p></li>
+<li><p><a class="reference internal" href="#museums-classical-artworks-e-g-louvre-based-on-fl" id="id21">1.5 Museums — Classical Artworks (e.g., Louvre) — Based on FL</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#three-ready-to-use-preset-plans-for-your-a7c-ii" id="id22"><strong>2. Three Ready-to-Use Preset Plans for Your A7C II</strong></a></p>
+<ul>
+<li><p><a class="reference internal" href="#preset-1-portrait-warm-fl-based" id="id23">Preset 1: “Portrait Warm” — FL-Based</a></p></li>
+<li><p><a class="reference internal" href="#preset-2-city-vivid-in-based" id="id24">Preset 2: “City Vivid” — IN-Based</a></p></li>
+<li><p><a class="reference internal" href="#preset-3-landscape-bold-in-based" id="id25">Preset 3: “Landscape Bold” — IN-Based</a></p></li>
+<li><p><a class="reference internal" href="#bonus-preset-petrof-indoor-fl-based-field-validated" id="id26">Bonus Preset: “Petrof Indoor” — FL-Based (Field-Validated)</a></p></li>
+<li><p><a class="reference internal" href="#side-by-side-comparison" id="id27">Side-by-Side Comparison</a></p></li>
+<li><p><a class="reference internal" href="#habits-that-matter-more-than-parameters" id="id28">Habits That Matter More Than Parameters</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#post-processing-basics-adobe-lightroom-classic-photoshop" id="id29"><strong>3. Post-Processing Basics: Adobe Lightroom Classic &amp; Photoshop</strong></a></p>
+<ul>
+<li><p><a class="reference internal" href="#lightroom-classic-your-primary-editing-tool" id="id30">3.1 Lightroom Classic — Your Primary Editing Tool</a></p></li>
+<li><p><a class="reference internal" href="#adobe-photoshop-when-to-use-it" id="id31">3.2 Adobe Photoshop — When to Use It</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#white-balance-fine-tuning" id="id32"><strong>4. White Balance Fine-Tuning</strong></a></p>
+<ul>
+<li><p><a class="reference internal" href="#how-the-a7c-ii-handles-white-balance" id="id33">4.1 How the A7C II Handles White Balance</a></p></li>
+<li><p><a class="reference internal" href="#white-balance-by-use-case" id="id34">4.2 White Balance by Use Case</a></p></li>
+<li><p><a class="reference internal" href="#white-balance-quick-reference" id="id35">4.3 White Balance Quick Reference</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#emulating-leica-hasselblad-color-science-on-your-a7c-ii" id="id36"><strong>5. Emulating Leica &amp; Hasselblad Color Science on Your A7C II</strong></a></p>
+<ul>
+<li><p><a class="reference internal" href="#leica-color-character" id="id37">5.1 Leica Color Character</a></p></li>
+<li><p><a class="reference internal" href="#hasselblad-color-character" id="id38">5.2 Hasselblad Color Character</a></p></li>
+<li><p><a class="reference internal" href="#quick-comparison-sony-default-vs-leica-style-vs-hasselblad-style" id="id39">5.3 Quick Comparison: Sony Default vs Leica-Style vs Hasselblad-Style</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#summary-your-color-grading-workflow" id="id40"><strong>6. Summary: Your Color Grading Workflow</strong></a></p></li>
+</ul>
+</li>
+</ul>
+</nav>
+<hr class="docutils" />
+</section>
+</section>
+<section id="how-color-grading-actually-works-the-theory-behind-the-numbers">
+<span id="color-grading-theory"></span><h2><a class="toc-backref" href="#id10" role="doc-backlink"><strong>0. How Color Grading Actually Works — The Theory Behind the Numbers</strong></a><a class="headerlink" href="#how-color-grading-actually-works-the-theory-behind-the-numbers" title="Link to this heading">#</a></h2>
+<p>Before dialing in specific values, it helps to understand <em>what each parameter does
+to your image</em> and <em>how they interact</em>. This section explains the mechanism
+so you can improvise confidently instead of memorizing preset tables.</p>
+<section id="the-tonal-range-your-mental-model">
+<span id="the-tonal-range-mental-model"></span><h3><a class="toc-backref" href="#id11" role="doc-backlink">The Tonal Range — Your Mental Model</a><a class="headerlink" href="#the-tonal-range-your-mental-model" title="Link to this heading">#</a></h3>
+<p>Every pixel in a photo has a <strong>luminance value</strong> from pure black (0) to pure white (255).
+Color grading parameters carve this 0–255 range into zones and let you push each zone
+brighter or darker. Think of it as a stack of layers:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>  255 ──── Highlights (brightest 20-25% of pixels)
+   │
+   │       Clarity operates here
+   │       ↕ (mid-tone contrast)
+   │
+  128 ──── Midtones (the bulk of your image — skin, buildings, foliage)
+   │
+   │       Contrast stretches or compresses this entire range
+   │       ↕
+   │
+   30 ──── Shadows (darkest 20-25% of pixels)
+   │
+   │       Fade lifts this floor
+   │       ↕
+    0 ──── Black point
+</pre></div>
+</div>
+<p><strong>Key insight:</strong> Highlights, Shadows, and Fade target <em>specific zones</em>,
+while Contrast and Clarity affect the <em>relationship between zones</em>.
+Understanding which zone you’re targeting is the difference between
+a purposeful adjustment and random slider-pushing.</p>
+</section>
+<section id="what-each-parameter-actually-does">
+<span id="parameter-deep-dive"></span><h3><a class="toc-backref" href="#id12" role="doc-backlink">What Each Parameter Actually Does</a><a class="headerlink" href="#what-each-parameter-actually-does" title="Link to this heading">#</a></h3>
+<p><strong>(1) Contrast — Global Tonal Separation</strong></p>
+<p>Contrast controls the <em>distance</em> between the darkest and brightest tones.</p>
+<ul class="simple">
+<li><p><strong>Positive contrast</strong> (+): Darks get darker, brights get brighter → more “punch,” more drama.
+The tonal range <em>stretches</em> — small differences in tone become visible.</p></li>
+<li><p><strong>Negative contrast</strong> (−): Darks lift, brights dim → flatter, softer image.
+The tonal range <em>compresses</em> — the image looks gentler, more “matte.”</p></li>
+</ul>
+<p><strong>Interaction:</strong> Contrast is the broadest brush. It affects highlights, midtones,
+and shadows simultaneously. If you push Contrast high (+2 or more),
+you may need to <em>pull Highlights negative</em> to prevent the bright end from clipping,
+and <em>push Shadows positive</em> to keep dark areas readable.
+This “Contrast up / Highlights down / Shadows up” trio is the single most common
+combination in color grading — it adds perceived punch while preserving detail at both ends.</p>
+<p><strong>(2) Highlights — Bright Area Control</strong></p>
+<p>Highlights target roughly the top 20-25% of the tonal range:
+sky, white clothing, reflections, bright skin patches, light sources.</p>
+<ul class="simple">
+<li><p><strong>Negative</strong> (−): Recovers blown-out detail (clouds reappear, skin texture returns).
+This is <em>the most frequently used negative adjustment</em> in photography.</p></li>
+<li><p><strong>Positive</strong> (+): Brightens already-bright areas. Rarely useful — usually causes clipping.</p></li>
+</ul>
+<p><strong>Interaction with Contrast:</strong> When you raise Contrast, highlights get pushed brighter.
+Pulling Highlights negative <em>selectively undoes</em> that brightness in the top zone
+without affecting the midtone punch you added. That’s why “Contrast +1, Highlights −2”
+is a staple pairing — you get the midtone energy of higher contrast
+while protecting the sky/skin highlights.</p>
+<p><strong>(3) Shadows — Dark Area Control</strong></p>
+<p>Shadows target roughly the bottom 20-25% of the tonal range:
+under-chin shadows, dark alleys, shadowed building facades, eye sockets.</p>
+<ul class="simple">
+<li><p><strong>Positive</strong> (+): Lifts dark areas → reveals hidden detail, opens up shadows.</p></li>
+<li><p><strong>Negative</strong> (−): Crushes dark areas → dramatic, high-contrast look with deep blacks.</p></li>
+</ul>
+<p><strong>Interaction with Contrast:</strong> Raising Contrast pushes shadows darker.
+Pushing Shadows positive <em>selectively undoes</em> that darkening in the bottom zone.
+This is the mirror of the Highlights trick: “Contrast +1, Shadows +1”
+keeps the midtone punch but prevents shadow detail from being lost.</p>
+<p><strong>Interaction with Fade:</strong> Both Shadows and Fade affect the dark end,
+but differently. Shadows <em>reveals detail</em> in dark areas (like turning up a dimmer
+in a dark room — you see more stuff). Fade <em>lifts the black floor itself</em>
+(like adding fog to the room — the darkest point is no longer black, it’s dark grey).
+They can stack: Shadows +1 + Fade 1 creates a very open, airy shadow rendering.
+Or they can be used independently for different effects.</p>
+<p><strong>(4) Fade — Black Point Lift</strong></p>
+<p>Fade lifts the absolute black point of the image. Instead of true black (0),
+the darkest pixel becomes dark grey (~20-40 on the 0–255 scale).</p>
+<ul class="simple">
+<li><p><strong>Higher values</strong> (1-9): Matte, filmic look. Blacks become milky/faded. Classic film print look.</p></li>
+<li><p><strong>Zero (0):</strong> Solid, punchy blacks. More “digital” / modern look. No fade applied.</p></li>
+</ul>
+<blockquote>
+<div><p>⚠️ <strong>A7C II range: 0 to 9 only.</strong> There are no negative Fade values.
+Zero means no black-point lift; higher values progressively lift the black floor.</p>
+</div></blockquote>
+<p><strong>Why Fade matters:</strong>
+This single parameter is responsible for the “film vs digital” divide in modern photography.
+Film negatives physically cannot produce absolute black — there’s always base density
+in the film emulsion. Fade simulates this. It’s why FL (Film) creative look
+has inherently lifted blacks, and why adding more Fade to FL enhances the film character.</p>
+<p><strong>Interaction with Contrast:</strong> Fade and Contrast work in <em>opposite directions</em>
+on the shadow end. High Contrast pushes blacks deeper; high Fade lifts them.
+If you set Contrast +2 and Fade 2, the Contrast darkens the shadows
+but Fade prevents them from reaching true black — the result is punchy midtones
+with matte shadows, a look popularized by cinema color grading.</p>
+<p><strong>(5) Saturation — Color Intensity</strong></p>
+<p>Saturation controls how vivid or muted all colors are, uniformly across the image.</p>
+<ul class="simple">
+<li><p><strong>Positive</strong> (+): Colors become more vivid, more “saturated.” Greens pop, blues deepen, reds intensify.</p></li>
+<li><p><strong>Negative</strong> (−): Colors become muted, washed-out. At extreme negative, the image approaches monochrome.</p></li>
+</ul>
+<p><strong>Why restraint matters:</strong> Saturation is the easiest parameter to overdo.
+Human perception is non-linear — a small boost looks “better,” but excess looks garish.
+The difference between +1 (pleasant) and +3 (radioactive) is smaller than you’d think.</p>
+<p><strong>Interaction with Contrast:</strong> Higher Contrast <em>perceptually</em> increases saturation —
+when tones separate more, colors appear more vivid even without touching the Saturation slider.
+This means that if you push Contrast +2, you might want Saturation 0 or even −1
+to compensate for the perceived saturation boost. Conversely, low Contrast (−2)
+makes the image look naturally desaturated, so you may want Saturation +1 to compensate.</p>
+<p><strong>Interaction with Creative Look base:</strong> FL already desaturates shadows
+(warm highlights + muted shadows = “film” look). Adding further negative Saturation
+to FL can quickly make the image look too flat. IN starts more vivid,
+so it tolerates Saturation +1 or +2 before looking unnatural.</p>
+<p><strong>(6) Sharpness — Edge Acuity</strong></p>
+<p>Sharpness enhances contrast <em>along edges</em> — the boundaries between different-toned areas.
+It doesn’t add real detail; it makes existing edges appear crisper by brightening
+the bright side and darkening the dark side of each edge.</p>
+<ul class="simple">
+<li><p><strong>Higher values</strong> (3-9): Crisper edges, more “defined” look. Good for architecture, text, landscapes.</p></li>
+<li><p><strong>Zero (0):</strong> Minimum sharpening — the softest the camera can produce in-camera.
+For portraits, keep Sharpness at 0 to let skin texture stay smooth.</p></li>
+</ul>
+<blockquote>
+<div><p>⚠️ <strong>A7C II range: 0 to 9 only.</strong> There are no negative Sharpness values.
+For a “dreamy” soft-focus portrait look, you can’t go below 0 in-camera —
+pair Sharpness 0 with a physical diffusion filter (your 1/4 Black Mist)
+or use Lightroom’s negative Sharpening in post.</p>
+</div></blockquote>
+<p><strong>Why it exists separately from Clarity:</strong>
+Sharpness works at the <em>pixel level</em> (fine edges), while Clarity works at the <em>region level</em>
+(larger tonal transitions). You can have high Sharpness with low Clarity
+(sharp details in a smooth-toned image — good for portraits with textured clothing)
+or low Sharpness with high Clarity (well-defined shapes but soft texturing — unusual).</p>
+<p><strong>(7) Sharpness Range — How Deep the Sharpening Goes</strong></p>
+<p>Sharpness Range controls the <em>radius</em> of the sharpening effect —
+whether it sharpens only the finest details (low range) or also medium-scale textures.</p>
+<ul class="simple">
+<li><p><strong>Higher values</strong> (1-9): Sharpening extends to medium-scale textures (brick patterns, tree bark, fabric weave).</p></li>
+<li><p><strong>Zero (0):</strong> Only fine edges are sharpened.</p></li>
+</ul>
+<blockquote>
+<div><p>⚠️ <strong>A7C II range: 0 to 9 only.</strong> There are no negative Sharpness Range values.</p>
+</div></blockquote>
+<p><strong>Practical rule:</strong> Push Sharpness Range higher only when you also push Sharpness higher.
+There’s no benefit to extending range if Sharpness is at 0.</p>
+<p><strong>(8) Clarity — Mid-Tone Contrast (Texture &amp; Depth)</strong></p>
+<p>Clarity is <em>localized contrast in the midtones</em>. It doesn’t affect
+the overall bright/dark balance — it enhances (or suppresses) the contrast
+<em>within</em> the midtone band, making textures and surfaces more (or less) prominent.</p>
+<ul class="simple">
+<li><p><strong>Higher values</strong> (3-9): Textures pop. Stone grain, cloud structure, leaf detail, building surfaces
+all become more three-dimensional. Can look “gritty” or “HDR-ish” at extreme values.</p></li>
+<li><p><strong>Zero (0):</strong> Minimum midtone contrast — the smoothest available in-camera.
+For portraits, keep Clarity at 0 for the softest skin rendering.</p></li>
+</ul>
+<blockquote>
+<div><p>⚠️ <strong>A7C II range: 0 to 9 only.</strong> There are no negative Clarity values in-camera.
+The “Orton effect” / “soft glow” look requires negative Clarity in Lightroom (−20 to −40),
+which is one reason to shoot RAW for special portrait edits.</p>
+</div></blockquote>
+<p><strong>Interaction with Contrast:</strong> Contrast affects the <em>global</em> tonal range;
+Clarity affects <em>local</em> tonal variation. You can have low global Contrast (flat, matte)
+with high Clarity (textured surfaces) — this produces the “matte but detailed” look
+used in cinematic color grading. Or high Contrast with low Clarity —
+punchy tonal range but smooth surfaces, used for beauty/fashion portraits.</p>
+<p><strong>The key pairing to understand:</strong> Contrast + Clarity together determine
+the “visual energy” of the image. Both high → aggressive, punchy (landscape/architecture).
+Both at 0 → calm, gentle (portraits/film emulation). One high and one at 0 → specialty looks.</p>
+<blockquote>
+<div><p>⚠️ <strong>In-camera vs Lightroom:</strong> On the A7C II, Sharpness and Clarity bottom out at 0.
+If the “zero” setting isn’t soft enough (e.g., beauty portraits), you need either
+a physical filter (Black Mist 1/4) or negative values in Lightroom’s Develop module.</p>
+</div></blockquote>
+</section>
+<section id="how-parameters-interact-the-quick-reference-map">
+<span id="parameter-interaction-map"></span><h3><a class="toc-backref" href="#id13" role="doc-backlink">How Parameters Interact — The Quick Reference Map</a><a class="headerlink" href="#how-parameters-interact-the-quick-reference-map" title="Link to this heading">#</a></h3>
+<p>Understanding interactions lets you predict what happens when you move multiple sliders:</p>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Pairing</p></th>
+<th class="head"><p>Effect</p></th>
+<th class="head"><p>Common Use</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p><strong>Contrast ↑ + Highlights ↓</strong></p></td>
+<td><p>Punchy midtones, protected bright areas</p></td>
+<td><p>Cityscapes, landscapes</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Contrast ↑ + Shadows ↑</strong></p></td>
+<td><p>Punchy midtones, open dark areas</p></td>
+<td><p>Street, travel</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Contrast ↑ + Highlights ↓ + Shadows ↑</strong></p></td>
+<td><p>Maximum detail across full range with midtone energy</p></td>
+<td><p>The “universal” starting combo</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Contrast ↓ + Fade ↑</strong></p></td>
+<td><p>Soft, matte, filmic — the classic “film look”</p></td>
+<td><p>Portraits, vintage mood</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Contrast ↑ + Saturation ↓</strong></p></td>
+<td><p>Strong structure but muted colors — “desaturated drama”</p></td>
+<td><p>Cinematic, moody night</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Contrast ↓ + Saturation ↑</strong></p></td>
+<td><p>Flat tones but vivid colors — “pastel” look</p></td>
+<td><p>Whimsical, editorial</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Clarity ↑ + Sharpness ↑</strong></p></td>
+<td><p>Maximum texture and edge definition</p></td>
+<td><p>Landscape, architecture</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Clarity 0 + Sharpness 0</strong></p></td>
+<td><p>Smoothest possible in-camera rendering (pair with Black Mist filter for dreamy look)</p></td>
+<td><p>Portraits, beauty</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Clarity ↑ + Contrast ↓</strong></p></td>
+<td><p>Textured surfaces in a flat tonal field — “cinematic detail”</p></td>
+<td><p>Film-grade color work</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Fade ↑ + Shadows ↑</strong></p></td>
+<td><p>Very open, airy shadows with matte blacks</p></td>
+<td><p>Airy portrait, editorial</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Highlights ↓ + Shadows ↑</strong></p></td>
+<td><p>Compressed dynamic range — “HDR-like” detail everywhere</p></td>
+<td><p>Complex scenes, interiors</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<blockquote>
+<div><p>💡 <strong>The golden rule of parameter interaction:</strong>
+When two parameters push the <em>same zone in the same direction</em>, the effect compounds.
+When they push the <em>same zone in opposite directions</em>, they partially cancel out.
+Intentional cancellation is a powerful technique — e.g., Contrast ↑ (darkens shadows)</p>
+<ul class="simple">
+<li><p>Shadows ↑ (brightens shadows) = the shadow zone stays roughly neutral
+while midtones get the contrast boost.</p></li>
+</ul>
+</div></blockquote>
+</section>
+<section id="visualizing-it-the-tone-curve-connection">
+<span id="tonal-curve-visualization"></span><h3><a class="toc-backref" href="#id14" role="doc-backlink">Visualizing It: The Tone Curve Connection</a><a class="headerlink" href="#visualizing-it-the-tone-curve-connection" title="Link to this heading">#</a></h3>
+<p>If you’ve seen a <strong>tone curve</strong> in Lightroom or Photoshop,
+the Creative Look parameters map directly onto it:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>Output                 ┌── Highlights ↓ pulls this corner down
+(brightness)          ╱     (protects sky/skin from blowing out)
+  255 ┤              ╱
+      │            ╱
+      │          ╱◄── Contrast changes the steepness
+      │        ╱      (steeper = more contrast)
+      │      ╱
+  128 ┤    ╱◄──── Clarity affects the &quot;wiggliness&quot; here
+      │  ╱        (more clarity = more local contrast in midtones)
+      │╱
+   30 ┤╱◄──── Shadows ↑ lifts this zone
+      │        (reveals detail in darks)
+      ┤
+      ├── Fade ↑ lifts this point off zero
+    0 ┤    (no more true black)
+      └──┬──┬──┬──┬──┬──┬──┬───
+         0     64   128  192   255
+              Input (original brightness)
+</pre></div>
+</div>
+<p><strong>Reading this diagram:</strong></p>
+<ul class="simple">
+<li><p>The diagonal line represents how input brightness maps to output brightness</p></li>
+<li><p>A steeper line = more contrast (small input differences → large output differences)</p></li>
+<li><p>Lifting the bottom = Fade (minimum output is no longer zero)</p></li>
+<li><p>Pulling down the top = Highlights recovery (maximum output is held back)</p></li>
+<li><p>The curve’s shape in the middle = Clarity’s domain (local midtone contrast)</p></li>
+</ul>
+<p>Once you internalize this mental model, every parameter adjustment makes intuitive sense:
+you’re simply reshaping how the camera maps “real world light” to “displayed brightness.”</p>
+</section>
+<section id="color-vs-tone-two-independent-dimensions">
+<span id="color-vs-tone"></span><h3><a class="toc-backref" href="#id15" role="doc-backlink">Color vs. Tone: Two Independent Dimensions</a><a class="headerlink" href="#color-vs-tone-two-independent-dimensions" title="Link to this heading">#</a></h3>
+<p>A final concept: <strong>tone</strong> (the brightness/darkness adjustments above)
+and <strong>color</strong> (Saturation, plus White Balance) are <em>largely independent</em>.
+You can set your tonal rendering first (Contrast, Highlights, Shadows, Fade, Clarity)
+and then adjust color (Saturation, WB) without undoing the tonal work.</p>
+<p>This is why this chapter separates the topics:</p>
+<ul class="simple">
+<li><p><strong>Sections 1–2</strong> focus primarily on tonal + color parameters together as practical recipes</p></li>
+<li><p><strong>Section 4</strong> handles White Balance (the <em>foundation</em> of color accuracy) separately</p></li>
+<li><p><strong>Section 5</strong> (Leica/Hasselblad emulation) combines both tonal and color adjustments
+for a complete “color science” emulation</p></li>
+</ul>
+<p><strong>The practical takeaway:</strong>
+When your photo looks wrong, diagnose <em>which dimension</em> is off:</p>
+<ul class="simple">
+<li><p>If it looks too flat or too harsh → adjust <strong>tone</strong> (Contrast, Highlights, Shadows, Clarity)</p></li>
+<li><p>If it looks too warm, too cool, or too vivid → adjust <strong>color</strong> (WB, Saturation)</p></li>
+<li><p>Don’t use Saturation to fix a Contrast problem, or Contrast to fix a WB problem</p></li>
+</ul>
+<hr class="docutils" />
+</section>
+</section>
+<section id="in-camera-creative-look-fine-tuning">
+<span id="id2"></span><h2><a class="toc-backref" href="#id16" role="doc-backlink"><strong>1. In-Camera Creative Look Fine-Tuning</strong></a><a class="headerlink" href="#in-camera-creative-look-fine-tuning" title="Link to this heading">#</a></h2>
+<p>On the A7C II, each Creative Look exposes <strong>eight adjustment parameters</strong>
+you can dial in: Contrast, Highlights, Shadows, Fade, Saturation, Sharpness,
+Sharpness Range, and Clarity. Below are scenario-specific tweaks
+starting from your FL and IN bases.</p>
+<blockquote>
+<div><p>💡 <strong>How to access:</strong> Menu → Exposure/Color → Color/Tone → Creative Look →
+select FL or IN → press right arrow to enter fine-tuning sub-menu.
+Each parameter range depends on the type:
+<strong>Contrast, Highlights, Shadows, Saturation:</strong> −9 to +9 (0 = default).
+<strong>Fade, Sharpness, Sharpness Range, Clarity:</strong> 0 to 9 (no negative values — 0 = minimum).</p>
+</div></blockquote>
+<section id="portraits-based-on-fl">
+<span id="fine-tune-portraits"></span><h3><a class="toc-backref" href="#id17" role="doc-backlink">1.1 Portraits — Based on FL</a><a class="headerlink" href="#portraits-based-on-fl" title="Link to this heading">#</a></h3>
+<p><strong>Goal:</strong> Warm, flattering skin tones; soft transitions; gentle background rendering.
+Works for both your Viltrox 85mm f/2.0 Evo portrait sessions
+and casual friend/family shots with the SIRUI 35mm f/1.4.</p>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Parameter</p></th>
+<th class="head"><p>Adjustment</p></th>
+<th class="head"><p>Rationale</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p><strong>Contrast</strong></p></td>
+<td><p>−1 to −2</p></td>
+<td><p>Softens skin; reduces harsh shadow lines on faces</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Highlights</strong></p></td>
+<td><p>−1</p></td>
+<td><p>Protects skin highlights from blowing out (esp. bright sunlight)</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Shadows</strong></p></td>
+<td><p>+1</p></td>
+<td><p>Opens up eye sockets and under-chin shadows slightly</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Fade</strong></p></td>
+<td><p>1</p></td>
+<td><p>Lifts the deepest blacks for a gentle, approachable look</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Saturation</strong></p></td>
+<td><p>−1</p></td>
+<td><p>Pulls back FL’s warmth just enough to keep skin natural, not orange</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Sharpness</strong></p></td>
+<td><p>0</p></td>
+<td><p>Minimum sharpening — lets skin texture stay smooth</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Sharpness Range</strong></p></td>
+<td><p>0</p></td>
+<td><p>Leave at default — fine detail sharpness isn’t needed for portraits</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Clarity</strong></p></td>
+<td><p>0</p></td>
+<td><p>Minimum micro-contrast — smoothest skin rendering available in-camera</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<blockquote>
+<div><p><strong>Tip — Pair with the 1/4 Black Mist filter:</strong> Sharpness and Clarity are already
+at their minimum (0) in this preset. For an even softer, dreamier portrait look,
+mount the 1/4 Black Mist filter on the Viltrox 85mm f/2.0 Evo —
+this provides physical diffusion that goes beyond what the camera’s 0 setting can achieve.
+For Lightroom post-processing, you can push Clarity negative (−20 to −40) on RAW files
+to add the “Orton glow” that isn’t available in-camera.</p>
+</div></blockquote>
+<blockquote>
+<div><p><strong>Tip — Indoor portraits (home, restaurants):</strong> Add <strong>+1 Shadows</strong> beyond the above
+to compensate for overhead lighting that creates unflattering under-eye shadows.</p>
+</div></blockquote>
+</section>
+<section id="cityscapes-daylight-night-indoor-outdoor">
+<span id="fine-tune-cityscapes"></span><h3><a class="toc-backref" href="#id18" role="doc-backlink">1.2 Cityscapes — Daylight &amp; Night, Indoor &amp; Outdoor</a><a class="headerlink" href="#cityscapes-daylight-night-indoor-outdoor" title="Link to this heading">#</a></h3>
+<p>Cityscapes benefit from a split approach: <strong>IN for daytime punch, FL for nighttime atmosphere</strong>.</p>
+<p><strong>Daytime Cityscapes (outdoor) — Based on IN:</strong></p>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Parameter</p></th>
+<th class="head"><p>Adjustment</p></th>
+<th class="head"><p>Rationale</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p><strong>Contrast</strong></p></td>
+<td><p>+1</p></td>
+<td><p>Adds punch to buildings and skylines against the sky</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Highlights</strong></p></td>
+<td><p>−1 to −2</p></td>
+<td><p>Protects bright sky areas and white building facades</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Shadows</strong></p></td>
+<td><p>+1</p></td>
+<td><p>Opens up shadow detail in narrow streets and alleys</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Fade</strong></p></td>
+<td><p>0</p></td>
+<td><p>Keep IN’s default — faded blacks weaken architectural shots</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Saturation</strong></p></td>
+<td><p>0 to +1</p></td>
+<td><p>IN is already vibrant; only boost if overcast/flat light</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Sharpness</strong></p></td>
+<td><p>1</p></td>
+<td><p>Crisps up architectural edges and signage</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Sharpness Range</strong></p></td>
+<td><p>1</p></td>
+<td><p>Extends sharpening to fine details (brick, tile, lettering)</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Clarity</strong></p></td>
+<td><p>1 to 2</p></td>
+<td><p>Emphasizes building texture and surface detail</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><strong>Night Cityscapes (outdoor) — Based on FL:</strong></p>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Parameter</p></th>
+<th class="head"><p>Adjustment</p></th>
+<th class="head"><p>Rationale</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p><strong>Contrast</strong></p></td>
+<td><p>−1</p></td>
+<td><p>Prevents neon signs and street lamps from clipping harshly</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Highlights</strong></p></td>
+<td><p>−2 to −3</p></td>
+<td><p>Tames bright light sources (neon, LEDs, car headlights)</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Shadows</strong></p></td>
+<td><p>+1 to +2</p></td>
+<td><p>Reveals detail in dark building facades and alleyways</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Fade</strong></p></td>
+<td><p>1 to 2</p></td>
+<td><p>Lifts shadows for a cinematic, film-noir mood</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Saturation</strong></p></td>
+<td><p>0</p></td>
+<td><p>FL’s natural warmth is enough; don’t oversaturate neon colors</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Sharpness</strong></p></td>
+<td><p>0</p></td>
+<td><p>Night shots rarely benefit from extra sharpening (amplifies noise)</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Sharpness Range</strong></p></td>
+<td><p>0</p></td>
+<td><p>Leave default at night — less sharpening = cleaner result</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Clarity</strong></p></td>
+<td><p>0 to 1</p></td>
+<td><p>Slight clarity helps building outlines; too much amplifies noise</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<blockquote>
+<div><p><strong>Tip — Night shooting on SIRUI 35mm f/1.4:</strong> At f/1.4, point light sources
+naturally bloom into soft circles (bokeh balls). FL’s gentle highlight roll-off
+complements this beautifully — don’t fight it with aggressive highlight recovery.
+The slight glow IS the night-city mood.</p>
+</div></blockquote>
+<p><strong>Indoor Cityscapes (shopping malls, metro stations, lobbies) — Based on FL:</strong></p>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Parameter</p></th>
+<th class="head"><p>Adjustment</p></th>
+<th class="head"><p>Rationale</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p><strong>Contrast</strong></p></td>
+<td><p>0</p></td>
+<td><p>Indoor lighting is already controlled; no need to push</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Highlights</strong></p></td>
+<td><p>−1</p></td>
+<td><p>Prevents ceiling light fixtures from blowing out</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Shadows</strong></p></td>
+<td><p>+1</p></td>
+<td><p>Lifts floor-level shadow areas in large interior spaces</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Fade</strong></p></td>
+<td><p>1</p></td>
+<td><p>Softens the corporate/sterile feel of artificial lighting</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Saturation</strong></p></td>
+<td><p>0 to +1</p></td>
+<td><p>Boost slightly if the interior is visually interesting (e.g., colorful market halls)</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Sharpness</strong></p></td>
+<td><p>0</p></td>
+<td><p>Standard sharpness is fine for interiors</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Sharpness Range</strong></p></td>
+<td><p>0</p></td>
+<td><p>Default</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Clarity</strong></p></td>
+<td><p>0 to 1</p></td>
+<td><p>Adds definition to architectural details if desired</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+</section>
+<section id="nature-landscapes-based-on-in">
+<span id="fine-tune-nature"></span><h3><a class="toc-backref" href="#id19" role="doc-backlink">1.3 Nature Landscapes — Based on IN</a><a class="headerlink" href="#nature-landscapes-based-on-in" title="Link to this heading">#</a></h3>
+<p><strong>Goal:</strong> Vivid, high-impact landscapes with rich greens, deep blues,
+and warm earth tones. Optimized for the Sigma 20-200mm on daytime hikes and scenic viewpoints.</p>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Parameter</p></th>
+<th class="head"><p>Adjustment</p></th>
+<th class="head"><p>Rationale</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p><strong>Contrast</strong></p></td>
+<td><p>+1 to +2</p></td>
+<td><p>Strengthens the separation between sky, mountains, and foreground</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Highlights</strong></p></td>
+<td><p>−2 to −3</p></td>
+<td><p>Preserves cloud detail and prevents sky blow-out</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Shadows</strong></p></td>
+<td><p>+1 to +2</p></td>
+<td><p>Reveals detail in shadowed valleys, forests, and rock faces</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Fade</strong></p></td>
+<td><p>0</p></td>
+<td><p>Keep blacks solid for landscape punch</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Saturation</strong></p></td>
+<td><p>+1 to +2</p></td>
+<td><p>Boosts foliage greens and sky blues — the “postcard” look</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Sharpness</strong></p></td>
+<td><p>1 to 2</p></td>
+<td><p>Crisps up foliage, rock textures, and distant details</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Sharpness Range</strong></p></td>
+<td><p>1</p></td>
+<td><p>Extends sharpening reach for distant landscape layers</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Clarity</strong></p></td>
+<td><p>2 to 3</p></td>
+<td><p>Maximizes texture in mountains, clouds, and vegetation</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<blockquote>
+<div><p><strong>Tip — Use with CPL filter:</strong> Your CPL filter on the Sigma 20-200mm
+already deepens sky blue and cuts haze. Combined with IN’s saturation boost,
+you get vivid landscapes SOOC without any post-processing.
+Rotate the CPL to taste — maximum effect is ~90° to the sun.</p>
+</div></blockquote>
+<blockquote>
+<div><p>⚠️ <strong>Watch the saturation ceiling:</strong> IN + Saturation +2 + CPL can push greens
+and blues into unnatural territory on very sunny days.
+If colors look “radioactive” on the rear screen, dial Saturation back to 0.</p>
+</div></blockquote>
+</section>
+<section id="piano-performance-video-recording-at-home-based-on-fl">
+<span id="fine-tune-piano-recording"></span><h3><a class="toc-backref" href="#id20" role="doc-backlink">1.4 Piano Performance Video Recording at Home — Based on FL</a><a class="headerlink" href="#piano-performance-video-recording-at-home-based-on-fl" title="Link to this heading">#</a></h3>
+<p><strong>Goal:</strong> Warm, cinematic mood for home video. The FL look naturally produces
+a “cozy living room concert” vibe that suits piano performance footage.
+Since this is video, consistency and gentle grading matter more than punch.</p>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Parameter</p></th>
+<th class="head"><p>Adjustment</p></th>
+<th class="head"><p>Rationale</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p><strong>Contrast</strong></p></td>
+<td><p>−1</p></td>
+<td><p>Keeps the dynamic range open for video; prevents harsh clipping</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Highlights</strong></p></td>
+<td><p>−1 to −2</p></td>
+<td><p>Protects window light or lamp highlights in the frame</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Shadows</strong></p></td>
+<td><p>+1 to +2</p></td>
+<td><p>Opens up the darker corners of the room; keeps pianist visible</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Fade</strong></p></td>
+<td><p>1</p></td>
+<td><p>Gives a gentle, filmic lift to shadows — adds warmth to the mood</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Saturation</strong></p></td>
+<td><p>0 to −1</p></td>
+<td><p>Slightly desaturated = more “cinematic”; avoids distracting colors</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Sharpness</strong></p></td>
+<td><p>0</p></td>
+<td><p>Video sharpening is handled differently; don’t over-sharpen in-camera</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Sharpness Range</strong></p></td>
+<td><p>0</p></td>
+<td><p>Default for video</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Clarity</strong></p></td>
+<td><p>0</p></td>
+<td><p>Video at high clarity can look artificial; keep neutral</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<blockquote>
+<div><p><strong>Tip — Lock your white balance for video:</strong> Auto WB can shift mid-performance
+as you move or room lighting changes slightly. Set a <strong>Custom White Balance</strong>
+or lock to a specific Kelvin value (see <a class="reference internal" href="#white-balance-fine-tuning">Section 4: White Balance Fine-Tuning</a>)
+before pressing record. Nothing looks worse than color shifting during a piano piece.</p>
+</div></blockquote>
+<blockquote>
+<div><p><strong>Tip — SIRUI 35mm f/1.4 is your best video lens here.</strong>
+At f/1.4-f/2.0, you get gorgeous bokeh on the room background,
+the pianist is beautifully isolated, and you gather plenty of light
+even in a living room with just a desk lamp and overhead light.
+The 35mm field of view captures the pianist + part of the piano naturally.</p>
+</div></blockquote>
+<blockquote>
+<div><p><strong>Tip — Picture Profile vs Creative Look for video:</strong>
+For casual piano recording, Creative Looks (FL) are perfectly fine —
+they bake in a finished look and require zero post-processing.
+Picture Profiles (like S-Log3 or S-Cinetone) are meant for color grading in post,
+which contradicts your efficiency-first approach.
+<strong>Use Creative Look FL for piano video unless you plan to edit every clip.</strong></p>
+</div></blockquote>
+</section>
+<section id="museums-classical-artworks-e-g-louvre-based-on-fl">
+<span id="fine-tune-museums"></span><h3><a class="toc-backref" href="#id21" role="doc-backlink">1.5 Museums — Classical Artworks (e.g., Louvre) — Based on FL</a><a class="headerlink" href="#museums-classical-artworks-e-g-louvre-based-on-fl" title="Link to this heading">#</a></h3>
+<p><strong>Goal:</strong> Faithful color reproduction of paintings, sculptures, and exhibits
+under challenging museum lighting (warm tungsten, cool LED, mixed spotlights).
+FL’s gentle warmth complements classical artwork without distorting pigment colors.</p>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Parameter</p></th>
+<th class="head"><p>Adjustment</p></th>
+<th class="head"><p>Rationale</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p><strong>Contrast</strong></p></td>
+<td><p>−1</p></td>
+<td><p>Preserves the tonal range in paintings (dark Baroque works need shadow detail)</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Highlights</strong></p></td>
+<td><p>−1 to −2</p></td>
+<td><p>Protects bright areas in paintings (skies, white fabrics in oil paintings)</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Shadows</strong></p></td>
+<td><p>+1</p></td>
+<td><p>Reveals detail in darker painting regions and sculpture cavities</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Fade</strong></p></td>
+<td><p>0 to 1</p></td>
+<td><p>Slight fade can complement the aged look of classical works; 0 for modern exhibits</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Saturation</strong></p></td>
+<td><p>−1 to −2</p></td>
+<td><p><strong>Critical:</strong> Desaturate slightly to avoid misrepresenting pigment colors under spot lighting</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Sharpness</strong></p></td>
+<td><p>1</p></td>
+<td><p>Helps resolve fine brushwork and texture in paintings</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Sharpness Range</strong></p></td>
+<td><p>1</p></td>
+<td><p>Extends sharpening to the fine details in artwork</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Clarity</strong></p></td>
+<td><p>0 to 1</p></td>
+<td><p>Slight clarity brings out surface texture (canvas weave, marble grain)</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<blockquote>
+<div><p><strong>Tip — Saturation restraint is key in museums.</strong>
+Spot-lit paintings under warm tungsten can appear over-saturated in photos
+even at default settings. Pulling saturation back by −1 or −2
+ensures your photos match what your eyes actually saw,
+not a hyper-vivid version. This is especially important for old master paintings
+where accurate color is part of the artwork’s character.</p>
+</div></blockquote>
+<blockquote>
+<div><p><strong>Tip — Use the SIRUI 35mm f/1.4 for gallery rooms, Viltrox 85mm f/2.0 for painting details.</strong>
+At the Louvre, galleries are often dim — f/1.4 keeps ISO low and images clean.
+For close-ups of specific paintings (brushwork, face details in a portrait),
+swap to the Viltrox 85mm. Remove the Black Mist filter — you want maximum sharpness
+to capture artwork detail.</p>
+</div></blockquote>
+<blockquote>
+<div><p><strong>Tip — Shoot RAW+JPEG in museums.</strong> Museums are the one scenario where
+post-processing in Lightroom is most valuable — you can correct white balance
+(notoriously tricky under mixed museum lighting) and recover highlight/shadow detail
+that in-camera processing may clip. The JPEG gives you an instant “good enough” result;
+the RAW is your insurance for special paintings worth editing.</p>
+</div></blockquote>
+<hr class="docutils" />
+</section>
+</section>
+<section id="three-ready-to-use-preset-plans-for-your-a7c-ii">
+<span id="three-preset-plans-for-sony-a7c2"></span><h2><a class="toc-backref" href="#id22" role="doc-backlink"><strong>2. Three Ready-to-Use Preset Plans for Your A7C II</strong></a><a class="headerlink" href="#three-ready-to-use-preset-plans-for-your-a7c-ii" title="Link to this heading">#</a></h2>
+<p>The A7C II allows you to store multiple Creative Look configurations.
+Here are three pre-built presets you can save and recall instantly,
+covering your three most common scenarios.</p>
+<blockquote>
+<div><p>💡 <strong>How to save:</strong> Dial in the settings below under Creative Look fine-tuning,
+then register to a <strong>Custom Shooting Set</strong> (Menu → Shooting → Shooting Mode →
+MR Memory Recall / M1-M4). Assign each to a memory slot for instant recall.</p>
+</div></blockquote>
+<section id="preset-1-portrait-warm-fl-based">
+<span id="preset-1-portrait-warm"></span><h3><a class="toc-backref" href="#id23" role="doc-backlink">Preset 1: “Portrait Warm” — FL-Based</a><a class="headerlink" href="#preset-1-portrait-warm-fl-based" title="Link to this heading">#</a></h3>
+<p><strong>Use for:</strong> Portraits, friend/family photos, cosplayer shoots, indoor casual shots.</p>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Parameter</p></th>
+<th class="head"><p>Value</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p><strong>Base Look</strong></p></td>
+<td><p><strong>FL</strong></p></td>
+</tr>
+<tr class="row-odd"><td><p>Contrast</p></td>
+<td><p><strong>−2</strong></p></td>
+</tr>
+<tr class="row-even"><td><p>Highlights</p></td>
+<td><p><strong>−1</strong></p></td>
+</tr>
+<tr class="row-odd"><td><p>Shadows</p></td>
+<td><p><strong>+1</strong></p></td>
+</tr>
+<tr class="row-even"><td><p>Fade</p></td>
+<td><p><strong>1</strong></p></td>
+</tr>
+<tr class="row-odd"><td><p>Saturation</p></td>
+<td><p><strong>−1</strong></p></td>
+</tr>
+<tr class="row-even"><td><p>Sharpness</p></td>
+<td><p><strong>0</strong></p></td>
+</tr>
+<tr class="row-odd"><td><p>Sharpness Range</p></td>
+<td><p><strong>0</strong></p></td>
+</tr>
+<tr class="row-even"><td><p>Clarity</p></td>
+<td><p><strong>0</strong></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><strong>Character:</strong> Warm, soft, flattering. Skin tones glow without being orange.
+Shadows are lifted for an airy feel. Micro-contrast is reduced for smooth skin rendering.</p>
+<p><strong>Pair with:</strong> Viltrox 85mm f/2.0 Evo + 1/4 Black Mist (outdoor portraits),
+SIRUI 35mm f/1.4 (indoor/environmental portraits).</p>
+<p><strong>White Balance for this preset:</strong></p>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Condition</p></th>
+<th class="head"><p>WB Mode</p></th>
+<th class="head"><p>Kelvin</p></th>
+<th class="head"><p>WB Shift</p></th>
+<th class="head"><p>Notes</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p><strong>Outdoor daylight</strong></p></td>
+<td><p>Daylight</p></td>
+<td><p>5600K</p></td>
+<td><p>A+1</p></td>
+<td><p>Preserves golden-hour warmth; flatters skin</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Indoor (home, restaurant)</strong></p></td>
+<td><p>Custom K</p></td>
+<td><p>4000-4500K</p></td>
+<td><p>A+1 to A+2</p></td>
+<td><p>Stable under mixed LED/tungsten</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Cosplayer / street</strong></p></td>
+<td><p>AWB</p></td>
+<td><p>—</p></td>
+<td><p>A+1</p></td>
+<td><p>Fast-changing light; amber shift keeps skin warm</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+</section>
+<section id="preset-2-city-vivid-in-based">
+<span id="preset-2-city-vivid"></span><h3><a class="toc-backref" href="#id24" role="doc-backlink">Preset 2: “City Vivid” — IN-Based</a><a class="headerlink" href="#preset-2-city-vivid-in-based" title="Link to this heading">#</a></h3>
+<p><strong>Use for:</strong> Daytime cityscapes, street photography, architecture, markets, travel snapshots.</p>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Parameter</p></th>
+<th class="head"><p>Value</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p><strong>Base Look</strong></p></td>
+<td><p><strong>IN</strong></p></td>
+</tr>
+<tr class="row-odd"><td><p>Contrast</p></td>
+<td><p><strong>+1</strong></p></td>
+</tr>
+<tr class="row-even"><td><p>Highlights</p></td>
+<td><p><strong>−2</strong></p></td>
+</tr>
+<tr class="row-odd"><td><p>Shadows</p></td>
+<td><p><strong>+1</strong></p></td>
+</tr>
+<tr class="row-even"><td><p>Fade</p></td>
+<td><p><strong>0</strong></p></td>
+</tr>
+<tr class="row-odd"><td><p>Saturation</p></td>
+<td><p><strong>+1</strong></p></td>
+</tr>
+<tr class="row-even"><td><p>Sharpness</p></td>
+<td><p><strong>1</strong></p></td>
+</tr>
+<tr class="row-odd"><td><p>Sharpness Range</p></td>
+<td><p><strong>1</strong></p></td>
+</tr>
+<tr class="row-even"><td><p>Clarity</p></td>
+<td><p><strong>2</strong></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><strong>Character:</strong> Punchy, vivid, sharp. Architecture pops, signage is crisp,
+sky colors are deep. The pulled highlights protect bright facades and sky.</p>
+<p><strong>Pair with:</strong> Sigma 20-200mm (daytime sightseeing — your one-lens solution).</p>
+<p><strong>White Balance for this preset:</strong></p>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Condition</p></th>
+<th class="head"><p>WB Mode</p></th>
+<th class="head"><p>Kelvin</p></th>
+<th class="head"><p>WB Shift</p></th>
+<th class="head"><p>Notes</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p><strong>Sunny day</strong></p></td>
+<td><p>AWB or Daylight</p></td>
+<td><p>— / 5600K</p></td>
+<td><p>None</p></td>
+<td><p>Consistent outdoor light; let the Creative Look set the mood</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Overcast / flat light</strong></p></td>
+<td><p>Cloudy</p></td>
+<td><p>6000K</p></td>
+<td><p>None</p></td>
+<td><p>Adds slight warmth to prevent clinical grey tones</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Night city walk</strong></p></td>
+<td><p>Custom K</p></td>
+<td><p>3500-4200K</p></td>
+<td><p>M+1</p></td>
+<td><p>Lock K for consistent neon/street-light rendering; magenta counters green cast</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+</section>
+<section id="preset-3-landscape-bold-in-based">
+<span id="preset-3-landscape-bold"></span><h3><a class="toc-backref" href="#id25" role="doc-backlink">Preset 3: “Landscape Bold” — IN-Based</a><a class="headerlink" href="#preset-3-landscape-bold-in-based" title="Link to this heading">#</a></h3>
+<p><strong>Use for:</strong> Nature landscapes, scenic viewpoints, parks, gardens, hiking.</p>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Parameter</p></th>
+<th class="head"><p>Value</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p><strong>Base Look</strong></p></td>
+<td><p><strong>IN</strong></p></td>
+</tr>
+<tr class="row-odd"><td><p>Contrast</p></td>
+<td><p><strong>+2</strong></p></td>
+</tr>
+<tr class="row-even"><td><p>Highlights</p></td>
+<td><p><strong>−3</strong></p></td>
+</tr>
+<tr class="row-odd"><td><p>Shadows</p></td>
+<td><p><strong>+2</strong></p></td>
+</tr>
+<tr class="row-even"><td><p>Fade</p></td>
+<td><p><strong>0</strong></p></td>
+</tr>
+<tr class="row-odd"><td><p>Saturation</p></td>
+<td><p><strong>+2</strong></p></td>
+</tr>
+<tr class="row-even"><td><p>Sharpness</p></td>
+<td><p><strong>2</strong></p></td>
+</tr>
+<tr class="row-odd"><td><p>Sharpness Range</p></td>
+<td><p><strong>1</strong></p></td>
+</tr>
+<tr class="row-even"><td><p>Clarity</p></td>
+<td><p><strong>3</strong></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><strong>Character:</strong> Bold, dramatic, high-impact. Maximum texture and color depth.
+Cloud detail is preserved while shadows reveal forest and valley detail.
+This is the “postcard” preset — scenes look stunning straight out of camera.</p>
+<p><strong>Pair with:</strong> Sigma 20-200mm + CPL filter (daytime landscapes).</p>
+<p><strong>White Balance for this preset:</strong></p>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Condition</p></th>
+<th class="head"><p>WB Mode</p></th>
+<th class="head"><p>Kelvin</p></th>
+<th class="head"><p>WB Shift</p></th>
+<th class="head"><p>Notes</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p><strong>Sunny day</strong></p></td>
+<td><p>Daylight</p></td>
+<td><p>5600K</p></td>
+<td><p>None</p></td>
+<td><p>Preserves warm sunlight quality on foliage and earth</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Golden hour</strong></p></td>
+<td><p>Daylight or Shade</p></td>
+<td><p>5600-7000K</p></td>
+<td><p>A+1</p></td>
+<td><p>Shade adds extra warmth for dramatic golden light</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Overcast / shade</strong></p></td>
+<td><p>Shade or Cloudy</p></td>
+<td><p>6000-7000K</p></td>
+<td><p>None</p></td>
+<td><p>Counteracts blue cast in open shade</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Autumn foliage</strong></p></td>
+<td><p>Daylight</p></td>
+<td><p>5600K</p></td>
+<td><p>A+1</p></td>
+<td><p>Emphasizes reds and oranges in fall colors</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Snow / winter</strong></p></td>
+<td><p>Daylight</p></td>
+<td><p>5600K</p></td>
+<td><p>B+1</p></td>
+<td><p>Blue shift keeps snow cool/white, not warm/yellow</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<blockquote>
+<div><p>⚠️ <strong>Note on Landscape Bold:</strong> This is an aggressive preset.
+On overcast days with flat light, the high Contrast and Clarity settings
+will add welcome drama. On very bright sunny days,
+the Saturation +2 may push colors too far — dial back to +1
+or switch to City Vivid, which is more moderate.</p>
+</div></blockquote>
+</section>
+<section id="bonus-preset-petrof-indoor-fl-based-field-validated">
+<span id="preset-piano-petrof"></span><h3><a class="toc-backref" href="#id26" role="doc-backlink">Bonus Preset: “Petrof Indoor” — FL-Based (Field-Validated)</a><a class="headerlink" href="#bonus-preset-petrof-indoor-fl-based-field-validated" title="Link to this heading">#</a></h3>
+<p><strong>Use for:</strong> Piano performance recording, indoor family life, warm-light home scenes.</p>
+<p>This preset was validated through real-world testing: photographing piano practice
+at home with warm wood floors, a black Petrof piano, white sheet music, and mixed indoor lighting.
+The name comes from the observation that the resulting color palette
+resembles the Petrof piano’s sound character — warm, woody, with a thick midrange
+that isn’t overly bright or analytical.</p>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Parameter</p></th>
+<th class="head"><p>Value</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p><strong>Base Look</strong></p></td>
+<td><p><strong>FL</strong></p></td>
+</tr>
+<tr class="row-odd"><td><p>Contrast</p></td>
+<td><p><strong>−1</strong></p></td>
+</tr>
+<tr class="row-even"><td><p>Highlights</p></td>
+<td><p><strong>−2</strong></p></td>
+</tr>
+<tr class="row-odd"><td><p>Shadows</p></td>
+<td><p><strong>+1</strong></p></td>
+</tr>
+<tr class="row-even"><td><p>Fade</p></td>
+<td><p><strong>1</strong></p></td>
+</tr>
+<tr class="row-odd"><td><p>Saturation</p></td>
+<td><p><strong>−1</strong></p></td>
+</tr>
+<tr class="row-even"><td><p>Sharpness</p></td>
+<td><p><strong>1</strong></p></td>
+</tr>
+<tr class="row-odd"><td><p>Sharpness Range</p></td>
+<td><p><strong>1</strong></p></td>
+</tr>
+<tr class="row-even"><td><p>Clarity</p></td>
+<td><p><strong>1</strong></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><strong>White Balance:</strong> AWB, <strong>WB Shift: A+2 / M+1</strong></p>
+<p><strong>Exposure:</strong> +0.3 EV (brightens faces under indoor lighting)</p>
+<p><strong>Why these values (not a copy of one specific photo):</strong></p>
+<ul class="simple">
+<li><p><strong>Contrast −1</strong> (not −2): Indoor lighting is inherently lower-contrast than outdoor.
+Pulling too far negative makes the image look flat and lifeless under warm lamps.
+−1 gently tames FL’s default punch while keeping indoor surfaces (wood grain, piano lacquer)
+visually separable. For extreme black-piano-vs-white-sheet-music scenes, you can push to −2.</p></li>
+<li><p><strong>Highlights −2</strong> (not −3): Indoor highlights (lamps, white walls, sheet music)
+are less intense than outdoor sky/sun. −2 provides solid protection without dampening
+the overall luminosity that makes indoor scenes feel warm and inviting.
+−3 is only needed if you have direct window light flooding the frame.</p></li>
+<li><p><strong>Shadows +1</strong>: Indoor rooms always have darker corners, under-furniture shadows,
+and shadowed faces from overhead lighting. +1 reveals enough detail
+to keep the room feeling “lived in” rather than cave-like.</p></li>
+<li><p><strong>Fade 1</strong>: Prevents truly crushed blacks on dark furniture, piano bodies,
+and shadowed walls. Adds to the filmic warmth without making the image look washed out.</p></li>
+<li><p><strong>Saturation −1</strong>: FL’s desaturated-shadow character already provides mood.
+Pulling back by 1 prevents indoor warm-light from making skin tones too orange
+or wood tones too saturated under tungsten/LED mix.</p></li>
+<li><p><strong>Sharpness 1 / Sharpness Range 1</strong>: Mild sharpening preserves important detail
+(piano keys, hands, sheet music notation, book spines) without the clinical edge
+that makes indoor photos look like product shots. If the scene includes close-up faces,
+you can drop to 0 for softer skin.</p></li>
+<li><p><strong>Clarity 1</strong>: A touch of midtone contrast gives indoor surfaces some dimensionality
+(wood grain, fabric texture, piano lacquer depth) without the “over-processed” harshness
+that high Clarity creates under artificial lighting.</p></li>
+</ul>
+<p><strong>Character:</strong> Warm, woody, intimate. FL’s film-like tonal foundation gives the scene
+a nostalgic depth that feels like an evening practice session, not a clinical recording.
+Wood tones and skin tones harmonize naturally. The black piano surface retains
+subtle warmth rather than becoming a dead black void.</p>
+<p><strong>Pair with:</strong> SIRUI 35mm f/1.4 (captures pianist + part of piano naturally at f/1.4-f/2.0;
+bokeh on room background adds a “living room concert” intimacy).</p>
+<blockquote>
+<div><p>💡 <strong>Why FL works here despite being an “outdoor” look:</strong>
+FL’s known weakness is its blue-green bias and aggressive contrast —
+but that’s the <em>default</em> FL. With Contrast −1 and Highlights −2,
+the stiff character is tamed. What remains is FL’s core strength:
+its desaturated-shadow / warm-highlight tonal rendering,
+which translates beautifully to indoor scenes with warm wood and warm lighting.
+The WB Shift A+2 / M+1 finishes the job by steering FL away from its green tendency
+and into the warm-amber zone that makes indoor life photos glow.</p>
+<p>A neutral base like IN would also work here, but FL’s inherent film character
+adds a layer of mood that IN — steady and forgiving as it is — simply doesn’t have.
+In field testing, the FL version produced noticeably more emotional depth
+than IN with identical scene and lighting — FL’s tonal curves add weight
+to scenes that already have natural warmth. IN renders them accurately but flatly.</p>
+</div></blockquote>
+<blockquote>
+<div><p><strong>Tip — This preset also works for:</strong> reading in bed, family dinner tables,
+child playing in the living room, any warm-lit indoor home moment.
+The key is the WB Shift A+2 / M+1 — this steers the entire palette
+into a warm, lived-in register that makes indoor life photos look
+like how the room <em>feels</em>, not how the sensor <em>measured</em> it.</p>
+</div></blockquote>
+</section>
+<section id="side-by-side-comparison">
+<span id="preset-comparison-table"></span><h3><a class="toc-backref" href="#id27" role="doc-backlink">Side-by-Side Comparison</a><a class="headerlink" href="#side-by-side-comparison" title="Link to this heading">#</a></h3>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Parameter</p></th>
+<th class="head"><p>Portrait Warm (FL)</p></th>
+<th class="head"><p>City Vivid (IN)</p></th>
+<th class="head"><p>Landscape Bold (IN)</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Contrast</p></td>
+<td><p>−2</p></td>
+<td><p>+1</p></td>
+<td><p>+2</p></td>
+</tr>
+<tr class="row-odd"><td><p>Highlights</p></td>
+<td><p>−1</p></td>
+<td><p>−2</p></td>
+<td><p>−3</p></td>
+</tr>
+<tr class="row-even"><td><p>Shadows</p></td>
+<td><p>+1</p></td>
+<td><p>+1</p></td>
+<td><p>+2</p></td>
+</tr>
+<tr class="row-odd"><td><p>Fade</p></td>
+<td><p>1</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+</tr>
+<tr class="row-even"><td><p>Saturation</p></td>
+<td><p>−1</p></td>
+<td><p>+1</p></td>
+<td><p>+2</p></td>
+</tr>
+<tr class="row-odd"><td><p>Sharpness</p></td>
+<td><p>0</p></td>
+<td><p>1</p></td>
+<td><p>2</p></td>
+</tr>
+<tr class="row-even"><td><p>Sharpness Range</p></td>
+<td><p>0</p></td>
+<td><p>1</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="row-odd"><td><p>Clarity</p></td>
+<td><p>0</p></td>
+<td><p>2</p></td>
+<td><p>3</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>WB Mode</strong></p></td>
+<td><p>Daylight / Custom K</p></td>
+<td><p>AWB / Cloudy</p></td>
+<td><p>Daylight / Shade</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>WB Shift</strong></p></td>
+<td><p>A+1 to A+2</p></td>
+<td><p>None / M+1 night</p></td>
+<td><p>None / A+1 autumn</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+</section>
+<section id="habits-that-matter-more-than-parameters">
+<span id="practical-shooting-habits"></span><h3><a class="toc-backref" href="#id28" role="doc-backlink">Habits That Matter More Than Parameters</a><a class="headerlink" href="#habits-that-matter-more-than-parameters" title="Link to this heading">#</a></h3>
+<p>The notes from real-world testing and community experience reveal that
+these shooting habits have a bigger impact on SOOC quality than any parameter tweak:</p>
+<p><strong>1. Slight underexposure protects Sony JPEG quality</strong></p>
+<p>Sony JPEGs look their worst when highlights blow out — skin becomes waxy,
+skies turn to white voids, and the image screams “digital.”
+A small exposure compensation prevents this:</p>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Scenario</p></th>
+<th class="head"><p>Exposure Compensation</p></th>
+<th class="head"><p>Why</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p><strong>Daytime street / sightseeing</strong></p></td>
+<td><p><strong>−0.3 EV</strong></p></td>
+<td><p>Protects sky, white walls, and car reflections</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Night city / neon</strong></p></td>
+<td><p><strong>−0.7 EV</strong></p></td>
+<td><p>Prevents neon signs and LED billboards from blowing out</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Portrait — backlit / overcast</strong></p></td>
+<td><p><strong>+0.3 EV</strong></p></td>
+<td><p>Brightens faces that would otherwise go dark</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Portrait — direct sun</strong></p></td>
+<td><p><strong>0 EV or −0.3 EV</strong></p></td>
+<td><p>Prevents skin highlights from clipping</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Snow / glacier / bright water</strong></p></td>
+<td><p><strong>−0.7 EV</strong></p></td>
+<td><p>Extreme reflections need more protection</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<blockquote>
+<div><p>💡 <strong>The principle:</strong> Shadows can be recovered in post (and your presets already lift them).
+Blown highlights are gone forever in JPEG. When in doubt, protect the highlights.</p>
+</div></blockquote>
+<p><strong>2. White balance <em>direction</em> matters more than saturation <em>intensity</em></strong></p>
+<p>A common beginner mistake is reaching for Saturation +3 to make colors “better.”
+In practice, adjusting WB Shift by even 1 step has a more natural, impactful effect:</p>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>If you want…</p></th>
+<th class="head"><p>Don’t do this</p></th>
+<th class="head"><p>Do this instead</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Warmer, more inviting skin</p></td>
+<td><p>Saturation +2</p></td>
+<td><p>WB Shift A+1 / M+1</p></td>
+</tr>
+<tr class="row-odd"><td><p>Cooler, moodier street feel</p></td>
+<td><p>Saturation −2</p></td>
+<td><p>WB Shift B+1 / G+1</p></td>
+</tr>
+<tr class="row-even"><td><p>Warm golden-hour emphasis</p></td>
+<td><p>Saturation +2</p></td>
+<td><p>WB Shift A+2 / M+1</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<blockquote>
+<div><p><strong>Why:</strong> Saturation boosts <em>all</em> colors equally, making everything louder.
+WB Shift changes the <em>direction</em> of color — steering the entire palette warmer/cooler
+or toward magenta/green. Direction change looks natural; intensity change looks filtered.
+Sony’s common complaint of looking “greenish and cold” is a WB <em>direction</em> problem,
+not a saturation problem — A+1 / M+1 fixes it without touching Saturation at all.</p>
+</div></blockquote>
+<p><strong>3. Start conservative, iterate after real shooting</strong></p>
+<p>Don’t try to perfect your presets before taking a single photo.
+The most effective workflow:</p>
+<ol class="arabic simple">
+<li><p>Load the presets above into your camera (M1/M2/M3)</p></li>
+<li><p>Shoot for <strong>at least two weeks</strong> across different conditions (sun, cloud, indoor, night)</p></li>
+<li><p>Review your JPEGs and notice patterns:</p>
+<ul class="simple">
+<li><p>“Portraits still feel a bit cold” → increase WB Shift from A+1 to A+2</p></li>
+<li><p>“Cityscapes still feel too hard” → reduce Clarity by 1 more step</p></li>
+<li><p>“Landscapes aren’t punchy enough” → increase Contrast from +1 to +2</p></li>
+</ul>
+</li>
+<li><p>Adjust <strong>one parameter at a time</strong> and shoot another round</p></li>
+</ol>
+<blockquote>
+<div><p>This iterative approach is more reliable than trying to design the “perfect” preset
+in your head. The presets above are already good starting points —
+real-world refinement makes them <em>yours</em>.</p>
+</div></blockquote>
+<hr class="docutils" />
+</section>
+</section>
+<section id="post-processing-basics-adobe-lightroom-classic-photoshop">
+<span id="post-processing-basics-lightroom-photoshop"></span><h2><a class="toc-backref" href="#id29" role="doc-backlink"><strong>3. Post-Processing Basics: Adobe Lightroom Classic &amp; Photoshop</strong></a><a class="headerlink" href="#post-processing-basics-adobe-lightroom-classic-photoshop" title="Link to this heading">#</a></h2>
+<p>For most photos, your in-camera Creative Looks are sufficient.
+But for special shots — a stunning sunset, a perfectly lit museum painting,
+a portrait you want to print — knowing basic post-processing
+lets you take a good photo and make it great.</p>
+<blockquote>
+<div><p>💡 <strong>Workflow principle:</strong> Shoot <strong>RAW+JPEG</strong> when you think a scene is worth editing later.
+Use the JPEG as your “instant result” and the RAW as your editing source.
+For everyday snapshots, JPEG-only with Creative Looks is perfectly fine.</p>
+</div></blockquote>
+<section id="lightroom-classic-your-primary-editing-tool">
+<span id="lightroom-classic-essentials"></span><h3><a class="toc-backref" href="#id30" role="doc-backlink">3.1 Lightroom Classic — Your Primary Editing Tool</a><a class="headerlink" href="#lightroom-classic-your-primary-editing-tool" title="Link to this heading">#</a></h3>
+<p>Lightroom Classic is where you should do <strong>95% of your editing</strong>.
+It’s non-destructive (original files are never modified),
+has powerful batch processing, and its Develop module maps closely
+to the same parameters you already understand from Creative Looks.</p>
+<p><strong>The Develop Module — Six Adjustments That Cover 90% of Edits:</strong></p>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Lightroom Slider</p></th>
+<th class="head"><p>What It Does</p></th>
+<th class="head"><p>Equivalent Creative Look Parameter</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p><strong>Exposure</strong></p></td>
+<td><p>Overall brightness</p></td>
+<td><p>(no direct equivalent — global lift/cut)</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Contrast</strong></p></td>
+<td><p>Tonal separation</p></td>
+<td><p>Contrast</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Highlights</strong></p></td>
+<td><p>Bright area recovery</p></td>
+<td><p>Highlights</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Shadows</strong></p></td>
+<td><p>Dark area recovery</p></td>
+<td><p>Shadows</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Vibrance</strong></p></td>
+<td><p>Smart saturation (protects skin tones)</p></td>
+<td><p>Saturation (but smarter)</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Clarity</strong></p></td>
+<td><p>Mid-tone contrast / micro-detail</p></td>
+<td><p>Clarity</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<blockquote>
+<div><p><strong>Tip — Vibrance vs Saturation in Lightroom:</strong>
+Always use <strong>Vibrance</strong> instead of Saturation for general color boosting.
+Vibrance selectively boosts muted colors while protecting already-saturated tones
+and skin tones — it’s the “smart” version of saturation.
+Reserve the Saturation slider for deliberate, heavy-handed color effects.</p>
+</div></blockquote>
+<p><strong>Basic Editing Workflow (5-minute edit):</strong></p>
+<ol class="arabic simple">
+<li><p><strong>Import RAW files</strong> into Lightroom Classic (File → Import)</p></li>
+<li><p><strong>Auto tone</strong> (click “Auto” in the Basic panel) — surprisingly good starting point</p></li>
+<li><p><strong>Fine-tune Highlights</strong> (usually pull negative to recover bright areas)</p></li>
+<li><p><strong>Fine-tune Shadows</strong> (usually push positive to reveal detail)</p></li>
+<li><p><strong>Add Vibrance</strong> (+10 to +25 for landscape punch, 0 to +10 for portraits)</p></li>
+<li><p><strong>Adjust White Balance</strong> if colors look off (see <a class="reference internal" href="#white-balance-fine-tuning">Section 4</a>)</p></li>
+<li><p><strong>Crop</strong> if needed (shortcut: R)</p></li>
+<li><p><strong>Export</strong> (File → Export → JPEG, quality 85-95%, long edge 4000px for sharing)</p></li>
+</ol>
+<p><strong>Batch Editing — Your Efficiency Superpower:</strong></p>
+<p>The biggest advantage of Lightroom for a casual photographer:
+edit one photo, then apply the same adjustments to dozens of similar photos in one click.</p>
+<ol class="arabic simple">
+<li><p>Edit one photo from a set (e.g., one museum gallery shot)</p></li>
+<li><p>Select all similar photos in the filmstrip</p></li>
+<li><p>Click <strong>Sync Settings</strong> (or Ctrl+Shift+S)</p></li>
+<li><p>Choose which adjustments to apply → Synchronize</p></li>
+<li><p>Fine-tune individual outliers if needed</p></li>
+</ol>
+<blockquote>
+<div><p><strong>Tip — Create Lightroom Presets that mirror your camera presets.</strong>
+Build a “Portrait Warm,” “City Vivid,” and “Landscape Bold” preset in Lightroom
+that mimics your in-camera Creative Look settings. Apply them on import
+as a starting point, so your RAW files immediately look like your JPEGs —
+then fine-tune from there.</p>
+</div></blockquote>
+</section>
+<section id="adobe-photoshop-when-to-use-it">
+<span id="photoshop-when-to-use"></span><h3><a class="toc-backref" href="#id31" role="doc-backlink">3.2 Adobe Photoshop — When to Use It</a><a class="headerlink" href="#adobe-photoshop-when-to-use-it" title="Link to this heading">#</a></h3>
+<p>Photoshop is overkill for 95% of photo editing. Use it <strong>only</strong> for tasks
+Lightroom can’t do:</p>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Task</p></th>
+<th class="head"><p>Use Photoshop?</p></th>
+<th class="head"><p>Why</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Color/exposure adjustment</p></td>
+<td><p>❌ Use Lightroom</p></td>
+<td><p>Lightroom is faster and non-destructive</p></td>
+</tr>
+<tr class="row-odd"><td><p>Batch processing</p></td>
+<td><p>❌ Use Lightroom</p></td>
+<td><p>Lightroom handles hundreds of photos; Photoshop is one-at-a-time</p></td>
+</tr>
+<tr class="row-even"><td><p>Remove distracting objects</p></td>
+<td><p>✅ Photoshop</p></td>
+<td><p>Content-Aware Fill / Generative Fill is superior</p></td>
+</tr>
+<tr class="row-odd"><td><p>Complex compositing</p></td>
+<td><p>✅ Photoshop</p></td>
+<td><p>Layers, masks, blending modes</p></td>
+</tr>
+<tr class="row-even"><td><p>Deep skin retouching</p></td>
+<td><p>✅ Photoshop</p></td>
+<td><p>Frequency separation, dodge &amp; burn</p></td>
+</tr>
+<tr class="row-odd"><td><p>Text/graphic overlays</p></td>
+<td><p>✅ Photoshop</p></td>
+<td><p>Add watermarks, titles, or graphics to photos</p></td>
+</tr>
+<tr class="row-even"><td><p>Sky replacement</p></td>
+<td><p>✅ Photoshop</p></td>
+<td><p>AI-powered sky replacement (Select → Sky)</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><strong>Practical Photoshop uses for your style:</strong></p>
+<ul class="simple">
+<li><p><strong>Remove tourists from museum shots:</strong> Photoshop’s Generative Fill can erase
+people blocking your view of a painting or sculpture. Shoot 3-5 frames,
+then use Photoshop to combine them or use Content-Aware Fill on a single frame.</p></li>
+<li><p><strong>Clean up distractions:</strong> Wires, trash cans, signs that ruin a landscape composition.</p></li>
+<li><p><strong>Sky replacement for travel photos:</strong> If that one perfect cityscape has a blown-out white sky,
+Photoshop’s sky replacement can add a dramatic cloud layer.</p></li>
+</ul>
+<blockquote>
+<div><p><strong>Workflow tip:</strong> Edit in Lightroom first (global adjustments), then “Edit in Photoshop”
+(right-click → Edit In → Adobe Photoshop) for pixel-level fixes.
+Photoshop saves back into your Lightroom catalog automatically.</p>
+</div></blockquote>
+<hr class="docutils" />
+</section>
+</section>
+<section id="white-balance-fine-tuning">
+<span id="id3"></span><h2><a class="toc-backref" href="#id32" role="doc-backlink"><strong>4. White Balance Fine-Tuning</strong></a><a class="headerlink" href="#white-balance-fine-tuning" title="Link to this heading">#</a></h2>
+<p>White balance (WB) is the single most impactful color setting —
+the wrong WB makes everything look too blue (cold) or too orange (warm),
+and no amount of Creative Look fine-tuning can fix a bad WB foundation.</p>
+<blockquote>
+<div><p>💡 <strong>From real-world testing: Sony’s most common color problem is not saturation, but WB direction.</strong>
+The A7C II default rendering often leans slightly green and cool,
+especially under mixed or artificial lighting. This is why many Sony users find
+their photos look “clinical” or “cold” even with warm Creative Looks like FL.
+A simple <strong>WB Shift of A+1 / M+1</strong> (amber + magenta) often fixes 80% of Sony’s
+color complaints without touching Saturation at all.</p>
+</div></blockquote>
+<section id="how-the-a7c-ii-handles-white-balance">
+<span id="wb-how-sony-a7c2-handles-it"></span><h3><a class="toc-backref" href="#id33" role="doc-backlink">4.1 How the A7C II Handles White Balance</a><a class="headerlink" href="#how-the-a7c-ii-handles-white-balance" title="Link to this heading">#</a></h3>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>WB Mode</p></th>
+<th class="head"><p>Kelvin Range</p></th>
+<th class="head"><p>Best For</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p><strong>AWB (Auto)</strong></p></td>
+<td><p>Camera decides</p></td>
+<td><p>General shooting, changing conditions</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Daylight</strong></p></td>
+<td><p>~5600K</p></td>
+<td><p>Outdoor sun, preserves warm golden-hour tones</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Shade</strong></p></td>
+<td><p>~7000K</p></td>
+<td><p>Open shade (adds warmth to counteract blue shade light)</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Cloudy</strong></p></td>
+<td><p>~6000K</p></td>
+<td><p>Overcast days (slight warming)</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Incandescent</strong></p></td>
+<td><p>~3200K</p></td>
+<td><p>Warm tungsten/filament indoor lighting</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Fluorescent</strong></p></td>
+<td><p>~4000K</p></td>
+<td><p>Office/commercial fluorescent lights</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Flash</strong></p></td>
+<td><p>~5500K</p></td>
+<td><p>Fill flash photography</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Custom K</strong></p></td>
+<td><p>2500-9900K</p></td>
+<td><p>Manual Kelvin — full control</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Custom WB</strong></p></td>
+<td><p>Measured</p></td>
+<td><p>Gray card / white reference — most accurate</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+</section>
+<section id="white-balance-by-use-case">
+<span id="wb-use-case-recommendations"></span><h3><a class="toc-backref" href="#id34" role="doc-backlink">4.2 White Balance by Use Case</a><a class="headerlink" href="#white-balance-by-use-case" title="Link to this heading">#</a></h3>
+<p><strong>Portraits:</strong></p>
+<ul class="simple">
+<li><p><strong>Outdoor daylight:</strong> AWB is reliable. For golden-hour portraits,
+switch to <strong>Daylight (5600K)</strong> to preserve the warm tones —
+AWB often “corrects” golden hour and removes the warmth you want.</p></li>
+<li><p><strong>Indoor (home, restaurants):</strong> <strong>Custom K at 4000-4500K</strong> for mixed LED/tungsten environments.
+AWB tends to oscillate between warm and cool under mixed indoor lighting.</p></li>
+<li><p><strong>Fine-tune:</strong> Add <strong>A+1 to A+2</strong> (Amber shift) on the A7C II’s WB fine-tuning screen
+(Menu → Exposure/Color → White Balance → WB Shift). This adds a subtle warm bias
+that flatters skin in all lighting conditions.</p></li>
+</ul>
+<p><strong>Cityscapes — Daytime:</strong></p>
+<ul class="simple">
+<li><p><strong>AWB</strong> works well in consistent outdoor light.</p></li>
+<li><p><strong>Overcast days:</strong> Switch to <strong>Cloudy (6000K)</strong> to add slight warmth —
+otherwise AWB makes overcast city shots look clinical and grey.</p></li>
+<li><p><strong>Fine-tune:</strong> Neutral — no shift needed.
+Let the Creative Look handle the mood, not the WB.</p></li>
+</ul>
+<p><strong>Cityscapes — Night:</strong></p>
+<ul class="simple">
+<li><p><strong>Custom K at 3500-4200K</strong> depending on dominant light source.
+Night city lighting is the most challenging WB scenario:
+neon signs, sodium street lamps, LED billboards, and tungsten shop windows
+all coexist at wildly different color temperatures.</p></li>
+<li><p><strong>Do NOT use AWB at night.</strong> AWB shifts between frames as you point at different light sources,
+creating inconsistent colors across your night photo series.</p></li>
+<li><p><strong>Strategy:</strong> Set a Custom K at the start of your night walk and leave it.
+~3800K is a good starting point for Asian night markets;
+~4200K for European city streets with more LED/cool lighting.</p></li>
+<li><p><strong>Fine-tune:</strong> Add <strong>M+1</strong> (Magenta shift) to counteract the green cast
+from sodium/fluorescent street lighting.</p></li>
+</ul>
+<p><strong>Nature Landscapes:</strong></p>
+<ul class="simple">
+<li><p><strong>Daylight (5600K)</strong> for sunny conditions — preserves the warm quality of direct sunlight.</p></li>
+<li><p><strong>Shade (7000K)</strong> when the landscape is in open shade or when you want extra warmth in golden hour.</p></li>
+<li><p><strong>AWB</strong> is acceptable here — outdoor natural light is the easiest WB scenario.</p></li>
+<li><p><strong>Fine-tune:</strong> For autumn foliage, add <strong>A+1</strong> to emphasize warm tones.
+For snowy landscapes, switch to <strong>Daylight</strong> and add <strong>B+1</strong> (Blue shift)
+to keep snow looking cool/white rather than warm/yellow.</p></li>
+</ul>
+<p><strong>Piano Recording at Home:</strong></p>
+<ul class="simple">
+<li><p>⚠️ <strong>Never use AWB for video.</strong> AWB shifts during recording = color drift mid-performance.</p></li>
+<li><p><strong>Custom White Balance is ideal:</strong> Hold a white card or piece of paper
+under your room’s lighting, then Menu → Exposure/Color → White Balance →
+Custom Setup → capture reference. This gives the most accurate result.</p></li>
+<li><p><strong>Alternative:</strong> Set <strong>Custom K</strong> to match your room lighting:</p>
+<ul>
+<li><p>LED ceiling light: ~4500-5500K</p></li>
+<li><p>Warm lamp (tungsten/filament bulb): ~2800-3200K</p></li>
+<li><p>Mixed: ~3800-4200K (compromise)</p></li>
+</ul>
+</li>
+<li><p><strong>Fine-tune:</strong> For a warmer, cozier “concert” feel, add <strong>A+1 to A+2</strong>
+after setting the correct base K value. This intentional warm shift
+adds cinematic character while the correct base K prevents skin from going orange.</p></li>
+</ul>
+<p><strong>Museums (Classical Artworks):</strong></p>
+<ul class="simple">
+<li><p><strong>Custom K at 3200-3800K</strong> for traditional museums with warm tungsten spot-lighting
+(Louvre galleries, most old European museums fall in this range).</p></li>
+<li><p><strong>Custom K at 4500-5000K</strong> for modern museum wings with LED lighting.</p></li>
+<li><p><strong>AWB is risky in museums:</strong> Gallery-to-gallery lighting changes dramatically
+(warm spotlights on paintings vs. cool LED hallways), causing color inconsistency.</p></li>
+<li><p><strong>Best practice:</strong> Set Custom K as you enter each gallery and take a test shot.
+If the painting whites look neutral on the rear screen, you’re close enough.
+Fine-tune in Lightroom later for critical shots (RAW+JPEG workflow).</p></li>
+<li><p><strong>Fine-tune:</strong> For warm-toned Old Master paintings (Rembrandt, Vermeer, Caravaggio),
+keep WB slightly warm (A+1) rather than clinically neutral —
+these paintings were made to be viewed by candlelight, and a slight warm bias
+honors that.</p></li>
+</ul>
+</section>
+<section id="white-balance-quick-reference">
+<span id="wb-quick-reference-table"></span><h3><a class="toc-backref" href="#id35" role="doc-backlink">4.3 White Balance Quick Reference</a><a class="headerlink" href="#white-balance-quick-reference" title="Link to this heading">#</a></h3>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Scenario</p></th>
+<th class="head"><p>WB Mode</p></th>
+<th class="head"><p>Kelvin (if Custom K)</p></th>
+<th class="head"><p>WB Shift</p></th>
+<th class="head"><p>Notes</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p><strong>Portrait — outdoor</strong></p></td>
+<td><p>Daylight</p></td>
+<td><p>5600K</p></td>
+<td><p>A+1</p></td>
+<td><p>Preserves golden hour; flatters skin</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Portrait — indoor</strong></p></td>
+<td><p>Custom K</p></td>
+<td><p>4000-4500K</p></td>
+<td><p>A+1 to A+2</p></td>
+<td><p>Stable under mixed indoor lighting</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Cityscape — day</strong></p></td>
+<td><p>AWB or Cloudy</p></td>
+<td><p>— / 6000K</p></td>
+<td><p>None</p></td>
+<td><p>AWB is fine in consistent light</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Cityscape — night</strong></p></td>
+<td><p>Custom K</p></td>
+<td><p>3500-4200K</p></td>
+<td><p>M+1</p></td>
+<td><p>Lock K to avoid frame-to-frame shift</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Nature — sunny</strong></p></td>
+<td><p>Daylight</p></td>
+<td><p>5600K</p></td>
+<td><p>None / A+1 autumn</p></td>
+<td><p>Preserves natural warmth</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Nature — shade/overcast</strong></p></td>
+<td><p>Shade or Cloudy</p></td>
+<td><p>6000-7000K</p></td>
+<td><p>None</p></td>
+<td><p>Adds warmth to counteract blue</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Piano video</strong></p></td>
+<td><p>Custom WB or K</p></td>
+<td><p>3200-5000K (per room)</p></td>
+<td><p>A+1 to A+2</p></td>
+<td><p><strong>Lock before recording — no AWB</strong></p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Museum — tungsten</strong></p></td>
+<td><p>Custom K</p></td>
+<td><p>3200-3800K</p></td>
+<td><p>A+1</p></td>
+<td><p>Honors warm classical painting tones</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Museum — LED</strong></p></td>
+<td><p>Custom K</p></td>
+<td><p>4500-5000K</p></td>
+<td><p>None</p></td>
+<td><p>Modern gallery lighting</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<hr class="docutils" />
+</section>
+</section>
+<section id="emulating-leica-hasselblad-color-science-on-your-a7c-ii">
+<span id="leica-hasselblad-color-emulation"></span><h2><a class="toc-backref" href="#id36" role="doc-backlink"><strong>5. Emulating Leica &amp; Hasselblad Color Science on Your A7C II</strong></a><a class="headerlink" href="#emulating-leica-hasselblad-color-science-on-your-a7c-ii" title="Link to this heading">#</a></h2>
+<p>Leica and Hasselblad cameras are legendary for their distinctive color rendering.
+While you can’t perfectly replicate their sensor/processing pipeline on a Sony,
+you can get surprisingly close by understanding <em>what</em> makes their colors special
+and tuning your A7C II’s Creative Looks + Lightroom to approximate the character.</p>
+<section id="leica-color-character">
+<span id="id4"></span><h3><a class="toc-backref" href="#id37" role="doc-backlink">5.1 Leica Color Character</a><a class="headerlink" href="#leica-color-character" title="Link to this heading">#</a></h3>
+<p><strong>What makes Leica color distinctive:</strong></p>
+<ul class="simple">
+<li><p><strong>Rich, warm midtones</strong> — skin tones are warm but never orange; greens lean olive/warm</p></li>
+<li><p><strong>Controlled, non-crushed shadows</strong> — deep blacks with subtle detail retained</p></li>
+<li><p><strong>Smooth highlight roll-off</strong> — highlights transition gradually, never harsh</p></li>
+<li><p><strong>Restrained saturation</strong> — colors feel “present” but not pushed; understated elegance</p></li>
+<li><p><strong>Slight warm color cast</strong> — the overall image leans subtly amber/warm</p></li>
+<li><p><strong>Classic “Leica glow”</strong> — a combination of gentle contrast and warm-toned rendering</p></li>
+</ul>
+<p><strong>In-Camera Emulation — FL Base + Leica-Style Tweaks:</strong></p>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Parameter</p></th>
+<th class="head"><p>Adjustment</p></th>
+<th class="head"><p>Why</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p><strong>Base Look</strong></p></td>
+<td><p><strong>FL</strong></p></td>
+<td><p>FL’s warm, filmic character is the closest Sony base to Leica’s rendering</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Contrast</strong></p></td>
+<td><p><strong>−1 to −2</strong></p></td>
+<td><p>Leica images have gentle, restrained contrast</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Highlights</strong></p></td>
+<td><p><strong>−2</strong></p></td>
+<td><p>Smooth highlight roll-off is a Leica signature</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Shadows</strong></p></td>
+<td><p><strong>+1</strong></p></td>
+<td><p>Lifted shadows — Leica retains shadow detail without crushing</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Fade</strong></p></td>
+<td><p><strong>2</strong></p></td>
+<td><p>Lifted blacks = Leica’s “never truly black” shadow rendering</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Saturation</strong></p></td>
+<td><p><strong>−2 to −3</strong></p></td>
+<td><p>Leica’s restrained saturation — colors present but not vivid</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Sharpness</strong></p></td>
+<td><p><strong>0</strong></p></td>
+<td><p>Minimum sharpening — Leica’s “drawing” quality is gentle, not clinical</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Sharpness Range</strong></p></td>
+<td><p><strong>0</strong></p></td>
+<td><p>Default</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Clarity</strong></p></td>
+<td><p><strong>0</strong></p></td>
+<td><p>Minimum clarity — smooth, gentle rendering (go negative in Lightroom for full Leica glow)</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<blockquote>
+<div><p><strong>Tip — The Leica look is about restraint.</strong>
+Where IN pushes saturation and clarity UP, the Leica emulation keeps everything at minimum.
+The image should feel calm, warm, and “analog” — like a beautifully exposed film negative.
+For the full Leica glow in post, apply negative Clarity (−15 to −25) in Lightroom
+to go softer than what the A7C II’s in-camera Clarity 0 can achieve.</p>
+</div></blockquote>
+<p><strong>Post-Processing in Lightroom — Leica Refinement:</strong></p>
+<p>After importing your RAW files, apply these on top of baseline exposure adjustments:</p>
+<ol class="arabic simple">
+<li><p><strong>Tone Curve:</strong> Lift the bottom-left point (shadow end) up slightly —
+this prevents true black and mimics Leica’s shadow rendering.
+Pull the top-right point (highlight end) down slightly for controlled highlights.</p></li>
+<li><p><strong>HSL — Hue:</strong> Shift Orange toward Yellow by −5 to −10 (warms skin without going orange).
+Shift Green toward Yellow by +10 to +15 (olive/warm greens = Leica signature).</p></li>
+<li><p><strong>HSL — Saturation:</strong> Pull Blues −10, Greens −10, Reds −5 (across-the-board restraint).</p></li>
+<li><p><strong>HSL — Luminance:</strong> Push Orange +10 (brightens skin), pull Blue −10 (darkens skies slightly).</p></li>
+<li><p><strong>Split Toning / Color Grading:</strong> Add a subtle warm tone to shadows
+(Orange-Amber, ~10-15% saturation); slight warm highlight tone (~5% saturation).</p></li>
+<li><p><strong>Calibration tab:</strong> Shift Red Primary Hue to +5, Blue Primary Hue to −5.
+This subtly warms the overall rendering at the sensor level.</p></li>
+</ol>
+<blockquote>
+<div><p>💡 <strong>Save as a Lightroom preset</strong> named “Leica Classic” and apply on import
+to any batch of photos you want this treatment.</p>
+</div></blockquote>
+</section>
+<section id="hasselblad-color-character">
+<span id="id5"></span><h3><a class="toc-backref" href="#id38" role="doc-backlink">5.2 Hasselblad Color Character</a><a class="headerlink" href="#hasselblad-color-character" title="Link to this heading">#</a></h3>
+<p><strong>What makes Hasselblad color distinctive (HNCS — Hasselblad Natural Colour Solution):</strong></p>
+<ul class="simple">
+<li><p><strong>Extremely accurate, neutral color</strong> — “what your eyes saw” fidelity</p></li>
+<li><p><strong>Wide tonal range</strong> — smooth gradations from highlights to shadows</p></li>
+<li><p><strong>Gentle, natural saturation</strong> — colors are rich but true-to-life, never artificial</p></li>
+<li><p><strong>Cool-neutral shadows</strong> — where Leica warms shadows, Hasselblad keeps them neutral/cool</p></li>
+<li><p><strong>Refined highlight handling</strong> — very smooth roll-off in medium-format style</p></li>
+<li><p><strong>“Medium format look”</strong> — largely a function of shallow DoF + wide tonal range,
+partially replicable with fast primes on full-frame</p></li>
+</ul>
+<p><strong>In-Camera Emulation — FL Base + Hasselblad-Style Tweaks:</strong></p>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Parameter</p></th>
+<th class="head"><p>Adjustment</p></th>
+<th class="head"><p>Why</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p><strong>Base Look</strong></p></td>
+<td><p><strong>FL</strong></p></td>
+<td><p>FL provides the smooth tonal foundation; alternatively start from <strong>ST (Standard)</strong> for more neutrality</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Contrast</strong></p></td>
+<td><p><strong>−2</strong></p></td>
+<td><p>Hasselblad images have very gentle, wide-range contrast</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Highlights</strong></p></td>
+<td><p><strong>−2 to −3</strong></p></td>
+<td><p>Ultra-smooth highlight roll-off — medium-format hallmark</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Shadows</strong></p></td>
+<td><p><strong>0 to +1</strong></p></td>
+<td><p>Shadows maintained but not aggressively lifted (Hasselblad keeps shadow structure)</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Fade</strong></p></td>
+<td><p><strong>0 to 1</strong></p></td>
+<td><p>Minimal fade — Hasselblad retains true blacks more than Leica</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Saturation</strong></p></td>
+<td><p><strong>−1 to −2</strong></p></td>
+<td><p>Natural, true-to-life; less desaturated than Leica, but not vivid</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Sharpness</strong></p></td>
+<td><p><strong>0</strong></p></td>
+<td><p>Neutral sharpness — Hasselblad’s look relies on lens resolving power, not digital sharpening</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Sharpness Range</strong></p></td>
+<td><p><strong>0</strong></p></td>
+<td><p>Default</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Clarity</strong></p></td>
+<td><p><strong>0</strong></p></td>
+<td><p>Neutral clarity — the medium-format “smoothness” comes from low clarity</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<blockquote>
+<div><p><strong>Tip — Hasselblad vs Leica in one sentence:</strong>
+Leica says “warm and nostalgic”; Hasselblad says “accurate and refined.”
+If you want emotion, go Leica-style. If you want fidelity, go Hasselblad-style.</p>
+</div></blockquote>
+<p><strong>Post-Processing in Lightroom — Hasselblad Refinement:</strong></p>
+<ol class="arabic simple">
+<li><p><strong>Tone Curve:</strong> Very subtle S-curve — barely perceptible contrast boost.
+Keep the curve gentle; Hasselblad avoids heavy contrast manipulation.</p></li>
+<li><p><strong>HSL — Hue:</strong> Minimal changes. Shift Green slightly toward Cyan by +5 (cooler, truer greens).
+Keep skin tones (Orange) completely unshifted — Hasselblad prides itself on accurate skin.</p></li>
+<li><p><strong>HSL — Saturation:</strong> Reduce globally by −5 to −10 across all channels.
+The goal is “rich but not pushed.”</p></li>
+<li><p><strong>HSL — Luminance:</strong> Moderate adjustments only.
+Push Skin (Orange) +5 for glow; pull Blue −5 for slightly deeper skies.</p></li>
+<li><p><strong>Color Grading:</strong> Keep shadows <strong>neutral</strong> — no warm/cool tinting.
+Add an extremely subtle blue-grey tone to shadows if anything (~5% saturation, blue-grey hue).
+Highlights: completely neutral.</p></li>
+<li><p><strong>Calibration tab:</strong> Minimal changes. Shift Blue Primary Saturation −5
+to reduce any blue-channel excess. Keep Red and Green at default.</p></li>
+</ol>
+<blockquote>
+<div><p>💡 <strong>Save as a Lightroom preset</strong> named “Hasselblad HNCS” and apply selectively
+to your best landscape and architectural shots — this look rewards
+technically clean images with good exposure.</p>
+</div></blockquote>
+</section>
+<section id="quick-comparison-sony-default-vs-leica-style-vs-hasselblad-style">
+<span id="leica-hasselblad-comparison"></span><h3><a class="toc-backref" href="#id39" role="doc-backlink">5.3 Quick Comparison: Sony Default vs Leica-Style vs Hasselblad-Style</a><a class="headerlink" href="#quick-comparison-sony-default-vs-leica-style-vs-hasselblad-style" title="Link to this heading">#</a></h3>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Aspect</p></th>
+<th class="head"><p>Sony FL (Default)</p></th>
+<th class="head"><p>Leica-Style</p></th>
+<th class="head"><p>Hasselblad-Style</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p><strong>Overall Tone</strong></p></td>
+<td><p>Warm, filmic</p></td>
+<td><p>Warmer, nostalgic</p></td>
+<td><p>Neutral, refined</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Saturation</strong></p></td>
+<td><p>Moderate</p></td>
+<td><p>Restrained (−2 to −3)</p></td>
+<td><p>Natural (−1 to −2)</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Contrast</strong></p></td>
+<td><p>Moderate</p></td>
+<td><p>Gentle (−1 to −2)</p></td>
+<td><p>Very gentle (−2)</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Shadows</strong></p></td>
+<td><p>Slightly lifted</p></td>
+<td><p>Clearly lifted (Fade 2)</p></td>
+<td><p>Maintained (Fade 0)</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Highlight Roll-Off</strong></p></td>
+<td><p>Good</p></td>
+<td><p>Smooth (−2)</p></td>
+<td><p>Ultra-smooth (−2 to −3)</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Skin Tones</strong></p></td>
+<td><p>Warm</p></td>
+<td><p>Warm-amber</p></td>
+<td><p>Accurate-neutral</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Green Rendering</strong></p></td>
+<td><p>Natural</p></td>
+<td><p>Olive/warm</p></td>
+<td><p>Cool/true</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Best For</strong></p></td>
+<td><p>General use</p></td>
+<td><p>Mood, emotion, portraits</p></td>
+<td><p>Fidelity, landscapes, architecture</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Personality</strong></p></td>
+<td><p>“Easy-going”</p></td>
+<td><p>“Romantic”</p></td>
+<td><p>“Precise”</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<blockquote>
+<div><p><strong>Final tip — Don’t chase perfection.</strong> These emulations capture the <em>character</em>
+of Leica and Hasselblad color science, not an exact replica.
+The real value of those systems comes from their lenses and sensor design,
+which can’t be fully replicated in software. But for social media, prints,
+and personal memories, these tweaks produce a noticeably different,
+refined aesthetic that elevates your photos beyond Sony’s defaults.
+Experiment, adjust to taste, and make them your own.</p>
+</div></blockquote>
+<hr class="docutils" />
+</section>
+</section>
+<section id="summary-your-color-grading-workflow">
+<span id="summary-and-workflow"></span><h2><a class="toc-backref" href="#id40" role="doc-backlink"><strong>6. Summary: Your Color Grading Workflow</strong></a><a class="headerlink" href="#summary-your-color-grading-workflow" title="Link to this heading">#</a></h2>
+<p><strong>The 80/20 Rule for Your Color Workflow:</strong></p>
+<ul class="simple">
+<li><p><strong>80% of photos:</strong> In-camera Creative Look presets → JPEG → done. No PC needed.</p></li>
+<li><p><strong>15% of photos:</strong> Minor Lightroom tweaks (WB correction, exposure, crop) → 5 minutes.</p></li>
+<li><p><strong>5% of photos:</strong> Full Lightroom edit + optional Leica/Hasselblad treatment → 10-15 minutes.</p></li>
+<li><p><strong>&lt;1% of photos:</strong> Photoshop for object removal, compositing, or deep retouching.</p></li>
+</ul>
+<p>This matches your efficiency-first philosophy: get it right in-camera,
+and only sit at the PC for photos that truly deserve it.</p>
+</section>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            name: "python3",
+            path: "./tips"
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+                </article>
+              
+
+              
+              
+              
+              
+                <footer class="prev-next-footer d-print-none">
+                  
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="post_purchase_usage.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">Post-Purchase Usage: Field Notes &amp; Practical Tips <!-- omit in toc --></p>
+      </div>
+    </a>
+</div>
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#executive-summary">📋 Executive Summary</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#why-fl-and-in-are-strong-foundations">Why FL and IN Are Strong Foundations</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#quick-reference-which-look-for-what">Quick Reference: Which Look for What</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#how-color-grading-actually-works-the-theory-behind-the-numbers"><strong>0. How Color Grading Actually Works — The Theory Behind the Numbers</strong></a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#the-tonal-range-your-mental-model">The Tonal Range — Your Mental Model</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#what-each-parameter-actually-does">What Each Parameter Actually Does</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#how-parameters-interact-the-quick-reference-map">How Parameters Interact — The Quick Reference Map</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#visualizing-it-the-tone-curve-connection">Visualizing It: The Tone Curve Connection</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#color-vs-tone-two-independent-dimensions">Color vs. Tone: Two Independent Dimensions</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#in-camera-creative-look-fine-tuning"><strong>1. In-Camera Creative Look Fine-Tuning</strong></a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#portraits-based-on-fl">1.1 Portraits — Based on FL</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#cityscapes-daylight-night-indoor-outdoor">1.2 Cityscapes — Daylight &amp; Night, Indoor &amp; Outdoor</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#nature-landscapes-based-on-in">1.3 Nature Landscapes — Based on IN</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#piano-performance-video-recording-at-home-based-on-fl">1.4 Piano Performance Video Recording at Home — Based on FL</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#museums-classical-artworks-e-g-louvre-based-on-fl">1.5 Museums — Classical Artworks (e.g., Louvre) — Based on FL</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#three-ready-to-use-preset-plans-for-your-a7c-ii"><strong>2. Three Ready-to-Use Preset Plans for Your A7C II</strong></a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#preset-1-portrait-warm-fl-based">Preset 1: “Portrait Warm” — FL-Based</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#preset-2-city-vivid-in-based">Preset 2: “City Vivid” — IN-Based</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#preset-3-landscape-bold-in-based">Preset 3: “Landscape Bold” — IN-Based</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#bonus-preset-petrof-indoor-fl-based-field-validated">Bonus Preset: “Petrof Indoor” — FL-Based (Field-Validated)</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#side-by-side-comparison">Side-by-Side Comparison</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#habits-that-matter-more-than-parameters">Habits That Matter More Than Parameters</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#post-processing-basics-adobe-lightroom-classic-photoshop"><strong>3. Post-Processing Basics: Adobe Lightroom Classic &amp; Photoshop</strong></a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#lightroom-classic-your-primary-editing-tool">3.1 Lightroom Classic — Your Primary Editing Tool</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#adobe-photoshop-when-to-use-it">3.2 Adobe Photoshop — When to Use It</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#white-balance-fine-tuning"><strong>4. White Balance Fine-Tuning</strong></a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#how-the-a7c-ii-handles-white-balance">4.1 How the A7C II Handles White Balance</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#white-balance-by-use-case">4.2 White Balance by Use Case</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#white-balance-quick-reference">4.3 White Balance Quick Reference</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#emulating-leica-hasselblad-color-science-on-your-a7c-ii"><strong>5. Emulating Leica &amp; Hasselblad Color Science on Your A7C II</strong></a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#leica-color-character">5.1 Leica Color Character</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#hasselblad-color-character">5.2 Hasselblad Color Character</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#quick-comparison-sony-default-vs-leica-style-vs-hasselblad-style">5.3 Quick Comparison: Sony Default vs Leica-Style vs Hasselblad-Style</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#summary-your-color-grading-workflow"><strong>6. Summary: Your Color Grading Workflow</strong></a></li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+By mir.AI
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+
+  <p class="copyright">
+    
+      © Copyright 2026.
+      <br/>
+    
+  </p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
+    </div>
+  </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="../_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
+<script src="../_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
+
+  <footer class="bd-footer">
+  </footer>
+  </body>
+</html>
