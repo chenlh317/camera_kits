@@ -34,5 +34,7 @@ html:
   favicon: pics/kamera_favicon.png
 
 sphinx:
+  extra_extensions:
+    - sphinxcontrib.mermaid
   config:
     myst_heading_anchors: 3
