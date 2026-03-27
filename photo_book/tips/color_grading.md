@@ -304,17 +304,17 @@ If you've seen a **tone curve** in Lightroom or Photoshop,
 the Creative Look parameters map directly onto it:
 
 ```
-Output           ┌── Highlights ↓ pulls this corner down
-(brightness)    ╱     (protects sky/skin from blowing out)
-  255 ┤        ╱
-      │       ╱
-      │      ╱◄── Contrast changes the steepness
-      │     ╱      (steeper = more contrast)
-      │    ╱
-  128 ┤   ╱◄──── Clarity affects the "wiggliness" here
-      │  ╱        (more clarity = more local contrast in midtones)
-      │ ╱
-   30 ┤╱◄──── Shadows ↑ lifts this zone
+Output                ┌── Highlights ↓ pulls this corner down
+(brightness)         ╱     (protects sky/skin from blowing out)
+  255 ┤             ╱
+      │            ╱
+      │           ╱◄── Contrast changes the steepness
+      │          ╱      (steeper = more contrast)
+      │         ╱
+  128 ┤        ╱◄──── Clarity affects the "wiggliness" here
+      │       ╱        (more clarity = more local contrast in midtones)
+      │      ╱
+   30 ┤     ╱◄──── Shadows ↑ lifts this zone
       │        (reveals detail in darks)
       ┤
       ├── Fade ↑ lifts this point off zero
