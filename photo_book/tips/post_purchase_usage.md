@@ -1070,6 +1070,99 @@ Here's what to consider — **only when a genuine need arises, not as preemptive
 | **Compact 35mm f/1.8** (Sony or Viltrox)    | A lighter 35mm (~280-340g) for casual daytime use where f/1.4 isn't needed and size matters       | ~\$350-750     | Only if the SIRUI consistently stays home due to bulk |
 | **Tamron 28-200mm f/2.8-5.6 Di III VXD G2** | For safari/wildlife/zoo trips where 200mm+ reach AND better optical quality than Sigma are needed | ~\$1,000-1,300 | When a specific nature trip is booked                 |
 
+(when-to-consider-50mm-prime)=
+### 🔍 When to Consider a 50mm Prime
+
+Your old kit included a SAL50F14 — which on the A550's APS-C sensor acted as a ~75mm equivalent
+short telephoto, never a true "standard" lens. On your full-frame A7C II, a 50mm prime
+would give you a genuine normal-perspective lens for the first time.
+But your kit was deliberately designed to *bracket* 50mm with 35mm and 85mm fast primes,
+and the Sigma zoom already covers 50mm by day. So when does a dedicated fast 50mm actually earn its place?
+
+**Your current 50mm coverage:**
+
+| Method                           | Aperture at ~50mm | Resolution | Limitation                                                    |
+| -------------------------------- | ----------------- | ---------- | ------------------------------------------------------------- |
+| **Sigma 20-200mm at 50mm**       | ~f/5.0            | 33 MP      | Too slow for indoor/low-light handheld                        |
+| **SIRUI 35mm + APS-C crop mode** | f/1.4 at 52.5mm   | ~14 MP     | Resolution drops to 43% — visible in prints, fine for screens |
+| **Walk closer with SIRUI 35mm**  | f/1.4             | 33 MP      | Changes perspective (wider, nose-enlarging at close range)    |
+| **Step back with Viltrox 85mm**  | f/2.0             | 33 MP      | Often impossible indoors (walls); different compression       |
+
+**The gap is real but narrow.** You have 50mm covered for daytime (Sigma) and can approximate it
+in low light (SIRUI crop mode or walking closer with 35mm). A dedicated 50mm prime
+only becomes genuinely useful when one of these specific conditions is met:
+
+**1. Indoor social events where both 35mm and 85mm feel wrong.**
+
+Dinner tables, cafés, family gatherings — these are the scenarios where the 50mm gap bites hardest.
+35mm at close range puts faces near frame edges where wide-angle distortion stretches features,
+and 85mm needs 3-5m of distance that a restaurant simply doesn't offer.
+A 50mm f/1.8 at ~1.5-2m captures a natural waist-up frame with no distortion
+and pleasing bokeh — the "this is what my eyes see" perspective.
+
+- **Self-test:** On your next few indoor social outings, note how often you're frustrated
+  by 35mm being too wide or 85mm requiring too much distance.
+  If it happens consistently (not once), the need is real.
+
+**2. You want the lightest possible "one fast prime for anything" setup.**
+
+| Lens                        | Weight | Aperture | Role                                    |
+| --------------------------- | ------ | -------- | --------------------------------------- |
+| **SIRUI Aurora 35mm f/1.4** | ~480g  | f/1.4    | Wide + low-light specialist             |
+| **Viltrox AF 50mm f/1.8**   | ~332g  | f/1.8    | Budget-friendly, consistent with 85 Evo |
+| **Sony FE 50mm f/1.8**      | ~186g  | f/1.8    | Ultra-light standard — "nifty 50"       |
+
+The Sony FE 50mm f/1.8 at ~186g is dramatically lighter than the SIRUI (480g) —
+it's genuinely one of the lightest full-frame AF lenses ever made.
+The Viltrox AF 50mm f/1.8 at ~332g is more substantial but still lighter than the SIRUI.
+For casual day-to-night outings where you want *one prime* that handles both daylight
+and reasonable low-light (f/1.8 + IBIS), a compact 50mm is the "never wrong, never specialized"
+middle-ground choice. Consider this if:
+- You're frequently leaving the SIRUI at home because of its bulk
+- You don't need f/1.4 but want more than the Sigma's ~f/5 at 50mm indoors
+- You want a lighter prime for casual shooting (Sony at 186g is truly pocketable;
+  Viltrox at 332g is still noticeably lighter than the SIRUI)
+
+**3. Video content at standard framing.**
+
+50mm on full-frame is the classic "medium shot" for video — slightly tighter than your 35mm
+for talking-head or performance content. If you expand beyond piano recording
+into vlogs, cooking videos, or product reviews, 50mm at f/1.8 is the default
+content-creator focal length for good reason: natural perspective, shallow DoF for separation,
+compact enough for gimbal use.
+
+**Specific candidates matching your buying philosophy:**
+
+| Lens                         | Weight | Price      | AF Type      | Notes                                                                        |
+| ---------------------------- | ------ | ---------- | ------------ | ---------------------------------------------------------------------------- |
+| **Sony FE 50mm f/1.8**       | ~186g  | ~\$250     | Linear motor | Lightest option; Sony-native reliability, truly pocketable                   |
+| **Viltrox AF 50mm f/1.8 FE** | ~332g  | ~\$150-200 | STM          | Cheapest; heavier than Sony but consistent with your Viltrox 85mm Evo choice |
+| **Sony FE 50mm f/1.4 GM**    | ~516g  | ~\$1,300   | XD Linear    | Overkill — heavier than SIRUI, contradicts compact philosophy                |
+
+The **Sony FE 50mm f/1.8** is the standout for compactness (~186g — lighter than your Viltrox 85mm Evo).
+The **Viltrox 50mm f/1.8** (~332g) is the budget pick, comparable in weight to the 85mm Evo (298g).
+The Sony 50mm f/1.4 GM belongs in the "What You Do NOT Need" category below.
+
+**When NOT to buy a 50mm:**
+
+- **"Just to complete the set."** Three primes (35/50/85) creates *more* lens-swap friction,
+  not less. You already identified lens swapping as a pain point with two primes —
+  adding a third makes the "which prime do I mount?" decision harder, not easier.
+- **For notebook archiving.** The Sigma at 50mm f/8 already delivers the best edge sharpness
+  in your kit. A fast prime stopped down to f/8 won't outperform the zoom for flat-field work.
+- **As a replacement for the SIRUI 35mm.** 50mm f/1.8 is ~1.3 stops slower than 35mm f/1.4.
+  For night city walks and dim museums, f/1.4 at a wider angle still wins decisively.
+- **Before exhausting APS-C crop mode.** The SIRUI at 52.5mm equiv in crop mode delivers ~14MP —
+  still enough for social media, screen viewing, and modest prints. Try this workaround first.
+
+> 💡 **Bottom line:** A 50mm prime is the *least urgent* lens addition to your kit
+> because the Sigma zoom covers it by day and the SIRUI's APS-C crop approximates it by night.
+> Buy one only when you repeatedly find yourself in indoor social settings
+> where 35mm is too wide and 85mm is too tight — and a compact f/1.8 (~\$150-250)
+> is all you'd ever need. The Sony FE 50mm f/1.8 (~186g) is the lightest option;
+> the Viltrox (~332g) is cheaper but heavier. Skip the f/1.4 GM;
+> it would be your heaviest prime and contradicts the compact A7C II philosophy that defines your kit.
+
 ### ❌ What You Do NOT Need
 
 | Item                            | Why Not                                                                                          |
