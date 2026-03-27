@@ -293,8 +293,8 @@ Understanding interactions lets you predict what happens when you move multiple 
 > 💡 **The golden rule of parameter interaction:**
 > When two parameters push the *same zone in the same direction*, the effect compounds.
 > When they push the *same zone in opposite directions*, they partially cancel out.
-> Intentional cancellation is a powerful technique — e.g., Contrast ↑ (darkens shadows)
-> + Shadows ↑ (brightens shadows) = the shadow zone stays roughly neutral
+> Intentional cancellation is a powerful technique — e.g., Contrast ↑ (darkens shadows) + Shadows ↑
+> (brightens shadows) = the shadow zone stays roughly neutral
 > while midtones get the contrast boost.
 
 (tonal-curve-visualization)=
