@@ -14,3 +14,4 @@ parts:
     chapters:
       - file: tips/photographing_tips
       - file: tips/post_purchase_usage
+      - file: tips/color_grading
