@@ -1196,11 +1196,11 @@ or low Sharpness with high Clarity (well-defined shapes but soft texturing — u
 <p>Sharpness Range controls the <em>radius</em> of the sharpening effect —
 whether it sharpens only the finest details (low range) or also medium-scale textures.</p>
 <ul class="simple">
-<li><p><strong>Higher values</strong> (1-9): Sharpening extends to medium-scale textures (brick patterns, tree bark, fabric weave).</p></li>
-<li><p><strong>Zero (0):</strong> Only fine edges are sharpened.</p></li>
+<li><p><strong>Higher values</strong> (3-5): Sharpening extends to medium-scale textures (brick patterns, tree bark, fabric weave).</p></li>
+<li><p><strong>Minimum (1):</strong> Only fine edges are sharpened.</p></li>
 </ul>
 <blockquote>
-<div><p>⚠️ <strong>A7C II range: 0 to 9 only.</strong> There are no negative Sharpness Range values.</p>
+<div><p>⚠️ <strong>A7C II range: 1 to 5 only.</strong> There are no zero or negative Sharpness Range values.</p>
 </div></blockquote>
 <p><strong>Practical rule:</strong> Push Sharpness Range higher only when you also push Sharpness higher.
 There’s no benefit to extending range if Sharpness is at 0.</p>
@@ -1369,7 +1369,8 @@ starting from your FL and IN bases.</p>
 select FL or IN → press right arrow to enter fine-tuning sub-menu.
 Each parameter range depends on the type:
 <strong>Contrast, Highlights, Shadows, Saturation:</strong> −9 to +9 (0 = default).
-<strong>Fade, Sharpness, Sharpness Range, Clarity:</strong> 0 to 9 (no negative values — 0 = minimum).</p>
+<strong>Fade, Sharpness, Clarity:</strong> 0 to 9 (no negative values — 0 = minimum).
+<strong>Sharpness Range:</strong> 1 to 5 (no zero value — 1 = minimum).</p>
 </div></blockquote>
 <section id="portraits-based-on-fl">
 <span id="fine-tune-portraits"></span><h3><a class="toc-backref" href="#id17" role="doc-backlink">1.1 Portraits — Based on FL</a><a class="headerlink" href="#portraits-based-on-fl" title="Link to this heading">#</a></h3>
@@ -1409,8 +1410,8 @@ and casual friend/family shots with the SIRUI 35mm f/1.4.</p>
 <td><p>Minimum sharpening — lets skin texture stay smooth</p></td>
 </tr>
 <tr class="row-even"><td><p><strong>Sharpness Range</strong></p></td>
-<td><p>0</p></td>
-<td><p>Leave at default — fine detail sharpness isn’t needed for portraits</p></td>
+<td><p>1</p></td>
+<td><p>Leave at minimum — fine detail sharpness isn’t needed for portraits</p></td>
 </tr>
 <tr class="row-odd"><td><p><strong>Clarity</strong></p></td>
 <td><p>0</p></td>
@@ -1513,8 +1514,8 @@ to compensate for overhead lighting that creates unflattering under-eye shadows.
 <td><p>Night shots rarely benefit from extra sharpening (amplifies noise)</p></td>
 </tr>
 <tr class="row-even"><td><p><strong>Sharpness Range</strong></p></td>
-<td><p>0</p></td>
-<td><p>Leave default at night — less sharpening = cleaner result</p></td>
+<td><p>1</p></td>
+<td><p>Leave at minimum at night — less sharpening = cleaner result</p></td>
 </tr>
 <tr class="row-odd"><td><p><strong>Clarity</strong></p></td>
 <td><p>0 to 1</p></td>
@@ -1563,8 +1564,8 @@ The slight glow IS the night-city mood.</p>
 <td><p>Standard sharpness is fine for interiors</p></td>
 </tr>
 <tr class="row-even"><td><p><strong>Sharpness Range</strong></p></td>
-<td><p>0</p></td>
-<td><p>Default</p></td>
+<td><p>1</p></td>
+<td><p>Minimum — default</p></td>
 </tr>
 <tr class="row-odd"><td><p><strong>Clarity</strong></p></td>
 <td><p>0 to 1</p></td>
@@ -1671,8 +1672,8 @@ Since this is video, consistency and gentle grading matter more than punch.</p>
 <td><p>Video sharpening is handled differently; don’t over-sharpen in-camera</p></td>
 </tr>
 <tr class="row-even"><td><p><strong>Sharpness Range</strong></p></td>
-<td><p>0</p></td>
-<td><p>Default for video</p></td>
+<td><p>1</p></td>
+<td><p>Minimum — default for video</p></td>
 </tr>
 <tr class="row-odd"><td><p><strong>Clarity</strong></p></td>
 <td><p>0</p></td>
@@ -1818,7 +1819,7 @@ MR Memory Recall / M1-M4). Assign each to a memory slot for instant recall.</p>
 <td><p><strong>0</strong></p></td>
 </tr>
 <tr class="row-odd"><td><p>Sharpness Range</p></td>
-<td><p><strong>0</strong></p></td>
+<td><p><strong>1</strong></p></td>
 </tr>
 <tr class="row-even"><td><p>Clarity</p></td>
 <td><p><strong>0</strong></p></td>
@@ -2179,7 +2180,7 @@ like how the room <em>feels</em>, not how the sensor <em>measured</em> it.</p>
 <td><p>2</p></td>
 </tr>
 <tr class="row-even"><td><p>Sharpness Range</p></td>
-<td><p>0</p></td>
+<td><p>1</p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
 </tr>
@@ -2717,8 +2718,8 @@ and tuning your A7C II’s Creative Looks + Lightroom to approximate the charact
 <td><p>Minimum sharpening — Leica’s “drawing” quality is gentle, not clinical</p></td>
 </tr>
 <tr class="row-odd"><td><p><strong>Sharpness Range</strong></p></td>
-<td><p><strong>0</strong></p></td>
-<td><p>Default</p></td>
+<td><p><strong>1</strong></p></td>
+<td><p>Minimum — default</p></td>
 </tr>
 <tr class="row-even"><td><p><strong>Clarity</strong></p></td>
 <td><p><strong>0</strong></p></td>
@@ -2804,8 +2805,8 @@ partially replicable with fast primes on full-frame</p></li>
 <td><p>Neutral sharpness — Hasselblad’s look relies on lens resolving power, not digital sharpening</p></td>
 </tr>
 <tr class="row-odd"><td><p><strong>Sharpness Range</strong></p></td>
-<td><p><strong>0</strong></p></td>
-<td><p>Default</p></td>
+<td><p><strong>1</strong></p></td>
+<td><p>Minimum — default</p></td>
 </tr>
 <tr class="row-even"><td><p><strong>Clarity</strong></p></td>
 <td><p><strong>0</strong></p></td>
