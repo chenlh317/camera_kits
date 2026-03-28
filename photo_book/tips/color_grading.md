@@ -234,10 +234,10 @@ or low Sharpness with high Clarity (well-defined shapes but soft texturing — u
 Sharpness Range controls the *radius* of the sharpening effect —
 whether it sharpens only the finest details (low range) or also medium-scale textures.
 
-- **Higher values** (1-9): Sharpening extends to medium-scale textures (brick patterns, tree bark, fabric weave).
-- **Zero (0):** Only fine edges are sharpened.
+- **Higher values** (3-5): Sharpening extends to medium-scale textures (brick patterns, tree bark, fabric weave).
+- **Minimum (1):** Only fine edges are sharpened.
 
-> ⚠️ **A7C II range: 0 to 9 only.** There are no negative Sharpness Range values.
+> ⚠️ **A7C II range: 1 to 5 only.** There are no zero or negative Sharpness Range values.
 
 **Practical rule:** Push Sharpness Range higher only when you also push Sharpness higher.
 There's no benefit to extending range if Sharpness is at 0.
@@ -368,7 +368,8 @@ starting from your FL and IN bases.
 > select FL or IN → press right arrow to enter fine-tuning sub-menu.
 > Each parameter range depends on the type:
 > **Contrast, Highlights, Shadows, Saturation:** −9 to +9 (0 = default).
-> **Fade, Sharpness, Sharpness Range, Clarity:** 0 to 9 (no negative values — 0 = minimum).
+> **Fade, Sharpness, Clarity:** 0 to 9 (no negative values — 0 = minimum).
+> **Sharpness Range:** 1 to 5 (no zero value — 1 = minimum).
 
 (fine-tune-portraits)=
 ### 1.1 Portraits — Based on FL
@@ -385,7 +386,7 @@ and casual friend/family shots with the SIRUI 35mm f/1.4.
 | **Fade**            | 1          | Lifts the deepest blacks for a gentle, approachable look              |
 | **Saturation**      | −1         | Pulls back FL's warmth just enough to keep skin natural, not orange   |
 | **Sharpness**       | 0          | Minimum sharpening — lets skin texture stay smooth                    |
-| **Sharpness Range** | 0          | Leave at default — fine detail sharpness isn't needed for portraits   |
+| **Sharpness Range** | 1          | Leave at minimum — fine detail sharpness isn't needed for portraits   |
 | **Clarity**         | 0          | Minimum micro-contrast — smoothest skin rendering available in-camera |
 
 > **Tip — Pair with the 1/4 Black Mist filter:** Sharpness and Clarity are already
@@ -426,7 +427,7 @@ Cityscapes benefit from a split approach: **IN for daytime punch, FL for nightti
 | **Fade**            | 1 to 2     | Lifts shadows for a cinematic, film-noir mood                      |
 | **Saturation**      | 0          | FL's natural warmth is enough; don't oversaturate neon colors      |
 | **Sharpness**       | 0          | Night shots rarely benefit from extra sharpening (amplifies noise) |
-| **Sharpness Range** | 0          | Leave default at night — less sharpening = cleaner result          |
+| **Sharpness Range** | 1          | Leave at minimum at night — less sharpening = cleaner result       |
 | **Clarity**         | 0 to 1     | Slight clarity helps building outlines; too much amplifies noise   |
 
 > **Tip — Night shooting on SIRUI 35mm f/1.4:** At f/1.4, point light sources
@@ -444,7 +445,7 @@ Cityscapes benefit from a split approach: **IN for daytime punch, FL for nightti
 | **Fade**            | 1          | Softens the corporate/sterile feel of artificial lighting                            |
 | **Saturation**      | 0 to +1    | Boost slightly if the interior is visually interesting (e.g., colorful market halls) |
 | **Sharpness**       | 0          | Standard sharpness is fine for interiors                                             |
-| **Sharpness Range** | 0          | Default                                                                              |
+| **Sharpness Range** | 1          | Minimum — default                                                                    |
 | **Clarity**         | 0 to 1     | Adds definition to architectural details if desired                                  |
 
 (fine-tune-nature)=
@@ -488,7 +489,7 @@ Since this is video, consistency and gentle grading matter more than punch.
 | **Fade**            | 1          | Gives a gentle, filmic lift to shadows — adds warmth to the mood      |
 | **Saturation**      | 0 to −1    | Slightly desaturated = more "cinematic"; avoids distracting colors    |
 | **Sharpness**       | 0          | Video sharpening is handled differently; don't over-sharpen in-camera |
-| **Sharpness Range** | 0          | Default for video                                                     |
+| **Sharpness Range** | 1          | Minimum — default for video                                           |
 | **Clarity**         | 0          | Video at high clarity can look artificial; keep neutral               |
 
 > **Tip — Lock your white balance for video:** Auto WB can shift mid-performance
@@ -573,7 +574,7 @@ covering your three most common scenarios.
 | Fade            | **1**  |
 | Saturation      | **−1** |
 | Sharpness       | **0**  |
-| Sharpness Range | **0**  |
+| Sharpness Range | **1**  |
 | Clarity         | **0**  |
 
 **Character:** Warm, soft, flattering. Skin tones glow without being orange.
@@ -752,7 +753,7 @@ bokeh on room background adds a "living room concert" intimacy).
 | Fade            | 1                   | 0                | 0                   |
 | Saturation      | −1                  | +1               | +2                  |
 | Sharpness       | 0                   | 1                | 2                   |
-| Sharpness Range | 0                   | 1                | 1                   |
+| Sharpness Range | 1                   | 1                | 1                   |
 | Clarity         | 0                   | 2                | 3                   |
 | **WB Mode**     | Daylight / Custom K | AWB / Cloudy     | Daylight / Shade    |
 | **WB Shift**    | A+1 to A+2          | None / M+1 night | None / A+1 autumn   |
@@ -1063,7 +1064,7 @@ and tuning your A7C II's Creative Looks + Lightroom to approximate the character
 | **Fade**            | **2**        | Lifted blacks = Leica's "never truly black" shadow rendering                              |
 | **Saturation**      | **−2 to −3** | Leica's restrained saturation — colors present but not vivid                              |
 | **Sharpness**       | **0**        | Minimum sharpening — Leica's "drawing" quality is gentle, not clinical                    |
-| **Sharpness Range** | **0**        | Default                                                                                   |
+| **Sharpness Range** | **1**        | Minimum — default                                                                         |
 | **Clarity**         | **0**        | Minimum clarity — smooth, gentle rendering (go negative in Lightroom for full Leica glow) |
 
 > **Tip — The Leica look is about restraint.**
@@ -1115,7 +1116,7 @@ After importing your RAW files, apply these on top of baseline exposure adjustme
 | **Fade**            | **0 to 1**   | Minimal fade — Hasselblad retains true blacks more than Leica                                           |
 | **Saturation**      | **−1 to −2** | Natural, true-to-life; less desaturated than Leica, but not vivid                                       |
 | **Sharpness**       | **0**        | Neutral sharpness — Hasselblad's look relies on lens resolving power, not digital sharpening            |
-| **Sharpness Range** | **0**        | Default                                                                                                 |
+| **Sharpness Range** | **1**        | Minimum — default                                                                                       |
 | **Clarity**         | **0**        | Neutral clarity — the medium-format "smoothness" comes from low clarity                                 |
 
 > **Tip — Hasselblad vs Leica in one sentence:**
