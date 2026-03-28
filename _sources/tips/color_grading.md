@@ -1034,10 +1034,11 @@ and no amount of Creative Look fine-tuning can fix a bad WB foundation.
 ---
 
 (5-leica-hasselblad-color-emulation)=
-## **5. Emulating Leica & Hasselblad Color Science on Your A7C II**
+## **5. Emulating Leica, Hasselblad & China Photo Studio Color Science on Your A7C II**
 
-Leica and Hasselblad cameras are legendary for their distinctive color rendering.
-While you can't perfectly replicate their sensor/processing pipeline on a Sony,
+Leica, Hasselblad, and China Photo Studio (中国照相馆) each developed legendary,
+distinctive color rendering through decades of craft. While you can't perfectly
+replicate their sensor/processing/hand-coloring pipelines on a Sony,
 you can get surprisingly close by understanding *what* makes their colors special
 and tuning your A7C II's Creative Looks + Lightroom to approximate the character.
 
@@ -1143,24 +1144,145 @@ After importing your RAW files, apply these on top of baseline exposure adjustme
 > to your best landscape and architectural shots — this look rewards
 > technically clean images with good exposure.
 
-(leica-hasselblad-comparison)=
-### 5.3 Quick Comparison: Sony Default vs Leica-Style vs Hasselblad-Style
+(china-photo-studio-color-character)=
+### 5.3 China Photo Studio (中国照相馆) Color Character
 
-| Aspect                 | Sony FL (Default) | Leica-Style              | Hasselblad-Style                   |
-| ---------------------- | ----------------- | ------------------------ | ---------------------------------- |
-| **Overall Tone**       | Warm, filmic      | Warmer, nostalgic        | Neutral, refined                   |
-| **Saturation**         | Moderate          | Restrained (−2 to −3)    | Natural (−1 to −2)                 |
-| **Contrast**           | Moderate          | Gentle (−1 to −2)        | Very gentle (−2)                   |
-| **Shadows**            | Slightly lifted   | Clearly lifted (Fade 2)  | Maintained (Fade 0)                |
-| **Highlight Roll-Off** | Good              | Smooth (−2)              | Ultra-smooth (−2 to −3)            |
-| **Skin Tones**         | Warm              | Warm-amber               | Accurate-neutral                   |
-| **Green Rendering**    | Natural           | Olive/warm               | Cool/true                          |
-| **Best For**           | General use       | Mood, emotion, portraits | Fidelity, landscapes, architecture |
-| **Personality**        | "Easy-going"      | "Romantic"               | "Precise"                          |
+China Photo Studio (中国照相馆), founded in 1937 in Shanghai and later relocated
+to Beijing's Wangfujing Street, is one of China's most iconic photography institutions
+— a "China Time-Honored Brand" (中华老字号). For decades it defined what a
+"proper portrait" looked like for Chinese families: the studio photographed
+everyone from national leaders to newlyweds, producing millions of portraits
+that became the visual standard of Chinese portraiture from the 1950s through the 1980s.
+
+Their signature look comes from a unique historical convergence:
+the era's reliance on **hand-colored black-and-white prints** (手工着色),
+combined with carefully controlled studio lighting and meticulous retouching.
+Even after color film became standard, the aesthetic DNA persisted —
+colors are *applied with restraint and intention*, never left to chance.
+
+**What makes China Photo Studio color distinctive:**
+
+- **Rosy, porcelain skin tones** — the defining signature. Skin has a warm pink-peach
+  undertone, never the amber-orange of Western golden-hour photography.
+  Think "porcelain with a blush" — luminous, smooth, slightly idealized
+- **Warm rose-amber overall cast** — the entire image leans toward a warm
+  rose-amber palette, distinctly different from Leica's pure amber warmth.
+  There is always a hint of magenta/pink in the warmth
+- **Moderate, flattering contrast** — softer than modern digital but not flat.
+  Shadows exist for dimensionality but never cut harshly across faces.
+  The hand-coloring heritage demanded gentle tonal foundations
+- **Rich, deep reds without garish saturation** — clothing reds, lip color, and
+  background reds are wine-to-vermillion, never neon. Saturation is present
+  but refined — colors feel *painted on* rather than *blasted in*
+- **Slightly elevated black point** — hand-coloring over silver gelatin prints
+  never produced absolute black. The deepest tones carry a subtle warm density
+  rather than a digital void
+- **Muted, harmonious backgrounds** — backgrounds are desaturated relative to the subject,
+  directing all attention to the person. Deep maroon, muted green, and neutral grey
+  were typical studio choices
+- **Smooth, idealized skin with preserved structure** — retouching smooths blemishes
+  but maintains facial bone structure and dimensionality.
+  The result looks "better than reality" without looking fake
+
+> 💡 **China Photo Studio vs Leica in one sentence:**
+> Leica says "amber warmth and nostalgic restraint"; China Photo Studio says
+> "rose warmth and porcelain refinement." The key difference is in the *hue* of warmth:
+> Leica leans amber-gold (A-axis); China Photo Studio leans amber-rose (A+M axes).
+
+**In-Camera Emulation — FL Base + China Photo Studio Tweaks:**
+
+FL is the natural starting point: its warm-highlight / desaturated-shadow film character
+provides the closest foundation to the hand-colored print aesthetic.
+The key adjustment is steering FL's warmth from amber toward rose
+with WB Shift and careful saturation control.
+
+| Parameter           | Adjustment | Why                                                                                |
+| ------------------- | ---------- | ---------------------------------------------------------------------------------- |
+| **Base Look**       | **FL**     | FL's film-like tonal rendering matches the hand-colored print aesthetic            |
+| **Contrast**        | **−1**     | Gentle but not flat — studio portraits had dimensionality from controlled lighting |
+| **Highlights**      | **−2**     | Smooth highlight roll-off; skin highlights glow rather than clip                   |
+| **Shadows**         | **+1**     | Lifted shadows — hand-colored prints retained detail in shadow areas               |
+| **Fade**            | **1**      | Slightly lifted blacks — the hand-coloring "floor" was never true black            |
+| **Saturation**      | **−1**     | Restrained but not absent — colors feel intentional, not blasted                   |
+| **Sharpness**       | **0**      | Minimum — the look is soft and smooth, never clinical                              |
+| **Sharpness Range** | **1**      | Minimum — default                                                                  |
+| **Clarity**         | **0**      | Minimum — skin should be porcelain-smooth; micro-contrast works against this look  |
+
+**White Balance — the critical differentiator:**
+
+The rose-amber warmth is what separates this look from generic "warm portrait" presets.
+WB Shift is where you steer FL's amber warmth toward the distinctive pink-rose territory.
+
+| WB Setting   | Value                             | Why                                                                            |
+| ------------ | --------------------------------- | ------------------------------------------------------------------------------ |
+| **WB Mode**  | Daylight or Custom K (4500-5200K) | Stable base; indoor studio conditions                                          |
+| **WB Shift** | **A+2 / M+2**                     | The M+2 is the key move — pushes warmth from amber into rose-magenta territory |
+
+> ⚠️ **The M+2 shift is essential.** Without it, you get a Leica-like amber portrait.
+> With it, the warmth acquires the distinctive pink-rose quality of Chinese studio portraiture.
+> If M+2 feels too strong on your subject's skin, try M+1 — but don't drop to M+0,
+> or you lose the China Photo Studio character entirely.
+
+**Pair with:** Viltrox 85mm f/2.0 Evo for classic bust portraits (the 85mm compression
+matches studio portrait focal lengths), or SIRUI 35mm f/1.4 for environmental portraits.
+Mount the 1/4 Black Mist filter for the soft, luminous skin quality
+that defines this aesthetic — it physically approximates the hand-colored print softness.
+
+**Post-Processing in Lightroom — China Photo Studio Refinement:**
+
+For RAW files where you want to push deeper into the aesthetic:
+
+1. **Tone Curve:** Lift the bottom-left point slightly (like Leica, but less aggressively).
+   Gently pull down the top-right for controlled highlights.
+   The curve should be smooth — no harsh S-curves.
+2. **HSL — Hue:** Shift Orange toward Red by +5 to +10
+   (pushes skin from orange-warm toward pink-warm — the defining move).
+   Shift Yellow toward Orange by +5 (warms yellows to harmonize with rosy skin).
+3. **HSL — Saturation:** Pull Orange (skin) by −5 to −10 (prevents skin from going too vivid).
+   Pull Blue and Green by −15 to −20 (backgrounds should recede; only the subject's warmth matters).
+   Keep Red at 0 or +5 (lips and red clothing should remain rich).
+4. **HSL — Luminance:** Push Orange +10 to +15 (brightens skin for the luminous porcelain quality).
+   Push Red +5 (keeps red clothing/lips from going too dark).
+5. **Color Grading:** Add a rose-pink tone to midtones (~340° hue / pink-magenta, 8-12% saturation).
+   Add a subtle warm tone to shadows (~30° hue / warm amber, 5-8% saturation).
+   Highlights: very subtle warm pink (~350° hue, ~5% saturation).
+6. **Calibration tab:** Shift Red Primary Hue to +10 (pushes reds toward orange-rose).
+   Shift Blue Primary Hue to −10 (reduces blue-channel coldness).
+   Shift Green Primary Saturation to −10 (suppresses greens for the studio portrait feel).
+
+> 💡 **Save as a Lightroom preset** named "China Photo Studio Classic" (中国照相馆经典)
+> and apply to portrait sessions where you want this distinctive aesthetic.
+> It works especially well for: formal family portraits, couple photos,
+> portraits against simple/dark backgrounds, and any image where you want
+> that timeless Chinese studio portraiture quality.
+
+> **Tip — When to use this vs Leica-style:**
+> Use China Photo Studio style when the subject is the absolute focus
+> and you want *flattering, rose-toned skin* above all else — family portraits,
+> headshots, commemorative photos. Use Leica style when the *scene and mood*
+> matter as much as the subject — street portraits, travel, environmental shots.
+> The China Photo Studio look is portrait-first; Leica is scene-first.
+
+(leica-hasselblad-comparison)=
+### 5.4 Quick Comparison: Sony Default vs Leica-Style vs Hasselblad-Style vs China Photo Studio
+
+| Aspect                 | Sony FL (Default) | Leica-Style              | Hasselblad-Style                   | China Photo Studio                      |
+| ---------------------- | ----------------- | ------------------------ | ---------------------------------- | --------------------------------------- |
+| **Overall Tone**       | Warm, filmic      | Warmer, nostalgic        | Neutral, refined                   | Warm rose-amber, porcelain              |
+| **Saturation**         | Moderate          | Restrained (−2 to −3)    | Natural (−1 to −2)                 | Restrained (−1), rosy bias              |
+| **Contrast**           | Moderate          | Gentle (−1 to −2)        | Very gentle (−2)                   | Gentle (−1), flattering                 |
+| **Shadows**            | Slightly lifted   | Clearly lifted (Fade 2)  | Maintained (Fade 0)                | Slightly lifted (Fade 1)                |
+| **Highlight Roll-Off** | Good              | Smooth (−2)              | Ultra-smooth (−2 to −3)            | Smooth (−2), luminous                   |
+| **Skin Tones**         | Warm              | Warm-amber               | Accurate-neutral                   | Rose-peach, porcelain                   |
+| **Green Rendering**    | Natural           | Olive/warm               | Cool/true                          | Muted/suppressed                        |
+| **WB Shift Key**       | None              | A+1                      | None                               | A+2 / M+2                               |
+| **Best For**           | General use       | Mood, emotion, portraits | Fidelity, landscapes, architecture | Formal portraits, family, commemorative |
+| **Personality**        | "Easy-going"      | "Romantic"               | "Precise"                          | "Porcelain elegance" (端庄)             |
 
 > **Final tip — Don't chase perfection.** These emulations capture the *character*
-> of Leica and Hasselblad color science, not an exact replica.
-> The real value of those systems comes from their lenses and sensor design,
+> of Leica, Hasselblad, and China Photo Studio color science, not an exact replica.
+> The real value of those systems comes from their lenses, sensor design,
+> and (in China Photo Studio's case) decades of hand-coloring craftsmanship,
 > which can't be fully replicated in software. But for social media, prints,
 > and personal memories, these tweaks produce a noticeably different,
 > refined aesthetic that elevates your photos beyond Sony's defaults.
@@ -1190,12 +1312,14 @@ flowchart TD
     J -->|No| K[JPEG is done — enjoy]
     J -->|Yes| L[Shoot RAW+JPEG]
     L --> M[Import RAW into Lightroom Classic]
-    M --> N{Want Leica/Hasselblad look?}
+    M --> N{Want Leica/Hasselblad/China Photo Studio look?}
     N -->|Leica| O[Apply Leica Classic preset]
     N -->|Hasselblad| P[Apply Hasselblad HNCS preset]
+    N -->|China Photo Studio| P2[Apply China Photo Studio Classic preset]
     N -->|Standard| Q[Apply matching camera preset]
     O --> R[Fine-tune & Export]
     P --> R
+    P2 --> R
     Q --> R
 ```
 
@@ -1203,7 +1327,7 @@ flowchart TD
 
 - **80% of photos:** In-camera Creative Look presets → JPEG → done. No PC needed.
 - **15% of photos:** Minor Lightroom tweaks (WB correction, exposure, crop) → 5 minutes.
-- **5% of photos:** Full Lightroom edit + optional Leica/Hasselblad treatment → 10-15 minutes.
+- **5% of photos:** Full Lightroom edit + optional Leica/Hasselblad/China Photo Studio treatment → 10-15 minutes.
 - **<1% of photos:** Photoshop for object removal, compositing, or deep retouching.
 
 This matches your efficiency-first philosophy: get it right in-camera,
