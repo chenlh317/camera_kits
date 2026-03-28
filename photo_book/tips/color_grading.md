@@ -1074,6 +1074,32 @@ and tuning your A7C II's Creative Looks + Lightroom to approximate the character
 > For the full Leica glow in post, apply negative Clarity (−15 to −25) in Lightroom
 > to go softer than what the A7C II's in-camera Clarity 0 can achieve.
 
+**White Balance — warm amber foundation:**
+
+Leica's warmth lives on the amber axis — golden, not pink.
+The WB strategy is to add a gentle amber push without any magenta,
+keeping the palette in the warm-gold family that defines the Leica character.
+
+| Scenario                              | WB Mode  | Kelvin     | WB Shift | Why                                                                             |
+| ------------------------------------- | -------- | ---------- | -------- | ------------------------------------------------------------------------------- |
+| **Street portraits — daylight**       | Daylight | 5600K      | **A+1**  | Preserves golden-hour warmth; amber push matches Leica's warm midtone signature |
+| **Street portraits — overcast**       | Cloudy   | 6000K      | **A+1**  | Cloudy adds base warmth; A+1 finishes the Leica amber cast                      |
+| **Environmental / travel — daylight** | Daylight | 5600K      | **A+1**  | Consistent warm rendering across a travel series                                |
+| **Golden hour / sunset**              | Daylight | 5600K      | **None** | Golden hour is already warm enough — adding more risks orange skin              |
+| **Indoor — warm lighting**            | Custom K | 3800-4500K | **A+1**  | Lock K to avoid AWB drift; amber push adds Leica warmth on top of accurate base |
+| **Night street**                      | Custom K | 3500-4000K | **A+1**  | Locked K prevents frame-to-frame shift; amber keeps the mood warm, not clinical |
+
+> 💡 **Key principle — Leica warmth is pure amber, not rose.**
+> Use **A+1 only** — no magenta shift. If you add M+1, you start drifting
+> toward the China Photo Studio rose territory. Leica's character is gold-amber,
+> and the A-axis alone delivers this. The restrained Saturation (−2 to −3)
+> ensures the amber shift stays subtle rather than turning everything orange.
+
+> **Tip — Don't use AWB for Leica emulation.**
+> AWB can neutralize the warm cast you're deliberately building.
+> Daylight or locked Custom K preserves the intentional warmth across an entire shoot,
+> giving your photos the consistent amber palette that makes Leica images recognizable.
+
 **Post-Processing in Lightroom — Leica Refinement:**
 
 After importing your RAW files, apply these on top of baseline exposure adjustments:
@@ -1123,6 +1149,42 @@ After importing your RAW files, apply these on top of baseline exposure adjustme
 > **Tip — Hasselblad vs Leica in one sentence:**
 > Leica says "warm and nostalgic"; Hasselblad says "accurate and refined."
 > If you want emotion, go Leica-style. If you want fidelity, go Hasselblad-style.
+
+**White Balance — neutral accuracy above all:**
+
+Hasselblad's HNCS philosophy is "show the scene as it was."
+The WB strategy is the opposite of Leica: *remove* color casts rather than *add* them.
+The goal is a perfectly neutral, true-to-life foundation that lets the scene's own colors speak.
+
+| Scenario                          | WB Mode         | Kelvin     | WB Shift        | Why                                                                                    |
+| --------------------------------- | --------------- | ---------- | --------------- | -------------------------------------------------------------------------------------- |
+| **Landscape — sunny**             | Daylight        | 5600K      | **None**        | Accurate outdoor rendering; let the scene's natural warmth come through unaltered      |
+| **Landscape — overcast / shade**  | Cloudy or Shade | 6000-7000K | **None**        | Compensates for blue cast in shade — restoring neutral, not adding warmth              |
+| **Architecture — daylight**       | Daylight        | 5600K      | **None**        | Neutral rendering preserves material colors (stone, glass, metal) accurately           |
+| **Architecture — mixed / indoor** | Custom K        | 4000-5000K | **None**        | Match the dominant light source; Hasselblad look demands accurate WB, not mood WB      |
+| **Portrait — outdoor**            | Daylight        | 5600K      | **None**        | Completely neutral skin — Hasselblad renders skin as-is, never flatters or warms       |
+| **Portrait — indoor**             | Custom K        | 4000-4800K | **None or G+1** | Custom K for accuracy; optional G+1 counters tungsten's magenta cast for pure neutral  |
+| **Golden hour**                   | Daylight        | 5600K      | **B+1**         | Counteract excessive warmth — Hasselblad preserves golden light but doesn't amplify it |
+
+> 💡 **Key principle — Hasselblad warmth comes from the scene, not the camera.**
+> Use **no WB Shift** in most conditions. Where Leica *adds* amber warmth (A+1)
+> and China Photo Studio *adds* rose warmth (A+2/M+2), the Hasselblad approach
+> *removes* any camera-introduced cast. If the scene itself is warm (golden hour, tungsten),
+> that warmth shows through naturally — but it's the scene's warmth, not yours.
+
+> **Tip — AWB is actually acceptable for Hasselblad emulation.**
+> Unlike Leica and China Photo Studio where you need to *build* a deliberate color cast,
+> the Hasselblad look benefits from AWB's neutralizing behavior.
+> AWB's goal (remove color casts) aligns with Hasselblad's goal (show accurate color).
+> Use AWB when conditions change rapidly (travel walk, mixed indoor/outdoor);
+> switch to Daylight or Custom K when you want frame-to-frame consistency.
+
+> **Tip — The B+1 golden-hour trick:** Hasselblad images of sunsets
+> look different from Leica images of the same sunset — they're still warm,
+> but with restraint. A subtle **B+1** (Blue shift) at golden hour
+> pulls back some of the extreme warmth, producing the "refined, not screaming"
+> golden-hour rendering that medium-format Hasselblad images are known for.
+> Don't push to B+2 — that kills the mood entirely.
 
 **Post-Processing in Lightroom — Hasselblad Refinement:**
 
