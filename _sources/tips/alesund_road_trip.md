@@ -16,7 +16,7 @@
 ## 📋 Executive Summary
 
 **A solo Easter road trip through central Norway to the Atlantic coast — testing gear,
-testing color presets, and confronting the reality of Nordic spring weather.**
+testing colour presets, and confronting the reality of Nordic spring weather.**
 
 This article captures field reflections and practical tips from a drive through
 some of Norway's most photogenic scenery under less-than-ideal conditions.
@@ -64,28 +64,28 @@ frustratingly brief appearances of the sun.
 
 Analysis of all A7C II photos from this trip reveals a clear pattern:
 
-| Focal Length Range | Photos | Percentage | Key Use                                            |
-| ------------------ | ------ | ---------- | -------------------------------------------------- |
+| Focal Length Range | Photos | Percentage | Key Use                                             |
+| ------------------ | ------ | ---------- | --------------------------------------------------- |
 | **20mm**           | 340    | **28.1%**  | Panoramas, architecture context, wide storytelling  |
 | **21-34mm**        | 136    | 11.2%      | Moderate wide — street scenes, interior framing     |
 | **35mm**           | 240    | **19.8%**  | Sigma at 35mm + SIRUI prime (both register as 35mm) |
-| **36-51mm**        | 100    | 8.3%       | Standard range — transitional framing               |
-| **52mm**           | 74     | **6.1%**   | SIRUI 35mm in APS-C crop mode (35×1.5≈52mm)        |
-| **53-99mm**        | 118    | 9.8%       | Short telephoto — isolating architectural details   |
-| **100-199mm**      | 96     | 7.9%       | Telephoto — facade details, distant landscapes      |
+| **36-51mm**        | 112    | 9.3%       | Standard range — transitional framing               |
+| **52mm**           | 74     | **6.1%**   | SIRUI 35mm in APS-C crop mode (35×1.5≈52mm)         |
+| **53-99mm**        | 136    | 11.2%      | Short telephoto — isolating architectural details   |
+| **100-199mm**      | 104    | 8.6%       | Telephoto — facade details, distant landscapes      |
 | **200mm**          | 62     | **5.1%**   | Sigma maximum — waves, mountain details             |
 | **250-300mm**      | 6      | 0.5%       | APS-C crop at telephoto — barely used               |
 | **Overall median** | —      | **35mm**   | Confirms 35mm as the natural "centre of gravity"    |
 
 **Per-day breakdown:**
 
-| Day        | Photos | Character                                                              |
-| ---------- | ------ | ---------------------------------------------------------------------- |
-| Apr 2      | 102    | Bimodal: 35% at 20mm + 31% at 35mm. Arrival day, exploring on foot    |
-| Apr 3      | 464    | Big day: 24% at 20mm, 41% at 35mm, 15% at 52mm. Heavy SIRUI usage    |
-| **Apr 4**  | **514**| **Most prolific day.** Widest focal length spread (20-300mm). Likely main Ålesund + Aksla day |
-| Apr 5      | 32     | Minimal: 88% at 20mm. Driving day or poor weather                     |
-| Apr 6      | 98     | Spread across many focal lengths. Return day with scenic stops        |
+| Day       | Photos  | Character                                                                                     |
+| --------- | ------- | --------------------------------------------------------------------------------------------- |
+| Apr 2     | 102     | Bimodal: 35% at 20mm + 31% at 35mm. Arrival day, exploring on foot                            |
+| Apr 3     | 464     | Big day: 24% at 20mm, 41% at 35mm, 15% at 52mm. Heavy SIRUI usage                             |
+| **Apr 4** | **514** | **Most prolific day.** Widest focal length spread (20-300mm). Likely main Ålesund + Aksla day |
+| Apr 5     | 32      | Minimal: 88% at 20mm. Driving day or poor weather                                             |
+| Apr 6     | 98      | Spread across many focal lengths. Return day with scenic stops                                |
 
 **Key findings:**
 
@@ -172,7 +172,7 @@ subject — especially in rough weather.
 **The data confirms it:** across 1,210 photos, the Sigma's full 20-200mm range was exercised
 continuously. 20mm accounted for 28% of shots (panoramas, street context),
 while 200mm was hit 62 times (5.1%) — the Sigma's maximum was a frequently used ceiling,
-not a rarely touched extreme. The 100-200mm telephoto range totalled ~13% of all shots.
+not a rarely touched extreme. The 100-200mm telephoto range totalled ~14% of all shots.
 
 Consistent with the [Luoyang field report](post_purchase_usage.md), the Sigma 20-200mm
 once again proved that a single superzoom is the right daytime strategy for solo travel.
@@ -296,29 +296,29 @@ This test was designed to answer a specific question from the
 
 Two comparison points were tested, each under three lighting scenarios:
 
-| Test          | A7C II + Sigma Setup                                                 | HX90 Setup          |
-| ------------- | -------------------------------------------------------------------- | -------------------- |
-| **Test 1**    | 200mm, APS-C crop mode → **300mm equivalent** (14 MP)               | Zoom to **300mm**    |
-| **Test 2**    | 200mm, APS-C crop mode → 300mm equivalent, then **~2.4× digital enlargement on PC** → simulating ~720mm | Zoom to **720mm** |
+| Test       | A7C II + Sigma Setup                                                                                    | HX90 Setup        |
+| ---------- | ------------------------------------------------------------------------------------------------------- | ----------------- |
+| **Test 1** | 200mm, APS-C crop mode → **300mm equivalent** (14 MP)                                                   | Zoom to **300mm** |
+| **Test 2** | 200mm, APS-C crop mode → 300mm equivalent, then **~2.4× digital enlargement on PC** → simulating ~720mm | Zoom to **720mm** |
 
 Three lighting scenarios for each test:
 
-| Scenario              | Description                                              |
-| --------------------- | -------------------------------------------------------- |
-| **Bright outdoor**    | Overcast daylight (~5°C, no direct sun but ample light)  |
-| **Well-lit indoor**   | Interior room with electric lighting, no window light    |
-| **Poorly-lit indoor** | Dim interior, minimal artificial light                   |
+| Scenario              | Description                                             |
+| --------------------- | ------------------------------------------------------- |
+| **Bright outdoor**    | Overcast daylight (~5°C, no direct sun but ample light) |
+| **Well-lit indoor**   | Interior room with electric lighting, no window light   |
+| **Poorly-lit indoor** | Dim interior, minimal artificial light                  |
 
 (test-results)=
 ### 3.2 Results
 
 **Test 1 — At 300mm equivalent: A7C II + Sigma wins decisively.**
 
-| Scenario              | Winner                 | Margin                                                                                |
-| --------------------- | ---------------------- | ------------------------------------------------------------------------------------- |
-| **Bright outdoor**    | **A7C II + Sigma**     | Not even comparable — full-frame sensor + quality optics vs 1/2.3-inch compact sensor |
-| **Well-lit indoor**   | **A7C II + Sigma**     | Same — dramatically sharper, less noise, better colour                                |
-| **Poorly-lit indoor** | **A7C II + Sigma**     | Even more pronounced — HX90 falls apart at high ISO                                  |
+| Scenario              | Winner             | Margin                                                                                |
+| --------------------- | ------------------ | ------------------------------------------------------------------------------------- |
+| **Bright outdoor**    | **A7C II + Sigma** | Not even comparable — full-frame sensor + quality optics vs 1/2.3-inch compact sensor |
+| **Well-lit indoor**   | **A7C II + Sigma** | Same — dramatically sharper, less noise, better colour                                |
+| **Poorly-lit indoor** | **A7C II + Sigma** | Even more pronounced — HX90 falls apart at high ISO                                   |
 
 **This was expected.** At the same focal length, a full-frame sensor with a quality lens
 should always outperform a tiny 1/2.3-inch compact sensor. The A7C II + Sigma
@@ -334,7 +334,7 @@ and more accurate colour than the HX90 at 300mm.
 | Scenario              | Winner             | Margin                                                                                        |
 | --------------------- | ------------------ | --------------------------------------------------------------------------------------------- |
 | **Bright outdoor**    | **HX90**           | ~2× sharper / more resolved than Sigma 300mm crop enlarged 2.4× — optical zoom beats digital  |
-| **Well-lit indoor**   | **HX90**           | ~2× sharper — same principle: real optical resolution vs interpolated enlargement              |
+| **Well-lit indoor**   | **HX90**           | ~2× sharper — same principle: real optical resolution vs interpolated enlargement             |
 | **Poorly-lit indoor** | **A7C II + Sigma** | HX90's tiny sensor drowns in noise at high ISO; the Sigma's larger sensor retains more detail |
 
 **This is the critical finding.** At 720mm equivalent, the HX90's real optical zoom
@@ -367,15 +367,15 @@ that don't materially improve the photograph.
 
 **When 720mm is still worth carrying the HX90:**
 
-| Scenario                                        | Bring HX90? | Rationale                                                                                                  |
-| ----------------------------------------------- | ----------- | ---------------------------------------------------------------------------------------------------------- |
-| **City / architecture travel**                   | ❌ No        | 300mm APS-C crop from Sigma is more than enough; HX90 adds weight without real benefit                     |
-| **Coastal landscapes**                           | ❌ No        | The story is in the wide/medium view, not pixel-level distant details                                      |
-| **Nature / wildlife safari (e.g. Svalbard)**     | ✅ Yes       | Wildlife at 50-100m+ needs 500-720mm; HX90's optical zoom is irreplaceable here in good daylight           |
-| **Bird photography at lakes/wetlands**           | ✅ Yes       | Birds are small and distant; 300mm is rarely enough for frame-filling shots                                |
-| **Sports from spectator stands (e.g. diving)**   | ✅ Yes       | Confirmed by [diving school analysis](../gears/lens_recommendation.md) — 15-30m distance needs 400mm+     |
-| **Solo trip, weight-sensitive, good weather**    | ⚠️ Maybe     | If you know specific 500mm+ subjects exist (whales, distant wildlife), bring it; otherwise skip            |
-| **Rainy / overcast / low-light trip**            | ❌ No        | HX90's advantage disappears in poor light; stick with A7C II + Sigma for better high-ISO performance       |
+| Scenario                                       | Bring HX90? | Rationale                                                                                             |
+| ---------------------------------------------- | ----------- | ----------------------------------------------------------------------------------------------------- |
+| **City / architecture travel**                 | ❌ No        | 300mm APS-C crop from Sigma is more than enough; HX90 adds weight without real benefit                |
+| **Coastal landscapes**                         | ❌ No        | The story is in the wide/medium view, not pixel-level distant details                                 |
+| **Nature / wildlife safari (e.g. Svalbard)**   | ✅ Yes       | Wildlife at 50-100m+ needs 500-720mm; HX90's optical zoom is irreplaceable here in good daylight      |
+| **Bird photography at lakes/wetlands**         | ✅ Yes       | Birds are small and distant; 300mm is rarely enough for frame-filling shots                           |
+| **Sports from spectator stands (e.g. diving)** | ✅ Yes       | Confirmed by [diving school analysis](../gears/lens_recommendation.md) — 15-30m distance needs 400mm+ |
+| **Solo trip, weight-sensitive, good weather**  | ⚠️ Maybe     | If you know specific 500mm+ subjects exist (whales, distant wildlife), bring it; otherwise skip       |
+| **Rainy / overcast / low-light trip**          | ❌ No        | HX90's advantage disappears in poor light; stick with A7C II + Sigma for better high-ISO performance  |
 
 **The bottom-line decision framework:**
 
@@ -410,11 +410,11 @@ Do you expect subjects beyond 300mm that you MUST capture in detail?
 The three-preset scheme from the [colour grading article](color_grading.md) was designed
 around **subject-based** classification:
 
-| Preset                 | Base | Designed For              |
-| ---------------------- | ---- | ------------------------- |
-| 1: Portrait Warm       | FL   | Portraits, people         |
-| 2: City Vivid          | IN   | Daytime cityscapes        |
-| 3: Landscape Bold      | IN   | Nature landscapes         |
+| Preset            | Base | Designed For       |
+| ----------------- | ---- | ------------------ |
+| 1: Portrait Warm  | FL   | Portraits, people  |
+| 2: City Vivid     | IN   | Daytime cityscapes |
+| 3: Landscape Bold | IN   | Nature landscapes  |
 
 In practice, these presets struggled on the Ålesund trip for four reasons:
 
@@ -461,13 +461,13 @@ where subjects are mixed but lighting conditions are the primary variable.
 
 **Proposed scheme:**
 
-| Slot | Preset Name                    | Base | Primary Use                                        |
-| ---- | ------------------------------ | ---- | -------------------------------------------------- |
-| 1    | **Portrait**                   | FL   | People, companions, strangers, self-portraits       |
-| 2    | **Outdoor Sunny**              | IN   | Bright daylight — clear or broken cloud             |
-| 3    | **Outdoor Cloudy / Overcast**  | FL   | Flat, diffused light — the Nordic default           |
-| M1   | **City Nightscape**            | FL   | After-dark city scenes, artificial lighting          |
-| M2   | **Indoor Museum / Still Life** | FL   | Museums, galleries, indoor exhibits, restaurants    |
+| Slot | Preset Name                    | Base | Primary Use                                      |
+| ---- | ------------------------------ | ---- | ------------------------------------------------ |
+| 1    | **Portrait**                   | FL   | People, companions, strangers, self-portraits    |
+| 2    | **Outdoor Sunny**              | IN   | Bright daylight — clear or broken cloud          |
+| 3    | **Outdoor Cloudy / Overcast**  | FL   | Flat, diffused light — the Nordic default        |
+| M1   | **City Nightscape**            | FL   | After-dark city scenes, artificial lighting      |
+| M2   | **Indoor Museum / Still Life** | FL   | Museums, galleries, indoor exhibits, restaurants |
 
 > 💡 **Key change: the outdoor presets split on *weather*, not *subject*.**
 > In Norway (and Northern Europe generally), whether it's sunny or overcast
@@ -486,20 +486,20 @@ A five-preset scheme requires registering five different Creative Look configura
 
 **Practical implementation:**
 
-| Method                            | Slots Available | Suitability                                                       |
-| --------------------------------- | --------------- | ----------------------------------------------------------------- |
-| **Mode dial M1 / M2 / M3**       | 3               | Assign the three most-used presets for instant dial access         |
-| **MR Memory Recall (menu-based)** | 4+ additional   | Slower to access, suitable for less-used presets                  |
+| Method                            | Slots Available | Suitability                                                |
+| --------------------------------- | --------------- | ---------------------------------------------------------- |
+| **Mode dial M1 / M2 / M3**        | 3               | Assign the three most-used presets for instant dial access |
+| **MR Memory Recall (menu-based)** | 4+ additional   | Slower to access, suitable for less-used presets           |
 
 **Recommended assignment for Nordic travel:**
 
-| Dial / Slot | Preset                        | Rationale                                                    |
-| ----------- | ----------------------------- | ------------------------------------------------------------ |
-| **M1**      | Outdoor Cloudy / Overcast     | Most frequently needed in Nordic spring — instant dial access |
-| **M2**      | Outdoor Sunny                 | Second most used — quick switch for sun breaks               |
-| **M3**      | Portrait                      | Ready for people opportunities when they arise               |
-| **MR 1**    | City Nightscape               | Used only after dark — menu access is acceptable             |
-| **MR 2**    | Indoor Museum / Still Life    | Used only indoors — menu access is acceptable                |
+| Dial / Slot | Preset                     | Rationale                                                     |
+| ----------- | -------------------------- | ------------------------------------------------------------- |
+| **M1**      | Portrait                   | Ready for people opportunities when they arise                |
+| **M2**      | Outdoor Sunny              | Quick switch for sun breaks — second most used                |
+| **M3**      | Outdoor Cloudy / Overcast  | Most frequently needed in Nordic spring — instant dial access |
+| **MR 1**    | City Nightscape            | Used only after dark — menu access is acceptable              |
+| **MR 2**    | Indoor Museum / Still Life | Used only indoors — menu access is acceptable                 |
 
 **Verdict: Fully feasible.** The three most time-sensitive presets live on the mode dial,
 and the two situation-specific ones are accessible through the menu
@@ -523,24 +523,24 @@ This preset is essentially unchanged from the existing
 [Portrait Warm](color_grading.md#preset-1-portrait-warm--fl-based) preset —
 portrait rendering doesn't change with geography.
 
-| Parameter           | Value  | Rationale                                                    |
-| ------------------- | ------ | ------------------------------------------------------------ |
-| **Contrast**        | **−2** | Soft skin rendering, reduced harsh shadows on faces          |
-| **Highlights**      | **−1** | Protects skin highlights from blowing out                    |
-| **Shadows**         | **+1** | Opens up under-chin and eye-socket shadows                   |
-| **Fade**            | **1**  | Lifts deepest blacks for an approachable feel                |
-| **Saturation**      | **−1** | Prevents skin from going orange under FL's warmth            |
-| **Sharpness**       | **0**  | Minimum — smooth skin texture                                |
-| **Sharpness Range** | **1**  | Minimum — default                                            |
-| **Clarity**         | **0**  | Minimum — smoothest skin rendering                           |
+| Parameter           | Value  | Rationale                                           |
+| ------------------- | ------ | --------------------------------------------------- |
+| **Contrast**        | **−2** | Soft skin rendering, reduced harsh shadows on faces |
+| **Highlights**      | **−1** | Protects skin highlights from blowing out           |
+| **Shadows**         | **+1** | Opens up under-chin and eye-socket shadows          |
+| **Fade**            | **1**  | Lifts deepest blacks for an approachable feel       |
+| **Saturation**      | **−1** | Prevents skin from going orange under FL's warmth   |
+| **Sharpness**       | **0**  | Minimum — smooth skin texture                       |
+| **Sharpness Range** | **1**  | Minimum — default                                   |
+| **Clarity**         | **0**  | Minimum — smoothest skin rendering                  |
 
 **White Balance:**
 
-| Condition            | WB Mode  | Kelvin     | WB Shift   |
-| -------------------- | -------- | ---------- | ---------- |
-| Outdoor daylight     | Daylight | 5600K      | A+1        |
-| Indoor               | Custom K | 4000-4500K | A+1 to A+2 |
-| Nordic overcast      | Cloudy   | 6000K      | A+1        |
+| Condition        | WB Mode  | Kelvin     | WB Shift   |
+| ---------------- | -------- | ---------- | ---------- |
+| Outdoor daylight | Daylight | 5600K      | A+1        |
+| Indoor           | Custom K | 4000-4500K | A+1 to A+2 |
+| Nordic overcast  | Cloudy   | 6000K      | A+1        |
 
 (new-preset-2-outdoor-sunny)=
 #### Preset 2: Outdoor Sunny
@@ -551,24 +551,24 @@ IN's natural vibrancy complements the brighter, higher-contrast conditions
 of sunny weather. This preset is more moderate than the old "Landscape Bold" —
 it works for both city architecture and natural scenery in good light.
 
-| Parameter           | Value  | Rationale                                                                     |
-| ------------------- | ------ | ----------------------------------------------------------------------------- |
-| **Contrast**        | **+1** | Moderate punch — sunny light already has good contrast; don't overdo it       |
-| **Highlights**      | **−2** | Protects bright sky, white building facades, and snow on distant peaks        |
-| **Shadows**         | **+1** | Opens shadow detail in narrow streets and under tree canopy                   |
-| **Fade**            | **0**  | Solid blacks — keep the structure in sunny conditions                         |
-| **Saturation**      | **+1** | Gentle boost — IN is already vibrant; +1 is enough in good Nordic light      |
-| **Sharpness**       | **1**  | Crisps up architectural edges and landscape textures                          |
-| **Sharpness Range** | **1**  | Fine detail emphasis                                                          |
-| **Clarity**         | **2**  | Emphasises building surfaces and landscape depth                              |
+| Parameter           | Value  | Rationale                                                               |
+| ------------------- | ------ | ----------------------------------------------------------------------- |
+| **Contrast**        | **+1** | Moderate punch — sunny light already has good contrast; don't overdo it |
+| **Highlights**      | **−2** | Protects bright sky, white building facades, and snow on distant peaks  |
+| **Shadows**         | **+1** | Opens shadow detail in narrow streets and under tree canopy             |
+| **Fade**            | **0**  | Solid blacks — keep the structure in sunny conditions                   |
+| **Saturation**      | **+1** | Gentle boost — IN is already vibrant; +1 is enough in good Nordic light |
+| **Sharpness**       | **1**  | Crisps up architectural edges and landscape textures                    |
+| **Sharpness Range** | **1**  | Fine detail emphasis                                                    |
+| **Clarity**         | **2**  | Emphasises building surfaces and landscape depth                        |
 
 **White Balance:**
 
-| Condition                         | WB Mode  | Kelvin | WB Shift | Notes                                                      |
-| --------------------------------- | -------- | ------ | -------- | ---------------------------------------------------------- |
-| Strong sun (rare in Nordic spring) | Daylight | 5600K  | None     | Standard — let IN handle the mood                          |
-| Nordic sun (low, cool-tinted)     | Daylight | 5600K  | A+1      | Counters the cool blue bias of Nordic sunlight             |
-| Brief sun break through clouds   | Cloudy   | 6000K  | None     | Cloudy WB adds slight warmth to compensate for cool light  |
+| Condition                          | WB Mode  | Kelvin | WB Shift | Notes                                                     |
+| ---------------------------------- | -------- | ------ | -------- | --------------------------------------------------------- |
+| Strong sun (rare in Nordic spring) | Daylight | 5600K  | None     | Standard — let IN handle the mood                         |
+| Nordic sun (low, cool-tinted)      | Daylight | 5600K  | A+1      | Counters the cool blue bias of Nordic sunlight            |
+| Brief sun break through clouds     | Cloudy   | 6000K  | None     | Cloudy WB adds slight warmth to compensate for cool light |
 
 > 💡 **Nordic sun tip:** Even when the sun appears in Norway in April,
 > it's low on the horizon (~25-35° altitude at midday) and the atmosphere
@@ -586,25 +586,25 @@ from the existing scheme. FL is chosen over IN because overcast Nordic light
 is inherently cool and flat — FL's warm character counteracts the blue-grey cast,
 while IN's vivid punch can look garish when applied to genuinely desaturated scenes.
 
-| Parameter           | Value    | Rationale                                                                            |
-| ------------------- | -------- | ------------------------------------------------------------------------------------ |
-| **Contrast**        | **+1**   | Counteracts the low contrast of flat overcast light — adds needed tonal separation   |
-| **Highlights**      | **−1**   | Moderate — overcast skies rarely blow out, but white clouds need some protection     |
-| **Shadows**         | **+1**   | Opens up the shadows that tend to block up under flat light                          |
-| **Fade**            | **0**    | Keep blacks solid — overcast images already lack punch; don't soften them further    |
-| **Saturation**      | **+1**   | Compensates for the naturally desaturated overcast palette                            |
-| **Sharpness**       | **1**    | Adds definition that flat light removes from edges                                   |
-| **Sharpness Range** | **1**    | Fine detail emphasis                                                                 |
-| **Clarity**         | **2**    | Adds midtone texture and depth — critical for overcast scenes that look "flat"       |
+| Parameter           | Value  | Rationale                                                                          |
+| ------------------- | ------ | ---------------------------------------------------------------------------------- |
+| **Contrast**        | **+1** | Counteracts the low contrast of flat overcast light — adds needed tonal separation |
+| **Highlights**      | **−1** | Moderate — overcast skies rarely blow out, but white clouds need some protection   |
+| **Shadows**         | **+1** | Opens up the shadows that tend to block up under flat light                        |
+| **Fade**            | **0**  | Keep blacks solid — overcast images already lack punch; don't soften them further  |
+| **Saturation**      | **+1** | Compensates for the naturally desaturated overcast palette                         |
+| **Sharpness**       | **1**  | Adds definition that flat light removes from edges                                 |
+| **Sharpness Range** | **1**  | Fine detail emphasis                                                               |
+| **Clarity**         | **2**  | Adds midtone texture and depth — critical for overcast scenes that look "flat"     |
 
 **White Balance — the critical setting for this preset:**
 
-| Condition                            | WB Mode  | Kelvin     | WB Shift | Notes                                                              |
-| ------------------------------------ | -------- | ---------- | -------- | ------------------------------------------------------------------ |
-| **Heavy overcast / grey sky**        | Cloudy   | 6000K      | A+1      | Cloudy WB + amber shift counteracts the cold blue-grey cast        |
-| **Light overcast / bright grey**     | Cloudy   | 6000K      | None     | Less blue cast — Cloudy WB alone is sufficient                     |
-| **Drizzle / rain**                   | Shade    | 6500-7000K | A+1      | Rain amplifies blue cast; Shade WB + amber provides needed warmth  |
-| **Fog / mist**                       | Cloudy   | 6000K      | A+1      | Fog is naturally cool; same strategy as heavy overcast              |
+| Condition                        | WB Mode | Kelvin     | WB Shift | Notes                                                             |
+| -------------------------------- | ------- | ---------- | -------- | ----------------------------------------------------------------- |
+| **Heavy overcast / grey sky**    | Cloudy  | 6000K      | A+1      | Cloudy WB + amber shift counteracts the cold blue-grey cast       |
+| **Light overcast / bright grey** | Cloudy  | 6000K      | None     | Less blue cast — Cloudy WB alone is sufficient                    |
+| **Drizzle / rain**               | Shade   | 6500-7000K | A+1      | Rain amplifies blue cast; Shade WB + amber provides needed warmth |
+| **Fog / mist**                   | Cloudy  | 6000K      | A+1      | Fog is naturally cool; same strategy as heavy overcast            |
 
 > 💡 **Why FL and not IN for overcast?**
 > IN amplifies *what's already there*. Under overcast Nordic light,
@@ -621,7 +621,7 @@ while IN's vivid punch can look garish when applied to genuinely desaturated sce
 > When the sun breaks through, the FL-based overcast preset will look noticeably warm —
 > fine for a quick shot, but if the sun persists for more than a few minutes,
 > switch to Preset 2 (Outdoor Sunny / IN-based) for cleaner, punchier results.
-> On the A7C II mode dial (M1 = Overcast, M2 = Sunny), this is a one-click switch.
+> On the A7C II mode dial (M2 = Sunny, M3 = Overcast), this is a one-click switch.
 
 (new-preset-m1-nightscape)=
 #### Preset M1: City Nightscape
@@ -632,16 +632,16 @@ This preset is an evolution of the
 [Night Cityscapes](color_grading.md#12-cityscapes--daylight--night-indoor--outdoor)
 guidance from the colour grading article, packaged as a dedicated memory slot.
 
-| Parameter           | Value  | Rationale                                                             |
-| ------------------- | ------ | --------------------------------------------------------------------- |
-| **Contrast**        | **−1** | Prevents neon/street lamps from clipping harshly                      |
+| Parameter           | Value  | Rationale                                                              |
+| ------------------- | ------ | ---------------------------------------------------------------------- |
+| **Contrast**        | **−1** | Prevents neon/street lamps from clipping harshly                       |
 | **Highlights**      | **−2** | Tames bright light sources (neon, LEDs, harbour lights, car headlamps) |
-| **Shadows**         | **+2** | Reveals detail in dark building facades, alleyways, and water         |
-| **Fade**            | **1**  | Lifts shadows for a cinematic, film-noir mood                         |
-| **Saturation**      | **0**  | FL's natural warmth is sufficient; don't oversaturate neon colours    |
-| **Sharpness**       | **0**  | Night shots rarely benefit from extra sharpening (amplifies noise)    |
-| **Sharpness Range** | **1**  | Minimum — default for night                                           |
-| **Clarity**         | **1**  | Slight clarity helps building outlines; more would amplify noise      |
+| **Shadows**         | **+2** | Reveals detail in dark building facades, alleyways, and water          |
+| **Fade**            | **1**  | Lifts shadows for a cinematic, film-noir mood                          |
+| **Saturation**      | **0**  | FL's natural warmth is sufficient; don't oversaturate neon colours     |
+| **Sharpness**       | **0**  | Night shots rarely benefit from extra sharpening (amplifies noise)     |
+| **Sharpness Range** | **1**  | Minimum — default for night                                            |
+| **Clarity**         | **1**  | Slight clarity helps building outlines; more would amplify noise       |
 
 **White Balance:**
 
@@ -667,43 +667,43 @@ guidance from the colour grading article, packaged as a dedicated memory slot.
 Based on the existing [museum guidance](color_grading.md#15-museums--classical-artworks-eg-louvre--based-on-fl),
 with minor refinements for broader indoor use (not just classical art museums).
 
-| Parameter           | Value  | Rationale                                                                              |
-| ------------------- | ------ | -------------------------------------------------------------------------------------- |
-| **Contrast**        | **−1** | Indoor lighting is controlled; gentle contrast preserves tonal range                   |
-| **Highlights**      | **−1** | Protects ceiling fixtures and spot-lit exhibit highlights                               |
-| **Shadows**         | **+1** | Lifts floor-level shadows and darker corners in galleries                              |
-| **Fade**            | **1**  | Softens the sterile feel of artificial gallery lighting                                 |
-| **Saturation**      | **−1** | Prevents over-saturating artwork pigments under spot lighting                           |
-| **Sharpness**       | **1**  | Resolves fine artwork detail (brushwork, carving, text)                                |
-| **Sharpness Range** | **1**  | Fine detail emphasis for exhibits                                                      |
-| **Clarity**         | **1**  | Brings out surface texture (canvas, marble, wood) without harshness                    |
+| Parameter           | Value  | Rationale                                                            |
+| ------------------- | ------ | -------------------------------------------------------------------- |
+| **Contrast**        | **−1** | Indoor lighting is controlled; gentle contrast preserves tonal range |
+| **Highlights**      | **−1** | Protects ceiling fixtures and spot-lit exhibit highlights            |
+| **Shadows**         | **+1** | Lifts floor-level shadows and darker corners in galleries            |
+| **Fade**            | **1**  | Softens the sterile feel of artificial gallery lighting              |
+| **Saturation**      | **−1** | Prevents over-saturating artwork pigments under spot lighting        |
+| **Sharpness**       | **1**  | Resolves fine artwork detail (brushwork, carving, text)              |
+| **Sharpness Range** | **1**  | Fine detail emphasis for exhibits                                    |
+| **Clarity**         | **1**  | Brings out surface texture (canvas, marble, wood) without harshness  |
 
 **White Balance:**
 
-| Condition                            | WB Mode  | Kelvin     | WB Shift | Notes                                            |
-| ------------------------------------ | -------- | ---------- | -------- | ------------------------------------------------ |
-| Warm tungsten galleries (classical)  | Custom K | 3200-3800K | A+1      | Honours warm painting tones                       |
-| Modern LED-lit spaces                | Custom K | 4500-5000K | None     | Neutral rendering for contemporary art            |
-| Restaurant / café                    | Custom K | 3500-4200K | A+1      | Captures the warm, inviting atmosphere            |
-| Church / cathedral                   | Custom K | 3000-4000K | A+1      | Mixed candle + window light; lock K for stability |
+| Condition                           | WB Mode  | Kelvin     | WB Shift | Notes                                             |
+| ----------------------------------- | -------- | ---------- | -------- | ------------------------------------------------- |
+| Warm tungsten galleries (classical) | Custom K | 3200-3800K | A+1      | Honours warm painting tones                       |
+| Modern LED-lit spaces               | Custom K | 4500-5000K | None     | Neutral rendering for contemporary art            |
+| Restaurant / café                   | Custom K | 3500-4200K | A+1      | Captures the warm, inviting atmosphere            |
+| Church / cathedral                  | Custom K | 3000-4000K | A+1      | Mixed candle + window light; lock K for stability |
 
 **Pair with:** SIRUI Aurora 35mm f/1.4 (gallery rooms) + Viltrox 85mm f/2.0 (exhibit details).
 
 (new-preset-comparison)=
 ### 4.5 Side-by-Side Comparison: New Five-Preset Scheme
 
-| Parameter       | 1: Portrait (FL)    | 2: Outdoor Sunny (IN) | 3: Outdoor Cloudy (FL) | M1: Nightscape (FL) | M2: Museum (FL) |
-| --------------- | ------------------- | --------------------- | ---------------------- | -------------------- | --------------- |
-| Contrast        | −2                  | +1                    | +1                     | −1                   | −1              |
-| Highlights      | −1                  | −2                    | −1                     | −2                   | −1              |
-| Shadows         | +1                  | +1                    | +1                     | +2                   | +1              |
-| Fade            | 1                   | 0                     | 0                      | 1                    | 1               |
-| Saturation      | −1                  | +1                    | +1                     | 0                    | −1              |
-| Sharpness       | 0                   | 1                     | 1                      | 0                    | 1               |
-| Sharpness Range | 1                   | 1                     | 1                      | 1                    | 1               |
-| Clarity         | 0                   | 2                     | 2                      | 1                    | 1               |
-| **WB mode**     | Daylight / Cloudy   | Daylight              | Cloudy / Shade         | Custom K             | Custom K        |
-| **WB Shift**    | A+1                 | None / A+1            | A+1                    | M+1                  | A+1 / None      |
+| Parameter       | 1: Portrait (FL)  | 2: Outdoor Sunny (IN) | 3: Outdoor Cloudy (FL) | M1: Nightscape (FL) | M2: Museum (FL) |
+| --------------- | ----------------- | --------------------- | ---------------------- | ------------------- | --------------- |
+| Contrast        | −2                | +1                    | +1                     | −1                  | −1              |
+| Highlights      | −1                | −2                    | −1                     | −2                  | −1              |
+| Shadows         | +1                | +1                    | +1                     | +2                  | +1              |
+| Fade            | 1                 | 0                     | 0                      | 1                   | 1               |
+| Saturation      | −1                | +1                    | +1                     | 0                   | −1              |
+| Sharpness       | 0                 | 1                     | 1                      | 0                   | 1               |
+| Sharpness Range | 1                 | 1                     | 1                      | 1                   | 1               |
+| Clarity         | 0                 | 2                     | 2                      | 1                   | 1               |
+| **WB mode**     | Daylight / Cloudy | Daylight              | Cloudy / Shade         | Custom K            | Custom K        |
+| **WB Shift**    | A+1               | None / A+1            | A+1                    | M+1                 | A+1 / None      |
 
 (old-vs-new-comparison)=
 ### 4.6 When to Use Which Scheme
@@ -711,13 +711,13 @@ with minor refinements for broader indoor use (not just classical art museums).
 The new five-preset scheme doesn't *replace* the original three — it *complements* it
 for different geographies and travel conditions:
 
-| Condition                                                    | Recommended Scheme          |
-| ------------------------------------------------------------ | --------------------------- |
-| **Southern Europe / Asia (warm, sunny, distinct city/nature)** | Original 3-preset (subject-based) |
-| **Northern Europe / Nordic (cool, volatile, mixed scenes)**  | New 5-preset (lighting-based)     |
-| **Mixed trip (e.g. Oslo city + Lofoten nature)**              | New 5-preset                      |
-| **Dedicated nature/landscape trip (stable weather)**          | Original Preset 3 (Landscape Bold) is fine |
-| **Dedicated city trip (warm climate, stable light)**          | Original Preset 2 (City Vivid) is fine     |
+| Condition                                                      | Recommended Scheme                         |
+| -------------------------------------------------------------- | ------------------------------------------ |
+| **Southern Europe / Asia (warm, sunny, distinct city/nature)** | Original 3-preset (subject-based)          |
+| **Northern Europe / Nordic (cool, volatile, mixed scenes)**    | New 5-preset (lighting-based)              |
+| **Mixed trip (e.g. Oslo city + Lofoten nature)**               | New 5-preset                               |
+| **Dedicated nature/landscape trip (stable weather)**           | Original Preset 3 (Landscape Bold) is fine |
+| **Dedicated city trip (warm climate, stable light)**           | Original Preset 2 (City Vivid) is fine     |
 
 > 💡 **The underlying principle:**
 > When the lighting conditions vary more than the subjects, organise presets by light.
@@ -754,17 +754,17 @@ A few field-learned observations specific to photographing in Norway during spri
 
 Based on this trip, the optimal solo Nordic road trip kit is:
 
-| Item                              | Bring? | Notes                                                       |
-| --------------------------------- | ------ | ----------------------------------------------------------- |
-| **A7C II + Sigma 20-200mm**       | ✅ Yes  | Non-negotiable — daytime workhorse                          |
-| **SIRUI Aurora 35mm f/1.4**       | ✅ Yes  | Essential for dusk/evening; Nordic days are shorter than you think |
-| **Viltrox 85mm f/2.0 Evo**        | ❌ No   | Skip for solo trips with no portrait subjects               |
-| **Sony HX90**                     | ❌ No   | Skip for city/coastal trips; 300mm crop is sufficient       |
-| **CPL filter (on Sigma)**         | ✅ Yes  | Useful even under overcast — cuts glare from wet surfaces   |
-| **Extra battery**                 | ✅ Yes  | Cold weather + heavy shooting drains batteries faster       |
-| **Mobile phone (Samsung S25)**    | ✅ Yes  | Ultra-wide backup (13mm), weather checks, navigation        |
+| Item                           | Bring? | Notes                                                              |
+| ------------------------------ | ------ | ------------------------------------------------------------------ |
+| **A7C II + Sigma 20-200mm**    | ✅ Yes  | Non-negotiable — daytime workhorse                                 |
+| **SIRUI Aurora 35mm f/1.4**    | ✅ Yes  | Essential for dusk/evening; Nordic days are shorter than you think |
+| **Viltrox 85mm f/2.0 Evo**     | ❌ No   | Skip for solo trips with no portrait subjects                      |
+| **Sony HX90**                  | ❌ No   | Skip for city/coastal trips; 300mm crop is sufficient              |
+| **CPL filter (on Sigma)**      | ✅ Yes  | Useful even under overcast — cuts glare from wet surfaces          |
+| **Extra battery**              | ✅ Yes  | Cold weather + heavy shooting drains batteries faster              |
+| **Mobile phone (Samsung S25)** | ✅ Yes  | Ultra-wide backup (13mm), weather checks, navigation               |
 
-**Total camera gear weight:** ~1,564g (body + two lenses + filter + battery)
+**Total camera gear weight:** ~1,564g (body + two lenses) + filter and battery
 
 **Compared to the "full kit" (all four optics + HX90):** saves 576g
 (Viltrox 298g + HX90 ~245g + HX90 battery ~33g).
