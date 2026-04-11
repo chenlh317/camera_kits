@@ -13,8 +13,8 @@
 
 **You chose Option 1B (Sigma 20-200mm superzoom) with a "newer model + value" prime kit
 (SIRUI Aurora 35mm f/1.4 + Viltrox 85mm f/2.0 Evo).
-After one real-world trip, here are grounded observations and practical tips
-for getting the most out of what you actually own.**
+After one real-world trip (1,154 photos analyzed), here are data-backed observations
+and practical tips for getting the most out of what you actually own.**
 
 (what-you-bought-and-why)=
 ### 🛒 What You Bought and Why
@@ -63,6 +63,62 @@ Luoyang offered a diverse test: Longmen Grottoes (landscape + cultural heritage)
 Erlitou Site Museum of the Xia Capital (dim indoor exhibits),
 vibrant street life, and spontaneous cosplayer photography — combining sightseeing,
 low-light museum visits, night walks, and candid street portraiture in a single trip.
+
+(luoyang-shooting-data)=
+### 📊 Shooting Data: 1,154 Photos Analyzed
+
+**Overall focal length distribution (all 4 days, dedicated camera + phone):**
+
+| Focal Length     | Count | % of Total | Lens / Device              |
+| ---------------- | ----- | ---------- | -------------------------- |
+| **20mm**         | 200   | 17.3%      | Sigma 20-200mm (wide end)  |
+| **35mm**         | 346   | 30.0%      | SIRUI Aurora 35mm f/1.4    |
+| **85mm**         | 282   | 24.4%      | Viltrox 85mm f/2.0 Evo     |
+| **100-200mm**    | ~90   | ~7.8%      | Sigma 20-200mm (telephoto) |
+| **40-80mm**      | ~62   | ~5.4%      | Sigma 20-200mm (mid-range) |
+| **23mm** (phone) | 34    | 2.9%       | Samsung S25 (1x)           |
+| **69mm** (phone) | 10    | 0.9%       | Samsung S25 (3x tele)      |
+| Other            | ~130  | ~11.3%     | Various                    |
+
+**Key takeaway:** Three focal lengths — **20mm, 35mm, and 85mm — account for ~72% of all photos.**
+This trimodal "three-peak" distribution perfectly validates the three-lens kit choice.
+
+**Day-by-day breakdown:**
+
+| Day              | Photos | Dominant Focal Lengths             | Interpretation                                              |
+| ---------------- | ------ | ---------------------------------- | ----------------------------------------------------------- |
+| **Day 1** (0315) | 84     | 35mm (79%), 20mm (12%)             | Evening arrival — almost entirely SIRUI night city walk     |
+| **Day 2** (0316) | 674    | 35mm (31%), 85mm (32%), 20mm (15%) | Full sightseeing day — all three lenses heavily used        |
+| **Day 3** (0317) | 346    | 20mm (27%), 35mm (21%), 85mm (20%) | Balanced day — wide-angle slightly dominant (outdoor sites) |
+| **Phone** (root) | 50     | 23mm (68%), 69mm (20%)             | Casual phone shots throughout the trip                      |
+
+**What the data reveals:**
+
+1. **35mm is the single most-used focal length (30%)** — a notable shift from your historical
+   21-year pattern where 20-24mm was the 65-80% workhorse. With f/1.4 glass available,
+   35mm became the default choice for both night walks AND daytime scenes.
+   The SIRUI wasn't just a "night lens" — it was the trip's workhorse.
+
+2. **85mm usage (24%) is dramatically higher than your historical 5-10%.** Cosplayer and street
+   portrait photography is a genuine new shooting style that reshaped your focal length distribution.
+   The Viltrox Evo earned its place in the kit with hard numbers.
+
+3. **Day 1 confirms the "monofocal night walk" use case:** 79% at 35mm means you mounted
+   the SIRUI and barely touched another lens. This is exactly the workflow described in
+   the [dusk-to-night packing guide](packing-dusk-to-night-city-walk).
+
+4. **Phone contribution was minimal (4.3%)** — far below your historical 22% mobile share.
+   This was a "camera-first" trip, reflecting the intent to test new gear.
+   On future casual trips, expect the phone share to recover.
+
+5. **Telephoto above 100mm was only ~8%.** The Sigma's 200mm reach is a convenience
+   for occasional detail shots, not a frequent need. This supports treating it as a
+   "daytime sightseeing" lens rather than a telephoto workhorse.
+
+6. **The 40-80mm "dead zone" is still dead (~5%).** Even with a zoom that covers it seamlessly,
+   you naturally gravitate to the three peaks — confirming that a three-prime kit
+   (20mm + 35mm + 85mm) would theoretically cover ~72% of your shots, though the zoom's
+   flexibility at 20-200mm remains valuable for the remaining 28%.
 
 (field-report-lens-usage-by-scenario)=
 ### 🎯 Lens Usage by Scenario
@@ -963,13 +1019,14 @@ without adjusting the tripod. Use MF and keep lighting even.
 | **Philosophy** | Best quality in primary zone                        | Newer models + price-to-performance | ✅ Conscious choice |
 
 **Bottom line:** You followed the data-driven analysis, chose the value/low-light path,
-and the Luoyang trip validated the approach. The Sigma superzoom handles daytime effortlessly,
-the fast primes handle low-light and portraits, and the compact Viltrox + A7C II combo
-is genuinely discreet for stranger photography.
+and the Luoyang trip validated the approach with hard numbers:
+1,154 photos showing a clear **20mm / 35mm / 85mm trimodal distribution** (~72% of all shots).
+The Sigma superzoom handles daytime effortlessly,
+the SIRUI became the trip's single most-used lens (30% at 35mm),
+and the Viltrox earned its place with 24% of shots at 85mm —
+far above the historical 5-10% portrait usage, driven by cosplayer photography.
 
-The only open question — 35mm f/1.4 vs f/1.8 size — is a personal comfort trade-off,
-not a wrong decision. Keep using the SIRUI where its strengths matter (night, video, bokeh),
-and don't carry it when the Sigma covers the day.
+The three-lens kit isn't just theoretically sound — the first trip's data proves it.
 
 (old-vs-new-gear-comparison)=
 ### 🔄 Old Kit vs New Kit: What Actually Changed
