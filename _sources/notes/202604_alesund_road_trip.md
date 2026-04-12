@@ -90,7 +90,7 @@ Analysis of all A7C II photos from this trip reveals a clear pattern:
 **Key findings:**
 
 1. **20mm + 35mm = 48% of all shots.** Your two anchor focal lengths once again
-   dominate — consistent with your [21-year historical pattern](photographing_tips.md)
+   dominate — consistent with your [21-year historical pattern](../tips/photographing_tips.md)
    of 65-80% at 20-35mm.
 2. **52mm peak (6.1%) reveals significant SIRUI APS-C crop usage.**
    The 35mm SIRUI in crop mode gives a 52mm equivalent — a "standard" perspective
@@ -174,7 +174,7 @@ continuously. 20mm accounted for 28% of shots (panoramas, street context),
 while 200mm was hit 62 times (5.1%) — the Sigma's maximum was a frequently used ceiling,
 not a rarely touched extreme. The 100-200mm telephoto range totalled ~14% of all shots.
 
-Consistent with the [Luoyang field report](post_purchase_usage.md), the Sigma 20-200mm
+Consistent with the [Luoyang field report](202603_luoyang_post_purchase_usage.md), the Sigma 20-200mm
 once again proved that a single superzoom is the right daytime strategy for solo travel.
 In Ålesund's compact town centre, you constantly alternate between wide street scenes (20mm)
 and telephoto details on building facades (150-200mm) — the zoom range
@@ -239,7 +239,7 @@ The SIRUI at f/1.4 picked up where the zoom left off.
 > that's closer to human vision than 35mm.
 > This avoids swapping back to the Sigma for moderate-telephoto shots,
 > and the SIRUI at f/1.4 in crop mode (14 MP) still delivers excellent quality.
-> **This is a valuable addition to the [two-prime workflow](post_purchase_usage.md):**
+> **This is a valuable addition to the [two-prime workflow](202603_luoyang_post_purchase_usage.md):**
 > the SIRUI effectively doubles as a 35mm f/1.4 AND a 52mm f/1.4,
 > reducing the gap between 35mm and 85mm in your prime kit.
 
@@ -407,7 +407,7 @@ Do you expect subjects beyond 300mm that you MUST capture in detail?
 (4-color-grading-for-nordic-spring)=
 ## **4. Colour Grading for Norwegian Spring: Why the Existing Presets Didn't Work**
 
-The three-preset scheme from the [colour grading article](color_grading.md) was designed
+The three-preset scheme from the [colour grading article](../tips/color_grading.md) was designed
 around **subject-based** classification:
 
 | Preset            | Base | Designed For       |
@@ -520,7 +520,7 @@ to complement each lighting scenario.
 **Base Look: FL** | **When:** Anytime you're photographing people.
 
 This preset is essentially unchanged from the existing
-[Portrait Warm](color_grading.md#preset-1-portrait-warm--fl-based) preset —
+[Portrait Warm](../tips/color_grading.md#preset-1-portrait-warm) preset —
 portrait rendering doesn't change with geography.
 
 | Parameter           | Value  | Rationale                                           |
@@ -629,7 +629,7 @@ while IN's vivid punch can look garish when applied to genuinely desaturated sce
 **Base Look: FL** | **When:** After dark — city streets, harbours, lit buildings, reflections.
 
 This preset is an evolution of the
-[Night Cityscapes](color_grading.md#12-cityscapes--daylight--night-indoor--outdoor)
+[Night Cityscapes](../tips/color_grading.md#fine-tune-cityscapes)
 guidance from the colour grading article, packaged as a dedicated memory slot.
 
 | Parameter           | Value  | Rationale                                                              |
@@ -664,7 +664,7 @@ guidance from the colour grading article, packaged as a dedicated memory slot.
 
 **Base Look: FL** | **When:** Museums, galleries, restaurants, indoor exhibits, churches.
 
-Based on the existing [museum guidance](color_grading.md#15-museums--classical-artworks-eg-louvre--based-on-fl),
+Based on the existing [museum guidance](../tips/color_grading.md#fine-tune-museums),
 with minor refinements for broader indoor use (not just classical art museums).
 
 | Parameter           | Value  | Rationale                                                            |

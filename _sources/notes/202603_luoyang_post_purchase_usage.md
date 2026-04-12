@@ -227,7 +227,7 @@ That's the difference between a sharp shot and a blurry one.
 > The SIRUI's bulk, which feels like a trade-off outdoors,
 > becomes a genuine advantage in dim galleries — this is exactly why you bought f/1.4.
 >
-> **Note:** The [photographing tips](photographing_tips) chapter recommends mobile phone
+> **Note:** The [photographing tips](../tips/photographing_tips.md) chapter recommends mobile phone
 > for museums when shooting casually with a child. That advice still holds for
 > bright, well-lit museums. For dim, spot-lit galleries like Erlitou,
 > the dedicated camera with fast primes produces noticeably better results.
