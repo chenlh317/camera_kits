@@ -441,7 +441,7 @@ A subject-based preset stays the same; the light-based need changes constantly.
 Norwegian spring under heavy overcast produces images with remarkably little
 tonal separation and muted colours. Preset 2 ("City Vivid" — IN-based, Contrast +1,
 Saturation +1) wasn't punchy enough to compensate. Preset 3 ("Landscape Bold" —
-Contrast +2, Saturation +2) was closer, but its aggressive Clarity +3
+Contrast +2, Saturation +2) was closer, but its aggressive Clarity 4
 made overcast skies look unnaturally gritty without actually improving the scene.
 
 **Problem 4: Cold colour cast even in sunlight.**
@@ -523,16 +523,16 @@ This preset is essentially unchanged from the existing
 {ref}`Portrait Warm <preset-1-portrait-warm>` preset —
 portrait rendering doesn't change with geography.
 
-| Parameter           | Value  | Rationale                                           |
-| ------------------- | ------ | --------------------------------------------------- |
-| **Contrast**        | **−2** | Soft skin rendering, reduced harsh shadows on faces |
-| **Highlights**      | **−1** | Protects skin highlights from blowing out           |
-| **Shadows**         | **+1** | Opens up under-chin and eye-socket shadows          |
-| **Fade**            | **1**  | Lifts deepest blacks for an approachable feel       |
-| **Saturation**      | **−1** | Prevents skin from going orange under FL's warmth   |
-| **Sharpness**       | **0**  | Minimum — smooth skin texture                       |
-| **Sharpness Range** | **1**  | Minimum — default                                   |
-| **Clarity**         | **0**  | Minimum — smoothest skin rendering                  |
+| Parameter           | Value  | Rationale                                                                       |
+| ------------------- | ------ | ------------------------------------------------------------------------------- |
+| **Contrast**        | **−1** | Soft skin rendering while preserving facial dimensionality                      |
+| **Highlights**      | **−1** | Protects skin highlights from blowing out                                       |
+| **Shadows**         | **+1** | Opens up under-chin and eye-socket shadows                                      |
+| **Fade**            | **2**  | Lifts deepest blacks for an airy, filmic feel                                   |
+| **Saturation**      | **−1** | Prevents skin from going orange under FL's warmth                               |
+| **Sharpness**       | **2**  | Below FL's default (4) — keeps skin smooth while preserving eye/lash definition |
+| **Sharpness Range** | **2**  | Moderate radius — reaches facial features without skin pore level               |
+| **Clarity**         | **1**  | FL's default — subtle midtone structure for 3D facial dimensionality            |
 
 **White Balance:**
 
@@ -556,11 +556,11 @@ it works for both city architecture and natural scenery in good light.
 | **Contrast**        | **+1** | Moderate punch — sunny light already has good contrast; don't overdo it |
 | **Highlights**      | **−2** | Protects bright sky, white building facades, and snow on distant peaks  |
 | **Shadows**         | **+1** | Opens shadow detail in narrow streets and under tree canopy             |
-| **Fade**            | **0**  | Solid blacks — keep the structure in sunny conditions                   |
+| **Fade**            | **0**  | Removes IN's default fade (3) — solid blacks in sunny conditions        |
 | **Saturation**      | **+1** | Gentle boost — IN is already vibrant; +1 is enough in good Nordic light |
-| **Sharpness**       | **1**  | Crisps up architectural edges and landscape textures                    |
-| **Sharpness Range** | **1**  | Fine detail emphasis                                                    |
-| **Clarity**         | **2**  | Emphasises building surfaces and landscape depth                        |
+| **Sharpness**       | **5**  | Above IN's default (4) — crisps up architectural edges and textures     |
+| **Sharpness Range** | **3**  | IN's default — good balance for landscape and architectural detail      |
+| **Clarity**         | **3**  | Well above IN's default (1) — emphasises building surfaces and depth    |
 
 **White Balance:**
 
@@ -591,11 +591,11 @@ while IN's vivid punch can look garish when applied to genuinely desaturated sce
 | **Contrast**        | **+1** | Counteracts the low contrast of flat overcast light — adds needed tonal separation |
 | **Highlights**      | **−1** | Moderate — overcast skies rarely blow out, but white clouds need some protection   |
 | **Shadows**         | **+1** | Opens up the shadows that tend to block up under flat light                        |
-| **Fade**            | **0**  | Keep blacks solid — overcast images already lack punch; don't soften them further  |
+| **Fade**            | **0**  | Reduces FL's default fade (4) to zero — overcast images need punch, not softness   |
 | **Saturation**      | **+1** | Compensates for the naturally desaturated overcast palette                         |
-| **Sharpness**       | **1**  | Adds definition that flat light removes from edges                                 |
-| **Sharpness Range** | **1**  | Fine detail emphasis                                                               |
-| **Clarity**         | **2**  | Adds midtone texture and depth — critical for overcast scenes that look "flat"     |
+| **Sharpness**       | **4**  | FL's default — maintains edge definition that flat light tends to weaken           |
+| **Sharpness Range** | **2**  | Slightly below FL's default (3) — moderate radius for mixed city/nature scenes     |
+| **Clarity**         | **2**  | Above FL's default (1) — adds midtone texture and depth for flat overcast scenes   |
 
 **White Balance — the critical setting for this preset:**
 
@@ -632,16 +632,16 @@ This preset is an evolution of the
 {ref}`Night Cityscapes <fine-tune-cityscapes>`
 guidance from the colour grading article, packaged as a dedicated memory slot.
 
-| Parameter           | Value  | Rationale                                                              |
-| ------------------- | ------ | ---------------------------------------------------------------------- |
-| **Contrast**        | **−1** | Prevents neon/street lamps from clipping harshly                       |
-| **Highlights**      | **−2** | Tames bright light sources (neon, LEDs, harbour lights, car headlamps) |
-| **Shadows**         | **+2** | Reveals detail in dark building facades, alleyways, and water          |
-| **Fade**            | **1**  | Lifts shadows for a cinematic, film-noir mood                          |
-| **Saturation**      | **0**  | FL's natural warmth is sufficient; don't oversaturate neon colours     |
-| **Sharpness**       | **0**  | Night shots rarely benefit from extra sharpening (amplifies noise)     |
-| **Sharpness Range** | **1**  | Minimum — default for night                                            |
-| **Clarity**         | **1**  | Slight clarity helps building outlines; more would amplify noise       |
+| Parameter           | Value  | Rationale                                                                |
+| ------------------- | ------ | ------------------------------------------------------------------------ |
+| **Contrast**        | **−1** | Prevents neon/street lamps from clipping harshly                         |
+| **Highlights**      | **−2** | Tames bright light sources (neon, LEDs, harbour lights, car headlamps)   |
+| **Shadows**         | **+2** | Reveals detail in dark building facades, alleyways, and water            |
+| **Fade**            | **1**  | Reduces FL's default fade (4) for punchier shadows with cinematic lift   |
+| **Saturation**      | **0**  | FL's natural warmth is sufficient; don't oversaturate neon colours       |
+| **Sharpness**       | **2**  | Reduced from FL's default (4) — less sharpening avoids amplifying noise  |
+| **Sharpness Range** | **1**  | Minimum radius — narrower than FL's default (3) for cleaner night result |
+| **Clarity**         | **1**  | FL's default — slight clarity helps building outlines without noise      |
 
 **White Balance:**
 
@@ -667,16 +667,16 @@ guidance from the colour grading article, packaged as a dedicated memory slot.
 Based on the existing {ref}`museum guidance <fine-tune-museums>`,
 with minor refinements for broader indoor use (not just classical art museums).
 
-| Parameter           | Value  | Rationale                                                            |
-| ------------------- | ------ | -------------------------------------------------------------------- |
-| **Contrast**        | **−1** | Indoor lighting is controlled; gentle contrast preserves tonal range |
-| **Highlights**      | **−1** | Protects ceiling fixtures and spot-lit exhibit highlights            |
-| **Shadows**         | **+1** | Lifts floor-level shadows and darker corners in galleries            |
-| **Fade**            | **1**  | Softens the sterile feel of artificial gallery lighting              |
-| **Saturation**      | **−1** | Prevents over-saturating artwork pigments under spot lighting        |
-| **Sharpness**       | **1**  | Resolves fine artwork detail (brushwork, carving, text)              |
-| **Sharpness Range** | **1**  | Fine detail emphasis for exhibits                                    |
-| **Clarity**         | **1**  | Brings out surface texture (canvas, marble, wood) without harshness  |
+| Parameter           | Value  | Rationale                                                             |
+| ------------------- | ------ | --------------------------------------------------------------------- |
+| **Contrast**        | **−1** | Indoor lighting is controlled; gentle contrast preserves tonal range  |
+| **Highlights**      | **−1** | Protects ceiling fixtures and spot-lit exhibit highlights             |
+| **Shadows**         | **+1** | Lifts floor-level shadows and darker corners in galleries             |
+| **Fade**            | **1**  | Reduces FL's default fade (4) — softens sterile artificial lighting   |
+| **Saturation**      | **−1** | Prevents over-saturating artwork pigments under spot lighting         |
+| **Sharpness**       | **5**  | Above FL's default (4) — resolves fine artwork detail and textures    |
+| **Sharpness Range** | **3**  | FL's default — good balance for brushwork, carving, and text          |
+| **Clarity**         | **2**  | Above FL's default (1) — brings out surface texture without harshness |
 
 **White Balance:**
 
@@ -694,14 +694,14 @@ with minor refinements for broader indoor use (not just classical art museums).
 
 | Parameter       | 1: Portrait (FL)  | 2: Outdoor Sunny (IN) | 3: Outdoor Cloudy (FL) | M1: Nightscape (FL) | M2: Museum (FL) |
 | --------------- | ----------------- | --------------------- | ---------------------- | ------------------- | --------------- |
-| Contrast        | −2                | +1                    | +1                     | −1                  | −1              |
+| Contrast        | −1                | +1                    | +1                     | −1                  | −1              |
 | Highlights      | −1                | −2                    | −1                     | −2                  | −1              |
 | Shadows         | +1                | +1                    | +1                     | +2                  | +1              |
-| Fade            | 1                 | 0                     | 0                      | 1                   | 1               |
+| Fade            | 2                 | 0                     | 0                      | 1                   | 1               |
 | Saturation      | −1                | +1                    | +1                     | 0                   | −1              |
-| Sharpness       | 0                 | 1                     | 1                      | 0                   | 1               |
-| Sharpness Range | 1                 | 1                     | 1                      | 1                   | 1               |
-| Clarity         | 0                 | 2                     | 2                      | 1                   | 1               |
+| Sharpness       | 2                 | 5                     | 4                      | 2                   | 5               |
+| Sharpness Range | 2                 | 3                     | 2                      | 1                   | 3               |
+| Clarity         | 1                 | 3                     | 2                      | 1                   | 2               |
 | **WB mode**     | Daylight / Cloudy | Daylight              | Cloudy / Shade         | Custom K            | Custom K        |
 | **WB Shift**    | A+1               | None / A+1            | A+1                    | M+1                 | A+1 / None      |
 
