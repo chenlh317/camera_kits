@@ -13,6 +13,9 @@ parts:
   - caption: Tips
     chapters:
       - file: tips/photographing_tips
-      - file: tips/post_purchase_usage
       - file: tips/color_grading
-      - file: tips/alesund_road_trip
+
+  - caption: Notes
+    chapters:
+      - file: notes/202603_luoyang_post_purchase_usage
+      - file: notes/202604_alesund_road_trip

@@ -1,4 +1,4 @@
-# Complete Camera Gear Recommendation: Data-Driven Analysis <!-- omit in toc -->
+# Complete Camera Gear Recommendation: Data-Driven Analysis
 
 - **Analysis Date:** 16 January, 2026
 - **Last Updated:** 7 February, 2026

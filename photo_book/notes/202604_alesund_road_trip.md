@@ -1,4 +1,4 @@
-# Road Trip Reflections: Oslo to Ålesund — Easter 2026 <!-- omit in toc -->
+# 2026-04 Road Trip Reflections: Oslo to Ålesund
 
 - **Date:** April 2026
 - **Context:** Solo road trip Oslo → Ålesund via Lillehammer, Gjøvik, Dombås
