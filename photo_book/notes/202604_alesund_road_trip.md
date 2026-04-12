@@ -520,7 +520,7 @@ to complement each lighting scenario.
 **Base Look: FL** | **When:** Anytime you're photographing people.
 
 This preset is essentially unchanged from the existing
-[Portrait Warm](../tips/color_grading.md#preset-1-portrait-warm) preset —
+{ref}`Portrait Warm <preset-1-portrait-warm>` preset —
 portrait rendering doesn't change with geography.
 
 | Parameter           | Value  | Rationale                                           |
@@ -629,7 +629,7 @@ while IN's vivid punch can look garish when applied to genuinely desaturated sce
 **Base Look: FL** | **When:** After dark — city streets, harbours, lit buildings, reflections.
 
 This preset is an evolution of the
-[Night Cityscapes](../tips/color_grading.md#fine-tune-cityscapes)
+{ref}`Night Cityscapes <fine-tune-cityscapes>`
 guidance from the colour grading article, packaged as a dedicated memory slot.
 
 | Parameter           | Value  | Rationale                                                              |
@@ -664,7 +664,7 @@ guidance from the colour grading article, packaged as a dedicated memory slot.
 
 **Base Look: FL** | **When:** Museums, galleries, restaurants, indoor exhibits, churches.
 
-Based on the existing [museum guidance](../tips/color_grading.md#fine-tune-museums),
+Based on the existing {ref}`museum guidance <fine-tune-museums>`,
 with minor refinements for broader indoor use (not just classical art museums).
 
 | Parameter           | Value  | Rationale                                                            |
