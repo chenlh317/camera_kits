@@ -1,4 +1,4 @@
-# Prime Lens Recommendation for Sony A7C II: Data-Driven Analysis <!-- omit in toc -->
+# Prime Lens Recommendation for Sony A7C II: Data-Driven Analysis
 
 - **Analysis Date:** 6 February, 2026 (Updated)
 - **Camera Body:** Sony A7C II (Full-Frame, E-Mount)
