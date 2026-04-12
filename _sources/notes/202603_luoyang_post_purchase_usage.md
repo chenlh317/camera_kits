@@ -1,4 +1,4 @@
-# 2026-03 Post-Purchase Usage: Field Notes & Practical Tips
+# 2026-03 Post-Purchase Usage: Luoyang Field Notes & Practical Tips
 
 - **Date:** March 2026
 - **Camera Body:** Sony A7C II (Full-Frame, E-Mount)

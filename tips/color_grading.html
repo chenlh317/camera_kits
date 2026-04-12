@@ -497,7 +497,8 @@ window.runMermaid = runMermaid;</script>
     <link rel="icon" href="../_static/kamera_favicon.png"/>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
-    <link rel="prev" title="Post-Purchase Usage: Field Notes &amp; Practical Tips" href="post_purchase_usage.html" />
+    <link rel="next" title="2026-03 Post-Purchase Usage: Luoyang Field Notes &amp; Practical Tips" href="../notes/202603_luoyang_post_purchase_usage.html" />
+    <link rel="prev" title="Photography Tips Based on Your Usage Patterns" href="photographing_tips.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
   </head>
@@ -617,14 +618,18 @@ window.runMermaid = runMermaid;</script>
         </ul>
         <p aria-level="2" class="caption" role="heading"><span class="caption-text">Gears</span></p>
 <ul class="nav bd-sidenav">
-<li class="toctree-l1"><a class="reference internal" href="../gears/lens_recommendation.html">Complete Camera Gear Recommendation: Data-Driven Analysis <!-- omit in toc --></a></li>
-<li class="toctree-l1"><a class="reference internal" href="../gears/prime_lens_recommendation.html">Prime Lens Recommendation for Sony A7C II: Data-Driven Analysis <!-- omit in toc --></a></li>
+<li class="toctree-l1"><a class="reference internal" href="../gears/lens_recommendation.html">Complete Camera Gear Recommendation: Data-Driven Analysis</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../gears/prime_lens_recommendation.html">Prime Lens Recommendation for Sony A7C II: Data-Driven Analysis</a></li>
 </ul>
 <p aria-level="2" class="caption" role="heading"><span class="caption-text">Tips</span></p>
 <ul class="current nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="photographing_tips.html">Photography Tips Based on Your Usage Patterns <!-- omit in toc --></a></li>
-<li class="toctree-l1"><a class="reference internal" href="post_purchase_usage.html">Post-Purchase Usage: Field Notes &amp; Practical Tips <!-- omit in toc --></a></li>
 <li class="toctree-l1 current active"><a class="current reference internal" href="#">Color Grading: In-Camera &amp; Post-Processing Tips <!-- omit in toc --></a></li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Notes</span></p>
+<ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../notes/202603_luoyang_post_purchase_usage.html">2026-03 Post-Purchase Usage: Luoyang Field Notes &amp; Practical Tips</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../notes/202604_alesund_road_trip.html">2026-04 Road Trip Reflections: Oslo to Ålesund</a></li>
 </ul>
 
     </div>
@@ -1181,7 +1186,8 @@ the bright side and darkening the dark side of each edge.</p>
 <ul class="simple">
 <li><p><strong>Higher values</strong> (3-9): Crisper edges, more “defined” look. Good for architecture, text, landscapes.</p></li>
 <li><p><strong>Zero (0):</strong> Minimum sharpening — the softest the camera can produce in-camera.
-For portraits, keep Sharpness at 0 to let skin texture stay smooth.</p></li>
+For portraits, a value of 1–2 preserves skin smoothness while keeping edges
+in focus; reserve 0 only for dreamy/beauty looks paired with a diffusion filter.</p></li>
 </ul>
 <blockquote>
 <div><p>⚠️ <strong>A7C II range: 0 to 9 only.</strong> There are no negative Sharpness values.
@@ -1214,7 +1220,8 @@ the overall bright/dark balance — it enhances (or suppresses) the contrast
 <li><p><strong>Higher values</strong> (3-9): Textures pop. Stone grain, cloud structure, leaf detail, building surfaces
 all become more three-dimensional. Can look “gritty” or “HDR-ish” at extreme values.</p></li>
 <li><p><strong>Zero (0):</strong> Minimum midtone contrast — the smoothest available in-camera.
-For portraits, keep Clarity at 0 for the softest skin rendering.</p></li>
+For portraits, Clarity 0–1 gives gentle skin rendering; a value of 1 adds
+enough midtone definition to keep the subject from looking flat.</p></li>
 </ul>
 <blockquote>
 <div><p>⚠️ <strong>A7C II range: 0 to 9 only.</strong> There are no negative Clarity values in-camera.
@@ -1369,10 +1376,84 @@ starting from your FL and IN bases.</p>
 <blockquote>
 <div><p>💡 <strong>How to access:</strong> Menu → Exposure/Color → Color/Tone → Creative Look →
 select FL or IN → press right arrow to enter fine-tuning sub-menu.
-Each parameter range depends on the type:
-<strong>Contrast, Highlights, Shadows, Saturation:</strong> −9 to +9 (0 = default).
-<strong>Fade, Sharpness, Clarity:</strong> 0 to 9 (no negative values — 0 = minimum).
-<strong>Sharpness Range:</strong> 1 to 5 (no zero value — 1 = minimum).</p>
+Each parameter range depends on the type:</p>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Parameter</p></th>
+<th class="head"><p>Range</p></th>
+<th class="head"><p>Scale Type</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p><strong>Contrast</strong></p></td>
+<td><p>−9 to +9</p></td>
+<td><p>Relative offset (0 = look’s default)</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Highlights</strong></p></td>
+<td><p>−9 to +9</p></td>
+<td><p>Relative offset (0 = look’s default)</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Shadows</strong></p></td>
+<td><p>−9 to +9</p></td>
+<td><p>Relative offset (0 = look’s default)</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Fade</strong></p></td>
+<td><p>0 to 9</p></td>
+<td><p>Absolute (0 = no fade)</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Saturation</strong></p></td>
+<td><p>−9 to +9</p></td>
+<td><p>Relative offset (0 = look’s default)</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Sharpness</strong></p></td>
+<td><p>0 to 9</p></td>
+<td><p>Absolute (0 = minimum sharpening)</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Sharpness Range</strong></p></td>
+<td><p>1 to 5</p></td>
+<td><p>Absolute (1 = narrowest radius)</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Clarity</strong></p></td>
+<td><p>0 to 9</p></td>
+<td><p>Absolute (0 = minimum micro-contrast)</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>⚠️ <strong>Absolute vs Relative parameters — critical distinction:</strong>
+Contrast, Highlights, Shadows, and Saturation are <strong>relative offsets</strong> — 0 means
+“the Creative Look’s designed default” and ±N shifts from there.
+Fade, Sharpness, Sharpness Range, and Clarity are <strong>absolute values</strong> on a fixed scale —
+each Creative Look has its own built-in defaults for these:</p>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Creative Look</p></th>
+<th class="head"><p>Fade default</p></th>
+<th class="head"><p>Sharpness default</p></th>
+<th class="head"><p>Sharpness Range default</p></th>
+<th class="head"><p>Clarity default</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p><strong>FL (Film)</strong></p></td>
+<td><p>4</p></td>
+<td><p>4</p></td>
+<td><p>3</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>IN (Instant)</strong></p></td>
+<td><p>3</p></td>
+<td><p>4</p></td>
+<td><p>3</p></td>
+<td><p>1</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>When the tables below specify e.g. “Sharpness = 5” for an IN-based preset,
+that means 5 on the absolute 0–9 scale (slightly above IN’s default of 4).
+When they specify “Sharpness = 0” for a portrait preset, that means the absolute
+minimum — a deliberate drop from the Creative Look’s built-in default of 4.</p>
 </div></blockquote>
 <section id="portraits-based-on-fl">
 <span id="fine-tune-portraits"></span><h3><a class="toc-backref" href="#id18" role="doc-backlink">1.1 Portraits — Based on FL</a><a class="headerlink" href="#portraits-based-on-fl" title="Link to this heading">#</a></h3>
@@ -1388,8 +1469,8 @@ and casual friend/family shots with the SIRUI 35mm f/1.4.</p>
 </thead>
 <tbody>
 <tr class="row-even"><td><p><strong>Contrast</strong></p></td>
-<td><p>−1 to −2</p></td>
-<td><p>Softens skin; reduces harsh shadow lines on faces</p></td>
+<td><p>−1</p></td>
+<td><p>Softens skin; reduces harsh shadow lines on faces while preserving facial dimensionality (−2 combined with low Clarity makes the image too flat)</p></td>
 </tr>
 <tr class="row-odd"><td><p><strong>Highlights</strong></p></td>
 <td><p>−1</p></td>
@@ -1400,33 +1481,33 @@ and casual friend/family shots with the SIRUI 35mm f/1.4.</p>
 <td><p>Opens up eye sockets and under-chin shadows slightly</p></td>
 </tr>
 <tr class="row-odd"><td><p><strong>Fade</strong></p></td>
-<td><p>1</p></td>
-<td><p>Lifts the deepest blacks for a gentle, approachable look</p></td>
+<td><p>2</p></td>
+<td><p>Lifts the deepest blacks for a gentle, airy, filmic look (matches FL’s film character better than 1, which creates oddly punchy blacks against the soft midtones)</p></td>
 </tr>
 <tr class="row-even"><td><p><strong>Saturation</strong></p></td>
 <td><p>−1</p></td>
 <td><p>Pulls back FL’s warmth just enough to keep skin natural, not orange</p></td>
 </tr>
 <tr class="row-odd"><td><p><strong>Sharpness</strong></p></td>
-<td><p>0</p></td>
-<td><p>Minimum sharpening — lets skin texture stay smooth</p></td>
+<td><p>2</p></td>
+<td><p>Below FL’s default (4) — keeps skin smooth while preserving eye/lash/lip edge definition that anchors the portrait</p></td>
 </tr>
 <tr class="row-even"><td><p><strong>Sharpness Range</strong></p></td>
-<td><p>1</p></td>
-<td><p>Leave at minimum — fine detail sharpness isn’t needed for portraits</p></td>
+<td><p>2</p></td>
+<td><p>Moderate radius (FL default is 3) — reaches facial feature scale (iris, lash lines) without extending to skin pore level</p></td>
 </tr>
 <tr class="row-odd"><td><p><strong>Clarity</strong></p></td>
-<td><p>0</p></td>
-<td><p>Minimum micro-contrast — smoothest skin rendering available in-camera</p></td>
+<td><p>1</p></td>
+<td><p>FL’s own default — provides the subtle midtone structure that gives faces 3D dimensionality (cheekbone, nose, jawline) without harshness</p></td>
 </tr>
 </tbody>
 </table>
 </div>
 <blockquote>
-<div><p><strong>Tip — Pair with the 1/4 Black Mist filter:</strong> Sharpness and Clarity are already
-at their minimum (0) in this preset. For an even softer, dreamier portrait look,
-mount the 1/4 Black Mist filter on the Viltrox 85mm f/2.0 Evo —
-this provides physical diffusion that goes beyond what the camera’s 0 setting can achieve.
+<div><p><strong>Tip — The 1/4 Black Mist filter is now a creative choice, not a necessity.</strong>
+With Sharpness 2 and Clarity 1, the preset delivers a flattering portrait
+that’s soft but clearly in-focus. Mount the 1/4 Black Mist filter on the Viltrox 85mm
+when you <em>want</em> the dreamy editorial look — it’s an enhancement, not a correction.
 For Lightroom post-processing, you can push Clarity negative (−20 to −40) on RAW files
 to add the “Orton glow” that isn’t available in-camera.</p>
 </div></blockquote>
@@ -1461,23 +1542,23 @@ to compensate for overhead lighting that creates unflattering under-eye shadows.
 </tr>
 <tr class="row-odd"><td><p><strong>Fade</strong></p></td>
 <td><p>0</p></td>
-<td><p>Keep IN’s default — faded blacks weaken architectural shots</p></td>
+<td><p>Removes IN’s default fade (3) — solid blacks strengthen architectural shots</p></td>
 </tr>
 <tr class="row-even"><td><p><strong>Saturation</strong></p></td>
 <td><p>0 to +1</p></td>
 <td><p>IN is already vibrant; only boost if overcast/flat light</p></td>
 </tr>
 <tr class="row-odd"><td><p><strong>Sharpness</strong></p></td>
-<td><p>1</p></td>
-<td><p>Crisps up architectural edges and signage</p></td>
+<td><p>5</p></td>
+<td><p>Above IN’s default (4) — crisps up architectural edges and signage</p></td>
 </tr>
 <tr class="row-even"><td><p><strong>Sharpness Range</strong></p></td>
-<td><p>1</p></td>
-<td><p>Extends sharpening to fine details (brick, tile, lettering)</p></td>
+<td><p>3</p></td>
+<td><p>IN’s default — good balance for brick, tile, and lettering detail</p></td>
 </tr>
 <tr class="row-odd"><td><p><strong>Clarity</strong></p></td>
-<td><p>1 to 2</p></td>
-<td><p>Emphasizes building texture and surface detail</p></td>
+<td><p>3</p></td>
+<td><p>Above IN’s default (1) — emphasizes building texture and surface detail</p></td>
 </tr>
 </tbody>
 </table>
@@ -1512,16 +1593,16 @@ to compensate for overhead lighting that creates unflattering under-eye shadows.
 <td><p>FL’s natural warmth is enough; don’t oversaturate neon colors</p></td>
 </tr>
 <tr class="row-odd"><td><p><strong>Sharpness</strong></p></td>
-<td><p>0</p></td>
-<td><p>Night shots rarely benefit from extra sharpening (amplifies noise)</p></td>
+<td><p>2</p></td>
+<td><p>Reduced from FL’s default (4) — less sharpening avoids amplifying high-ISO noise</p></td>
 </tr>
 <tr class="row-even"><td><p><strong>Sharpness Range</strong></p></td>
 <td><p>1</p></td>
-<td><p>Leave at minimum at night — less sharpening = cleaner result</p></td>
+<td><p>Narrower than FL’s default (3) — less sharpening radius = cleaner night result</p></td>
 </tr>
 <tr class="row-odd"><td><p><strong>Clarity</strong></p></td>
-<td><p>0 to 1</p></td>
-<td><p>Slight clarity helps building outlines; too much amplifies noise</p></td>
+<td><p>1</p></td>
+<td><p>FL’s default — slight clarity helps building outlines; more amplifies noise</p></td>
 </tr>
 </tbody>
 </table>
@@ -1562,16 +1643,16 @@ The slight glow IS the night-city mood.</p>
 <td><p>Boost slightly if the interior is visually interesting (e.g., colorful market halls)</p></td>
 </tr>
 <tr class="row-odd"><td><p><strong>Sharpness</strong></p></td>
-<td><p>0</p></td>
-<td><p>Standard sharpness is fine for interiors</p></td>
+<td><p>3</p></td>
+<td><p>Near FL’s default (4) — standard sharpness preserves architectural detail</p></td>
 </tr>
 <tr class="row-even"><td><p><strong>Sharpness Range</strong></p></td>
-<td><p>1</p></td>
-<td><p>Minimum — default</p></td>
+<td><p>2</p></td>
+<td><p>Slightly below FL’s default (3) — moderate radius for interior detail</p></td>
 </tr>
 <tr class="row-odd"><td><p><strong>Clarity</strong></p></td>
-<td><p>0 to 1</p></td>
-<td><p>Adds definition to architectural details if desired</p></td>
+<td><p>1</p></td>
+<td><p>FL’s default — adds definition to architectural details without harshness</p></td>
 </tr>
 </tbody>
 </table>
@@ -1603,23 +1684,23 @@ and warm earth tones. Optimized for the Sigma 20-200mm on daytime hikes and scen
 </tr>
 <tr class="row-odd"><td><p><strong>Fade</strong></p></td>
 <td><p>0</p></td>
-<td><p>Keep blacks solid for landscape punch</p></td>
+<td><p>Removes IN’s default fade (3) — solid blacks for landscape punch</p></td>
 </tr>
 <tr class="row-even"><td><p><strong>Saturation</strong></p></td>
 <td><p>+1 to +2</p></td>
 <td><p>Boosts foliage greens and sky blues — the “postcard” look</p></td>
 </tr>
 <tr class="row-odd"><td><p><strong>Sharpness</strong></p></td>
-<td><p>1 to 2</p></td>
-<td><p>Crisps up foliage, rock textures, and distant details</p></td>
+<td><p>5 to 6</p></td>
+<td><p>Above IN’s default (4) — crisps up foliage, rock textures, and distant details</p></td>
 </tr>
 <tr class="row-even"><td><p><strong>Sharpness Range</strong></p></td>
-<td><p>1</p></td>
-<td><p>Extends sharpening reach for distant landscape layers</p></td>
+<td><p>3 to 4</p></td>
+<td><p>At or above IN’s default (3) — extends sharpening reach for landscape layers</p></td>
 </tr>
 <tr class="row-odd"><td><p><strong>Clarity</strong></p></td>
-<td><p>2 to 3</p></td>
-<td><p>Maximizes texture in mountains, clouds, and vegetation</p></td>
+<td><p>3 to 4</p></td>
+<td><p>Well above IN’s default (1) — maximizes texture in mountains, clouds, vegetation</p></td>
 </tr>
 </tbody>
 </table>
@@ -1634,6 +1715,13 @@ Rotate the CPL to taste — maximum effect is ~90° to the sun.</p>
 <div><p>⚠️ <strong>Watch the saturation ceiling:</strong> IN + Saturation +2 + CPL can push greens
 and blues into unnatural territory on very sunny days.
 If colors look “radioactive” on the rear screen, dial Saturation back to 0.</p>
+</div></blockquote>
+<blockquote>
+<div><p>💡 <strong>Overcast / flat-light variant:</strong> The IN-based settings above are optimized
+for sunny conditions. For cloudy or overcast outdoor scenery, an FL-based variant
+with moderate sharpness and clarity has been field-tested during the
+<a class="reference internal" href="../notes/202604_alesund_road_trip.html"><span class="std std-doc">Ålesund road trip</span></a> — see Preset 3
+“Outdoor Cloudy” in that article for the full parameter set.</p>
 </div></blockquote>
 </section>
 <section id="piano-performance-video-recording-at-home-based-on-fl">
@@ -1663,7 +1751,7 @@ Since this is video, consistency and gentle grading matter more than punch.</p>
 </tr>
 <tr class="row-odd"><td><p><strong>Fade</strong></p></td>
 <td><p>1</p></td>
-<td><p>Gives a gentle, filmic lift to shadows — adds warmth to the mood</p></td>
+<td><p>Reduced from FL’s default (4) — gentler lift for a warm mood without haze</p></td>
 </tr>
 <tr class="row-even"><td><p><strong>Saturation</strong></p></td>
 <td><p>0 to −1</p></td>
@@ -1671,15 +1759,15 @@ Since this is video, consistency and gentle grading matter more than punch.</p>
 </tr>
 <tr class="row-odd"><td><p><strong>Sharpness</strong></p></td>
 <td><p>0</p></td>
-<td><p>Video sharpening is handled differently; don’t over-sharpen in-camera</p></td>
+<td><p>Absolute minimum — video sharpening should be minimal in-camera</p></td>
 </tr>
 <tr class="row-even"><td><p><strong>Sharpness Range</strong></p></td>
 <td><p>1</p></td>
-<td><p>Minimum — default for video</p></td>
+<td><p>Minimum radius — complements zero sharpness (FL default is 3)</p></td>
 </tr>
 <tr class="row-odd"><td><p><strong>Clarity</strong></p></td>
 <td><p>0</p></td>
-<td><p>Video at high clarity can look artificial; keep neutral</p></td>
+<td><p>Absolute minimum — video at high clarity looks artificial; keep smooth</p></td>
 </tr>
 </tbody>
 </table>
@@ -1740,16 +1828,16 @@ FL’s gentle warmth complements classical artwork without distorting pigment co
 <td><p><strong>Critical:</strong> Desaturate slightly to avoid misrepresenting pigment colors under spot lighting</p></td>
 </tr>
 <tr class="row-odd"><td><p><strong>Sharpness</strong></p></td>
-<td><p>1</p></td>
-<td><p>Helps resolve fine brushwork and texture in paintings</p></td>
+<td><p>5</p></td>
+<td><p>Above FL’s default (4) — helps resolve fine brushwork and texture in paintings</p></td>
 </tr>
 <tr class="row-even"><td><p><strong>Sharpness Range</strong></p></td>
-<td><p>1</p></td>
-<td><p>Extends sharpening to the fine details in artwork</p></td>
+<td><p>3</p></td>
+<td><p>FL’s default — good balance for fine artwork detail</p></td>
 </tr>
 <tr class="row-odd"><td><p><strong>Clarity</strong></p></td>
-<td><p>0 to 1</p></td>
-<td><p>Slight clarity brings out surface texture (canvas weave, marble grain)</p></td>
+<td><p>2</p></td>
+<td><p>Above FL’s default (1) — brings out surface texture (canvas weave, marble grain)</p></td>
 </tr>
 </tbody>
 </table>
@@ -1803,7 +1891,7 @@ MR Memory Recall / M1-M4). Assign each to a memory slot for instant recall.</p>
 <td><p><strong>FL</strong></p></td>
 </tr>
 <tr class="row-odd"><td><p>Contrast</p></td>
-<td><p><strong>−2</strong></p></td>
+<td><p><strong>−1</strong></p></td>
 </tr>
 <tr class="row-even"><td><p>Highlights</p></td>
 <td><p><strong>−1</strong></p></td>
@@ -1812,26 +1900,28 @@ MR Memory Recall / M1-M4). Assign each to a memory slot for instant recall.</p>
 <td><p><strong>+1</strong></p></td>
 </tr>
 <tr class="row-even"><td><p>Fade</p></td>
-<td><p><strong>1</strong></p></td>
+<td><p><strong>2</strong></p></td>
 </tr>
 <tr class="row-odd"><td><p>Saturation</p></td>
 <td><p><strong>−1</strong></p></td>
 </tr>
 <tr class="row-even"><td><p>Sharpness</p></td>
-<td><p><strong>0</strong></p></td>
+<td><p><strong>2</strong></p></td>
 </tr>
 <tr class="row-odd"><td><p>Sharpness Range</p></td>
-<td><p><strong>1</strong></p></td>
+<td><p><strong>2</strong></p></td>
 </tr>
 <tr class="row-even"><td><p>Clarity</p></td>
-<td><p><strong>0</strong></p></td>
+<td><p><strong>1</strong></p></td>
 </tr>
 </tbody>
 </table>
 </div>
 <p><strong>Character:</strong> Warm, soft, flattering. Skin tones glow without being orange.
-Shadows are lifted for an airy feel. Micro-contrast is reduced for smooth skin rendering.</p>
-<p><strong>Pair with:</strong> Viltrox 85mm f/2.0 Evo + 1/4 Black Mist (outdoor portraits),
+Shadows are lifted for an airy, filmic feel. Eyes and facial features stay
+clearly defined while skin texture remains gentle — the image looks “in focus
+but kind” rather than uniformly soft.</p>
+<p><strong>Pair with:</strong> Viltrox 85mm f/2.0 Evo (outdoor portraits; add 1/4 Black Mist for dreamy editorial look),
 SIRUI 35mm f/1.4 (indoor/environmental portraits).</p>
 <p><strong>White Balance for this preset:</strong></p>
 <div class="pst-scrollable-table-container"><table class="table">
@@ -1895,13 +1985,13 @@ SIRUI 35mm f/1.4 (indoor/environmental portraits).</p>
 <td><p><strong>+1</strong></p></td>
 </tr>
 <tr class="row-even"><td><p>Sharpness</p></td>
-<td><p><strong>1</strong></p></td>
+<td><p><strong>5</strong></p></td>
 </tr>
 <tr class="row-odd"><td><p>Sharpness Range</p></td>
-<td><p><strong>1</strong></p></td>
+<td><p><strong>3</strong></p></td>
 </tr>
 <tr class="row-even"><td><p>Clarity</p></td>
-<td><p><strong>2</strong></p></td>
+<td><p><strong>3</strong></p></td>
 </tr>
 </tbody>
 </table>
@@ -1971,13 +2061,13 @@ sky colors are deep. The pulled highlights protect bright facades and sky.</p>
 <td><p><strong>+2</strong></p></td>
 </tr>
 <tr class="row-even"><td><p>Sharpness</p></td>
-<td><p><strong>2</strong></p></td>
+<td><p><strong>6</strong></p></td>
 </tr>
 <tr class="row-odd"><td><p>Sharpness Range</p></td>
-<td><p><strong>1</strong></p></td>
+<td><p><strong>4</strong></p></td>
 </tr>
 <tr class="row-even"><td><p>Clarity</p></td>
-<td><p><strong>3</strong></p></td>
+<td><p><strong>4</strong></p></td>
 </tr>
 </tbody>
 </table>
@@ -2072,7 +2162,7 @@ that isn’t overly bright or analytical.</p>
 <td><p><strong>−1</strong></p></td>
 </tr>
 <tr class="row-even"><td><p>Sharpness</p></td>
-<td><p><strong>1</strong></p></td>
+<td><p><strong>2</strong></p></td>
 </tr>
 <tr class="row-odd"><td><p>Sharpness Range</p></td>
 <td><p><strong>1</strong></p></td>
@@ -2098,18 +2188,20 @@ the overall luminosity that makes indoor scenes feel warm and inviting.
 <li><p><strong>Shadows +1</strong>: Indoor rooms always have darker corners, under-furniture shadows,
 and shadowed faces from overhead lighting. +1 reveals enough detail
 to keep the room feeling “lived in” rather than cave-like.</p></li>
-<li><p><strong>Fade 1</strong>: Prevents truly crushed blacks on dark furniture, piano bodies,
-and shadowed walls. Adds to the filmic warmth without making the image look washed out.</p></li>
+<li><p><strong>Fade 1</strong>: Reduces FL’s default fade from 4 to 1. Prevents truly crushed blacks
+on dark furniture, piano bodies, and shadowed walls while maintaining more contrast
+than FL’s default. Adds to the filmic warmth without making the image look washed out.</p></li>
 <li><p><strong>Saturation −1</strong>: FL’s desaturated-shadow character already provides mood.
 Pulling back by 1 prevents indoor warm-light from making skin tones too orange
 or wood tones too saturated under tungsten/LED mix.</p></li>
-<li><p><strong>Sharpness 1 / Sharpness Range 1</strong>: Mild sharpening preserves important detail
-(piano keys, hands, sheet music notation, book spines) without the clinical edge
+<li><p><strong>Sharpness 2 / Sharpness Range 1</strong>: Reduced from FL’s default (4/3) for a softer,
+less clinical rendering. Mild sharpening preserves important detail
+(piano keys, hands, sheet music notation, book spines) without the harsh edge
 that makes indoor photos look like product shots. If the scene includes close-up faces,
-you can drop to 0 for softer skin.</p></li>
-<li><p><strong>Clarity 1</strong>: A touch of midtone contrast gives indoor surfaces some dimensionality
-(wood grain, fabric texture, piano lacquer depth) without the “over-processed” harshness
-that high Clarity creates under artificial lighting.</p></li>
+you can drop Sharpness to 0 for softer skin.</p></li>
+<li><p><strong>Clarity 1</strong>: FL’s default. A touch of midtone contrast gives indoor surfaces
+some dimensionality (wood grain, fabric texture, piano lacquer depth) without
+the “over-processed” harshness that high Clarity creates under artificial lighting.</p></li>
 </ul>
 <p><strong>Character:</strong> Warm, woody, intimate. FL’s film-like tonal foundation gives the scene
 a nostalgic depth that feels like an evening practice session, not a clinical recording.
@@ -2152,7 +2244,7 @@ like how the room <em>feels</em>, not how the sensor <em>measured</em> it.</p>
 </thead>
 <tbody>
 <tr class="row-even"><td><p>Contrast</p></td>
-<td><p>−2</p></td>
+<td><p>−1</p></td>
 <td><p>+1</p></td>
 <td><p>+2</p></td>
 </tr>
@@ -2167,7 +2259,7 @@ like how the room <em>feels</em>, not how the sensor <em>measured</em> it.</p>
 <td><p>+2</p></td>
 </tr>
 <tr class="row-odd"><td><p>Fade</p></td>
-<td><p>1</p></td>
+<td><p>2</p></td>
 <td><p>0</p></td>
 <td><p>0</p></td>
 </tr>
@@ -2177,19 +2269,19 @@ like how the room <em>feels</em>, not how the sensor <em>measured</em> it.</p>
 <td><p>+2</p></td>
 </tr>
 <tr class="row-odd"><td><p>Sharpness</p></td>
-<td><p>0</p></td>
-<td><p>1</p></td>
 <td><p>2</p></td>
+<td><p>5</p></td>
+<td><p>6</p></td>
 </tr>
 <tr class="row-even"><td><p>Sharpness Range</p></td>
-<td><p>1</p></td>
-<td><p>1</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="row-odd"><td><p>Clarity</p></td>
-<td><p>0</p></td>
 <td><p>2</p></td>
 <td><p>3</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="row-odd"><td><p>Clarity</p></td>
+<td><p>1</p></td>
+<td><p>3</p></td>
+<td><p>4</p></td>
 </tr>
 <tr class="row-even"><td><p><strong>WB Mode</strong></p></td>
 <td><p>Daylight / Custom K</p></td>
@@ -2697,8 +2789,8 @@ and tuning your A7C II’s Creative Looks + Lightroom to approximate the charact
 <td><p>FL’s warm, filmic character is the closest Sony base to Leica’s rendering</p></td>
 </tr>
 <tr class="row-odd"><td><p><strong>Contrast</strong></p></td>
-<td><p><strong>−1 to −2</strong></p></td>
-<td><p>Leica images have gentle, restrained contrast</p></td>
+<td><p><strong>−1</strong></p></td>
+<td><p>Leica images have gentle, restrained contrast — but not flat; street/travel contexts need visual presence</p></td>
 </tr>
 <tr class="row-even"><td><p><strong>Highlights</strong></p></td>
 <td><p><strong>−2</strong></p></td>
@@ -2713,30 +2805,33 @@ and tuning your A7C II’s Creative Looks + Lightroom to approximate the charact
 <td><p>Lifted blacks = Leica’s “never truly black” shadow rendering</p></td>
 </tr>
 <tr class="row-odd"><td><p><strong>Saturation</strong></p></td>
-<td><p><strong>−2 to −3</strong></p></td>
-<td><p>Leica’s restrained saturation — colors present but not vivid</p></td>
+<td><p><strong>−2</strong></p></td>
+<td><p>Leica’s restrained saturation — colors present but not vivid (not −3, which drains life when combined with −1 Contrast)</p></td>
 </tr>
 <tr class="row-even"><td><p><strong>Sharpness</strong></p></td>
-<td><p><strong>0</strong></p></td>
-<td><p>Minimum sharpening — Leica’s “drawing” quality is gentle, not clinical</p></td>
+<td><p><strong>2</strong></p></td>
+<td><p>Below FL’s default (4) for a gentle character, but provides the edge definition that makes Leica images look “drawn” — Leica lenses are razor-sharp in-focus; the “glow” is in out-of-focus rendering, not in the focused subject</p></td>
 </tr>
 <tr class="row-odd"><td><p><strong>Sharpness Range</strong></p></td>
 <td><p><strong>1</strong></p></td>
-<td><p>Minimum — default</p></td>
+<td><p>Minimum radius — Leica’s sharpness character is fine-edge precision, not broad texture enhancement</p></td>
 </tr>
 <tr class="row-even"><td><p><strong>Clarity</strong></p></td>
-<td><p><strong>0</strong></p></td>
-<td><p>Minimum clarity — smooth, gentle rendering (go negative in Lightroom for full Leica glow)</p></td>
+<td><p><strong>1</strong></p></td>
+<td><p>FL’s own default — provides subtle midtone structure for cheekbone sculpting, fabric folds, and street scene detail that real Leica images clearly show</p></td>
 </tr>
 </tbody>
 </table>
 </div>
 <blockquote>
-<div><p><strong>Tip — The Leica look is about restraint.</strong>
-Where IN pushes saturation and clarity UP, the Leica emulation keeps everything at minimum.
-The image should feel calm, warm, and “analog” — like a beautifully exposed film negative.
-For the full Leica glow in post, apply negative Clarity (−15 to −25) in Lightroom
-to go softer than what the A7C II’s in-camera Clarity 0 can achieve.</p>
+<div><p><strong>Tip — The Leica look is about restraint, not softness.</strong>
+Leica lenses (Summilux, APO-Summicron) are among the sharpest ever made.
+The “Leica glow” comes from <em>tonal</em> rendering (warm highlights, lifted blacks,
+restrained saturation) combined with beautiful <em>out-of-focus</em> transitions —
+not from a soft in-focus subject. The preset captures this with gentle tonality
+(Contrast −1, Fade 2, Saturation −2) while keeping the focused subject defined
+(Sharpness 2, Clarity 1). For the full Leica glow in post, apply negative
+Clarity (−15 to −25) in Lightroom on RAW files.</p>
 </div></blockquote>
 <p><strong>White Balance — warm amber foundation:</strong></p>
 <p>Leica’s warmth lives on the amber axis — golden, not pink.
@@ -2862,32 +2957,35 @@ partially replicable with fast primes on full-frame</p></li>
 <td><p>Shadows maintained but not aggressively lifted (Hasselblad keeps shadow structure)</p></td>
 </tr>
 <tr class="row-even"><td><p><strong>Fade</strong></p></td>
-<td><p><strong>0 to 1</strong></p></td>
-<td><p>Minimal fade — Hasselblad retains true blacks more than Leica</p></td>
+<td><p><strong>0</strong></p></td>
+<td><p>Hasselblad retains true blacks — commit to solid black point for the medium-format look</p></td>
 </tr>
 <tr class="row-odd"><td><p><strong>Saturation</strong></p></td>
-<td><p><strong>−1 to −2</strong></p></td>
-<td><p>Natural, true-to-life; less desaturated than Leica, but not vivid</p></td>
+<td><p><strong>−1</strong></p></td>
+<td><p>Natural, true-to-life; Hasselblad colors are accurate, not desaturated (−2 combined with Contrast −2 makes the image anemic)</p></td>
 </tr>
 <tr class="row-even"><td><p><strong>Sharpness</strong></p></td>
-<td><p><strong>0</strong></p></td>
-<td><p>Neutral sharpness — Hasselblad’s look relies on lens resolving power, not digital sharpening</p></td>
+<td><p><strong>3</strong></p></td>
+<td><p>Below FL’s default (4) for a refined character, but provides real spatial definition for the landscapes and architecture this preset targets — Hasselblad’s resolving power is a defining trait alongside its tonal rendering</p></td>
 </tr>
 <tr class="row-odd"><td><p><strong>Sharpness Range</strong></p></td>
-<td><p><strong>1</strong></p></td>
-<td><p>Minimum — default</p></td>
+<td><p><strong>2</strong></p></td>
+<td><p>Moderate radius — Hasselblad medium-format detail extends to medium-scale textures (stone, bark, foliage patterns), not just fine pixel edges</p></td>
 </tr>
 <tr class="row-even"><td><p><strong>Clarity</strong></p></td>
-<td><p><strong>0</strong></p></td>
-<td><p>Neutral clarity — the medium-format “smoothness” comes from low clarity</p></td>
+<td><p><strong>2</strong></p></td>
+<td><p>Provides midtone structure for cloud texture, mountain surfaces, and building dimensionality — the Hasselblad “medium format look” is gentle <em>tonal</em> transitions paired with <em>spatial</em> detail, not uniform softness. This is the “Clarity ↑ + Contrast ↓” combination from the interaction map: textured surfaces in a flat tonal field</p></td>
 </tr>
 </tbody>
 </table>
 </div>
 <blockquote>
-<div><p><strong>Tip — Hasselblad vs Leica in one sentence:</strong>
-Leica says “warm and nostalgic”; Hasselblad says “accurate and refined.”
-If you want emotion, go Leica-style. If you want fidelity, go Hasselblad-style.</p>
+<div><p><strong>Tip — Hasselblad smoothness is tonal, not spatial.</strong>
+The “medium format look” has two components: smooth tonal gradation (from Contrast −2
+and pulled Highlights) and exceptional spatial resolution (from Sharpness 3, Clarity 2).
+Hasselblad landscapes are smooth in <em>tone</em> but detailed in <em>texture</em> —
+that’s what makes their images look three-dimensional.
+Don’t confuse tonal gentleness with spatial softness; they are independent dimensions.</p>
 </div></blockquote>
 <p><strong>White Balance — neutral accuracy above all:</strong></p>
 <p>Hasselblad’s HNCS philosophy is “show the scene as it was.”
@@ -3074,16 +3172,16 @@ with WB Shift and careful saturation control.</p>
 <td><p>Restrained but not absent — colors feel intentional, not blasted</p></td>
 </tr>
 <tr class="row-even"><td><p><strong>Sharpness</strong></p></td>
-<td><p><strong>0</strong></p></td>
-<td><p>Minimum — the look is soft and smooth, never clinical</p></td>
+<td><p><strong>1</strong></p></td>
+<td><p>Minimal — just enough to keep eye definition (catchlights, iris detail, lash lines) without any visible skin texture enhancement. Prevents the “is it out of focus?” impression that Sharpness 0 creates</p></td>
 </tr>
 <tr class="row-odd"><td><p><strong>Sharpness Range</strong></p></td>
 <td><p><strong>1</strong></p></td>
-<td><p>Minimum — default</p></td>
+<td><p>Minimum radius — at Sharpness 1, the narrow radius means only the finest edges (lash lines, lip edges) get enhancement; skin stays untouched</p></td>
 </tr>
 <tr class="row-even"><td><p><strong>Clarity</strong></p></td>
-<td><p><strong>0</strong></p></td>
-<td><p>Minimum — skin should be porcelain-smooth; micro-contrast works against this look</p></td>
+<td><p><strong>1</strong></p></td>
+<td><p>FL’s own default — provides the minimal midtone structure for “preserved structure” described above: cheekbone shadows, nose contour, and jawline read as three-dimensional. Without it, the face becomes a flat porcelain <em>mask</em> rather than a porcelain <em>face</em></p></td>
 </tr>
 </tbody>
 </table>
@@ -3177,13 +3275,13 @@ The China Photo Studio look is portrait-first; Leica is scene-first.</p>
 </tr>
 <tr class="row-odd"><td><p><strong>Saturation</strong></p></td>
 <td><p>Moderate</p></td>
-<td><p>Restrained (−2 to −3)</p></td>
-<td><p>Natural (−1 to −2)</p></td>
+<td><p>Restrained (−2)</p></td>
+<td><p>Natural (−1)</p></td>
 <td><p>Restrained (−1), rosy bias</p></td>
 </tr>
 <tr class="row-even"><td><p><strong>Contrast</strong></p></td>
 <td><p>Moderate</p></td>
-<td><p>Gentle (−1 to −2)</p></td>
+<td><p>Gentle (−1)</p></td>
 <td><p>Very gentle (−2)</p></td>
 <td><p>Gentle (−1), flattering</p></td>
 </tr>
@@ -3198,6 +3296,18 @@ The China Photo Studio look is portrait-first; Leica is scene-first.</p>
 <td><p>Smooth (−2)</p></td>
 <td><p>Ultra-smooth (−2 to −3)</p></td>
 <td><p>Smooth (−2), luminous</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Sharpness</strong></p></td>
+<td><p>Default (4)</p></td>
+<td><p>Gentle (2)</p></td>
+<td><p>Refined (3)</p></td>
+<td><p>Minimal (1)</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Clarity</strong></p></td>
+<td><p>Default (1)</p></td>
+<td><p>Subtle (1)</p></td>
+<td><p>Structured (2)</p></td>
+<td><p>Subtle (1)</p></td>
 </tr>
 <tr class="row-odd"><td><p><strong>Skin Tones</strong></p></td>
 <td><p>Warm</p></td>
@@ -3318,13 +3428,22 @@ and only sit at the PC for photos that truly deserve it.</p>
                   
 <div class="prev-next-area">
     <a class="left-prev"
-       href="post_purchase_usage.html"
+       href="photographing_tips.html"
        title="previous page">
       <i class="fa-solid fa-angle-left"></i>
       <div class="prev-next-info">
         <p class="prev-next-subtitle">previous</p>
-        <p class="prev-next-title">Post-Purchase Usage: Field Notes &amp; Practical Tips <!-- omit in toc --></p>
+        <p class="prev-next-title">Photography Tips Based on Your Usage Patterns <!-- omit in toc --></p>
       </div>
+    </a>
+    <a class="right-next"
+       href="../notes/202603_luoyang_post_purchase_usage.html"
+       title="next page">
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">2026-03 Post-Purchase Usage: Luoyang Field Notes &amp; Practical Tips</p>
+      </div>
+      <i class="fa-solid fa-angle-right"></i>
     </a>
 </div>
                 </footer>

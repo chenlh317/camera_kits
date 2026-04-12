@@ -216,7 +216,8 @@ the bright side and darkening the dark side of each edge.
 
 - **Higher values** (3-9): Crisper edges, more "defined" look. Good for architecture, text, landscapes.
 - **Zero (0):** Minimum sharpening — the softest the camera can produce in-camera.
-  For portraits, keep Sharpness at 0 to let skin texture stay smooth.
+  For portraits, a value of 1–2 preserves skin smoothness while keeping edges
+  in focus; reserve 0 only for dreamy/beauty looks paired with a diffusion filter.
 
 > ⚠️ **A7C II range: 0 to 9 only.** There are no negative Sharpness values.
 > For a "dreamy" soft-focus portrait look, you can't go below 0 in-camera —
@@ -251,7 +252,8 @@ the overall bright/dark balance — it enhances (or suppresses) the contrast
 - **Higher values** (3-9): Textures pop. Stone grain, cloud structure, leaf detail, building surfaces
   all become more three-dimensional. Can look "gritty" or "HDR-ish" at extreme values.
 - **Zero (0):** Minimum midtone contrast — the smoothest available in-camera.
-  For portraits, keep Clarity at 0 for the softest skin rendering.
+  For portraits, Clarity 0–1 gives gentle skin rendering; a value of 1 adds
+  enough midtone definition to keep the subject from looking flat.
 
 > ⚠️ **A7C II range: 0 to 9 only.** There are no negative Clarity values in-camera.
 > The "Orton effect" / "soft glow" look requires negative Clarity in Lightroom (−20 to −40),
@@ -367,9 +369,33 @@ starting from your FL and IN bases.
 > 💡 **How to access:** Menu → Exposure/Color → Color/Tone → Creative Look →
 > select FL or IN → press right arrow to enter fine-tuning sub-menu.
 > Each parameter range depends on the type:
-> **Contrast, Highlights, Shadows, Saturation:** −9 to +9 (0 = default).
-> **Fade, Sharpness, Clarity:** 0 to 9 (no negative values — 0 = minimum).
-> **Sharpness Range:** 1 to 5 (no zero value — 1 = minimum).
+>
+> | Parameter           | Range    | Scale Type                            |
+> | ------------------- | -------- | ------------------------------------- |
+> | **Contrast**        | −9 to +9 | Relative offset (0 = look's default)  |
+> | **Highlights**      | −9 to +9 | Relative offset (0 = look's default)  |
+> | **Shadows**         | −9 to +9 | Relative offset (0 = look's default)  |
+> | **Fade**            | 0 to 9   | Absolute (0 = no fade)                |
+> | **Saturation**      | −9 to +9 | Relative offset (0 = look's default)  |
+> | **Sharpness**       | 0 to 9   | Absolute (0 = minimum sharpening)     |
+> | **Sharpness Range** | 1 to 5   | Absolute (1 = narrowest radius)       |
+> | **Clarity**         | 0 to 9   | Absolute (0 = minimum micro-contrast) |
+>
+> ⚠️ **Absolute vs Relative parameters — critical distinction:**
+> Contrast, Highlights, Shadows, and Saturation are **relative offsets** — 0 means
+> "the Creative Look's designed default" and ±N shifts from there.
+> Fade, Sharpness, Sharpness Range, and Clarity are **absolute values** on a fixed scale —
+> each Creative Look has its own built-in defaults for these:
+>
+> | Creative Look | Fade default | Sharpness default | Sharpness Range default | Clarity default |
+> | ------------- | ------------ | ----------------- | ----------------------- | --------------- |
+> | **FL (Film)** | 4            | 4                 | 3                       | 1               |
+> | **IN (Instant)** | 3         | 4                 | 3                       | 1               |
+>
+> When the tables below specify e.g. "Sharpness = 5" for an IN-based preset,
+> that means 5 on the absolute 0–9 scale (slightly above IN's default of 4).
+> When they specify "Sharpness = 0" for a portrait preset, that means the absolute
+> minimum — a deliberate drop from the Creative Look's built-in default of 4.
 
 (fine-tune-portraits)=
 ### 1.1 Portraits — Based on FL
@@ -378,21 +404,21 @@ starting from your FL and IN bases.
 Works for both your Viltrox 85mm f/2.0 Evo portrait sessions
 and casual friend/family shots with the SIRUI 35mm f/1.4.
 
-| Parameter           | Adjustment | Rationale                                                             |
-| ------------------- | ---------- | --------------------------------------------------------------------- |
-| **Contrast**        | −1 to −2   | Softens skin; reduces harsh shadow lines on faces                     |
-| **Highlights**      | −1         | Protects skin highlights from blowing out (esp. bright sunlight)      |
-| **Shadows**         | +1         | Opens up eye sockets and under-chin shadows slightly                  |
-| **Fade**            | 1          | Lifts the deepest blacks for a gentle, approachable look              |
-| **Saturation**      | −1         | Pulls back FL's warmth just enough to keep skin natural, not orange   |
-| **Sharpness**       | 0          | Minimum sharpening — lets skin texture stay smooth                    |
-| **Sharpness Range** | 1          | Leave at minimum — fine detail sharpness isn't needed for portraits   |
-| **Clarity**         | 0          | Minimum micro-contrast — smoothest skin rendering available in-camera |
+| Parameter           | Adjustment | Rationale                                                                                                                                                         |
+| ------------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Contrast**        | −1         | Softens skin; reduces harsh shadow lines on faces while preserving facial dimensionality (−2 combined with low Clarity makes the image too flat)                  |
+| **Highlights**      | −1         | Protects skin highlights from blowing out (esp. bright sunlight)                                                                                                  |
+| **Shadows**         | +1         | Opens up eye sockets and under-chin shadows slightly                                                                                                              |
+| **Fade**            | 2          | Lifts the deepest blacks for a gentle, airy, filmic look (matches FL's film character better than 1, which creates oddly punchy blacks against the soft midtones) |
+| **Saturation**      | −1         | Pulls back FL's warmth just enough to keep skin natural, not orange                                                                                               |
+| **Sharpness**       | 2          | Below FL's default (4) — keeps skin smooth while preserving eye/lash/lip edge definition that anchors the portrait                                                |
+| **Sharpness Range** | 2          | Moderate radius (FL default is 3) — reaches facial feature scale (iris, lash lines) without extending to skin pore level                                          |
+| **Clarity**         | 1          | FL's own default — provides the subtle midtone structure that gives faces 3D dimensionality (cheekbone, nose, jawline) without harshness                          |
 
-> **Tip — Pair with the 1/4 Black Mist filter:** Sharpness and Clarity are already
-> at their minimum (0) in this preset. For an even softer, dreamier portrait look,
-> mount the 1/4 Black Mist filter on the Viltrox 85mm f/2.0 Evo —
-> this provides physical diffusion that goes beyond what the camera's 0 setting can achieve.
+> **Tip — The 1/4 Black Mist filter is now a creative choice, not a necessity.**
+> With Sharpness 2 and Clarity 1, the preset delivers a flattering portrait
+> that's soft but clearly in-focus. Mount the 1/4 Black Mist filter on the Viltrox 85mm
+> when you *want* the dreamy editorial look — it's an enhancement, not a correction.
 > For Lightroom post-processing, you can push Clarity negative (−20 to −40) on RAW files
 > to add the "Orton glow" that isn't available in-camera.
 
@@ -406,29 +432,29 @@ Cityscapes benefit from a split approach: **IN for daytime punch, FL for nightti
 
 **Daytime Cityscapes (outdoor) — Based on IN:**
 
-| Parameter           | Adjustment | Rationale                                                   |
-| ------------------- | ---------- | ----------------------------------------------------------- |
-| **Contrast**        | +1         | Adds punch to buildings and skylines against the sky        |
-| **Highlights**      | −1 to −2   | Protects bright sky areas and white building facades        |
-| **Shadows**         | +1         | Opens up shadow detail in narrow streets and alleys         |
-| **Fade**            | 0          | Keep IN's default — faded blacks weaken architectural shots |
-| **Saturation**      | 0 to +1    | IN is already vibrant; only boost if overcast/flat light    |
-| **Sharpness**       | 1          | Crisps up architectural edges and signage                   |
-| **Sharpness Range** | 1          | Extends sharpening to fine details (brick, tile, lettering) |
-| **Clarity**         | 1 to 2     | Emphasizes building texture and surface detail              |
+| Parameter           | Adjustment | Rationale                                                                   |
+| ------------------- | ---------- | --------------------------------------------------------------------------- |
+| **Contrast**        | +1         | Adds punch to buildings and skylines against the sky                        |
+| **Highlights**      | −1 to −2   | Protects bright sky areas and white building facades                        |
+| **Shadows**         | +1         | Opens up shadow detail in narrow streets and alleys                         |
+| **Fade**            | 0          | Removes IN's default fade (3) — solid blacks strengthen architectural shots |
+| **Saturation**      | 0 to +1    | IN is already vibrant; only boost if overcast/flat light                    |
+| **Sharpness**       | 5          | Above IN's default (4) — crisps up architectural edges and signage          |
+| **Sharpness Range** | 3          | IN's default — good balance for brick, tile, and lettering detail           |
+| **Clarity**         | 3          | Above IN's default (1) — emphasizes building texture and surface detail     |
 
 **Night Cityscapes (outdoor) — Based on FL:**
 
-| Parameter           | Adjustment | Rationale                                                          |
-| ------------------- | ---------- | ------------------------------------------------------------------ |
-| **Contrast**        | −1         | Prevents neon signs and street lamps from clipping harshly         |
-| **Highlights**      | −2 to −3   | Tames bright light sources (neon, LEDs, car headlights)            |
-| **Shadows**         | +1 to +2   | Reveals detail in dark building facades and alleyways              |
-| **Fade**            | 1 to 2     | Lifts shadows for a cinematic, film-noir mood                      |
-| **Saturation**      | 0          | FL's natural warmth is enough; don't oversaturate neon colors      |
-| **Sharpness**       | 0          | Night shots rarely benefit from extra sharpening (amplifies noise) |
-| **Sharpness Range** | 1          | Leave at minimum at night — less sharpening = cleaner result       |
-| **Clarity**         | 0 to 1     | Slight clarity helps building outlines; too much amplifies noise   |
+| Parameter           | Adjustment | Rationale                                                                        |
+| ------------------- | ---------- | -------------------------------------------------------------------------------- |
+| **Contrast**        | −1         | Prevents neon signs and street lamps from clipping harshly                       |
+| **Highlights**      | −2 to −3   | Tames bright light sources (neon, LEDs, car headlights)                          |
+| **Shadows**         | +1 to +2   | Reveals detail in dark building facades and alleyways                            |
+| **Fade**            | 1 to 2     | Lifts shadows for a cinematic, film-noir mood                                    |
+| **Saturation**      | 0          | FL's natural warmth is enough; don't oversaturate neon colors                    |
+| **Sharpness**       | 2          | Reduced from FL's default (4) — less sharpening avoids amplifying high-ISO noise |
+| **Sharpness Range** | 1          | Narrower than FL's default (3) — less sharpening radius = cleaner night result   |
+| **Clarity**         | 1          | FL's default — slight clarity helps building outlines; more amplifies noise      |
 
 > **Tip — Night shooting on SIRUI 35mm f/1.4:** At f/1.4, point light sources
 > naturally bloom into soft circles (bokeh balls). FL's gentle highlight roll-off
@@ -444,9 +470,9 @@ Cityscapes benefit from a split approach: **IN for daytime punch, FL for nightti
 | **Shadows**         | +1         | Lifts floor-level shadow areas in large interior spaces                              |
 | **Fade**            | 1          | Softens the corporate/sterile feel of artificial lighting                            |
 | **Saturation**      | 0 to +1    | Boost slightly if the interior is visually interesting (e.g., colorful market halls) |
-| **Sharpness**       | 0          | Standard sharpness is fine for interiors                                             |
-| **Sharpness Range** | 1          | Minimum — default                                                                    |
-| **Clarity**         | 0 to 1     | Adds definition to architectural details if desired                                  |
+| **Sharpness**       | 3          | Near FL's default (4) — standard sharpness preserves architectural detail            |
+| **Sharpness Range** | 2          | Slightly below FL's default (3) — moderate radius for interior detail                |
+| **Clarity**         | 1          | FL's default — adds definition to architectural details without harshness            |
 
 (fine-tune-nature)=
 ### 1.3 Nature Landscapes — Based on IN
@@ -454,16 +480,16 @@ Cityscapes benefit from a split approach: **IN for daytime punch, FL for nightti
 **Goal:** Vivid, high-impact landscapes with rich greens, deep blues,
 and warm earth tones. Optimized for the Sigma 20-200mm on daytime hikes and scenic viewpoints.
 
-| Parameter           | Adjustment | Rationale                                                         |
-| ------------------- | ---------- | ----------------------------------------------------------------- |
-| **Contrast**        | +1 to +2   | Strengthens the separation between sky, mountains, and foreground |
-| **Highlights**      | −2 to −3   | Preserves cloud detail and prevents sky blow-out                  |
-| **Shadows**         | +1 to +2   | Reveals detail in shadowed valleys, forests, and rock faces       |
-| **Fade**            | 0          | Keep blacks solid for landscape punch                             |
-| **Saturation**      | +1 to +2   | Boosts foliage greens and sky blues — the "postcard" look         |
-| **Sharpness**       | 1 to 2     | Crisps up foliage, rock textures, and distant details             |
-| **Sharpness Range** | 1          | Extends sharpening reach for distant landscape layers             |
-| **Clarity**         | 2 to 3     | Maximizes texture in mountains, clouds, and vegetation            |
+| Parameter           | Adjustment | Rationale                                                                        |
+| ------------------- | ---------- | -------------------------------------------------------------------------------- |
+| **Contrast**        | +1 to +2   | Strengthens the separation between sky, mountains, and foreground                |
+| **Highlights**      | −2 to −3   | Preserves cloud detail and prevents sky blow-out                                 |
+| **Shadows**         | +1 to +2   | Reveals detail in shadowed valleys, forests, and rock faces                      |
+| **Fade**            | 0          | Removes IN's default fade (3) — solid blacks for landscape punch                 |
+| **Saturation**      | +1 to +2   | Boosts foliage greens and sky blues — the "postcard" look                        |
+| **Sharpness**       | 5 to 6     | Above IN's default (4) — crisps up foliage, rock textures, and distant details   |
+| **Sharpness Range** | 3 to 4     | At or above IN's default (3) — extends sharpening reach for landscape layers     |
+| **Clarity**         | 3 to 4     | Well above IN's default (1) — maximizes texture in mountains, clouds, vegetation |
 
 > **Tip — Use with CPL filter:** Your CPL filter on the Sigma 20-200mm
 > already deepens sky blue and cuts haze. Combined with IN's saturation boost,
@@ -474,6 +500,12 @@ and warm earth tones. Optimized for the Sigma 20-200mm on daytime hikes and scen
 > and blues into unnatural territory on very sunny days.
 > If colors look "radioactive" on the rear screen, dial Saturation back to 0.
 
+> 💡 **Overcast / flat-light variant:** The IN-based settings above are optimized
+> for sunny conditions. For cloudy or overcast outdoor scenery, an FL-based variant
+> with moderate sharpness and clarity has been field-tested during the
+> [Ålesund road trip](../notes/202604_alesund_road_trip.md) — see Preset 3
+> "Outdoor Cloudy" in that article for the full parameter set.
+
 (fine-tune-piano-recording)=
 ### 1.4 Piano Performance Video Recording at Home — Based on FL
 
@@ -481,16 +513,16 @@ and warm earth tones. Optimized for the Sigma 20-200mm on daytime hikes and scen
 a "cozy living room concert" vibe that suits piano performance footage.
 Since this is video, consistency and gentle grading matter more than punch.
 
-| Parameter           | Adjustment | Rationale                                                             |
-| ------------------- | ---------- | --------------------------------------------------------------------- |
-| **Contrast**        | −1         | Keeps the dynamic range open for video; prevents harsh clipping       |
-| **Highlights**      | −1 to −2   | Protects window light or lamp highlights in the frame                 |
-| **Shadows**         | +1 to +2   | Opens up the darker corners of the room; keeps pianist visible        |
-| **Fade**            | 1          | Gives a gentle, filmic lift to shadows — adds warmth to the mood      |
-| **Saturation**      | 0 to −1    | Slightly desaturated = more "cinematic"; avoids distracting colors    |
-| **Sharpness**       | 0          | Video sharpening is handled differently; don't over-sharpen in-camera |
-| **Sharpness Range** | 1          | Minimum — default for video                                           |
-| **Clarity**         | 0          | Video at high clarity can look artificial; keep neutral               |
+| Parameter           | Adjustment | Rationale                                                                 |
+| ------------------- | ---------- | ------------------------------------------------------------------------- |
+| **Contrast**        | −1         | Keeps the dynamic range open for video; prevents harsh clipping           |
+| **Highlights**      | −1 to −2   | Protects window light or lamp highlights in the frame                     |
+| **Shadows**         | +1 to +2   | Opens up the darker corners of the room; keeps pianist visible            |
+| **Fade**            | 1          | Reduced from FL's default (4) — gentler lift for a warm mood without haze |
+| **Saturation**      | 0 to −1    | Slightly desaturated = more "cinematic"; avoids distracting colors        |
+| **Sharpness**       | 0          | Absolute minimum — video sharpening should be minimal in-camera           |
+| **Sharpness Range** | 1          | Minimum radius — complements zero sharpness (FL default is 3)             |
+| **Clarity**         | 0          | Absolute minimum — video at high clarity looks artificial; keep smooth    |
 
 > **Tip — Lock your white balance for video:** Auto WB can shift mid-performance
 > as you move or room lighting changes slightly. Set a **Custom White Balance**
@@ -524,9 +556,9 @@ FL's gentle warmth complements classical artwork without distorting pigment colo
 | **Shadows**         | +1         | Reveals detail in darker painting regions and sculpture cavities                              |
 | **Fade**            | 0 to 1     | Slight fade can complement the aged look of classical works; 0 for modern exhibits            |
 | **Saturation**      | −1 to −2   | **Critical:** Desaturate slightly to avoid misrepresenting pigment colors under spot lighting |
-| **Sharpness**       | 1          | Helps resolve fine brushwork and texture in paintings                                         |
-| **Sharpness Range** | 1          | Extends sharpening to the fine details in artwork                                             |
-| **Clarity**         | 0 to 1     | Slight clarity brings out surface texture (canvas weave, marble grain)                        |
+| **Sharpness**       | 5          | Above FL's default (4) — helps resolve fine brushwork and texture in paintings                |
+| **Sharpness Range** | 3          | FL's default — good balance for fine artwork detail                                           |
+| **Clarity**         | 2          | Above FL's default (1) — brings out surface texture (canvas weave, marble grain)              |
 
 > **Tip — Saturation restraint is key in museums.**
 > Spot-lit paintings under warm tungsten can appear over-saturated in photos
@@ -568,19 +600,21 @@ covering your three most common scenarios.
 | Parameter       | Value  |
 | --------------- | ------ |
 | **Base Look**   | **FL** |
-| Contrast        | **−2** |
+| Contrast        | **−1** |
 | Highlights      | **−1** |
 | Shadows         | **+1** |
-| Fade            | **1**  |
+| Fade            | **2**  |
 | Saturation      | **−1** |
-| Sharpness       | **0**  |
-| Sharpness Range | **1**  |
-| Clarity         | **0**  |
+| Sharpness       | **2**  |
+| Sharpness Range | **2**  |
+| Clarity         | **1**  |
 
 **Character:** Warm, soft, flattering. Skin tones glow without being orange.
-Shadows are lifted for an airy feel. Micro-contrast is reduced for smooth skin rendering.
+Shadows are lifted for an airy, filmic feel. Eyes and facial features stay
+clearly defined while skin texture remains gentle — the image looks "in focus
+but kind" rather than uniformly soft.
 
-**Pair with:** Viltrox 85mm f/2.0 Evo + 1/4 Black Mist (outdoor portraits),
+**Pair with:** Viltrox 85mm f/2.0 Evo (outdoor portraits; add 1/4 Black Mist for dreamy editorial look),
 SIRUI 35mm f/1.4 (indoor/environmental portraits).
 
 **White Balance for this preset:**
@@ -604,9 +638,9 @@ SIRUI 35mm f/1.4 (indoor/environmental portraits).
 | Shadows         | **+1** |
 | Fade            | **0**  |
 | Saturation      | **+1** |
-| Sharpness       | **1**  |
-| Sharpness Range | **1**  |
-| Clarity         | **2**  |
+| Sharpness       | **5**  |
+| Sharpness Range | **3**  |
+| Clarity         | **3**  |
 
 **Character:** Punchy, vivid, sharp. Architecture pops, signage is crisp,
 sky colors are deep. The pulled highlights protect bright facades and sky.
@@ -634,9 +668,9 @@ sky colors are deep. The pulled highlights protect bright facades and sky.
 | Shadows         | **+2** |
 | Fade            | **0**  |
 | Saturation      | **+2** |
-| Sharpness       | **2**  |
-| Sharpness Range | **1**  |
-| Clarity         | **3**  |
+| Sharpness       | **6**  |
+| Sharpness Range | **4**  |
+| Clarity         | **4**  |
 
 **Character:** Bold, dramatic, high-impact. Maximum texture and color depth.
 Cloud detail is preserved while shadows reveal forest and valley detail.
@@ -679,7 +713,7 @@ that isn't overly bright or analytical.
 | Shadows         | **+1** |
 | Fade            | **1**  |
 | Saturation      | **−1** |
-| Sharpness       | **1**  |
+| Sharpness       | **2**  |
 | Sharpness Range | **1**  |
 | Clarity         | **1**  |
 
@@ -700,18 +734,20 @@ that isn't overly bright or analytical.
 - **Shadows +1**: Indoor rooms always have darker corners, under-furniture shadows,
   and shadowed faces from overhead lighting. +1 reveals enough detail
   to keep the room feeling "lived in" rather than cave-like.
-- **Fade 1**: Prevents truly crushed blacks on dark furniture, piano bodies,
-  and shadowed walls. Adds to the filmic warmth without making the image look washed out.
+- **Fade 1**: Reduces FL's default fade from 4 to 1. Prevents truly crushed blacks
+  on dark furniture, piano bodies, and shadowed walls while maintaining more contrast
+  than FL's default. Adds to the filmic warmth without making the image look washed out.
 - **Saturation −1**: FL's desaturated-shadow character already provides mood.
   Pulling back by 1 prevents indoor warm-light from making skin tones too orange
   or wood tones too saturated under tungsten/LED mix.
-- **Sharpness 1 / Sharpness Range 1**: Mild sharpening preserves important detail
-  (piano keys, hands, sheet music notation, book spines) without the clinical edge
+- **Sharpness 2 / Sharpness Range 1**: Reduced from FL's default (4/3) for a softer,
+  less clinical rendering. Mild sharpening preserves important detail
+  (piano keys, hands, sheet music notation, book spines) without the harsh edge
   that makes indoor photos look like product shots. If the scene includes close-up faces,
-  you can drop to 0 for softer skin.
-- **Clarity 1**: A touch of midtone contrast gives indoor surfaces some dimensionality
-  (wood grain, fabric texture, piano lacquer depth) without the "over-processed" harshness
-  that high Clarity creates under artificial lighting.
+  you can drop Sharpness to 0 for softer skin.
+- **Clarity 1**: FL's default. A touch of midtone contrast gives indoor surfaces
+  some dimensionality (wood grain, fabric texture, piano lacquer depth) without
+  the "over-processed" harshness that high Clarity creates under artificial lighting.
 
 **Character:** Warm, woody, intimate. FL's film-like tonal foundation gives the scene
 a nostalgic depth that feels like an evening practice session, not a clinical recording.
@@ -747,14 +783,14 @@ bokeh on room background adds a "living room concert" intimacy).
 
 | Parameter       | Portrait Warm (FL)  | City Vivid (IN)  | Landscape Bold (IN) |
 | --------------- | ------------------- | ---------------- | ------------------- |
-| Contrast        | −2                  | +1               | +2                  |
+| Contrast        | −1                  | +1               | +2                  |
 | Highlights      | −1                  | −2               | −3                  |
 | Shadows         | +1                  | +1               | +2                  |
-| Fade            | 1                   | 0                | 0                   |
+| Fade            | 2                   | 0                | 0                   |
 | Saturation      | −1                  | +1               | +2                  |
-| Sharpness       | 0                   | 1                | 2                   |
-| Sharpness Range | 1                   | 1                | 1                   |
-| Clarity         | 0                   | 2                | 3                   |
+| Sharpness       | 2                   | 5                | 6                   |
+| Sharpness Range | 2                   | 3                | 4                   |
+| Clarity         | 1                   | 3                | 4                   |
 | **WB Mode**     | Daylight / Custom K | AWB / Cloudy     | Daylight / Shade    |
 | **WB Shift**    | A+1 to A+2          | None / M+1 night | None / A+1 autumn   |
 
@@ -1056,23 +1092,26 @@ and tuning your A7C II's Creative Looks + Lightroom to approximate the character
 
 **In-Camera Emulation — FL Base + Leica-Style Tweaks:**
 
-| Parameter           | Adjustment   | Why                                                                                       |
-| ------------------- | ------------ | ----------------------------------------------------------------------------------------- |
-| **Base Look**       | **FL**       | FL's warm, filmic character is the closest Sony base to Leica's rendering                 |
-| **Contrast**        | **−1 to −2** | Leica images have gentle, restrained contrast                                             |
-| **Highlights**      | **−2**       | Smooth highlight roll-off is a Leica signature                                            |
-| **Shadows**         | **+1**       | Lifted shadows — Leica retains shadow detail without crushing                             |
-| **Fade**            | **2**        | Lifted blacks = Leica's "never truly black" shadow rendering                              |
-| **Saturation**      | **−2 to −3** | Leica's restrained saturation — colors present but not vivid                              |
-| **Sharpness**       | **0**        | Minimum sharpening — Leica's "drawing" quality is gentle, not clinical                    |
-| **Sharpness Range** | **1**        | Minimum — default                                                                         |
-| **Clarity**         | **0**        | Minimum clarity — smooth, gentle rendering (go negative in Lightroom for full Leica glow) |
+| Parameter           | Adjustment | Why                                                                                                                                                                                                                               |
+| ------------------- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Base Look**       | **FL**     | FL's warm, filmic character is the closest Sony base to Leica's rendering                                                                                                                                                         |
+| **Contrast**        | **−1**     | Leica images have gentle, restrained contrast — but not flat; street/travel contexts need visual presence                                                                                                                         |
+| **Highlights**      | **−2**     | Smooth highlight roll-off is a Leica signature                                                                                                                                                                                    |
+| **Shadows**         | **+1**     | Lifted shadows — Leica retains shadow detail without crushing                                                                                                                                                                     |
+| **Fade**            | **2**      | Lifted blacks = Leica's "never truly black" shadow rendering                                                                                                                                                                      |
+| **Saturation**      | **−2**     | Leica's restrained saturation — colors present but not vivid (not −3, which drains life when combined with −1 Contrast)                                                                                                           |
+| **Sharpness**       | **2**      | Below FL's default (4) for a gentle character, but provides the edge definition that makes Leica images look "drawn" — Leica lenses are razor-sharp in-focus; the "glow" is in out-of-focus rendering, not in the focused subject |
+| **Sharpness Range** | **1**      | Minimum radius — Leica's sharpness character is fine-edge precision, not broad texture enhancement                                                                                                                                |
+| **Clarity**         | **1**      | FL's own default — provides subtle midtone structure for cheekbone sculpting, fabric folds, and street scene detail that real Leica images clearly show                                                                           |
 
-> **Tip — The Leica look is about restraint.**
-> Where IN pushes saturation and clarity UP, the Leica emulation keeps everything at minimum.
-> The image should feel calm, warm, and "analog" — like a beautifully exposed film negative.
-> For the full Leica glow in post, apply negative Clarity (−15 to −25) in Lightroom
-> to go softer than what the A7C II's in-camera Clarity 0 can achieve.
+> **Tip — The Leica look is about restraint, not softness.**
+> Leica lenses (Summilux, APO-Summicron) are among the sharpest ever made.
+> The "Leica glow" comes from *tonal* rendering (warm highlights, lifted blacks,
+> restrained saturation) combined with beautiful *out-of-focus* transitions —
+> not from a soft in-focus subject. The preset captures this with gentle tonality
+> (Contrast −1, Fade 2, Saturation −2) while keeping the focused subject defined
+> (Sharpness 2, Clarity 1). For the full Leica glow in post, apply negative
+> Clarity (−15 to −25) in Lightroom on RAW files.
 
 **White Balance — warm amber foundation:**
 
@@ -1134,21 +1173,24 @@ After importing your RAW files, apply these on top of baseline exposure adjustme
 
 **In-Camera Emulation — FL Base + Hasselblad-Style Tweaks:**
 
-| Parameter           | Adjustment   | Why                                                                                                     |
-| ------------------- | ------------ | ------------------------------------------------------------------------------------------------------- |
-| **Base Look**       | **FL**       | FL provides the smooth tonal foundation; alternatively start from **ST (Standard)** for more neutrality |
-| **Contrast**        | **−2**       | Hasselblad images have very gentle, wide-range contrast                                                 |
-| **Highlights**      | **−2 to −3** | Ultra-smooth highlight roll-off — medium-format hallmark                                                |
-| **Shadows**         | **0 to +1**  | Shadows maintained but not aggressively lifted (Hasselblad keeps shadow structure)                      |
-| **Fade**            | **0 to 1**   | Minimal fade — Hasselblad retains true blacks more than Leica                                           |
-| **Saturation**      | **−1 to −2** | Natural, true-to-life; less desaturated than Leica, but not vivid                                       |
-| **Sharpness**       | **0**        | Neutral sharpness — Hasselblad's look relies on lens resolving power, not digital sharpening            |
-| **Sharpness Range** | **1**        | Minimum — default                                                                                       |
-| **Clarity**         | **0**        | Neutral clarity — the medium-format "smoothness" comes from low clarity                                 |
+| Parameter           | Adjustment   | Why                                                                                                                                                                                                                                                                                                                                     |
+| ------------------- | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Base Look**       | **FL**       | FL provides the smooth tonal foundation; alternatively start from **ST (Standard)** for more neutrality                                                                                                                                                                                                                                 |
+| **Contrast**        | **−2**       | Hasselblad images have very gentle, wide-range contrast                                                                                                                                                                                                                                                                                 |
+| **Highlights**      | **−2 to −3** | Ultra-smooth highlight roll-off — medium-format hallmark                                                                                                                                                                                                                                                                                |
+| **Shadows**         | **0 to +1**  | Shadows maintained but not aggressively lifted (Hasselblad keeps shadow structure)                                                                                                                                                                                                                                                      |
+| **Fade**            | **0**        | Hasselblad retains true blacks — commit to solid black point for the medium-format look                                                                                                                                                                                                                                                 |
+| **Saturation**      | **−1**       | Natural, true-to-life; Hasselblad colors are accurate, not desaturated (−2 combined with Contrast −2 makes the image anemic)                                                                                                                                                                                                            |
+| **Sharpness**       | **3**        | Below FL's default (4) for a refined character, but provides real spatial definition for the landscapes and architecture this preset targets — Hasselblad's resolving power is a defining trait alongside its tonal rendering                                                                                                           |
+| **Sharpness Range** | **2**        | Moderate radius — Hasselblad medium-format detail extends to medium-scale textures (stone, bark, foliage patterns), not just fine pixel edges                                                                                                                                                                                           |
+| **Clarity**         | **2**        | Provides midtone structure for cloud texture, mountain surfaces, and building dimensionality — the Hasselblad "medium format look" is gentle *tonal* transitions paired with *spatial* detail, not uniform softness. This is the "Clarity ↑ + Contrast ↓" combination from the interaction map: textured surfaces in a flat tonal field |
 
-> **Tip — Hasselblad vs Leica in one sentence:**
-> Leica says "warm and nostalgic"; Hasselblad says "accurate and refined."
-> If you want emotion, go Leica-style. If you want fidelity, go Hasselblad-style.
+> **Tip — Hasselblad smoothness is tonal, not spatial.**
+> The "medium format look" has two components: smooth tonal gradation (from Contrast −2
+> and pulled Highlights) and exceptional spatial resolution (from Sharpness 3, Clarity 2).
+> Hasselblad landscapes are smooth in *tone* but detailed in *texture* —
+> that's what makes their images look three-dimensional.
+> Don't confuse tonal gentleness with spatial softness; they are independent dimensions.
 
 **White Balance — neutral accuracy above all:**
 
@@ -1258,17 +1300,17 @@ provides the closest foundation to the hand-colored print aesthetic.
 The key adjustment is steering FL's warmth from amber toward rose
 with WB Shift and careful saturation control.
 
-| Parameter           | Adjustment | Why                                                                                |
-| ------------------- | ---------- | ---------------------------------------------------------------------------------- |
-| **Base Look**       | **FL**     | FL's film-like tonal rendering matches the hand-colored print aesthetic            |
-| **Contrast**        | **−1**     | Gentle but not flat — studio portraits had dimensionality from controlled lighting |
-| **Highlights**      | **−2**     | Smooth highlight roll-off; skin highlights glow rather than clip                   |
-| **Shadows**         | **+1**     | Lifted shadows — hand-colored prints retained detail in shadow areas               |
-| **Fade**            | **1**      | Slightly lifted blacks — the hand-coloring "floor" was never true black            |
-| **Saturation**      | **−1**     | Restrained but not absent — colors feel intentional, not blasted                   |
-| **Sharpness**       | **0**      | Minimum — the look is soft and smooth, never clinical                              |
-| **Sharpness Range** | **1**      | Minimum — default                                                                  |
-| **Clarity**         | **0**      | Minimum — skin should be porcelain-smooth; micro-contrast works against this look  |
+| Parameter           | Adjustment | Why                                                                                                                                                                                                                                                              |
+| ------------------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Base Look**       | **FL**     | FL's film-like tonal rendering matches the hand-colored print aesthetic                                                                                                                                                                                          |
+| **Contrast**        | **−1**     | Gentle but not flat — studio portraits had dimensionality from controlled lighting                                                                                                                                                                               |
+| **Highlights**      | **−2**     | Smooth highlight roll-off; skin highlights glow rather than clip                                                                                                                                                                                                 |
+| **Shadows**         | **+1**     | Lifted shadows — hand-colored prints retained detail in shadow areas                                                                                                                                                                                             |
+| **Fade**            | **1**      | Slightly lifted blacks — the hand-coloring "floor" was never true black                                                                                                                                                                                          |
+| **Saturation**      | **−1**     | Restrained but not absent — colors feel intentional, not blasted                                                                                                                                                                                                 |
+| **Sharpness**       | **1**      | Minimal — just enough to keep eye definition (catchlights, iris detail, lash lines) without any visible skin texture enhancement. Prevents the "is it out of focus?" impression that Sharpness 0 creates                                                         |
+| **Sharpness Range** | **1**      | Minimum radius — at Sharpness 1, the narrow radius means only the finest edges (lash lines, lip edges) get enhancement; skin stays untouched                                                                                                                     |
+| **Clarity**         | **1**      | FL's own default — provides the minimal midtone structure for "preserved structure" described above: cheekbone shadows, nose contour, and jawline read as three-dimensional. Without it, the face becomes a flat porcelain *mask* rather than a porcelain *face* |
 
 **White Balance — the critical differentiator:**
 
@@ -1331,10 +1373,12 @@ For RAW files where you want to push deeper into the aesthetic:
 | Aspect                 | Sony FL (Default) | Leica-Style              | Hasselblad-Style                   | China Photo Studio                      |
 | ---------------------- | ----------------- | ------------------------ | ---------------------------------- | --------------------------------------- |
 | **Overall Tone**       | Warm, filmic      | Warmer, nostalgic        | Neutral, refined                   | Warm rose-amber, porcelain              |
-| **Saturation**         | Moderate          | Restrained (−2 to −3)    | Natural (−1 to −2)                 | Restrained (−1), rosy bias              |
-| **Contrast**           | Moderate          | Gentle (−1 to −2)        | Very gentle (−2)                   | Gentle (−1), flattering                 |
+| **Saturation**         | Moderate          | Restrained (−2)          | Natural (−1)                       | Restrained (−1), rosy bias              |
+| **Contrast**           | Moderate          | Gentle (−1)              | Very gentle (−2)                   | Gentle (−1), flattering                 |
 | **Shadows**            | Slightly lifted   | Clearly lifted (Fade 2)  | Maintained (Fade 0)                | Slightly lifted (Fade 1)                |
 | **Highlight Roll-Off** | Good              | Smooth (−2)              | Ultra-smooth (−2 to −3)            | Smooth (−2), luminous                   |
+| **Sharpness**          | Default (4)       | Gentle (2)               | Refined (3)                        | Minimal (1)                             |
+| **Clarity**            | Default (1)       | Subtle (1)               | Structured (2)                     | Subtle (1)                              |
 | **Skin Tones**         | Warm              | Warm-amber               | Accurate-neutral                   | Rose-peach, porcelain                   |
 | **Green Rendering**    | Natural           | Olive/warm               | Cool/true                          | Muted/suppressed                        |
 | **WB Shift Key**       | None              | A+1                      | None                               | A+2 / M+2                               |
