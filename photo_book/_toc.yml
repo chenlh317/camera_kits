@@ -14,6 +14,7 @@ parts:
     chapters:
       - file: tips/photographing_tips
       - file: tips/color_grading
+      - file: tips/astrophotography_planetary
 
   - caption: Notes
     chapters:
