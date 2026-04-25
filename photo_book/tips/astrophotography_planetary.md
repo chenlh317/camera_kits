@@ -389,6 +389,11 @@ The free, standard, Windows-friendly pipeline is:
 > the optics never recorded. If the stacked image is featureless, the answer is
 > *better seeing or more aperture*, not stronger wavelets.
 
+> 💡 **Tool-by-tool details below.** See **Appendix A** for download links,
+> install notes, and parameter presets for PIPP, AutoStakkert!4 and RegiStax 6.
+> See **Appendix B** for the Lightroom Classic / Photoshop finishing steps —
+> both for planet stacks and for the M42 Orion Nebula case from §1.5.
+
 (2-5-coupling-the-a7c-ii-to-the-90-slt)=
 ### 2.5 Coupling the A7C II to the 90 SLT
 
@@ -771,3 +776,434 @@ and 2× the light. A **NexStar 6 SE** is the right *ambitious* upgrade — ~1.7�
 the resolution and 2.8× the light, but heavier, slower to cool, and likely
 overkill until your processing has matured. In all cases, the ceiling is
 **Oslo seeing**, not Oslo gear.
+
+---
+
+(appendix-a-software-setup)=
+## **Appendix A — Software Setup: PIPP, AutoStakkert!4, RegiStax 6**
+
+This appendix walks through the three free Windows tools in the §2.4 pipeline.
+All three are donation-ware, all three are portable or one-click installers,
+and the whole chain fits in well under 100 MB of disk. Set them up once and
+you're done for years — the projects are stable and rarely update.
+
+> 💡 **Folder convention.** Create `D:\Astro\Tools\` for the executables and
+> `D:\Astro\Sessions\YYYY-MM-DD\` for each night's data. PIPP, AS!4 and
+> RegiStax all default to the source-file folder for output, so a tidy
+> per-night layout keeps intermediate `.SER`, `_stacked.tif` and
+> `_wavelet.tif` files together.
+
+(appendix-a-1-pipp)=
+### A.1 PIPP — Planetary Imaging Pre-Processor
+
+**Where to download.** Official site: <https://sites.google.com/site/astropipp/>.
+The download button links to a SourceForge mirror. Grab the latest 64-bit
+Windows zip (typically `PIPP_*_x64.zip`).
+
+**Install.** Portable — no installer. Unzip to `D:\Astro\Tools\PIPP\`.
+Right-click `PIPP_64bit.exe` → *Properties* → tick "Unblock" if Windows
+SmartScreen flagged it. Pin to the taskbar.
+
+**First-launch sanity check.** Drop one of your A7C II `.MP4` clips onto the
+*Source Files* tab. PIPP should read frame count and resolution within a few
+seconds. If it complains about the codec, see the troubleshooting note at
+the end of this section.
+
+**Recommended preset for A7C II planetary clips:**
+
+| Tab                    | Setting                          | Notes                                                              |
+| ---------------------- | -------------------------------- | ------------------------------------------------------------------ |
+| **Source Files**       | Add A7C II `.MP4` / `.MOV`       | Multiple clips of the same target can be batched                   |
+| **Optimisation**       | "Planetary"                      | Sets sensible defaults for everything below                        |
+| **Input Options**      | Debayer = *Auto* (or RGGB)       | Sony A7C II is RGGB; "Auto" usually picks correctly                |
+| **Processing Options** | Object Detection = ON            | Threshold ~30 % for Jupiter; lower (10–20 %) for dim Saturn        |
+| **Processing Options** | Centre Object in Each Frame = ON | The whole point of running PIPP                                    |
+| **Processing Options** | Crop to ROI                      | See ROI table below                                                |
+| **Quality Options**    | Frame Quality Test = ON          | Pre-ranks frames so AS!4 starts with sorted data                   |
+| **Output Options**     | Output Format = **SER**          | Preferred over AVI — uncompressed, AS!4-native, no codec headaches |
+| **Output Options**     | Bit Depth = 16-bit if available  | Preserves dynamic range for stacking                               |
+| **Do Processing**      | Click *Start Processing*         | Output written next to the source clip with `_pipp` suffix         |
+
+**ROI sizes by target and capture mode:**
+
+| Target                        | ROI (W × H) | Why                                       |
+| ----------------------------- | :---------: | ----------------------------------------- |
+| Jupiter — 4K APS-C, no Barlow |   480×480   | Disc ~60 px, plenty of margin for drift   |
+| Jupiter — 1080p + 2× Barlow   |   360×360   | Disc ~40 px after downsample              |
+| Saturn — 4K APS-C             |   560×360   | Wider rectangle accommodates ring system  |
+| Mars — anywhere               |   240×240   | Small disc; tight ROI = faster AS!4       |
+| Moon — single feature         |  1024×1024  | Crater group; one tile of a future mosaic |
+| Moon — full disc              |    full     | Skip PIPP cropping; centre only           |
+
+> ⚠️ **PIPP rejects your MP4?** Some Sony XAVC-S codec variants trip up PIPP's
+> internal demuxer. Fix: re-encode losslessly with FFmpeg first:
+> `ffmpeg -i input.MP4 -c:v ffv1 -an output.avi`. Then feed the `.avi` to PIPP.
+> Painful but one-time per codec generation.
+
+(appendix-a-2-autostakkert)=
+### A.2 AutoStakkert!4
+
+**Where to download.** Official site: <https://www.autostakkert.com/>.
+Get the current "AS!4" Windows build (not legacy AS!3 unless you have a
+specific reason). Download is a `.zip`.
+
+**Install.** Portable — unzip to `D:\Astro\Tools\AutoStakkert4\`. Run
+`AutoStakkert_4.exe`. No registry entries, no admin rights needed.
+
+**First-launch sanity check.** Open one of your PIPP-produced `.SER` files via
+the **1) Open** button. The frame count should match what PIPP reported.
+The right-hand panel becomes the analysis view; the left is the controls.
+
+**Recommended preset for Jupiter / Saturn:**
+
+| Control                 | Setting                            | Notes                                                        |
+| ----------------------- | ---------------------------------- | ------------------------------------------------------------ |
+| **Image Stabilization** | Planet (COG)                       | Centre-of-gravity tracking; correct for round planets        |
+| **Quality Estimator**   | Local (Edge)                       | Edge-based ranking; works for Jupiter belts and Saturn rings |
+| **Noise Robust**        | 4 (good seeing) – 6 (typical Oslo) | Higher = more tolerant of speckle; raise on bad nights       |
+| **Dynamic Background**  | ON                                 | Removes residual gradient between frames                     |
+| **Sharpened**           | OFF                                | Always — RegiStax will do the sharpening                     |
+| **Frame Percentage**    | See target table below             | Multiple % outputs are fine; pick best one in RegiStax       |
+
+**For the Moon (extended surface):**
+
+- Image Stabilization → **Surface**
+- Quality Estimator → **Local (Edge)** still
+- Noise Robust → 3–4 (Moon is bright, less noisy)
+- Everything else as above
+
+**AP grid placement (the step that matters most):**
+
+This is the step that confuses every beginner the first time, so it's worth
+unpacking. **APs (Alignment Points)** are small square reference patches
+that AS!4 tracks independently across every frame. They do two jobs at once:
+
+1. **Local de-warping.** Atmospheric seeing doesn't blur a planet uniformly —
+   different parts of Jupiter's disc shift in different directions from
+   frame to frame, like ripples on a pond. AS!4 measures the wobble at
+   *each* AP separately and warps each frame back into alignment. The
+   denser your AP grid, the finer this de-warping can be.
+2. **Local quality ranking.** AS!4 also rates frame sharpness *per AP*, so
+   a frame where Jupiter's left limb is sharp but the right is mushy
+   contributes the left half to the stack and the right half is rejected.
+   This is why lucky imaging beats single exposures — different parts of
+   different frames win.
+
+**Box size vs box count — the trade-off.** Each AP is a square of
+**AP box size** pixels, and you place a *grid* of them across the planet.
+Smaller boxes + more boxes = finer de-warping, but each box has less signal,
+so the per-AP quality estimate gets noisier. There is a sweet spot for
+each setup:
+
+| Setup                 | AP box size | Typical AP count   |
+| --------------------- | :---------: | ------------------ |
+| 90 SLT native, 4K     |    48 px    | 30–60 across disc  |
+| 90 SLT + 2× Barlow    |    24 px    | 60–120 across disc |
+| 127 MAK / 6 SE native |    32 px    | 50–80              |
+| Moon                  |    64 px    | spread across tile |
+
+**How to actually place them — the practical recipe for your 90 SLT:**
+
+1. **Set the AP box size first** (e.g. 48 for native 4K Jupiter), *then*
+   set **Min Bright** to ~10–15 (this is the brightness threshold below
+   which AS!4 won't auto-place an AP; keeps APs off the dark sky).
+2. **Click *Place AP Grid in Image***. AS!4 will sprinkle APs automatically
+   on any pixel above the brightness threshold. For Jupiter you'll typically
+   get a clean grid covering the whole disc.
+3. **Inspect the result.** Look for these problems and fix them manually
+   (right-click an AP to delete; left-click an empty spot to add):
+   - **APs floating on the dark sky** outside the limb → delete them
+     (they ruin alignment because they have nothing to track).
+   - **APs sitting exactly on the limb edge** → delete or nudge inward by
+     half a box. The limb has high contrast but its position *moves with
+     seeing* — that's exactly the wobble you want to measure *against*,
+     not anchor *to*.
+   - **A bright Galilean moon next to Jupiter caught an AP** → delete it.
+     The moon is a separate target; let AS!4 align on the planet's body.
+   - **No APs on the dim polar regions** because brightness was below
+     threshold → either lower Min Bright by 5, or hand-place 2–3 APs
+     manually on the poles.
+4. **Aim for an even, slightly-overlapping grid** covering the whole disc,
+   with APs concentrated on contrast features (belt edges, the GRS, ring
+   edges on Saturn, crater rims on the Moon). 30–60 APs is plenty for
+   Jupiter at native focal length — more is *not* better.
+
+> 💡 **Heuristic for your level.** When in doubt, **fewer, bigger APs**
+> beats *more, smaller APs*. A clean stack with 30 well-placed 48-px APs
+> looks far better than a smeared stack with 200 noisy 24-px APs. Only
+> shrink the box size when (a) you've added a Barlow and the disc fills
+> more pixels, or (b) you upgrade to a larger aperture.
+
+> ⚠️ **Common confusion: "Minimum distance between APs"** is *not* AP
+> box size. It's how tightly APs can pack — leave it at the default
+> (~half the box size) and ignore it for your first 10 sessions.
+
+**Visual sanity check before clicking *Stack*:** the AP grid should look
+like a peppered grid covering only the bright planet body, with no APs
+on the sky and none right on the limb. If it looks like that, you're done —
+hit **2) Analyse** then **3) Stack**.
+
+**Frame-percentage presets — keep top:**
+
+| Target  | Keep % | Notes                                                |
+| ------- | :----: | ---------------------------------------------------- |
+| Jupiter |  25 %  | Tighten to 10–15 % on a great-seeing night           |
+| Saturn  |  15 %  | Dim — fewer frames are properly exposed              |
+| Mars    |  20 %  | Small disc; quality estimator gets noisy below ~10 % |
+| Moon    |  50 %  | Bright + extended; many frames are usable            |
+
+**Drizzle.** Tick **Drizzle 1.5×** when you captured 1080p without a Barlow
+(under-sampled — see §3.3). Skip drizzle for 4K APS-C or any Barlow setup.
+
+**Output.** AS!4 writes a 16-bit `.tif` next to the source SER, named
+`*_lapl5_ap48_p25.tif` or similar (the suffix encodes settings). Hand this
+to RegiStax.
+
+(appendix-a-3-registax)=
+### A.3 RegiStax 6
+
+**Where to download.** Official site: <https://www.astronomie.be/registax/>.
+RegiStax 6 is the last public release (development frozen since ~2011 — but
+the wavelet engine is still the de-facto standard). The download is a
+classic Windows installer (`.exe`).
+
+**Install.** Run the installer; default path `C:\Program Files (x86)\RegiStax6\`
+is fine. It creates a Start-menu entry. RegiStax is 32-bit but works fine on
+modern Windows 11.
+
+**First-launch sanity check.** Click **Select** → load the `_stacked.tif`
+from AS!4. RegiStax skips alignment (already done) and jumps straight to the
+**Wavelet** tab. The image looks soft — that's correct, the magic comes next.
+
+**Wavelet configuration:**
+
+- **Wavelet scheme:** Linear
+- **Wavelet filter:** Gaussian
+- **Use Linked Wavelets:** OFF (independent layers give finer control)
+
+**Preset slider tables:**
+
+| Preset                   |  L1   |  L2   |  L3   |  L4   |  L5   |  L6   | Denoise (each) |
+| ------------------------ | :---: | :---: | :---: | :---: | :---: | :---: | :------------: |
+| **Gentle Jupiter**       | 0.10  | 0.15  | 0.10  |   0   |   0   |   0   |      0.10      |
+| **Saturn (rings emph.)** | 0.10  | 0.20  | 0.15  | 0.05  |   0   |   0   |      0.10      |
+| **Mars (small disc)**    | 0.15  | 0.20  | 0.10  |   0   |   0   |   0   |      0.15      |
+| **Moon (crater detail)** | 0.20  | 0.20  | 0.10  |   0   |   0   |   0   |      0.05      |
+
+Click **Do All** to apply. Inspect at 100 % zoom.
+
+**Final touch-ups (in order):**
+
+1. **RGB Align** (button in the toolbar). Auto-aligns the colour channels —
+   fixes atmospheric dispersion, the rainbow fringe on the planet's limb.
+   Nudge manually if "Auto" leaves a green or magenta edge.
+2. **Histogram stretch.** Switch to the *Final* tab → drag black/white points
+   to set sensible end-points. Don't crush midtones — leave that for Lightroom.
+3. **Save Image** as 16-bit TIFF for hand-off to Lightroom.
+
+> ⚠️ **Reading wavelet artifacts.** *Dark haloes* around the limb = back off
+> Layer 1. *Worm-like noise patterns* in low-contrast areas = increase
+> Denoise on the offending layer or back off that layer. *Muddy and
+> featureless* = lift Layer 2 or 3 a touch — but if there's no detail in
+> the stacked TIFF, no wavelet pass will conjure any. See §2.4's warning.
+
+(appendix-a-troubleshooting)=
+### A.4 Troubleshooting Quick-Reference
+
+| Symptom                           | Likely Cause                             | Fix                                                         |
+| --------------------------------- | ---------------------------------------- | ----------------------------------------------------------- |
+| PIPP refuses the MP4              | Newer XAVC-S / HEVC codec                | Re-encode with FFmpeg to FFV1 AVI (see callout in A.1)      |
+| AS!4 alignment fails / wanders    | Too many APs, or APs on limb             | Reduce AP count, place on high-contrast features only       |
+| AS!4 result is grainy / streaky   | Frame % too low                          | Loosen to 25–35 %; you may have stacked too few good frames |
+| RegiStax shows hard "ringing"     | Wavelet Layer 1 too high                 | Drop L1 by 0.05; raise Denoise on L1                        |
+| Colour fringes on planet limb     | Atmospheric dispersion (low altitude)    | RegiStax → RGB Align → Auto, then nudge channels by hand    |
+| Saved TIFF looks dim in Lightroom | RegiStax saved without histogram stretch | Re-save after a gentle stretch, or use LR's *Whites* slider |
+
+---
+
+(appendix-b-lightroom-photoshop)=
+## **Appendix B — Final Polish in Lightroom Classic & Photoshop**
+
+The wavelet TIFF from RegiStax (or, for M42, a single long exposure or a
+short DeepSkyStacker stack) is *technically* finished — but flat. Appendix B
+is the final 10 % that turns a clean stack into a shareable image.
+
+This appendix is opinionated and use-case specific. It is not a Lightroom
+tutorial; it assumes you can already navigate the Develop module and the
+Photoshop layer panel. If a slider is not mentioned, leave it at default.
+
+(appendix-b-0-bringing-it-in)=
+### B.0 Bringing the TIFF In
+
+- **Import** the 16-bit TIFF from RegiStax (or DSS) into Lightroom Classic
+  in your usual photo catalogue. Use a separate **collection** or a keyword
+  like `astro/jupiter` to keep these out of the family stream.
+- **Develop module first.** 90 % of planet polish never leaves Lightroom.
+  Send to Photoshop only when you need true layer masks, clone-stamping,
+  Photomerge, or aggressive stretching that LR's Tone curve can't reach.
+- **Naming convention** (matches the rest of your workflow):
+  `2026-01-15_Jupiter_AS25_RX6_LR.tif`
+  → date / target / AS!4 keep-% / wavelet preset / final stage.
+
+(appendix-b-1-planet-polish)=
+### B.1 Planet Polish — Jupiter, Saturn, the Moon
+
+The planet stack arrives clean but with low global contrast and a slight
+greenish or pinkish cast (sensor + atmospheric residual). The goal is
+**punch the contrast, neutralise colour, and crush background grain** —
+without re-introducing wavelet artifacts.
+
+**Lightroom slider preset (Develop → Basic & beyond):**
+
+| Slider         |             Jupiter             |     Saturn      |      Moon      | Notes                                                |
+| -------------- | :-----------------------------: | :-------------: | :------------: | ---------------------------------------------------- |
+| **Profile**    |            Adobe Std            |    Adobe Std    |   Adobe Std    | Avoid camera-matching profiles on stacked TIFFs      |
+| **WB**         | Dropper on limb / off-disc grey | Dropper on ring | 5500 K, tint 0 | Neutralise atmospheric tint                          |
+| **Exposure**   |                0                |      +0.3       |       0        | Saturn is dim; lift slightly                         |
+| **Contrast**   |               +15               |       +20       |      +25       | Moon takes the most contrast happily                 |
+| **Highlights** |               −20               |       −30       |      −10       | Protect Saturn's ring highlights especially          |
+| **Shadows**    |               +10               |       +20       |       +5       | Lift cloud belts / ring shadow                       |
+| **Whites**     |            Alt-clip             |    Alt-clip     |    Alt-clip    | Hold Alt and drag until first clipping pixels appear |
+| **Blacks**     |          Alt-clip −10           |       −10       |       −5       | A little extra crush kills stacking grain in BG      |
+| **Texture**    |               +10               |       +5        |      +20       | Moon is texture-rich; planets less so                |
+| **Clarity**    |               +5                |        0        |      +10       | Very gentle — wavelets already did the work          |
+| **Dehaze**     |               +5                |       +10       |       0        | Saturn benefits the most (low altitude haze)         |
+| **Vibrance**   |               +10               |       +5        |       0        | Boost belt colour without oversaturating             |
+| **Saturation** |                0                |        0        |       0        | Use Vibrance, never global Sat, on planets           |
+
+**HSL / Color Mix:**
+
+- **Jupiter:** Orange and Red — Saturation +10, Luminance +5.
+  Optionally Yellow Saturation +5 for the equatorial zone.
+- **Saturn:** Yellow Saturation +10, Orange Saturation +5. Resist the urge
+  to push further — it tips into "fake postcard" territory fast.
+- **Moon:** All channels at 0; the Moon is genuinely greyscale with a hint
+  of warm/cool variation between mare and highlands. A −5 Saturation
+  global is sometimes cleaner.
+
+**Masking (Lightroom AI masks):**
+
+1. **Subject mask** → *Select Subject* will pick out the planet. Inside the
+   subject: nothing further usually needed.
+2. **Invert** the subject mask → background. Apply: Exposure −1.0,
+   Blacks −30, Texture −20, Noise +20. This is what kills the residual
+   stacking grain in the surrounding "sky".
+
+**Photoshop steps (only when needed):**
+
+- **Rotate & crop square.** Image → Image Rotation → Arbitrary; align
+  Jupiter's belts horizontal. Crop to a clean square framing.
+- **Camera Raw filter** for a second, very gentle *Texture +10* pass on a
+  duplicated layer set to *Luminosity* blend mode — adds micro-contrast
+  without colour shift.
+- **Clone Stamp** small limb artifacts (single-pixel hot edges from
+  wavelet ringing). Soft-edge brush, 1–3 px, low opacity.
+- **Save As JPEG**, sRGB, quality 90, embed metadata.
+
+**Saturn-specific:** add a **radial mask** around the ring system in Lightroom
+*before* applying any global Clarity. Inside the radial: Clarity +10,
+Texture +5. Outside (planet body): keep Clarity gentle. This protects ring
+edges from haloing.
+
+**Moon-specific (mosaics):** if you captured the Moon as multiple tiles
+(e.g. 1024×1024 ROIs in PIPP), process each tile through AS!4 + RegiStax
+separately, then in **Photoshop → File → Automate → Photomerge → Reposition**
+(*not* Auto). Reposition keeps the original geometry and just stitches —
+ideal for a flat target like the Moon. Do colour/contrast work *after*
+the merge, on the combined panorama.
+
+(appendix-b-2-orion-m42)=
+### B.2 M42 Orion Nebula Polish
+
+§1.5 calls M42 "doable" on the 90 SLT — and it is, even from Oslo's city
+sky. But M42 needs a fundamentally different processing approach from
+planets: instead of *sharpening already-resolved detail*, you are
+**stretching faint signal out of a noisy gradient** while protecting the
+blown-out Trapezium core.
+
+> 💡 **Stack first if you have multiple subs.** A single 30-s exposure at
+> ISO 1600–3200 on the 90 SLT works. Multiple subs (5–20 × 30 s) stacked
+> in **DeepSkyStacker** (free, <http://deepskystacker.free.fr/>) before
+> Lightroom will give dramatically less noise. DSS is a one-button affair
+> for this scale of project — load lights, leave darks/flats unchecked
+> for a beginner pass, hit *Register and Stack*. The output `Autosave.tif`
+> goes straight into Lightroom in place of a single-sub TIFF.
+
+**Lightroom slider preset (Develop):**
+
+| Slider         |    Value     | Reasoning                                           |
+| -------------- | :----------: | --------------------------------------------------- |
+| **Profile**    |  Adobe Std   | Same as planets                                     |
+| **WB Temp**    |   ~3800 K    | Neutralises Oslo sodium-vapour light pollution      |
+| **WB Tint**    |  +5 to +15   | Magenta push to bring out H-α nebula colour         |
+| **Exposure**   | +0.5 to +1.0 | Lift the nebulosity off the noise floor             |
+| **Contrast**   |     +10      | Mild — Curves does the heavy stretch                |
+| **Highlights** |     −60      | Recover Trapezium core                              |
+| **Shadows**    |     +40      | Lift the wings of nebulosity                        |
+| **Whites**     |     −10      | Protect the brightest core stars                    |
+| **Blacks**     |     −30      | Keep the sky genuinely dark                         |
+| **Texture**    |     +20      | Bring out filaments                                 |
+| **Clarity**    |     +10      | Local contrast in the nebula                        |
+| **Dehaze**     |  +30 to +50  | Single most important slider — flattens LP gradient |
+| **Vibrance**   |     +20      | Pulls the magenta/pink hue forward                  |
+| **Saturation** |      +5      | Gentle global lift                                  |
+
+**HSL / Color Mix:**
+
+- **Magenta + Red — Saturation +20, Luminance +5.** This is where the
+  nebula's H-α emission lives.
+- **Blue + Aqua — Saturation +10.** The reflection-nebula component
+  around the Trapezium has cool tones; preserve them.
+- **Orange − Saturation by 20.** Suppresses the brown/orange light-pollution
+  gradient that survives Dehaze.
+- **Yellow − Saturation by 10.** Same reason.
+
+**Masking (the part that separates a flat M42 from a credible one):**
+
+1. **Linear Gradient** mask, top-down or aligned with the brightest LP
+   direction (toward downtown Oslo). Inside: Exposure −0.5, Dehaze +20.
+   Flattens the residual sky gradient that global Dehaze couldn't kill.
+2. **AI-Sky / Linear Gradient inverted** → background sky only. Blacks −30,
+   Texture −20, Noise reduction +30. Keeps the sky deep without clipping.
+3. **Radial Gradient** centred on the Trapezium, small (~5 % of frame),
+   feathered. Inside: Exposure −1.0, Highlights −40. Protects the core
+   stars from over-saturation when you stretch.
+
+**Photoshop — the deep-sky stretch:**
+
+The fundamental deep-sky move is a **non-linear stretch** that LR's Tone
+curve only approximates. In Photoshop:
+
+1. **Levels** (Ctrl+L). Set the black point on the dark-sky histogram peak
+   (drag the left slider to just before the histogram starts). **Do not**
+   touch the white point.
+2. **Curves** (Ctrl+M). Click the centre of the line and drag *up and left* —
+   creates the classic deep-sky "stretch" shape. Repeat with progressively
+   gentler pulls until nebulosity emerges from the background. Stop when
+   colour noise (random magenta/green specks) becomes objectionable.
+3. **Star-size reduction** (optional). Duplicate layer → *Filter → Other →
+   Minimum* → Radius 1 px → Preserve Roundness. Add a layer mask, fill
+   black, then paint white *only* over the star fields (not the nebula).
+   Drops star size without softening nebula filaments.
+4. **Camera Raw filter** for final noise reduction: Luminance 20–30,
+   Detail 50, Color 30. Apply on a duplicate so you can mask it back if
+   it eats faint nebula structure.
+5. **Save As** 16-bit TIFF for the archive, plus a JPEG export for sharing.
+
+> ⚠️ **The city-sky honesty test.** From Oslo, M42 will never look like
+> the Hubble image — and pushing Dehaze + Saturation + Curves until it
+> *does* produces an obviously fake-looking result with crushed star
+> colour and plasticy nebula. If your edit looks like a postcard, you've
+> over-cooked it. The Trapezium should remain four distinct stars; the
+> nebula should fade smoothly into the sky, not have a hard edge.
+
+> 💡 **Star colour preservation.** Before the deep-sky stretch in step 2,
+> protect star colour by either (a) duplicating the layer, blurring the
+> copy, and using *Color* blend mode for star regions, or (b) doing the
+> Curves stretch on a *Luminosity*-blend duplicate so hue is unaffected.
+> Stretched stars without this trick all turn pure white.
+
+> ⚠️ **Lightroom & Photoshop are not stacking software.** No amount of
+> Curves trickery on a single sub recovers what 10 stacked subs trivially
+> deliver. If M42 becomes a regular target, the next-step investment is
+> *more capture time*, not more Photoshop tutorials.

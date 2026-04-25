@@ -50,8 +50,7 @@ def get_exif_data(image_path: Path) -> Optional[Dict[str, Any]]:
 
 
 def get_35mm_equivalent(
-    exif: Dict[str, Any],
-    crop_factors: Optional[Dict[str, Any]] = None
+    exif: Dict[str, Any], crop_factors: Optional[Dict[str, Any]] = None
 ) -> Optional[float]:
     """
     Get 35mm equivalent focal length from EXIF data.
@@ -320,9 +319,7 @@ def process_photos(
                     subfolder_name = sanitize_filename(
                         str(relative_path.parent).replace("/", "_").replace("\\", "_")
                     )
-                    new_filename = (
-                        f"{source_folder_name}_{subfolder_name}_{focal_str}_{image_path.name}"
-                    )
+                    new_filename = f"{source_folder_name}_{subfolder_name}_{focal_str}_{image_path.name}"
                 else:
                     new_filename = f"{source_folder_name}_{focal_str}_{image_path.name}"
 
@@ -529,7 +526,6 @@ def main(min_focal: int, max_focal: int, config: str = "photo_folders.yaml"):
 
 
 if __name__ == "__main__":
-
     # check if worth a good 70-200mm lens
     main(
         min_focal=105,

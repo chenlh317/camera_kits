@@ -56,25 +56,97 @@ KNOWN_CROP_FACTORS: Dict[str, Dict[str, Any]] = {
     "Apple iPhone 15": {"crop_factor": 2.86, "sensor_size": "1/1.28 inch"},
     "Apple iPhone 15 Pro": {"crop_factor": 2.86, "sensor_size": "1/1.28 inch"},
     # Samsung phones
-    "samsung SM-S901B": {"crop_factor": 3.93, "sensor_size": "1/1.57 inch", "model": "Galaxy S22"},
-    "samsung SM-S901E": {"crop_factor": 3.93, "sensor_size": "1/1.57 inch", "model": "Galaxy S22"},
-    "samsung SM-S906B": {"crop_factor": 3.93, "sensor_size": "1/1.57 inch", "model": "Galaxy S22+"},
-    "samsung SM-S908B": {"crop_factor": 2.19, "sensor_size": "1/1.33 inch", "model": "Galaxy S22 Ultra"},
-    "samsung SM-S911B": {"crop_factor": 3.93, "sensor_size": "1/1.57 inch", "model": "Galaxy S23"},
-    "samsung SM-S916B": {"crop_factor": 3.93, "sensor_size": "1/1.57 inch", "model": "Galaxy S23+"},
-    "samsung SM-S918B": {"crop_factor": 2.0, "sensor_size": "1/1.3 inch", "model": "Galaxy S23 Ultra"},
-    "samsung SM-S921B": {"crop_factor": 3.93, "sensor_size": "1/1.57 inch", "model": "Galaxy S24"},
-    "samsung SM-S926B": {"crop_factor": 3.93, "sensor_size": "1/1.57 inch", "model": "Galaxy S24+"},
-    "samsung SM-S928B": {"crop_factor": 2.0, "sensor_size": "1/1.3 inch", "model": "Galaxy S24 Ultra"},
-    "samsung SM-S931B": {"crop_factor": 3.93, "sensor_size": "1/1.57 inch", "model": "Galaxy S25"},
-    "samsung SM-S936B": {"crop_factor": 3.93, "sensor_size": "1/1.57 inch", "model": "Galaxy S25+"},
-    "samsung SM-S938B": {"crop_factor": 2.0, "sensor_size": "1/1.3 inch", "model": "Galaxy S25 Ultra"},
+    "samsung SM-S901B": {
+        "crop_factor": 3.93,
+        "sensor_size": "1/1.57 inch",
+        "model": "Galaxy S22",
+    },
+    "samsung SM-S901E": {
+        "crop_factor": 3.93,
+        "sensor_size": "1/1.57 inch",
+        "model": "Galaxy S22",
+    },
+    "samsung SM-S906B": {
+        "crop_factor": 3.93,
+        "sensor_size": "1/1.57 inch",
+        "model": "Galaxy S22+",
+    },
+    "samsung SM-S908B": {
+        "crop_factor": 2.19,
+        "sensor_size": "1/1.33 inch",
+        "model": "Galaxy S22 Ultra",
+    },
+    "samsung SM-S911B": {
+        "crop_factor": 3.93,
+        "sensor_size": "1/1.57 inch",
+        "model": "Galaxy S23",
+    },
+    "samsung SM-S916B": {
+        "crop_factor": 3.93,
+        "sensor_size": "1/1.57 inch",
+        "model": "Galaxy S23+",
+    },
+    "samsung SM-S918B": {
+        "crop_factor": 2.0,
+        "sensor_size": "1/1.3 inch",
+        "model": "Galaxy S23 Ultra",
+    },
+    "samsung SM-S921B": {
+        "crop_factor": 3.93,
+        "sensor_size": "1/1.57 inch",
+        "model": "Galaxy S24",
+    },
+    "samsung SM-S926B": {
+        "crop_factor": 3.93,
+        "sensor_size": "1/1.57 inch",
+        "model": "Galaxy S24+",
+    },
+    "samsung SM-S928B": {
+        "crop_factor": 2.0,
+        "sensor_size": "1/1.3 inch",
+        "model": "Galaxy S24 Ultra",
+    },
+    "samsung SM-S931B": {
+        "crop_factor": 3.93,
+        "sensor_size": "1/1.57 inch",
+        "model": "Galaxy S25",
+    },
+    "samsung SM-S936B": {
+        "crop_factor": 3.93,
+        "sensor_size": "1/1.57 inch",
+        "model": "Galaxy S25+",
+    },
+    "samsung SM-S938B": {
+        "crop_factor": 2.0,
+        "sensor_size": "1/1.3 inch",
+        "model": "Galaxy S25 Ultra",
+    },
     # Huawei phones
-    "HUAWEI ELE-L29": {"crop_factor": 3.93, "sensor_size": "1/1.7 inch", "model": "P30"},
-    "HUAWEI VOG-L29": {"crop_factor": 3.93, "sensor_size": "1/1.7 inch", "model": "P30 Pro"},
-    "HUAWEI ANA-NX9": {"crop_factor": 3.18, "sensor_size": "1/1.28 inch", "model": "P40"},
-    "HUAWEI ANA-LX4": {"crop_factor": 3.18, "sensor_size": "1/1.28 inch", "model": "P40"},
-    "HUAWEI ELS-NX9": {"crop_factor": 3.18, "sensor_size": "1/1.28 inch", "model": "P40 Pro"},
+    "HUAWEI ELE-L29": {
+        "crop_factor": 3.93,
+        "sensor_size": "1/1.7 inch",
+        "model": "P30",
+    },
+    "HUAWEI VOG-L29": {
+        "crop_factor": 3.93,
+        "sensor_size": "1/1.7 inch",
+        "model": "P30 Pro",
+    },
+    "HUAWEI ANA-NX9": {
+        "crop_factor": 3.18,
+        "sensor_size": "1/1.28 inch",
+        "model": "P40",
+    },
+    "HUAWEI ANA-LX4": {
+        "crop_factor": 3.18,
+        "sensor_size": "1/1.28 inch",
+        "model": "P40",
+    },
+    "HUAWEI ELS-NX9": {
+        "crop_factor": 3.18,
+        "sensor_size": "1/1.28 inch",
+        "model": "P40 Pro",
+    },
     # Nokia phones
     "Nokia 3110c": {"crop_factor": 9.6, "sensor_size": "1/4 inch"},
     "Nokia 6303c": {"crop_factor": 8.65, "sensor_size": "1/3.6 inch"},
@@ -167,7 +239,7 @@ def search_crop_factor_online(camera_name: str) -> Optional[Dict[str, Any]]:
     """
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-                      "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     }
 
     # Try DuckDuckGo HTML search
@@ -402,7 +474,9 @@ def scan_folders_for_cameras(folders: List[str]) -> Dict[str, Dict[str, Any]]:
         for image_file in image_files:
             processed_files += 1
             if processed_files % 100 == 0:
-                print(f"  Processed {processed_files} files, found {len(cameras)} unique cameras...")
+                print(
+                    f"  Processed {processed_files} files, found {len(cameras)} unique cameras..."
+                )
 
             exif = get_exif_data(image_file)
             if exif is None:
@@ -506,7 +580,9 @@ def main():
 
         # Print result
         if crop_info.get("crop_factor"):
-            print(f"  -> Crop factor: {crop_info['crop_factor']}x ({crop_info.get('source', 'unknown')})")
+            print(
+                f"  -> Crop factor: {crop_info['crop_factor']}x ({crop_info.get('source', 'unknown')})"
+            )
         else:
             print("  -> Crop factor: NOT FOUND")
 
@@ -539,7 +615,9 @@ def main():
 
     # Write to YAML file
     with open(output_path, "w", encoding="utf-8") as f:
-        yaml.dump(output, f, default_flow_style=False, allow_unicode=True, sort_keys=False)
+        yaml.dump(
+            output, f, default_flow_style=False, allow_unicode=True, sort_keys=False
+        )
 
     print(f"\nResults written to: {output_path}")
     print("\nSummary:")
