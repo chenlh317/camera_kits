@@ -444,6 +444,19 @@ document.write(`
 </ul>
 </li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#one-paragraph-summary"><strong>6. One-Paragraph Summary</strong></a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#appendix-a-software-setup-pipp-autostakkert-4-registax-6"><strong>Appendix A — Software Setup: PIPP, AutoStakkert!4, RegiStax 6</strong></a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#a-1-pipp-planetary-imaging-pre-processor">A.1 PIPP — Planetary Imaging Pre-Processor</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#a-2-autostakkert-4">A.2 AutoStakkert!4</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#a-3-registax-6">A.3 RegiStax 6</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#a-4-troubleshooting-quick-reference">A.4 Troubleshooting Quick-Reference</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#appendix-b-final-polish-in-lightroom-classic-photoshop"><strong>Appendix B — Final Polish in Lightroom Classic &amp; Photoshop</strong></a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#b-0-bringing-the-tiff-in">B.0 Bringing the TIFF In</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#b-1-planet-polish-jupiter-saturn-the-moon">B.1 Planet Polish — Jupiter, Saturn, the Moon</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#b-2-m42-orion-nebula-polish">B.2 M42 Orion Nebula Polish</a></li>
+</ul>
+</li>
 </ul>
             </nav>
         </div>
@@ -611,6 +624,21 @@ of the 90 mm first.</p>
 </ul>
 </li>
 <li><p><a class="reference internal" href="#one-paragraph-summary" id="id53"><strong>6. One-Paragraph Summary</strong></a></p></li>
+<li><p><a class="reference internal" href="#appendix-a-software-setup-pipp-autostakkert-4-registax-6" id="id54"><strong>Appendix A — Software Setup: PIPP, AutoStakkert!4, RegiStax 6</strong></a></p>
+<ul>
+<li><p><a class="reference internal" href="#a-1-pipp-planetary-imaging-pre-processor" id="id55">A.1 PIPP — Planetary Imaging Pre-Processor</a></p></li>
+<li><p><a class="reference internal" href="#a-2-autostakkert-4" id="id56">A.2 AutoStakkert!4</a></p></li>
+<li><p><a class="reference internal" href="#a-3-registax-6" id="id57">A.3 RegiStax 6</a></p></li>
+<li><p><a class="reference internal" href="#a-4-troubleshooting-quick-reference" id="id58">A.4 Troubleshooting Quick-Reference</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#appendix-b-final-polish-in-lightroom-classic-photoshop" id="id59"><strong>Appendix B — Final Polish in Lightroom Classic &amp; Photoshop</strong></a></p>
+<ul>
+<li><p><a class="reference internal" href="#b-0-bringing-the-tiff-in" id="id60">B.0 Bringing the TIFF In</a></p></li>
+<li><p><a class="reference internal" href="#b-1-planet-polish-jupiter-saturn-the-moon" id="id61">B.1 Planet Polish — Jupiter, Saturn, the Moon</a></p></li>
+<li><p><a class="reference internal" href="#b-2-m42-orion-nebula-polish" id="id62">B.2 M42 Orion Nebula Polish</a></p></li>
+</ul>
+</li>
 </ul>
 </li>
 </ul>
@@ -1162,6 +1190,12 @@ small noise reduction in the background sky.</p></li>
 the optics never recorded. If the stacked image is featureless, the answer is
 <em>better seeing or more aperture</em>, not stronger wavelets.</p>
 </div></blockquote>
+<blockquote>
+<div><p>💡 <strong>Tool-by-tool details below.</strong> See <strong>Appendix A</strong> for download links,
+install notes, and parameter presets for PIPP, AutoStakkert!4 and RegiStax 6.
+See <strong>Appendix B</strong> for the Lightroom Classic / Photoshop finishing steps —
+both for planet stacks and for the M42 Orion Nebula case from §1.5.</p>
+</div></blockquote>
 </section>
 <section id="coupling-the-a7c-ii-to-the-90-slt">
 <span id="id7"></span><h3><a class="toc-backref" href="#id36" role="doc-backlink">2.5 Coupling the A7C II to the 90 SLT</a><a class="headerlink" href="#coupling-the-a7c-ii-to-the-90-slt" title="Link to this heading">#</a></h3>
@@ -1679,6 +1713,744 @@ and 2× the light. A <strong>NexStar 6 SE</strong> is the right <em>ambitious</e
 the resolution and 2.8× the light, but heavier, slower to cool, and likely
 overkill until your processing has matured. In all cases, the ceiling is
 <strong>Oslo seeing</strong>, not Oslo gear.</p>
+<hr class="docutils" />
+</section>
+<section id="appendix-a-software-setup-pipp-autostakkert-4-registax-6">
+<span id="appendix-a-software-setup"></span><h2><a class="toc-backref" href="#id54" role="doc-backlink"><strong>Appendix A — Software Setup: PIPP, AutoStakkert!4, RegiStax 6</strong></a><a class="headerlink" href="#appendix-a-software-setup-pipp-autostakkert-4-registax-6" title="Link to this heading">#</a></h2>
+<p>This appendix walks through the three free Windows tools in the §2.4 pipeline.
+All three are donation-ware, all three are portable or one-click installers,
+and the whole chain fits in well under 100 MB of disk. Set them up once and
+you’re done for years — the projects are stable and rarely update.</p>
+<blockquote>
+<div><p>💡 <strong>Folder convention.</strong> Create <code class="docutils literal notranslate"><span class="pre">D:\Astro\Tools\</span></code> for the executables and
+<code class="docutils literal notranslate"><span class="pre">D:\Astro\Sessions\YYYY-MM-DD\</span></code> for each night’s data. PIPP, AS!4 and
+RegiStax all default to the source-file folder for output, so a tidy
+per-night layout keeps intermediate <code class="docutils literal notranslate"><span class="pre">.SER</span></code>, <code class="docutils literal notranslate"><span class="pre">_stacked.tif</span></code> and
+<code class="docutils literal notranslate"><span class="pre">_wavelet.tif</span></code> files together.</p>
+</div></blockquote>
+<section id="a-1-pipp-planetary-imaging-pre-processor">
+<span id="appendix-a-1-pipp"></span><h3><a class="toc-backref" href="#id55" role="doc-backlink">A.1 PIPP — Planetary Imaging Pre-Processor</a><a class="headerlink" href="#a-1-pipp-planetary-imaging-pre-processor" title="Link to this heading">#</a></h3>
+<p><strong>Where to download.</strong> Official site: <a class="reference external" href="https://sites.google.com/site/astropipp/">https://sites.google.com/site/astropipp/</a>.
+The download button links to a SourceForge mirror. Grab the latest 64-bit
+Windows zip (typically <code class="docutils literal notranslate"><span class="pre">PIPP_*_x64.zip</span></code>).</p>
+<p><strong>Install.</strong> Portable — no installer. Unzip to <code class="docutils literal notranslate"><span class="pre">D:\Astro\Tools\PIPP\</span></code>.
+Right-click <code class="docutils literal notranslate"><span class="pre">PIPP_64bit.exe</span></code> → <em>Properties</em> → tick “Unblock” if Windows
+SmartScreen flagged it. Pin to the taskbar.</p>
+<p><strong>First-launch sanity check.</strong> Drop one of your A7C II <code class="docutils literal notranslate"><span class="pre">.MP4</span></code> clips onto the
+<em>Source Files</em> tab. PIPP should read frame count and resolution within a few
+seconds. If it complains about the codec, see the troubleshooting note at
+the end of this section.</p>
+<p><strong>Recommended preset for A7C II planetary clips:</strong></p>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Tab</p></th>
+<th class="head"><p>Setting</p></th>
+<th class="head"><p>Notes</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p><strong>Source Files</strong></p></td>
+<td><p>Add A7C II <code class="docutils literal notranslate"><span class="pre">.MP4</span></code> / <code class="docutils literal notranslate"><span class="pre">.MOV</span></code></p></td>
+<td><p>Multiple clips of the same target can be batched</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Optimisation</strong></p></td>
+<td><p>“Planetary”</p></td>
+<td><p>Sets sensible defaults for everything below</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Input Options</strong></p></td>
+<td><p>Debayer = <em>Auto</em> (or RGGB)</p></td>
+<td><p>Sony A7C II is RGGB; “Auto” usually picks correctly</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Processing Options</strong></p></td>
+<td><p>Object Detection = ON</p></td>
+<td><p>Threshold ~30 % for Jupiter; lower (10–20 %) for dim Saturn</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Processing Options</strong></p></td>
+<td><p>Centre Object in Each Frame = ON</p></td>
+<td><p>The whole point of running PIPP</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Processing Options</strong></p></td>
+<td><p>Crop to ROI</p></td>
+<td><p>See ROI table below</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Quality Options</strong></p></td>
+<td><p>Frame Quality Test = ON</p></td>
+<td><p>Pre-ranks frames so AS!4 starts with sorted data</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Output Options</strong></p></td>
+<td><p>Output Format = <strong>SER</strong></p></td>
+<td><p>Preferred over AVI — uncompressed, AS!4-native, no codec headaches</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Output Options</strong></p></td>
+<td><p>Bit Depth = 16-bit if available</p></td>
+<td><p>Preserves dynamic range for stacking</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Do Processing</strong></p></td>
+<td><p>Click <em>Start Processing</em></p></td>
+<td><p>Output written next to the source clip with <code class="docutils literal notranslate"><span class="pre">_pipp</span></code> suffix</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><strong>ROI sizes by target and capture mode:</strong></p>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Target</p></th>
+<th class="head text-center"><p>ROI (W × H)</p></th>
+<th class="head"><p>Why</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Jupiter — 4K APS-C, no Barlow</p></td>
+<td class="text-center"><p>480×480</p></td>
+<td><p>Disc ~60 px, plenty of margin for drift</p></td>
+</tr>
+<tr class="row-odd"><td><p>Jupiter — 1080p + 2× Barlow</p></td>
+<td class="text-center"><p>360×360</p></td>
+<td><p>Disc ~40 px after downsample</p></td>
+</tr>
+<tr class="row-even"><td><p>Saturn — 4K APS-C</p></td>
+<td class="text-center"><p>560×360</p></td>
+<td><p>Wider rectangle accommodates ring system</p></td>
+</tr>
+<tr class="row-odd"><td><p>Mars — anywhere</p></td>
+<td class="text-center"><p>240×240</p></td>
+<td><p>Small disc; tight ROI = faster AS!4</p></td>
+</tr>
+<tr class="row-even"><td><p>Moon — single feature</p></td>
+<td class="text-center"><p>1024×1024</p></td>
+<td><p>Crater group; one tile of a future mosaic</p></td>
+</tr>
+<tr class="row-odd"><td><p>Moon — full disc</p></td>
+<td class="text-center"><p>full</p></td>
+<td><p>Skip PIPP cropping; centre only</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<blockquote>
+<div><p>⚠️ <strong>PIPP rejects your MP4?</strong> Some Sony XAVC-S codec variants trip up PIPP’s
+internal demuxer. Fix: re-encode losslessly with FFmpeg first:
+<code class="docutils literal notranslate"><span class="pre">ffmpeg</span> <span class="pre">-i</span> <span class="pre">input.MP4</span> <span class="pre">-c:v</span> <span class="pre">ffv1</span> <span class="pre">-an</span> <span class="pre">output.avi</span></code>. Then feed the <code class="docutils literal notranslate"><span class="pre">.avi</span></code> to PIPP.
+Painful but one-time per codec generation.</p>
+</div></blockquote>
+</section>
+<section id="a-2-autostakkert-4">
+<span id="appendix-a-2-autostakkert"></span><h3><a class="toc-backref" href="#id56" role="doc-backlink">A.2 AutoStakkert!4</a><a class="headerlink" href="#a-2-autostakkert-4" title="Link to this heading">#</a></h3>
+<p><strong>Where to download.</strong> Official site: <a class="reference external" href="https://www.autostakkert.com/">https://www.autostakkert.com/</a>.
+Get the current “AS!4” Windows build (not legacy AS!3 unless you have a
+specific reason). Download is a <code class="docutils literal notranslate"><span class="pre">.zip</span></code>.</p>
+<p><strong>Install.</strong> Portable — unzip to <code class="docutils literal notranslate"><span class="pre">D:\Astro\Tools\AutoStakkert4\</span></code>. Run
+<code class="docutils literal notranslate"><span class="pre">AutoStakkert_4.exe</span></code>. No registry entries, no admin rights needed.</p>
+<p><strong>First-launch sanity check.</strong> Open one of your PIPP-produced <code class="docutils literal notranslate"><span class="pre">.SER</span></code> files via
+the <strong>1) Open</strong> button. The frame count should match what PIPP reported.
+The right-hand panel becomes the analysis view; the left is the controls.</p>
+<p><strong>Recommended preset for Jupiter / Saturn:</strong></p>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Control</p></th>
+<th class="head"><p>Setting</p></th>
+<th class="head"><p>Notes</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p><strong>Image Stabilization</strong></p></td>
+<td><p>Planet (COG)</p></td>
+<td><p>Centre-of-gravity tracking; correct for round planets</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Quality Estimator</strong></p></td>
+<td><p>Local (Edge)</p></td>
+<td><p>Edge-based ranking; works for Jupiter belts and Saturn rings</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Noise Robust</strong></p></td>
+<td><p>4 (good seeing) – 6 (typical Oslo)</p></td>
+<td><p>Higher = more tolerant of speckle; raise on bad nights</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Dynamic Background</strong></p></td>
+<td><p>ON</p></td>
+<td><p>Removes residual gradient between frames</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Sharpened</strong></p></td>
+<td><p>OFF</p></td>
+<td><p>Always — RegiStax will do the sharpening</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Frame Percentage</strong></p></td>
+<td><p>See target table below</p></td>
+<td><p>Multiple % outputs are fine; pick best one in RegiStax</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><strong>For the Moon (extended surface):</strong></p>
+<ul class="simple">
+<li><p>Image Stabilization → <strong>Surface</strong></p></li>
+<li><p>Quality Estimator → <strong>Local (Edge)</strong> still</p></li>
+<li><p>Noise Robust → 3–4 (Moon is bright, less noisy)</p></li>
+<li><p>Everything else as above</p></li>
+</ul>
+<p><strong>AP grid placement (the step that matters most):</strong></p>
+<p>This is the step that confuses every beginner the first time, so it’s worth
+unpacking. <strong>APs (Alignment Points)</strong> are small square reference patches
+that AS!4 tracks independently across every frame. They do two jobs at once:</p>
+<ol class="arabic simple">
+<li><p><strong>Local de-warping.</strong> Atmospheric seeing doesn’t blur a planet uniformly —
+different parts of Jupiter’s disc shift in different directions from
+frame to frame, like ripples on a pond. AS!4 measures the wobble at
+<em>each</em> AP separately and warps each frame back into alignment. The
+denser your AP grid, the finer this de-warping can be.</p></li>
+<li><p><strong>Local quality ranking.</strong> AS!4 also rates frame sharpness <em>per AP</em>, so
+a frame where Jupiter’s left limb is sharp but the right is mushy
+contributes the left half to the stack and the right half is rejected.
+This is why lucky imaging beats single exposures — different parts of
+different frames win.</p></li>
+</ol>
+<p><strong>Box size vs box count — the trade-off.</strong> Each AP is a square of
+<strong>AP box size</strong> pixels, and you place a <em>grid</em> of them across the planet.
+Smaller boxes + more boxes = finer de-warping, but each box has less signal,
+so the per-AP quality estimate gets noisier. There is a sweet spot for
+each setup:</p>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Setup</p></th>
+<th class="head text-center"><p>AP box size</p></th>
+<th class="head"><p>Typical AP count</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>90 SLT native, 4K</p></td>
+<td class="text-center"><p>48 px</p></td>
+<td><p>30–60 across disc</p></td>
+</tr>
+<tr class="row-odd"><td><p>90 SLT + 2× Barlow</p></td>
+<td class="text-center"><p>24 px</p></td>
+<td><p>60–120 across disc</p></td>
+</tr>
+<tr class="row-even"><td><p>127 MAK / 6 SE native</p></td>
+<td class="text-center"><p>32 px</p></td>
+<td><p>50–80</p></td>
+</tr>
+<tr class="row-odd"><td><p>Moon</p></td>
+<td class="text-center"><p>64 px</p></td>
+<td><p>spread across tile</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><strong>How to actually place them — the practical recipe for your 90 SLT:</strong></p>
+<ol class="arabic simple">
+<li><p><strong>Set the AP box size first</strong> (e.g. 48 for native 4K Jupiter), <em>then</em>
+set <strong>Min Bright</strong> to ~10–15 (this is the brightness threshold below
+which AS!4 won’t auto-place an AP; keeps APs off the dark sky).</p></li>
+<li><p><strong>Click <em>Place AP Grid in Image</em></strong>. AS!4 will sprinkle APs automatically
+on any pixel above the brightness threshold. For Jupiter you’ll typically
+get a clean grid covering the whole disc.</p></li>
+<li><p><strong>Inspect the result.</strong> Look for these problems and fix them manually
+(right-click an AP to delete; left-click an empty spot to add):</p>
+<ul class="simple">
+<li><p><strong>APs floating on the dark sky</strong> outside the limb → delete them
+(they ruin alignment because they have nothing to track).</p></li>
+<li><p><strong>APs sitting exactly on the limb edge</strong> → delete or nudge inward by
+half a box. The limb has high contrast but its position <em>moves with
+seeing</em> — that’s exactly the wobble you want to measure <em>against</em>,
+not anchor <em>to</em>.</p></li>
+<li><p><strong>A bright Galilean moon next to Jupiter caught an AP</strong> → delete it.
+The moon is a separate target; let AS!4 align on the planet’s body.</p></li>
+<li><p><strong>No APs on the dim polar regions</strong> because brightness was below
+threshold → either lower Min Bright by 5, or hand-place 2–3 APs
+manually on the poles.</p></li>
+</ul>
+</li>
+<li><p><strong>Aim for an even, slightly-overlapping grid</strong> covering the whole disc,
+with APs concentrated on contrast features (belt edges, the GRS, ring
+edges on Saturn, crater rims on the Moon). 30–60 APs is plenty for
+Jupiter at native focal length — more is <em>not</em> better.</p></li>
+</ol>
+<blockquote>
+<div><p>💡 <strong>Heuristic for your level.</strong> When in doubt, <strong>fewer, bigger APs</strong>
+beats <em>more, smaller APs</em>. A clean stack with 30 well-placed 48-px APs
+looks far better than a smeared stack with 200 noisy 24-px APs. Only
+shrink the box size when (a) you’ve added a Barlow and the disc fills
+more pixels, or (b) you upgrade to a larger aperture.</p>
+</div></blockquote>
+<blockquote>
+<div><p>⚠️ <strong>Common confusion: “Minimum distance between APs”</strong> is <em>not</em> AP
+box size. It’s how tightly APs can pack — leave it at the default
+(~half the box size) and ignore it for your first 10 sessions.</p>
+</div></blockquote>
+<p><strong>Visual sanity check before clicking <em>Stack</em>:</strong> the AP grid should look
+like a peppered grid covering only the bright planet body, with no APs
+on the sky and none right on the limb. If it looks like that, you’re done —
+hit <strong>2) Analyse</strong> then <strong>3) Stack</strong>.</p>
+<p><strong>Frame-percentage presets — keep top:</strong></p>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Target</p></th>
+<th class="head text-center"><p>Keep %</p></th>
+<th class="head"><p>Notes</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Jupiter</p></td>
+<td class="text-center"><p>25 %</p></td>
+<td><p>Tighten to 10–15 % on a great-seeing night</p></td>
+</tr>
+<tr class="row-odd"><td><p>Saturn</p></td>
+<td class="text-center"><p>15 %</p></td>
+<td><p>Dim — fewer frames are properly exposed</p></td>
+</tr>
+<tr class="row-even"><td><p>Mars</p></td>
+<td class="text-center"><p>20 %</p></td>
+<td><p>Small disc; quality estimator gets noisy below ~10 %</p></td>
+</tr>
+<tr class="row-odd"><td><p>Moon</p></td>
+<td class="text-center"><p>50 %</p></td>
+<td><p>Bright + extended; many frames are usable</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><strong>Drizzle.</strong> Tick <strong>Drizzle 1.5×</strong> when you captured 1080p without a Barlow
+(under-sampled — see §3.3). Skip drizzle for 4K APS-C or any Barlow setup.</p>
+<p><strong>Output.</strong> AS!4 writes a 16-bit <code class="docutils literal notranslate"><span class="pre">.tif</span></code> next to the source SER, named
+<code class="docutils literal notranslate"><span class="pre">*_lapl5_ap48_p25.tif</span></code> or similar (the suffix encodes settings). Hand this
+to RegiStax.</p>
+</section>
+<section id="a-3-registax-6">
+<span id="appendix-a-3-registax"></span><h3><a class="toc-backref" href="#id57" role="doc-backlink">A.3 RegiStax 6</a><a class="headerlink" href="#a-3-registax-6" title="Link to this heading">#</a></h3>
+<p><strong>Where to download.</strong> Official site: <a class="reference external" href="https://www.astronomie.be/registax/">https://www.astronomie.be/registax/</a>.
+RegiStax 6 is the last public release (development frozen since ~2011 — but
+the wavelet engine is still the de-facto standard). The download is a
+classic Windows installer (<code class="docutils literal notranslate"><span class="pre">.exe</span></code>).</p>
+<p><strong>Install.</strong> Run the installer; default path <code class="docutils literal notranslate"><span class="pre">C:\Program</span> <span class="pre">Files</span> <span class="pre">(x86)\RegiStax6\</span></code>
+is fine. It creates a Start-menu entry. RegiStax is 32-bit but works fine on
+modern Windows 11.</p>
+<p><strong>First-launch sanity check.</strong> Click <strong>Select</strong> → load the <code class="docutils literal notranslate"><span class="pre">_stacked.tif</span></code>
+from AS!4. RegiStax skips alignment (already done) and jumps straight to the
+<strong>Wavelet</strong> tab. The image looks soft — that’s correct, the magic comes next.</p>
+<p><strong>Wavelet configuration:</strong></p>
+<ul class="simple">
+<li><p><strong>Wavelet scheme:</strong> Linear</p></li>
+<li><p><strong>Wavelet filter:</strong> Gaussian</p></li>
+<li><p><strong>Use Linked Wavelets:</strong> OFF (independent layers give finer control)</p></li>
+</ul>
+<p><strong>Preset slider tables:</strong></p>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Preset</p></th>
+<th class="head text-center"><p>L1</p></th>
+<th class="head text-center"><p>L2</p></th>
+<th class="head text-center"><p>L3</p></th>
+<th class="head text-center"><p>L4</p></th>
+<th class="head text-center"><p>L5</p></th>
+<th class="head text-center"><p>L6</p></th>
+<th class="head text-center"><p>Denoise (each)</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p><strong>Gentle Jupiter</strong></p></td>
+<td class="text-center"><p>0.10</p></td>
+<td class="text-center"><p>0.15</p></td>
+<td class="text-center"><p>0.10</p></td>
+<td class="text-center"><p>0</p></td>
+<td class="text-center"><p>0</p></td>
+<td class="text-center"><p>0</p></td>
+<td class="text-center"><p>0.10</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Saturn (rings emph.)</strong></p></td>
+<td class="text-center"><p>0.10</p></td>
+<td class="text-center"><p>0.20</p></td>
+<td class="text-center"><p>0.15</p></td>
+<td class="text-center"><p>0.05</p></td>
+<td class="text-center"><p>0</p></td>
+<td class="text-center"><p>0</p></td>
+<td class="text-center"><p>0.10</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Mars (small disc)</strong></p></td>
+<td class="text-center"><p>0.15</p></td>
+<td class="text-center"><p>0.20</p></td>
+<td class="text-center"><p>0.10</p></td>
+<td class="text-center"><p>0</p></td>
+<td class="text-center"><p>0</p></td>
+<td class="text-center"><p>0</p></td>
+<td class="text-center"><p>0.15</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Moon (crater detail)</strong></p></td>
+<td class="text-center"><p>0.20</p></td>
+<td class="text-center"><p>0.20</p></td>
+<td class="text-center"><p>0.10</p></td>
+<td class="text-center"><p>0</p></td>
+<td class="text-center"><p>0</p></td>
+<td class="text-center"><p>0</p></td>
+<td class="text-center"><p>0.05</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>Click <strong>Do All</strong> to apply. Inspect at 100 % zoom.</p>
+<p><strong>Final touch-ups (in order):</strong></p>
+<ol class="arabic simple">
+<li><p><strong>RGB Align</strong> (button in the toolbar). Auto-aligns the colour channels —
+fixes atmospheric dispersion, the rainbow fringe on the planet’s limb.
+Nudge manually if “Auto” leaves a green or magenta edge.</p></li>
+<li><p><strong>Histogram stretch.</strong> Switch to the <em>Final</em> tab → drag black/white points
+to set sensible end-points. Don’t crush midtones — leave that for Lightroom.</p></li>
+<li><p><strong>Save Image</strong> as 16-bit TIFF for hand-off to Lightroom.</p></li>
+</ol>
+<blockquote>
+<div><p>⚠️ <strong>Reading wavelet artifacts.</strong> <em>Dark haloes</em> around the limb = back off
+Layer 1. <em>Worm-like noise patterns</em> in low-contrast areas = increase
+Denoise on the offending layer or back off that layer. <em>Muddy and
+featureless</em> = lift Layer 2 or 3 a touch — but if there’s no detail in
+the stacked TIFF, no wavelet pass will conjure any. See §2.4’s warning.</p>
+</div></blockquote>
+</section>
+<section id="a-4-troubleshooting-quick-reference">
+<span id="appendix-a-troubleshooting"></span><h3><a class="toc-backref" href="#id58" role="doc-backlink">A.4 Troubleshooting Quick-Reference</a><a class="headerlink" href="#a-4-troubleshooting-quick-reference" title="Link to this heading">#</a></h3>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Symptom</p></th>
+<th class="head"><p>Likely Cause</p></th>
+<th class="head"><p>Fix</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>PIPP refuses the MP4</p></td>
+<td><p>Newer XAVC-S / HEVC codec</p></td>
+<td><p>Re-encode with FFmpeg to FFV1 AVI (see callout in A.1)</p></td>
+</tr>
+<tr class="row-odd"><td><p>AS!4 alignment fails / wanders</p></td>
+<td><p>Too many APs, or APs on limb</p></td>
+<td><p>Reduce AP count, place on high-contrast features only</p></td>
+</tr>
+<tr class="row-even"><td><p>AS!4 result is grainy / streaky</p></td>
+<td><p>Frame % too low</p></td>
+<td><p>Loosen to 25–35 %; you may have stacked too few good frames</p></td>
+</tr>
+<tr class="row-odd"><td><p>RegiStax shows hard “ringing”</p></td>
+<td><p>Wavelet Layer 1 too high</p></td>
+<td><p>Drop L1 by 0.05; raise Denoise on L1</p></td>
+</tr>
+<tr class="row-even"><td><p>Colour fringes on planet limb</p></td>
+<td><p>Atmospheric dispersion (low altitude)</p></td>
+<td><p>RegiStax → RGB Align → Auto, then nudge channels by hand</p></td>
+</tr>
+<tr class="row-odd"><td><p>Saved TIFF looks dim in Lightroom</p></td>
+<td><p>RegiStax saved without histogram stretch</p></td>
+<td><p>Re-save after a gentle stretch, or use LR’s <em>Whites</em> slider</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<hr class="docutils" />
+</section>
+</section>
+<section id="appendix-b-final-polish-in-lightroom-classic-photoshop">
+<span id="appendix-b-lightroom-photoshop"></span><h2><a class="toc-backref" href="#id59" role="doc-backlink"><strong>Appendix B — Final Polish in Lightroom Classic &amp; Photoshop</strong></a><a class="headerlink" href="#appendix-b-final-polish-in-lightroom-classic-photoshop" title="Link to this heading">#</a></h2>
+<p>The wavelet TIFF from RegiStax (or, for M42, a single long exposure or a
+short DeepSkyStacker stack) is <em>technically</em> finished — but flat. Appendix B
+is the final 10 % that turns a clean stack into a shareable image.</p>
+<p>This appendix is opinionated and use-case specific. It is not a Lightroom
+tutorial; it assumes you can already navigate the Develop module and the
+Photoshop layer panel. If a slider is not mentioned, leave it at default.</p>
+<section id="b-0-bringing-the-tiff-in">
+<span id="appendix-b-0-bringing-it-in"></span><h3><a class="toc-backref" href="#id60" role="doc-backlink">B.0 Bringing the TIFF In</a><a class="headerlink" href="#b-0-bringing-the-tiff-in" title="Link to this heading">#</a></h3>
+<ul class="simple">
+<li><p><strong>Import</strong> the 16-bit TIFF from RegiStax (or DSS) into Lightroom Classic
+in your usual photo catalogue. Use a separate <strong>collection</strong> or a keyword
+like <code class="docutils literal notranslate"><span class="pre">astro/jupiter</span></code> to keep these out of the family stream.</p></li>
+<li><p><strong>Develop module first.</strong> 90 % of planet polish never leaves Lightroom.
+Send to Photoshop only when you need true layer masks, clone-stamping,
+Photomerge, or aggressive stretching that LR’s Tone curve can’t reach.</p></li>
+<li><p><strong>Naming convention</strong> (matches the rest of your workflow):
+<code class="docutils literal notranslate"><span class="pre">2026-01-15_Jupiter_AS25_RX6_LR.tif</span></code>
+→ date / target / AS!4 keep-% / wavelet preset / final stage.</p></li>
+</ul>
+</section>
+<section id="b-1-planet-polish-jupiter-saturn-the-moon">
+<span id="appendix-b-1-planet-polish"></span><h3><a class="toc-backref" href="#id61" role="doc-backlink">B.1 Planet Polish — Jupiter, Saturn, the Moon</a><a class="headerlink" href="#b-1-planet-polish-jupiter-saturn-the-moon" title="Link to this heading">#</a></h3>
+<p>The planet stack arrives clean but with low global contrast and a slight
+greenish or pinkish cast (sensor + atmospheric residual). The goal is
+<strong>punch the contrast, neutralise colour, and crush background grain</strong> —
+without re-introducing wavelet artifacts.</p>
+<p><strong>Lightroom slider preset (Develop → Basic &amp; beyond):</strong></p>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Slider</p></th>
+<th class="head text-center"><p>Jupiter</p></th>
+<th class="head text-center"><p>Saturn</p></th>
+<th class="head text-center"><p>Moon</p></th>
+<th class="head"><p>Notes</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p><strong>Profile</strong></p></td>
+<td class="text-center"><p>Adobe Std</p></td>
+<td class="text-center"><p>Adobe Std</p></td>
+<td class="text-center"><p>Adobe Std</p></td>
+<td><p>Avoid camera-matching profiles on stacked TIFFs</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>WB</strong></p></td>
+<td class="text-center"><p>Dropper on limb / off-disc grey</p></td>
+<td class="text-center"><p>Dropper on ring</p></td>
+<td class="text-center"><p>5500 K, tint 0</p></td>
+<td><p>Neutralise atmospheric tint</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Exposure</strong></p></td>
+<td class="text-center"><p>0</p></td>
+<td class="text-center"><p>+0.3</p></td>
+<td class="text-center"><p>0</p></td>
+<td><p>Saturn is dim; lift slightly</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Contrast</strong></p></td>
+<td class="text-center"><p>+15</p></td>
+<td class="text-center"><p>+20</p></td>
+<td class="text-center"><p>+25</p></td>
+<td><p>Moon takes the most contrast happily</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Highlights</strong></p></td>
+<td class="text-center"><p>−20</p></td>
+<td class="text-center"><p>−30</p></td>
+<td class="text-center"><p>−10</p></td>
+<td><p>Protect Saturn’s ring highlights especially</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Shadows</strong></p></td>
+<td class="text-center"><p>+10</p></td>
+<td class="text-center"><p>+20</p></td>
+<td class="text-center"><p>+5</p></td>
+<td><p>Lift cloud belts / ring shadow</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Whites</strong></p></td>
+<td class="text-center"><p>Alt-clip</p></td>
+<td class="text-center"><p>Alt-clip</p></td>
+<td class="text-center"><p>Alt-clip</p></td>
+<td><p>Hold Alt and drag until first clipping pixels appear</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Blacks</strong></p></td>
+<td class="text-center"><p>Alt-clip −10</p></td>
+<td class="text-center"><p>−10</p></td>
+<td class="text-center"><p>−5</p></td>
+<td><p>A little extra crush kills stacking grain in BG</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Texture</strong></p></td>
+<td class="text-center"><p>+10</p></td>
+<td class="text-center"><p>+5</p></td>
+<td class="text-center"><p>+20</p></td>
+<td><p>Moon is texture-rich; planets less so</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Clarity</strong></p></td>
+<td class="text-center"><p>+5</p></td>
+<td class="text-center"><p>0</p></td>
+<td class="text-center"><p>+10</p></td>
+<td><p>Very gentle — wavelets already did the work</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Dehaze</strong></p></td>
+<td class="text-center"><p>+5</p></td>
+<td class="text-center"><p>+10</p></td>
+<td class="text-center"><p>0</p></td>
+<td><p>Saturn benefits the most (low altitude haze)</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Vibrance</strong></p></td>
+<td class="text-center"><p>+10</p></td>
+<td class="text-center"><p>+5</p></td>
+<td class="text-center"><p>0</p></td>
+<td><p>Boost belt colour without oversaturating</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Saturation</strong></p></td>
+<td class="text-center"><p>0</p></td>
+<td class="text-center"><p>0</p></td>
+<td class="text-center"><p>0</p></td>
+<td><p>Use Vibrance, never global Sat, on planets</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><strong>HSL / Color Mix:</strong></p>
+<ul class="simple">
+<li><p><strong>Jupiter:</strong> Orange and Red — Saturation +10, Luminance +5.
+Optionally Yellow Saturation +5 for the equatorial zone.</p></li>
+<li><p><strong>Saturn:</strong> Yellow Saturation +10, Orange Saturation +5. Resist the urge
+to push further — it tips into “fake postcard” territory fast.</p></li>
+<li><p><strong>Moon:</strong> All channels at 0; the Moon is genuinely greyscale with a hint
+of warm/cool variation between mare and highlands. A −5 Saturation
+global is sometimes cleaner.</p></li>
+</ul>
+<p><strong>Masking (Lightroom AI masks):</strong></p>
+<ol class="arabic simple">
+<li><p><strong>Subject mask</strong> → <em>Select Subject</em> will pick out the planet. Inside the
+subject: nothing further usually needed.</p></li>
+<li><p><strong>Invert</strong> the subject mask → background. Apply: Exposure −1.0,
+Blacks −30, Texture −20, Noise +20. This is what kills the residual
+stacking grain in the surrounding “sky”.</p></li>
+</ol>
+<p><strong>Photoshop steps (only when needed):</strong></p>
+<ul class="simple">
+<li><p><strong>Rotate &amp; crop square.</strong> Image → Image Rotation → Arbitrary; align
+Jupiter’s belts horizontal. Crop to a clean square framing.</p></li>
+<li><p><strong>Camera Raw filter</strong> for a second, very gentle <em>Texture +10</em> pass on a
+duplicated layer set to <em>Luminosity</em> blend mode — adds micro-contrast
+without colour shift.</p></li>
+<li><p><strong>Clone Stamp</strong> small limb artifacts (single-pixel hot edges from
+wavelet ringing). Soft-edge brush, 1–3 px, low opacity.</p></li>
+<li><p><strong>Save As JPEG</strong>, sRGB, quality 90, embed metadata.</p></li>
+</ul>
+<p><strong>Saturn-specific:</strong> add a <strong>radial mask</strong> around the ring system in Lightroom
+<em>before</em> applying any global Clarity. Inside the radial: Clarity +10,
+Texture +5. Outside (planet body): keep Clarity gentle. This protects ring
+edges from haloing.</p>
+<p><strong>Moon-specific (mosaics):</strong> if you captured the Moon as multiple tiles
+(e.g. 1024×1024 ROIs in PIPP), process each tile through AS!4 + RegiStax
+separately, then in <strong>Photoshop → File → Automate → Photomerge → Reposition</strong>
+(<em>not</em> Auto). Reposition keeps the original geometry and just stitches —
+ideal for a flat target like the Moon. Do colour/contrast work <em>after</em>
+the merge, on the combined panorama.</p>
+</section>
+<section id="b-2-m42-orion-nebula-polish">
+<span id="appendix-b-2-orion-m42"></span><h3><a class="toc-backref" href="#id62" role="doc-backlink">B.2 M42 Orion Nebula Polish</a><a class="headerlink" href="#b-2-m42-orion-nebula-polish" title="Link to this heading">#</a></h3>
+<p>§1.5 calls M42 “doable” on the 90 SLT — and it is, even from Oslo’s city
+sky. But M42 needs a fundamentally different processing approach from
+planets: instead of <em>sharpening already-resolved detail</em>, you are
+<strong>stretching faint signal out of a noisy gradient</strong> while protecting the
+blown-out Trapezium core.</p>
+<blockquote>
+<div><p>💡 <strong>Stack first if you have multiple subs.</strong> A single 30-s exposure at
+ISO 1600–3200 on the 90 SLT works. Multiple subs (5–20 × 30 s) stacked
+in <strong>DeepSkyStacker</strong> (free, <a class="reference external" href="http://deepskystacker.free.fr/">http://deepskystacker.free.fr/</a>) before
+Lightroom will give dramatically less noise. DSS is a one-button affair
+for this scale of project — load lights, leave darks/flats unchecked
+for a beginner pass, hit <em>Register and Stack</em>. The output <code class="docutils literal notranslate"><span class="pre">Autosave.tif</span></code>
+goes straight into Lightroom in place of a single-sub TIFF.</p>
+</div></blockquote>
+<p><strong>Lightroom slider preset (Develop):</strong></p>
+<div class="pst-scrollable-table-container"><table class="table">
+<thead>
+<tr class="row-odd"><th class="head"><p>Slider</p></th>
+<th class="head text-center"><p>Value</p></th>
+<th class="head"><p>Reasoning</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p><strong>Profile</strong></p></td>
+<td class="text-center"><p>Adobe Std</p></td>
+<td><p>Same as planets</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>WB Temp</strong></p></td>
+<td class="text-center"><p>~3800 K</p></td>
+<td><p>Neutralises Oslo sodium-vapour light pollution</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>WB Tint</strong></p></td>
+<td class="text-center"><p>+5 to +15</p></td>
+<td><p>Magenta push to bring out H-α nebula colour</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Exposure</strong></p></td>
+<td class="text-center"><p>+0.5 to +1.0</p></td>
+<td><p>Lift the nebulosity off the noise floor</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Contrast</strong></p></td>
+<td class="text-center"><p>+10</p></td>
+<td><p>Mild — Curves does the heavy stretch</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Highlights</strong></p></td>
+<td class="text-center"><p>−60</p></td>
+<td><p>Recover Trapezium core</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Shadows</strong></p></td>
+<td class="text-center"><p>+40</p></td>
+<td><p>Lift the wings of nebulosity</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Whites</strong></p></td>
+<td class="text-center"><p>−10</p></td>
+<td><p>Protect the brightest core stars</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Blacks</strong></p></td>
+<td class="text-center"><p>−30</p></td>
+<td><p>Keep the sky genuinely dark</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Texture</strong></p></td>
+<td class="text-center"><p>+20</p></td>
+<td><p>Bring out filaments</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Clarity</strong></p></td>
+<td class="text-center"><p>+10</p></td>
+<td><p>Local contrast in the nebula</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Dehaze</strong></p></td>
+<td class="text-center"><p>+30 to +50</p></td>
+<td><p>Single most important slider — flattens LP gradient</p></td>
+</tr>
+<tr class="row-even"><td><p><strong>Vibrance</strong></p></td>
+<td class="text-center"><p>+20</p></td>
+<td><p>Pulls the magenta/pink hue forward</p></td>
+</tr>
+<tr class="row-odd"><td><p><strong>Saturation</strong></p></td>
+<td class="text-center"><p>+5</p></td>
+<td><p>Gentle global lift</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p><strong>HSL / Color Mix:</strong></p>
+<ul class="simple">
+<li><p><strong>Magenta + Red — Saturation +20, Luminance +5.</strong> This is where the
+nebula’s H-α emission lives.</p></li>
+<li><p><strong>Blue + Aqua — Saturation +10.</strong> The reflection-nebula component
+around the Trapezium has cool tones; preserve them.</p></li>
+<li><p><strong>Orange − Saturation by 20.</strong> Suppresses the brown/orange light-pollution
+gradient that survives Dehaze.</p></li>
+<li><p><strong>Yellow − Saturation by 10.</strong> Same reason.</p></li>
+</ul>
+<p><strong>Masking (the part that separates a flat M42 from a credible one):</strong></p>
+<ol class="arabic simple">
+<li><p><strong>Linear Gradient</strong> mask, top-down or aligned with the brightest LP
+direction (toward downtown Oslo). Inside: Exposure −0.5, Dehaze +20.
+Flattens the residual sky gradient that global Dehaze couldn’t kill.</p></li>
+<li><p><strong>AI-Sky / Linear Gradient inverted</strong> → background sky only. Blacks −30,
+Texture −20, Noise reduction +30. Keeps the sky deep without clipping.</p></li>
+<li><p><strong>Radial Gradient</strong> centred on the Trapezium, small (~5 % of frame),
+feathered. Inside: Exposure −1.0, Highlights −40. Protects the core
+stars from over-saturation when you stretch.</p></li>
+</ol>
+<p><strong>Photoshop — the deep-sky stretch:</strong></p>
+<p>The fundamental deep-sky move is a <strong>non-linear stretch</strong> that LR’s Tone
+curve only approximates. In Photoshop:</p>
+<ol class="arabic simple">
+<li><p><strong>Levels</strong> (Ctrl+L). Set the black point on the dark-sky histogram peak
+(drag the left slider to just before the histogram starts). <strong>Do not</strong>
+touch the white point.</p></li>
+<li><p><strong>Curves</strong> (Ctrl+M). Click the centre of the line and drag <em>up and left</em> —
+creates the classic deep-sky “stretch” shape. Repeat with progressively
+gentler pulls until nebulosity emerges from the background. Stop when
+colour noise (random magenta/green specks) becomes objectionable.</p></li>
+<li><p><strong>Star-size reduction</strong> (optional). Duplicate layer → <em>Filter → Other →
+Minimum</em> → Radius 1 px → Preserve Roundness. Add a layer mask, fill
+black, then paint white <em>only</em> over the star fields (not the nebula).
+Drops star size without softening nebula filaments.</p></li>
+<li><p><strong>Camera Raw filter</strong> for final noise reduction: Luminance 20–30,
+Detail 50, Color 30. Apply on a duplicate so you can mask it back if
+it eats faint nebula structure.</p></li>
+<li><p><strong>Save As</strong> 16-bit TIFF for the archive, plus a JPEG export for sharing.</p></li>
+</ol>
+<blockquote>
+<div><p>⚠️ <strong>The city-sky honesty test.</strong> From Oslo, M42 will never look like
+the Hubble image — and pushing Dehaze + Saturation + Curves until it
+<em>does</em> produces an obviously fake-looking result with crushed star
+colour and plasticy nebula. If your edit looks like a postcard, you’ve
+over-cooked it. The Trapezium should remain four distinct stars; the
+nebula should fade smoothly into the sky, not have a hard edge.</p>
+</div></blockquote>
+<blockquote>
+<div><p>💡 <strong>Star colour preservation.</strong> Before the deep-sky stretch in step 2,
+protect star colour by either (a) duplicating the layer, blurring the
+copy, and using <em>Color</em> blend mode for star regions, or (b) doing the
+Curves stretch on a <em>Luminosity</em>-blend duplicate so hue is unaffected.
+Stretched stars without this trick all turn pure white.</p>
+</div></blockquote>
+<blockquote>
+<div><p>⚠️ <strong>Lightroom &amp; Photoshop are not stacking software.</strong> No amount of
+Curves trickery on a single sub recovers what 10 stacked subs trivially
+deliver. If M42 becomes a regular target, the next-step investment is
+<em>more capture time</em>, not more Photoshop tutorials.</p>
+</div></blockquote>
+</section>
 </section>
 </section>
 
@@ -1800,6 +2572,19 @@ overkill until your processing has matured. In all cases, the ceiling is
 </ul>
 </li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#one-paragraph-summary"><strong>6. One-Paragraph Summary</strong></a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#appendix-a-software-setup-pipp-autostakkert-4-registax-6"><strong>Appendix A — Software Setup: PIPP, AutoStakkert!4, RegiStax 6</strong></a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#a-1-pipp-planetary-imaging-pre-processor">A.1 PIPP — Planetary Imaging Pre-Processor</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#a-2-autostakkert-4">A.2 AutoStakkert!4</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#a-3-registax-6">A.3 RegiStax 6</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#a-4-troubleshooting-quick-reference">A.4 Troubleshooting Quick-Reference</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#appendix-b-final-polish-in-lightroom-classic-photoshop"><strong>Appendix B — Final Polish in Lightroom Classic &amp; Photoshop</strong></a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#b-0-bringing-the-tiff-in">B.0 Bringing the TIFF In</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#b-1-planet-polish-jupiter-saturn-the-moon">B.1 Planet Polish — Jupiter, Saturn, the Moon</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#b-2-m42-orion-nebula-polish">B.2 M42 Orion Nebula Polish</a></li>
+</ul>
+</li>
 </ul>
   </nav></div>
 
