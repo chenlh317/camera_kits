@@ -1,6 +1,6 @@
 # 2026-03 Post-Purchase Usage: Luoyang Field Notes & Practical Tips
 
-- **Date:** March 2026
+- **Date:** April 2026
 - **Camera Body:** Sony A7C II (Full-Frame, E-Mount)
 - **Context:** First field trip with new gear — Luoyang, China (March 2026)
 - **Gear Purchased:** Sigma 20-200mm, SIRUI Aurora 35mm f/1.4, Viltrox AF 85mm f/2.0 Evo
@@ -24,11 +24,11 @@ and practical tips for getting the most out of what you actually own.**
 | #   | Item                                            | Retail Price   | **Paid**    | Weight | Rationale                                                |
 | --- | ----------------------------------------------- | -------------- | ----------- | ------ | -------------------------------------------------------- |
 | 1   | **Sony A7C II** (body)                          | ~\$2,200-2,500 | **\$1,400** | 514g   | Compact full-frame, AI AF, IBIS                          |
-| 2   | **Sigma 20-200mm f/3.5-6.3 DG DN Contemporary** | ~\$900-1,100   | **\$650**   | ~570g  | 20mm wide end for tourism, one-lens sightseeing solution |
+| 2   | **Sigma 20-200mm f/3.5-6.3 DG DN Contemporary** | ~\$900-1,100   | **\$650**   | 540g   | 20mm wide end for tourism, one-lens sightseeing solution |
 | 3   | **SIRUI Aurora 35mm f/1.4**                     | ~\$549-599     | **\$450**   | ~480g  | Low-light city walks, f/1.4 for night, 15-blade bokeh    |
-| 4   | **Viltrox AF 85mm f/2.0 Evo**                   | ~\$350-400     | **\$180**   | 298g   | Photographing strangers at distance, compact + discreet  |
+| 4   | **Viltrox AF 85mm f/2.0 Evo**                   | ~\$275         | **\$180**   | 340g   | Photographing strangers at distance, compact + discreet  |
 
-**Total spent:** ~\$2,680 for body + 3 lenses (vs ~\$3,950-4,200 at retail — **~32% saved**)
+**Total spent:** ~\$2,680 for body + 3 lenses (vs ~\$3,925-4,475 at retail — **~32-40% saved**)
 
 **🧰 Accessories:**
 
@@ -44,8 +44,8 @@ and practical tips for getting the most out of what you actually own.**
 All accessories already in hand — kit is fully operational.
 
 **Key Decision Principles:**
-- **Newer models over Sony brand** — SIRUI and Viltrox offer modern optics (VCM AF, USB-C firmware updates, declickable aperture) at a fraction of Sony's price
-- **Price-to-performance optimization** — total prime kit \$630 (paid) vs ~\$1,350-1,550 retail for Sony 35/1.8 + 85/1.8, while gaining f/1.4 at the 35mm end
+- **Newer models over Sony brand** — SIRUI and Viltrox offer modern optics (fast STM AF, USB-C firmware updates, declickable aperture) at a fraction of Sony's price
+- **Price-to-performance optimization** — total prime kit \$630 (paid) vs ~\$1,350 retail for Sony FE 35/1.8 + 85/1.8, while gaining f/1.4 at the 35mm end
 - **20mm wide angle** — chose Sigma 20-200mm over Tamron 25-200mm specifically for the 20mm start, critical for tourism coverage (matching SEL2070G's wide end)
 
 ---
@@ -148,12 +148,12 @@ then zoom to 200mm for Buddha statue details — no lens change, no missed momen
 
 **2. Viltrox 85mm f/2.0 Evo is ideal for photographing strangers**
 
-The compact body (298g, 66 × 75mm) paired with the small A7C II
+The compact body (340g, ~65 × 72mm) paired with the small A7C II
 creates a non-intimidating setup — perfect for candid street photography
 where you can't (and shouldn't) approach subjects.
 
 - **Tip:** On the A7C II, enable **silent electronic shutter** (Menu → Shutter/Silent → Silent Shooting: On).
-  Combined with the Viltrox Evo's quiet VCM motor, you're virtually invisible.
+  Combined with the Viltrox Evo's quiet STM motor, you're virtually invisible.
 - **Tip:** Use continuous AF (AF-C) with **Subject Recognition → Human** (eye/face detection)
   for cosplayer shots. At 85mm and f/2.0, depth of field is shallow —
   let the AI AF nail focus on the eyes while you concentrate on timing and framing.
@@ -312,7 +312,7 @@ Lens swapping on the street interrupts your flow and risks dust on the sensor.
 But your reasoning for not using a zoom at night is sound:
 
 - A zoom covering 35-85mm with f/1.4-2.0 **doesn't exist** at any reasonable price/size
-- A 24-70mm f/2.8 zoom is **larger and heavier** (~800g+) than carrying both primes (~778g combined)
+- A 24-70mm f/2.8 zoom is **larger and heavier** (~800g+) than carrying both primes (~820g combined)
 - A slower zoom (f/4) **defeats the purpose** of shooting after dark
 - The two-prime approach keeps you **discreet** — no large, intimidating lens barrel
 
@@ -888,11 +888,11 @@ Now that you own specific gear (not theoretical recommendations), here's how to 
 
 | Item                      | Weight  | Notes                            |
 | ------------------------- | ------- | -------------------------------- |
-| ✅ A7C II + Sigma 20-200mm | ~1,084g | One lens does everything         |
+| ✅ A7C II + Sigma 20-200mm | ~1,054g | One lens does everything         |
 | ✅ Mobile phone            | —       | Pocket backup, ultra-wide (13mm) |
 | ✅ One extra battery       | ~45g    | Safety margin                    |
 
-**Total:** ~1,130g camera gear
+**Total:** ~1,100g camera gear
 **Philosophy:** One camera, one lens, zero lens swaps. Maximum presence in the moment.
 
 (packing-dusk-to-night-city-walk)=
@@ -901,11 +901,11 @@ Now that you own specific gear (not theoretical recommendations), here's how to 
 | Item                        | Weight | Notes                                              |
 | --------------------------- | ------ | -------------------------------------------------- |
 | ✅ A7C II + SIRUI 35mm f/1.4 | ~994g  | Low-light workhorse                                |
-| ✅ Viltrox 85mm f/2.0 Evo    | 298g   | In belt pouch for cosplayer/portrait opportunities |
+| ✅ Viltrox 85mm f/2.0 Evo    | 340g   | In belt pouch for cosplayer/portrait opportunities |
 | ✅ 1/4 Black Mist (on 85mm)  | —      | Pre-mounted, ready to swap                         |
 | ✅ Mobile phone              | —      | Ultra-wide backup                                  |
 
-**Total:** ~1,292g camera gear
+**Total:** ~1,334g camera gear
 **Philosophy:** Fast aperture for low light, portrait lens within reach.
 
 (packing-dedicated-street-portrait)=
@@ -913,12 +913,12 @@ Now that you own specific gear (not theoretical recommendations), here's how to 
 
 | Item                          | Weight | Notes                            |
 | ----------------------------- | ------ | -------------------------------- |
-| ✅ A7C II + Viltrox 85mm Evo   | ~812g  | Primary — compact and discreet   |
+| ✅ A7C II + Viltrox 85mm Evo   | ~854g  | Primary — compact and discreet   |
 | ✅ 1/4 Black Mist filter       | —      | Default on for portraits         |
 | ✅ SIRUI 35mm f/1.4 (optional) | ~480g  | Only if you also want wide shots |
 | ✅ Mobile phone                | —      | Scene-setting wide shots         |
 
-**Total:** ~812g (85mm only) or ~1,292g (both primes)
+**Total:** ~854g (85mm only) or ~1,334g (both primes)
 **Philosophy:** Smallest, least intimidating setup for stranger photography.
 
 (packing-piano-recording)=
@@ -939,10 +939,10 @@ Now that you own specific gear (not theoretical recommendations), here's how to 
 | Item                        | Weight | Notes                                    |
 | --------------------------- | ------ | ---------------------------------------- |
 | ✅ A7C II + SIRUI 35mm f/1.4 | ~994g  | Primary — f/1.4 for dim galleries        |
-| ✅ Viltrox 85mm f/2.0 Evo    | 298g   | Detail lens for exhibits behind barriers |
+| ✅ Viltrox 85mm f/2.0 Evo    | 340g   | Detail lens for exhibits behind barriers |
 | ✅ Mobile phone              | —      | Quick snaps, ultra-wide for grand halls  |
 
-**Total:** ~1,292g camera gear
+**Total:** ~1,334g camera gear
 **Philosophy:** Fast primes for dim interiors. Leave the Sigma zoom in the bag —
 its slow aperture (f/5-6.3 at museum focal lengths) forces high ISO and slow shutter speeds.
 Museum pace is slower, so lens swapping between 35mm and 85mm is less disruptive here than on the street.
@@ -996,11 +996,12 @@ without adjusting the tripod. Use MF and keep lighting even.
 
 | Tip                             | Detail                                                                        |
 | ------------------------------- | ----------------------------------------------------------------------------- |
-| **Default portrait lens**       | Compact (298g) + fast VCM AF + discreet profile                               |
+| **Default portrait lens**       | Compact (340g) + fast STM AF + discreet profile                               |
 | **1/4 Black Mist as default**   | Leave it on for all people photography; remove for artifacts or architecture  |
 | **5-8m for stranger portraits** | Full/3/4 body at this distance — respectful, non-intrusive                    |
 | **Museum detail lens**          | f/2.0 gathers ~2.5 stops more light than zoom at telephoto; remove Black Mist |
-| **Electronic silent shutter**   | Combine with quiet VCM motor for truly silent operation                       |
+| **Electronic silent shutter**   | Combine with quiet STM motor for truly silent operation                       |
+| **Declickable aperture ring**   | CLICK switch enables silent, step-less aperture changes for video             |
 | **f/2.0 is plenty fast**        | At 85mm, f/2.0 already gives very shallow DoF — no need for f/1.4             |
 
 ---
@@ -1131,12 +1132,12 @@ Here's what to consider — **only when a genuine need arises, not as preemptive
 ### 🔍 When to Consider a 50mm Prime
 
 Your old kit included a SAL50F14 — which on the A550's APS-C sensor acted as a ~75mm equivalent
-short telephoto, never a true "standard" lens. On your full-frame A7C II, a 50mm prime
+short telephoto, never a true "standard" lens. On your full-frame A7C II, a ~50-55mm prime
 would give you a genuine normal-perspective lens for the first time.
-But your kit was deliberately designed to *bracket* 50mm with 35mm and 85mm fast primes,
-and the Sigma zoom already covers 50mm by day. So when does a dedicated fast 50mm actually earn its place?
+But your kit was deliberately designed to *bracket* the standard range with 35mm and 85mm fast primes,
+and the Sigma zoom already covers 50mm by day. So when does a dedicated fast standard prime actually earn its place?
 
-**Your current 50mm coverage:**
+**Your current ~50mm coverage:**
 
 | Method                           | Aperture at ~50mm | Resolution | Limitation                                                    |
 | -------------------------------- | ----------------- | ---------- | ------------------------------------------------------------- |
@@ -1145,17 +1146,20 @@ and the Sigma zoom already covers 50mm by day. So when does a dedicated fast 50m
 | **Walk closer with SIRUI 35mm**  | f/1.4             | 33 MP      | Changes perspective (wider, nose-enlarging at close range)    |
 | **Step back with Viltrox 85mm**  | f/2.0             | 33 MP      | Often impossible indoors (walls); different compression       |
 
-**The gap is real but narrow.** You have 50mm covered for daytime (Sigma) and can approximate it
-in low light (SIRUI crop mode or walking closer with 35mm). A dedicated 50mm prime
+**The gap is real but narrow.** You have ~50mm covered for daytime (Sigma) and can approximate it
+in low light (SIRUI crop mode or walking closer with 35mm). A dedicated fast standard prime
 only becomes genuinely useful when one of these specific conditions is met:
 
 **1. Indoor social events where both 35mm and 85mm feel wrong.**
 
-Dinner tables, cafés, family gatherings — these are the scenarios where the 50mm gap bites hardest.
+Dinner tables, cafés, family gatherings — these are the scenarios where the standard-prime gap bites hardest.
 35mm at close range puts faces near frame edges where wide-angle distortion stretches features,
 and 85mm needs 3-5m of distance that a restaurant simply doesn't offer.
-A 50mm f/1.8 at ~1.5-2m captures a natural waist-up frame with no distortion
+A 55mm f/1.8 at ~1.8-2.2m captures a natural waist-up frame with no distortion
 and pleasing bokeh — the "this is what my eyes see" perspective.
+(55mm is slightly tighter than the classic 50mm "nifty fifty" framing,
+which means you stand a touch farther from your subject — usually trivial in practice
+and arguably a more flattering perspective for faces.)
 
 - **Self-test:** On your next few indoor social outings, note how often you're frustrated
   by 35mm being too wide or 85mm requiring too much distance.
@@ -1163,62 +1167,94 @@ and pleasing bokeh — the "this is what my eyes see" perspective.
 
 **2. You want the lightest possible "one fast prime for anything" setup.**
 
-| Lens                        | Weight | Aperture | Role                                    |
-| --------------------------- | ------ | -------- | --------------------------------------- |
-| **SIRUI Aurora 35mm f/1.4** | ~480g  | f/1.4    | Wide + low-light specialist             |
-| **Viltrox AF 50mm f/1.8**   | ~332g  | f/1.8    | Budget-friendly, consistent with 85 Evo |
-| **Sony FE 50mm f/1.8**      | ~186g  | f/1.8    | Ultra-light standard — "nifty 50"       |
+| Lens                                  | Weight | Aperture | Role                                       |
+| ------------------------------------- | ------ | -------- | ------------------------------------------ |
+| **SIRUI Aurora 35mm f/1.4**           | ~480g  | f/1.4    | Wide + low-light specialist                |
+| **Viltrox AF 55mm f/1.8 EVO** *(new)* | ~370g  | f/1.8    | Newest APO standard prime, declickable     |
+| **Sony FE 55mm f/1.8 ZA**             | ~281g  | f/1.8    | Lightest; legendary Zeiss Sonnar T* optics |
 
-The Sony FE 50mm f/1.8 at ~186g is dramatically lighter than the SIRUI (480g) —
-it's genuinely one of the lightest full-frame AF lenses ever made.
-The Viltrox AF 50mm f/1.8 at ~332g is more substantial but still lighter than the SIRUI.
-For casual day-to-night outings where you want *one prime* that handles both daylight
-and reasonable low-light (f/1.8 + IBIS), a compact 50mm is the "never wrong, never specialized"
-middle-ground choice. Consider this if:
+Both 55mm options are noticeably lighter than the SIRUI (480g), and either makes a credible
+"never wrong" middle-ground prime. The Sony Zeiss at 281g is the lighter of the two
+and arguably the most beloved standard prime on the FE mount — and in the **China market**
+it can be had for **~\$500 new** (well below the ~\$1,000+ US/EU street price) or
+**under ~\$300 second-hand in good condition** — a dramatic shift from its global pricing.
+The brand-new Viltrox 55mm f/1.8 EVO (released **April 2026**) sells for **~\$250 new in China**
+(vs ~\$370 internationally) — trading ~90g of extra weight for half the price of even the
+local Sony Zeiss, plus a more modern optical/feature set (see the candidate table below).
+Consider a standard prime if:
 - You're frequently leaving the SIRUI at home because of its bulk
 - You don't need f/1.4 but want more than the Sigma's ~f/5 at 50mm indoors
-- You want a lighter prime for casual shooting (Sony at 186g is truly pocketable;
-  Viltrox at 332g is still noticeably lighter than the SIRUI)
+- You want a lighter walkaround prime for casual day-to-night shooting
 
 **3. Video content at standard framing.**
 
-50mm on full-frame is the classic "medium shot" for video — slightly tighter than your 35mm
+55mm on full-frame is essentially the classic "medium shot" for video — slightly tighter than your 35mm
 for talking-head or performance content. If you expand beyond piano recording
-into vlogs, cooking videos, or product reviews, 50mm at f/1.8 is the default
-content-creator focal length for good reason: natural perspective, shallow DoF for separation,
-compact enough for gimbal use.
+into vlogs, cooking videos, or product reviews, a fast 55mm f/1.8 hits the sweet spot for
+content creators: natural perspective, shallow DoF for separation, compact enough for gimbal use.
+The Viltrox EVO's **declickable aperture ring** is a direct video advantage here
+(matching the SIRUI's video-friendliness), while the Sony Zeiss is a clicked-only stills lens.
 
 **Specific candidates matching your buying philosophy:**
 
-| Lens                         | Weight | Price      | AF Type      | Notes                                                                        |
-| ---------------------------- | ------ | ---------- | ------------ | ---------------------------------------------------------------------------- |
-| **Sony FE 50mm f/1.8**       | ~186g  | ~\$250     | Linear motor | Lightest option; Sony-native reliability, truly pocketable                   |
-| **Viltrox AF 50mm f/1.8 FE** | ~332g  | ~\$150-200 | STM          | Cheapest; heavier than Sony but consistent with your Viltrox 85mm Evo choice |
-| **Sony FE 50mm f/1.4 GM**    | ~516g  | ~\$1,300   | XD Linear    | Overkill — heavier than SIRUI, contradicts compact philosophy                |
+| Lens                                             | Weight | Price (China street)         | Price (Global) | AF Type      | Notes                                                                                                                                                                                         |
+| ------------------------------------------------ | ------ | ---------------------------- | -------------- | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Viltrox AF 55mm f/1.8 EVO** *(new April 2026)* | ~370g  | **~\$250 new**               | ~\$370         | STM          | Newest model; first AF APO standard prime at f/1.8 (eliminates purple fringing); declickable aperture, USB-C firmware, Fn button, weather-sealed mount; matches your 85mm Evo design language |
+| **Sony FE 55mm f/1.8 ZA**                        | ~281g  | **~\$500 new / <\$300 used** | ~\$1,000-1,100 | Linear motor | Lightest option; ZEISS Sonnar T* — legendary "reference" standard prime since 2013; 9-blade aperture, dust/moisture sealed; clicked aperture only (no video declick)                          |
+| **Sony FE 50mm f/1.4 GM**                        | ~516g  | ~\$1,000+                    | ~\$1,300       | XD Linear    | Overkill — heavier than SIRUI, contradicts compact philosophy                                                                                                                                 |
 
-The **Sony FE 50mm f/1.8** is the standout for compactness (~186g — lighter than your Viltrox 85mm Evo).
-The **Viltrox 50mm f/1.8** (~332g) is the budget pick, comparable in weight to the 85mm Evo (298g).
+The **Viltrox 55mm f/1.8 EVO** is the standout pick under your "newer model + value" buying philosophy:
+it's the *first* AF APO standard prime at f/1.8 (a flagship-tier optical trick previously reserved
+for Viltrox's LAB and Pro lines), with declickable aperture and USB-C firmware updates —
+direct continuity with your SIRUI 35mm and Viltrox 85mm Evo. At **~\$250 in China**
+it's the cheapest fast standard prime in this comparison by a wide margin.
+
+The **Sony FE 55mm f/1.8 ZA** becomes far more interesting at **China-market prices**:
+at ~\$500 new (and under ~\$300 used in good condition), the Zeiss premium largely evaporates.
+At 281g it's lighter than both your Viltrox 85mm Evo (340g) and the new Viltrox 55 EVO (370g),
+with the much-loved Zeiss Sonnar T* rendering that has anchored the FE system since 2013.
+A second-hand copy at ~\$300 is genuinely competitive with the Viltrox EVO on price-to-value.
 The Sony 50mm f/1.4 GM belongs in the "What You Do NOT Need" category below.
 
-**When NOT to buy a 50mm:**
+> 💡 **Picking between them (China-market reality):**
+>
+> - **Cheapest path → Viltrox 55mm f/1.8 EVO new (~\$250).** Best for a buyer who wants
+>   the newest tech, declickable aperture for video, USB-C firmware updates, and design
+>   continuity with the existing 85mm Evo. Roughly half the price of even the local Sony Zeiss.
+> - **Lightest + Zeiss rendering → Sony FE 55mm f/1.8 ZA used (~\$300) or new (~\$500).**
+>   Becomes a serious value option at China prices. Used copies under \$300 are arguably
+>   the best price-to-performance pick if you can verify condition; new at ~\$500 still
+>   beats the international street price by half.
+> - **Skip the Sony 50mm f/1.4 GM** — heavier than the SIRUI, multiple times the price,
+>   and contradicts the compact A7C II philosophy.
+>
+> As a brand-new release, the Viltrox EVO is still earning long-term reviews —
+> wait a few months for independent sharpness/AF data if you want the safest call.
+> The Sony Zeiss has 13 years of well-documented optical character to lean on.
 
-- **"Just to complete the set."** Three primes (35/50/85) creates *more* lens-swap friction,
+**When NOT to buy a 55mm:**
+
+- **"Just to complete the set."** Three primes (35/55/85) creates *more* lens-swap friction,
   not less. You already identified lens swapping as a pain point with two primes —
   adding a third makes the "which prime do I mount?" decision harder, not easier.
 - **For notebook archiving.** The Sigma at 50mm f/8 already delivers the best edge sharpness
   in your kit. A fast prime stopped down to f/8 won't outperform the zoom for flat-field work.
-- **As a replacement for the SIRUI 35mm.** 50mm f/1.8 is ~1.3 stops slower than 35mm f/1.4.
-  For night city walks and dim museums, f/1.4 at a wider angle still wins decisively.
+- **As a replacement for the SIRUI 35mm.** 55mm f/1.8 is ~1.3 stops slower than 35mm f/1.4
+  *and* a tighter angle of view. For night city walks and dim museums, f/1.4 at a wider angle
+  still wins decisively.
 - **Before exhausting APS-C crop mode.** The SIRUI at 52.5mm equiv in crop mode delivers ~14MP —
   still enough for social media, screen viewing, and modest prints. Try this workaround first.
 
-> 💡 **Bottom line:** A 50mm prime is the *least urgent* lens addition to your kit
+> 💡 **Bottom line:** A 55mm prime is the *least urgent* lens addition to your kit
 > because the Sigma zoom covers it by day and the SIRUI's APS-C crop approximates it by night.
 > Buy one only when you repeatedly find yourself in indoor social settings
-> where 35mm is too wide and 85mm is too tight — and a compact f/1.8 (~\$150-250)
-> is all you'd ever need. The Sony FE 50mm f/1.8 (~186g) is the lightest option;
-> the Viltrox (~332g) is cheaper but heavier. Skip the f/1.4 GM;
-> it would be your heaviest prime and contradicts the compact A7C II philosophy that defines your kit.
+> where 35mm is too wide and 85mm is too tight. Within that scenario, and at **China-market prices**,
+> two picks stand out: the brand-new **Viltrox AF 55mm f/1.8 EVO** (~\$250 new, ~370g, April 2026)
+> for the cheapest path with the most modern feature set, or the **Sony FE 55mm f/1.8 ZA**
+> (~\$500 new or under ~\$300 used, ~281g) for the lightest body and classic Zeiss Sonnar rendering.
+> A second-hand Sony Zeiss in good condition is arguably the best price-to-performance option overall.
+> Skip the f/1.4 GM — it would be your heaviest prime and contradicts the compact A7C II
+> philosophy that defines your kit.
 
 ### ❌ What You Do NOT Need
 
@@ -1251,11 +1287,11 @@ Here's why — and then the honest exceptions.
 | -------------------------- | ----------------------------------------------- | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
 | **Sharpness (center)**     | Very good (90-95th percentile)                  | Excellent (98-99th)                                                                | Invisible at screen viewing & social media; visible only in large prints (>A2) or heavy crops      |
 | **Sharpness (corners)**    | Good to very good                               | Excellent                                                                          | Matters for architecture and landscape — but your Sigma 20-200mm's corners suffice for sightseeing |
-| **Autofocus speed**        | Fast VCM (Viltrox Evo, SIRUI)                   | Marginally faster linear motors                                                    | A7C II's AI AF compensates; difference is <0.1s in most scenarios                                  |
+| **Autofocus speed**        | Fast STM (Viltrox Evo, SIRUI)                   | Marginally faster linear motors                                                    | A7C II's AI AF compensates; difference is <0.1s in most scenarios                                  |
 | **Build quality**          | Good (dust/splash resistance varies)            | Weather-sealed, tank-like                                                          | Relevant for rain-forest treks or blizzard conditions; irrelevant for city sightseeing             |
 | **Bokeh rendering**        | Very pleasing (SIRUI 15 blades, Viltrox smooth) | Slightly smoother transitions                                                      | Noticeable to bokeh connoisseurs; invisible to photo subjects and social media followers           |
 | **Flare/ghost resistance** | Adequate                                        | Superior nano-coating                                                              | Matters in backlit golden-hour shooting; correctable in post for most situations                   |
-| **Weight**                 | Light kit (~1,292g for body + 2 primes)         | Significantly heavier (GM 35/1.4: 524g, GM 24-70/2.8: 695g, GM 70-200/2.8: 1,045g) | Heavier kit means more fatigue, less willingness to carry it, fewer photos taken                   |
+| **Weight**                 | Light kit (~1,334g for body + 2 primes)         | Significantly heavier (GM 35/1.4: 524g, GM 24-70/2.8: 695g, GM 70-200/2.8: 1,045g) | Heavier kit means more fatigue, less willingness to carry it, fewer photos taken                   |
 
 The pattern is clear: GM glass improves output by single-digit percentages
 in controlled comparisons, but **your limiting factor is never the lens optics** —
@@ -1356,9 +1392,9 @@ a Viltrox 85mm f/2.0 and a Sony 85mm f/1.4 GM becomes measurable and visible.
 
 | Category                               | Amount         |
 | -------------------------------------- | -------------- |
-| **Retail value of core kit**           | ~\$3,950-4,200 |
+| **Retail value of core kit**           | ~\$3,925-4,475 |
 | **Actually paid (body + lenses)**      | ~\$2,680       |
-| **Saved through discounts**            | ~\$1,270-1,520 |
+| **Saved through discounts**            | ~\$1,245-1,795 |
 | **Accessories already acquired**       | ✅ Complete     |
 | **Remaining medium priority upgrades** | ~\$130-310     |
 
