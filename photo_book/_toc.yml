@@ -13,6 +13,7 @@ parts:
   - caption: Tips
     chapters:
       - file: tips/photographing_tips
+      - file: tips/standard_lens_and_kit_strategy
       - file: tips/color_grading
       - file: tips/astrophotography_planetary
 
