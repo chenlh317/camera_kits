@@ -86,11 +86,19 @@ To keep the recommendation honest — this is a 2013 design:
 
 - **AF motor is audible up close and hunts a little in very dim light / video** — a stills lens
   first. For quiet galleries the A7C II's silent electronic shutter still covers you.
-- **Longitudinal CA (purple/green fringing)** appears on specular highlights wide open at f/1.8;
-  stop to f/2.5–f/2.8 or correct in Lightroom.
+- **No AF/MF switch on the barrel** — the lens has no focus-mode button, so toggling to manual
+  focus means diving into the camera menu (or a custom button). Awkward when you want a quick
+  MF override for a tricky-focus shot.
+- **Longitudinal CA (purple/green fringing)** appears on specular highlights wide open at f/1.8.
+  You can stop to f/2.5–f/2.8 or correct in Lightroom — but *subjectively I like it*: the gentle
+  fringing gives the files a unique, nostalgic colour signature, and I don't read it as a flaw.
 - **Bokeh can turn slightly "busy"** with hard foliage backlight, and highlight discs show mild
   onion-ring texture — rarely visible at normal viewing sizes.
 - **No optical stabilisation** — fine on the A7C II thanks to IBIS, but worth remembering for video.
+
+> 💰 **Perspective on the caveats:** at the **~\$200 second-hand** I paid, every one of these is
+> entirely tolerable. This is not a \$1,100-new value judgement — for the price, the lens
+> massively over-delivers, and none of the above stops it being a keeper.
 
 <!-- TODO: add a sample frame from the 4-day trip (candid at f/1.8 behind 1/8 Black Mist) to photo_book/pics/ and embed here with a {figure} directive. -->
 
