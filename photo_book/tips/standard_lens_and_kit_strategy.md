@@ -222,6 +222,12 @@ flowchart TD
 Short answer: **your current kit is more than sufficient for years.** Here's the coverage math against
 your documented usage.
 
+> 🧭 **A note on how this kit came together — by design, not accident.** The slight overlap between
+> the zoom and the three primes was *intentional*: I accumulated this set to explore every focal
+> length and shooting style and figure out what I actually enjoy. Throughout, I prioritised
+> **price-to-performance** and deliberately avoided "elite glass" (any Sony G Master, for example),
+> keeping the whole system within a reasonable budget while still covering every use case.
+
 (standard-lens-coverage)=
 ### Coverage vs. Your Actual Usage
 
