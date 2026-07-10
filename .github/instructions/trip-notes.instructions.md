@@ -22,7 +22,13 @@ They are *not* reference docs — match the existing voice.
 ## Voice and structure
 
 - First-person, narrative, chronological. Reflective asides about gear choices
-  and shooting decisions are welcome and on-brand.
+  and shooting decisions are welcome and on-brand — but *reflective* is not the
+  same as *invented*. Do not put subjective reactions, surprises, or
+  superlatives in the user's mouth (e.g. "this surprised me most", "more than I
+  expected", "the single most useful thing I learned"). Only include such
+  claims when the user actually supplied them; otherwise report the fact or
+  decision neutrally. See the *Claims and voice* rules in
+  [photobook.instructions.md](../../.github/instructions/photobook.instructions.md).
 - Use H2 sections for days or major segments of the trip; H3 for sub-locations
   or themes. Stay within H1–H3 so MyST anchors remain stable.
 - Inline figures with captions (`figure` directive) referencing

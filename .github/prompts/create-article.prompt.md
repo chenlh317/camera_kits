@@ -70,6 +70,13 @@ The agent should weave whichever of these you provide into the article:
    (HTML comment) where an image is needed.
 9. **Preserve mixed-language content** as it appears in the brief — do not
    translate or transliterate without being asked.
+10. **No invented subjective claims.** Do not add personal reactions,
+    surprises, superlatives, or value judgements ("this surprised me most",
+    "more than I expected", "the single most useful thing I learned", "my
+    favourite") unless the brief explicitly supplied them. When no reaction was
+    given, state the observable fact or the reasoning neutrally and let it stand
+    on its own (see the *Claims and voice* rules in
+    [photobook.instructions.md](../instructions/photobook.instructions.md)).
 
 ## At the end of your response, summarize
 

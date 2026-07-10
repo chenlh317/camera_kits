@@ -102,6 +102,13 @@ For each test, describe:
    belong.
 8. **Preserve mixed-language content** (Chinese place names, Norwegian
    terms, English narration) exactly as it appears in the brief.
+9. **No invented subjective claims.** The first-person voice invites reflective
+   asides about gear and shooting decisions — those are welcome — but do not
+   manufacture reactions, surprises, superlatives, or value judgements ("this
+   surprised me most", "more than I expected", "the single most useful thing I
+   learned", "my favourite") that the brief did not supply. When no reaction was
+   given, report the fact or decision neutrally (see the *Claims and voice*
+   rules in [photobook.instructions.md](../instructions/photobook.instructions.md)).
 
 ## At the end of your response, summarize
 

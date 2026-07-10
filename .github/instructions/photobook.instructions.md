@@ -42,6 +42,21 @@ contents in [photo_book/_toc.yml](../../photo_book/_toc.yml).
   images).
 - Do not edit anything under `photo_book/_build/` — it is regenerated.
 
+## Claims and voice
+
+- **Do not manufacture subjective or emotional claims.** Only state a personal
+  reaction, surprise, superlative, or value judgement if the user explicitly
+  supplied it in the brief (or it already exists in the file you are editing).
+- Phrases like *"this surprised me most"*, *"more than I expected"*, *"the
+  single most useful thing I learned"*, *"I was amazed"*, *"my favourite"*, or
+  *"the best/worst by far"* must come from the user — never invent them to add
+  colour or emphasis.
+- When the user has **not** supplied a reaction, state the observable fact
+  neutrally (what happened, what the data shows, what the gear did) and let it
+  stand on its own. Describe the evidence, not an imagined feeling about it.
+- Reflective asides about gear and shooting decisions are still welcome (see the
+  trip-notes voice), but keep them grounded in what the user actually reported.
+
 ## Style
 
 - Gear pages (`gears/`) and tips (`tips/`) are analytical / reference-style:
