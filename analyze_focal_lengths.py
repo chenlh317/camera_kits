@@ -390,9 +390,9 @@ def process_folder(folder_path: str) -> None:
         print(freq_df.to_string(index=False))
 
 
-def main(folder_path: str, output_dir: Path) -> None:
+def analyze_folder_to_file(folder_path: str, output_dir: Path) -> None:
     """
-    Main entry point.
+    Analyze a single folder and write its report into the output directory.
 
     Args:
         folder_path: Path to the folder containing JPG photos
@@ -431,14 +431,22 @@ def main(folder_path: str, output_dir: Path) -> None:
     print(f"Report saved to: {output_path}")
 
 
-if __name__ == "__main__":
-    # Read photo folders from photo_folders.yaml
-    script_dir = Path(__file__).parent
-    folders_file = script_dir / "photo_folders.yaml"
+def main(
+    folder_paths: Optional[List[str]] = None,
+    output_dir: Optional[Path] = None,
+) -> None:
+    """
+    Read configuration and analyze every configured photo folder.
 
-    if not folders_file.exists():
-        print(f"Error: {folders_file} not found!")
-        sys.exit(1)
+    Args:
+        folder_paths: Folders to analyze. If None, they are read from
+            photo_folders.yaml next to this script.
+        output_dir: Directory to write reports into. If None, a timestamped
+            focal_length_analysis_* directory is created next to this script.
+    """
+    global _crop_factors
+
+    script_dir = Path(__file__).parent
 
     # Load camera crop factors for fallback calculation
     crop_factors_path = script_dir / "camera_crop_factors.yaml"
@@ -450,21 +458,29 @@ if __name__ == "__main__":
     else:
         print("No crop factors file found, will only use direct EXIF 35mm equivalent")
 
-    # Read all folder paths from the YAML file
-    with open(folders_file, "r", encoding="utf-8") as f:
-        config = yaml.safe_load(f)
+    # Read folder paths from photo_folders.yaml if not provided
+    if folder_paths is None:
+        folders_file = script_dir / "photo_folders.yaml"
 
-    folder_paths = config.get("folders", [])
+        if not folders_file.exists():
+            print(f"Error: {folders_file} not found!")
+            sys.exit(1)
 
-    if not folder_paths:
-        print(f"Error: No folder paths found in {folders_file}")
-        sys.exit(1)
+        with open(folders_file, "r", encoding="utf-8") as f:
+            config = yaml.safe_load(f)
+
+        folder_paths = config.get("folders", [])
+
+        if not folder_paths:
+            print(f"Error: No folder paths found in {folders_file}")
+            sys.exit(1)
 
     print(f"Found {len(folder_paths)} folder(s) to process")
 
-    # Create output directory with timestamp
-    run_timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    output_dir = script_dir / f"focal_length_analysis_{run_timestamp}"
+    # Create a timestamped output directory if one was not provided
+    if output_dir is None:
+        run_timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        output_dir = script_dir / f"focal_length_analysis_{run_timestamp}"
     output_dir.mkdir(parents=True, exist_ok=True)
     print(f"Output directory: {output_dir}")
 
@@ -473,4 +489,8 @@ if __name__ == "__main__":
         print(f"\n{'=' * 80}")
         print(f"Processing folder {i}/{len(folder_paths)}: {folder_path}")
         print(f"{'=' * 80}")
-        main(folder_path, output_dir)
+        analyze_folder_to_file(folder_path, output_dir)
+
+
+if __name__ == "__main__":
+    main()
