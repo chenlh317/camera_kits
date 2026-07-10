@@ -289,8 +289,7 @@ own merits with the zoom and the 35mm.
   sweet spot: shallow enough to lift the subject's face off the background and give it that pleasing
   separation, yet *not* so shallow that a second face — my cousin's or her daughter's, a little
   nearer or farther — blurs past recognition. At f/1.4 or f/1.2 that off-plane face would dissolve;
-  stopped well down it would flatten into the background. f/1.8 threads the needle, and that balance
-  is the single most useful thing I learned.
+  stopped well down it would flatten into the background. f/1.8 threads the needle.
 - **Rendering:** the ZEISS warmth and gentle roll-off flattered skin in low, warm desert light, and
   paired naturally with the **FL (Film)** Creative Look (see {doc}`../tips/color_grading`).
 - **The family loved the results.** This surprised me most: my cousin and her daughter genuinely
