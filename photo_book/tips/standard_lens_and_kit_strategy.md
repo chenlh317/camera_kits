@@ -15,7 +15,8 @@
 - The **Sony 55mm f/1.8 ZA is a keeper.** Light (281g), fast-focusing for stills, and it renders
   people with a slightly nostalgic ZEISS character that pairs beautifully with a 1/8 Black Mist.
 - **f/1.8 is the "sensible fast":** enough light after sunset, but the depth of field isn't as
-  unforgiving as f/1.4 — easier to keep two people (cousin + daughter) both in focus.
+  unforgiving as f/1.4 — when you focus on one face, the *other* face (at a slightly different
+  distance) stays clearly recognizable rather than dissolving, as it would at f/1.4 or f/1.2.
 - **The catch is *you*, not the lens.** 50-55mm sits in your documented "dead zone"
   (see {doc}`photographing_tips` and {doc}`../notes/202603_luoyang_post_purchase_usage`).
   {ref}`Part 2 <standard-lens-composing>` is a playbook for making *deliberate* 55mm frames.
@@ -74,8 +75,11 @@ value-per-image lenses you can put on the A7C II today
    used on the 85mm — see {doc}`color_grading`) lifts the bloom just enough for skin without
    veiling the whole frame.
 4. **f/1.8 is the "sensible fast."** After sunset it gathers plenty of light for handheld shots on
-   the A7C II, yet the depth of field at portrait distance is deep enough to keep **two faces**
-   sharp — a real advantage over f/1.4 when you're shooting the cousin and her daughter together.
+   the A7C II, yet the depth of field at portrait distance is deep enough that when you nail one
+   face, the **second face** — a little nearer or farther — stays **recognizable** instead of
+   melting away. You rarely get *both* critically sharp, but at f/1.4 or f/1.2 the off-plane face
+   would blur past recognition — a real advantage when you're shooting the cousin and her daughter
+   together.
 5. **Nostalgic ZEISS colour rendering.** Slightly warm, gentle micro-contrast, a "filmic" roll-off
    that pairs naturally with your **FL (Film)** Creative Look ({doc}`color_grading`).
 
@@ -254,7 +258,8 @@ range you historically skipped — so there is no honest "gap" left to buy your 
   reproduction** ([LensTip parameters](https://www.lenstip.com/716.2-Lens_review-Sigma_C_20-200_mm_f_3.5-6.3_DG_Pictures_and_parameters.html)) —
   half life-size, near-macro territory — with the 55mm's 0.14× and the 85mm handling the rest.
 - **A faster "normal" (50mm f/1.4)?** You explicitly value f/1.8's more forgiving depth of field for
-  two-person shots — a heavier, pricier f/1.4 would work *against* your shooting style.
+  two-person shots — it keeps the second face recognizable where an f/1.4 would blur it away — so a
+  heavier, pricier f/1.4 would work *against* your shooting style.
 
 (standard-lens-bottom-line)=
 ### The Bottom Line

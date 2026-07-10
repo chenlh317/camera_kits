@@ -25,7 +25,8 @@ Key takeaways:
    wide-angle scenery (**~25% at 20mm**) and a deliberate **55mm portrait push on the desert day**
    (17.5% of that day's shots at 55mm — see {ref}`the desert-day test <ningxia-55-test>`).
 2. **The 55mm f/1.8 delivered on its promise** exactly where {doc}`../tips/standard_lens_and_kit_strategy`
-   predicted: golden-hour, two-people frames in the Tengri desert where f/1.8 kept both faces sharp.
+   predicted: golden-hour, two-people frames in the Tengri desert where f/1.8 keeps one face sharp
+   while the second stays recognizable (rather than dissolving, as it would at f/1.4).
    Day 2 split cleanly by tool — the **Sigma zoom for 西夏陵 by day** (its 20mm and 200mm peaks), the
    **55mm for the desert** in the evening and at dawn.
 3. **But the "dead zone" is real.** Outside the one day I *consciously* tested it, the 55mm barely
@@ -70,7 +71,7 @@ The itinerary:
 | Day 1  | 21 June | Arrival in 银川 Yinchuan                                                    |
 | Day 2  | 22 June | 西夏陵 Western Xia Tombs by day → 腾格里沙漠 after sunset, night in a desert cabin |
 | Day 3  | 23 June | Drive to 兰州 Lanzhou (via 中卫66号公路), light city tour                        |
-| Day 4  | 24 June | 甘肃省博物馆 Gansu Provincial Museum + city walk along the 黄河 Yellow River      |
+| Day 4  | 24 June | Morning: 黄河 Yellow River waterfront + 兰州大学 campus. Afternoon: Dunhuang Museum, 甘肃省博物馆, 白云观 Baiyun Taoist Temple |
 | Day 5  | 25 June | Guided visit to a Danxia (丹霞) landform park near 兰州, then the return trip   |
 
 (ningxia-focal-length-data)=
@@ -188,29 +189,41 @@ prime I trust most.
 ---
 
 (ningxia-day4)=
-## Day 4 · 甘肃省博物馆 and the 黄河 Waterfront
+## Day 4 · 兰州 — 黄河 Waterfront, Museums & 白云观
+
+The fullest sightseeing day of the trip: a morning outdoors along the Yellow River and around
+兰州大学, then an afternoon of three indoor stops. The focal-length split mirrors that structure —
+Sigma-wide (**24% at 20mm**) for the morning cityscape, SIRUI 35mm (**29% at 35mm + 14% at 52mm
+crop**) for the dim afternoon interiors — with a median of 35mm across the 174-frame day.
+
+(ningxia-huanghe)=
+### Morning · 黄河 Waterfront & 兰州大学
+
+The morning was a walk along the 黄河 as it runs through the heart of 兰州 — famously the only
+provincial capital the Yellow River flows right through the centre of. Wide 20mm frames for the river
+and its bridges, 35mm for the riverside promenade and the three of us strolling. We carried the
+cityscape mood inland onto the **兰州大学 (Lanzhou University)** campus — tree-lined avenues and
+older teaching buildings that gave the walk a quieter, collegiate register. A relaxed,
+mixed-focal-length morning (median 35mm) with the Sigma doing the daytime heavy lifting.
+
+<!-- TODO: add a 20mm frame of the 黄河 through 兰州 (bridge + promenade) to photo_book/pics/ and embed with a {figure} directive. -->
+<!-- TODO: add a 35mm 兰州大学 campus frame to photo_book/pics/ and embed with a {figure} directive. -->
 
 (ningxia-museum)=
-### 甘肃省博物馆 Gansu Provincial Museum
+### Afternoon · Dunhuang Museum, 甘肃省博物馆 & 白云观
 
-The museum — home of the famous 铜奔马 (the "Galloping Horse" / Flying Horse of Gansu) — was the
-SIRUI 35mm f/1.4's day to shine. Dim gallery lighting, no flash, glass cases: exactly the low-light
+The afternoon was three stops indoors, and the SIRUI 35mm f/1.4's chance to shine. First the
+**Dunhuang Museum** (敦煌-themed artefacts and mural reproductions), then the **甘肃省博物馆 (Gansu
+Provincial Museum)** — home of the famous 铜奔马 (the "Galloping Horse" / Flying Horse of Gansu) —
+and finally the **白云观 (Baiyun Taoist Temple / Baiyunguan)** on the south bank of the Yellow River.
+Dim gallery lighting, no flash, glass cases, and the shaded temple halls: exactly the low-light
 indoor scenario the fast prime was bought for. The data backs it up — **29% of the day at 35mm plus
 14% at 52mm (the SIRUI's APS-C crop)** — over 40% of the day on that one lens or its crop. The 52mm
 crop mode again proved its worth for tightening onto a single artefact without swapping to the Sigma,
 the same {ref}`workflow the Ålesund trip surfaced <sirui-35-field-notes>`.
 
 <!-- TODO: add a 35mm f/1.4 low-light gallery frame from 甘肃省博物馆 to photo_book/pics/ and embed with a {figure} directive. -->
-
-(ningxia-huanghe)=
-### 黄河 Yellow River Waterfront
-
-The morning was a walk along the 黄河 as it runs through the heart of 兰州 — famously the only
-provincial capital the Yellow River flows right through the centre of. Wide 20mm frames for the river
-and its bridges, 35mm for the riverside promenade and the three of us strolling. A relaxed,
-mixed-focal-length afternoon (median 35mm) with the Sigma doing the daytime heavy lifting.
-
-<!-- TODO: add a 20mm frame of the 黄河 through 兰州 (bridge + promenade) to photo_book/pics/ and embed with a {figure} directive. -->
+<!-- TODO: add a 35mm 白云观 temple-hall frame to photo_book/pics/ and embed with a {figure} directive. -->
 
 ---
 
@@ -271,11 +284,13 @@ own merits with the zoom and the 35mm.
   data, and essentially all of them are the **desert session** — *not* the day's 20mm/200mm frames,
   which were the Sigma at 西夏陵. When I committed to the 55mm it delivered volume; on every other
   day it produced almost nothing.
-- **f/1.8 kept two faces sharp.** The strategy article's core argument
-  ({ref}`"the sensible fast" <standard-lens-what-i-love>`) held up in the field: at portrait
-  distance, f/1.8's depth of field was forgiving enough to keep **both** my cousin and her daughter
-  acceptably sharp in a shared frame — something f/1.4 would have fought me on. This is the single
-  most useful thing I learned.
+- **f/1.8 keeps the second face recognizable.** The strategy article's core argument
+  ({ref}`"the sensible fast" <standard-lens-what-i-love>`) held up in the field — with one caveat on
+  the wording. At portrait distance f/1.8 does *not* keep two faces at different distances both
+  critically sharp; what it does is keep the face I focus on sharp while my cousin's or her
+  daughter's *other* face — a little nearer or farther — stays clearly **recognizable** instead of
+  melting into blur. At f/1.4 or f/1.2 that off-plane face would dissolve. That forgiveness, not
+  "both sharp," is the real win, and it's the single most useful thing I learned.
 - **Rendering:** the ZEISS warmth and gentle roll-off flattered skin in low, warm desert light, and
   paired naturally with the **FL (Film)** Creative Look (see {doc}`../tips/color_grading`).
 - **The family loved the results.** This surprised me most: my cousin and her daughter genuinely
@@ -360,7 +375,8 @@ before committing an M-slot.
 3. **3 lenses was the right ceiling** for a multi-terrain trip — zoom for scenery, 35mm for indoor
    low light, 55mm for portraits. No fourth lens would have earned its weight.
 4. **f/1.8 > f/1.4 for two-person frames.** The single clearest field validation of the strategy
-   article: keeping two faces sharp is worth more than one extra stop of blur.
+   article: keeping the off-plane second face *recognizable* is worth more than one extra stop of
+   blur that would dissolve it.
 5. **Fatigue beats strategy.** On the transit day I defaulted to the 35mm and never applied the
    playbook. Plan the ambitious lens work for high-energy days.
 6. **Don't "warm up" an already-warm subject.** The Cloudy WB baked the overcast Danxia frames into
