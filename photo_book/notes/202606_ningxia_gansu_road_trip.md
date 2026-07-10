@@ -284,13 +284,13 @@ own merits with the zoom and the 35mm.
   data, and essentially all of them are the **desert session** — *not* the day's 20mm/200mm frames,
   which were the Sigma at 西夏陵. When I committed to the 55mm it delivered volume; on every other
   day it produced almost nothing.
-- **f/1.8 keeps the second face recognizable.** The strategy article's core argument
-  ({ref}`"the sensible fast" <standard-lens-what-i-love>`) held up in the field — with one caveat on
-  the wording. At portrait distance f/1.8 does *not* keep two faces at different distances both
-  critically sharp; what it does is keep the face I focus on sharp while my cousin's or her
-  daughter's *other* face — a little nearer or farther — stays clearly **recognizable** instead of
-  melting into blur. At f/1.4 or f/1.2 that off-plane face would dissolve. That forgiveness, not
-  "both sharp," is the real win, and it's the single most useful thing I learned.
+- **f/1.8 is the balanced middle.** The strategy article's core argument
+  ({ref}`"the sensible fast" <standard-lens-what-i-love>`) held up in the field. f/1.8 sits in a
+  sweet spot: shallow enough to lift the subject's face off the background and give it that pleasing
+  separation, yet *not* so shallow that a second face — my cousin's or her daughter's, a little
+  nearer or farther — blurs past recognition. At f/1.4 or f/1.2 that off-plane face would dissolve;
+  stopped well down it would flatten into the background. f/1.8 threads the needle, and that balance
+  is the single most useful thing I learned.
 - **Rendering:** the ZEISS warmth and gentle roll-off flattered skin in low, warm desert light, and
   paired naturally with the **FL (Film)** Creative Look (see {doc}`../tips/color_grading`).
 - **The family loved the results.** This surprised me most: my cousin and her daughter genuinely
