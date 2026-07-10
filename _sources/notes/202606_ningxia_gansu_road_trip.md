@@ -57,7 +57,7 @@ journey home. This was not a photography expedition — it was a **holiday with 
 camera had to fit around that. That framing matters, because it is exactly the kind of relaxed,
 people-first trip the {doc}`../tips/standard_lens_and_kit_strategy` article was written around.
 
-One detail mattered more than I expected: **there were no small children on this trip** — just my
+One detail shaped how I could shoot: **there were no small children on this trip** — just my
 cousin and her 17-year-old daughter. That made *swapping lenses genuinely practical*. With no toddler
 to chase and no fear of a decisive moment vanishing while I fumbled a lens change, I could stop, swap
 from the Sigma to the 55mm, and take my time composing — the exact freedom a trip with young kids
@@ -292,8 +292,8 @@ own merits with the zoom and the 35mm.
   stopped well down it would flatten into the background. f/1.8 threads the needle.
 - **Rendering:** the ZEISS warmth and gentle roll-off flattered skin in low, warm desert light, and
   paired naturally with the **FL (Film)** Creative Look (see {doc}`../tips/color_grading`).
-- **The family loved the results.** This surprised me most: my cousin and her daughter genuinely
-  preferred the 55mm frames over anything from a phone. Two things stood out to them — the lens's
+- **The family preferred the 55mm frames.** My cousin and her daughter picked the 55mm frames over
+  anything from a phone. Two things stood out to them — the lens's
   characteristic, **slightly nostalgic colour rendering**, and the **perspective**, which reads
   differently from the ultra-wide ~23mm they're used to on a mobile phone. A 55mm frame simply
   *looks* like a photograph rather than a snapshot, and non-photographers feel that even if they
@@ -373,7 +373,7 @@ before committing an M-slot.
    {ref}`2-lens people-trip logic <standard-lens-example-kits>` played out exactly as written.
 3. **3 lenses was the right ceiling** for a multi-terrain trip — zoom for scenery, 35mm for indoor
    low light, 55mm for portraits. No fourth lens would have earned its weight.
-4. **f/1.8 > f/1.4 for two-person frames.** The single clearest field validation of the strategy
+4. **f/1.8 > f/1.4 for two-person frames.** A direct field validation of the strategy
    article: keeping the off-plane second face *recognizable* is worth more than one extra stop of
    blur that would dissolve it.
 5. **Fatigue beats strategy.** On the transit day I defaulted to the 35mm and never applied the
