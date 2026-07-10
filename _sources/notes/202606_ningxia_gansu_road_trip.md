@@ -1,7 +1,7 @@
 # 2026-06 Ningxia → Gansu: A People Trip and the 55mm's First Outing
 
 - **Date:** 21–25 June 2026
-- **Route:** 银川 Yinchuan (宁夏 Ningxia) → 西夏陵 Western Xia Tombs → 腾格里沙漠 Tengri Desert →
+- **Route:** 银川 Yinchuan (宁夏 Ningxia) → 西夏陵 Western Xia Tombs → 腾格里沙漠 Tengger Desert →
   兰州 Lanzhou (甘肃 Gansu) → 黄河 Yellow River waterfront → Danxia (丹霞) landform park near Lanzhou
 - **Companions:** my cousin and her 17-year-old daughter — a relaxed, people-centric holiday
 - **Camera Body:** Sony A7C II (Full-Frame, E-Mount)
@@ -22,7 +22,7 @@ argues *why* the 55mm belongs in the kit; this one records *what actually happen
 Key takeaways:
 
 1. **660 A7C II photos in 5 days**, and the focal-length data tells a clear two-personality story:
-   wide-angle scenery (**25% at 20mm**) and a deliberate **55mm portrait push on the desert day**
+   wide-angle scenery (**~25% at 20mm**) and a deliberate **55mm portrait push on the desert day**
    (17.5% of that day's shots at 55mm — see {ref}`the desert-day test <ningxia-55-test>`).
 2. **The 55mm f/1.8 delivered on its promise** exactly where {doc}`../tips/standard_lens_and_kit_strategy`
    predicted: golden-hour, two-people frames in the Tengri desert where f/1.8 kept both faces sharp.
@@ -56,13 +56,20 @@ journey home. This was not a photography expedition — it was a **holiday with 
 camera had to fit around that. That framing matters, because it is exactly the kind of relaxed,
 people-first trip the {doc}`../tips/standard_lens_and_kit_strategy` article was written around.
 
+One detail mattered more than I expected: **there were no small children on this trip** — just my
+cousin and her 17-year-old daughter. That made *swapping lenses genuinely practical*. With no toddler
+to chase and no fear of a decisive moment vanishing while I fumbled a lens change, I could stop, swap
+from the Sigma to the 55mm, and take my time composing — the exact freedom a trip with young kids
+would have denied me. Much of the deliberate 55mm work below only happened *because* the pace allowed
+it.
+
 The itinerary:
 
 | Day    | Date    | Segment                                                                   |
 | ------ | ------- | ------------------------------------------------------------------------- |
 | Day 1  | 21 June | Arrival in 银川 Yinchuan                                                    |
 | Day 2  | 22 June | 西夏陵 Western Xia Tombs by day → 腾格里沙漠 after sunset, night in a desert cabin |
-| Day 3  | 23 June | Drive to 兰州 Lanzhou, light city tour                                       |
+| Day 3  | 23 June | Drive to 兰州 Lanzhou (via 中卫66号公路), light city tour                        |
 | Day 4  | 24 June | 甘肃省博物馆 Gansu Provincial Museum + city walk along the 黄河 Yellow River      |
 | Day 5  | 25 June | Guided visit to a Danxia (丹霞) landform park near 兰州, then the return trip   |
 
@@ -84,7 +91,7 @@ Analysis of every A7C II and S25 frame from the trip:
 | **53mm**                  | 6      | 0.8%        | Standard framing                                            |
 | **55mm**                  | 34     | **4.3%**    | **Sony 55mm f/1.8 ZA — native (almost all on the desert day)** |
 | **56-82mm**               | —      | —           | includes 82mm ≈ 55mm in APS-C crop (55×1.5)                 |
-| **200mm**                 | ~50    | ~6%         | Sigma maximum — distant tombs, dunes, Danxia ridgelines     |
+| **200mm**                 | ~40    | ~5%         | Sigma maximum — distant tombs, dunes, Danxia ridgelines     |
 | **Overall median**        | —      | **33mm**    | Confirms the familiar wide-standard centre of gravity        |
 
 **Per-day breakdown (A7C II only):**
@@ -166,13 +173,17 @@ at f/1.8. This is where 34 of the trip's 55mm frames were made. See
 (ningxia-day3)=
 ## Day 3 · Drive to 兰州, Light City Tour
 
-A long transfer south into 甘肃 and a gentle first look at 兰州. Only 50 frames, and the data is
-almost comically monotone: **92% at 35mm, 8% at 52mm (the SIRUI in crop)**. On a tiring travel day
-I clipped on the 35mm f/1.4 and never took it off — no zoom, no 55mm, no deliberation. It's a useful
-reminder that the {doc}`../tips/standard_lens_and_kit_strategy` playbook only works when I have the
-energy to *apply* it; left on autopilot, I default to the one prime I trust most.
+A long transfer south into 甘肃 and a gentle first look at 兰州 — but not *only* driving. We stopped
+at **中卫66号公路** (the Zhongwei "Route 66" desert highway), a photogenic stretch of open road
+through the sand. I didn't shoot much there — the light and my energy were both low — so it barely
+registers in the data, but it was a real stop, not just windscreen time. Overall the day left only
+50 frames, and the data is almost comically monotone: **92% at 35mm, 8% at 52mm (the SIRUI in
+crop)**. On a tiring travel day I clipped on the 35mm f/1.4 and never took it off — no zoom, no 55mm,
+no deliberation. It's a useful reminder that the {doc}`../tips/standard_lens_and_kit_strategy`
+playbook only works when I have the energy to *apply* it; left on autopilot, I default to the one
+prime I trust most.
 
-<!-- TODO: add a 35mm 兰州 street frame from the arrival evening to photo_book/pics/ and embed with a {figure} directive. -->
+<!-- TODO: add a 中卫66号公路 desert-highway frame to photo_book/pics/ and embed with a {figure} directive. -->
 
 ---
 
@@ -194,10 +205,10 @@ the same {ref}`workflow the Ålesund trip surfaced <sirui-35-field-notes>`.
 (ningxia-huanghe)=
 ### 黄河 Yellow River Waterfront
 
-The afternoon was a walk along the 黄河 as it runs through the heart of 兰州 — the only major
-Chinese city the Yellow River bisects. Wide 20mm frames for the river and its bridges, 35mm for the
-riverside promenade and the three of us strolling. A relaxed, mixed-focal-length afternoon (median
-35mm) with the Sigma doing the daytime heavy lifting.
+The morning was a walk along the 黄河 as it runs through the heart of 兰州 — famously the only
+provincial capital the Yellow River flows right through the centre of. Wide 20mm frames for the river
+and its bridges, 35mm for the riverside promenade and the three of us strolling. A relaxed,
+mixed-focal-length afternoon (median 35mm) with the Sigma doing the daytime heavy lifting.
 
 <!-- TODO: add a 20mm frame of the 黄河 through 兰州 (bridge + promenade) to photo_book/pics/ and embed with a {figure} directive. -->
 
@@ -267,8 +278,16 @@ own merits with the zoom and the 35mm.
   most useful thing I learned.
 - **Rendering:** the ZEISS warmth and gentle roll-off flattered skin in low, warm desert light, and
   paired naturally with the **FL (Film)** Creative Look (see {doc}`../tips/color_grading`).
-- **Weight:** at 281g it never once felt like a burden — the opposite of the times the SIRUI f/1.4
-  front-weighted the body on the {ref}`Luoyang trip <field-pain-points>`.
+- **The family loved the results.** This surprised me most: my cousin and her daughter genuinely
+  preferred the 55mm frames over anything from a phone. Two things stood out to them — the lens's
+  characteristic, **slightly nostalgic colour rendering**, and the **perspective**, which reads
+  differently from the ultra-wide ~23mm they're used to on a mobile phone. A 55mm frame simply
+  *looks* like a photograph rather than a snapshot, and non-photographers feel that even if they
+  can't name why.
+- **What I liked as the shooter:** the **light body** (281g — it never unbalanced the A7C II, the
+  opposite of the times the SIRUI f/1.4 front-weighted the body on the
+  {ref}`Luoyang trip <field-pain-points>`) and the **fast, decisive autofocus** — Eye-AF that locks
+  and stays locked, which is what makes candid people frames actually keepers rather than near-misses.
 
 **Conclusion.** The 55mm is a genuine travel-portrait lens **for me — conditionally.** It works
 brilliantly when I treat it as a decision (pick a subject, move my feet, commit), and it disappears
@@ -358,8 +377,12 @@ before committing an M-slot.
   does the middle focal length still feel awkward there?
 - **Is an "Arid Earth" preset worth a permanent M-slot,** or is per-shot Lightroom correction enough
   for the handful of Danxia-style trips I'll take?
-- **Does the 52mm SIRUI crop overlap the 55mm too much?** Both now cover the "standard" band — is
-  carrying the 55mm redundant on trips where the SIRUI is already packed for low light?
+- **Does the 52mm SIRUI crop overlap the 55mm too much?** *Answered on this trip: no.* I never carry
+  both for the same purpose. The **35mm f/1.4 is my environment lens** (and, in 52mm APS-C crop, an
+  occasional human-focus option); the **55mm f/1.8 is my human-priority lens** (and, in 82mm crop,
+  an occasional distant/detail option). They also differ in every practical dimension —
+  weight, maximum aperture, and AF behaviour — so they serve different moods, not the same slot. The
+  nominal 52-vs-55mm overlap is a coincidence of numbers, not of use.
 - **How often will I actually reserve a "portrait session"?** The 55mm's value hinges on intention;
   future trips will tell whether that discipline sticks or the lens drifts back into the bag.
 
