@@ -61,4 +61,9 @@ contents in [photo_book/_toc.yml](../../photo_book/_toc.yml).
 
 - Gear pages (`gears/`) and tips (`tips/`) are analytical / reference-style:
   prefer tables, bullet lists, and numbered steps.
+- **Always include an in-page table of contents** near the top of a chapter
+  (after the title / summary) with a `` ```{contents} `` block, e.g.
+  `` ```{contents}\n:depth: 4\n``` ``.
+- **Never label a summary "TL;DR"** — use "Summary" instead (e.g. an
+  `` ```{admonition} Summary `` block), which suits the reference tone.
 - Preserve mixed-language content (Chinese, English, Norwegian, etc.) as-is.

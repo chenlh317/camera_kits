@@ -42,6 +42,7 @@ This file holds **repo-wide** guidance only. Scoped conventions live under
   `F:\`.
 - Match the surrounding tone of whatever file you are editing.
 - Preserve mixed-language content (Chinese, English, Norwegian, etc.) as-is.
+- Never label a summary "TL;DR" — use "Summary" instead.
 
 ## Reusable prompts
 
