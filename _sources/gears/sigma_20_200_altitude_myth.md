@@ -283,6 +283,66 @@ For where this lens fits as a kit-simplifying superzoom (and its documented,
 *real* optical trade-offs — 20mm distortion, vignetting, edge softness at 200mm),
 see Option 1B in {doc}`lens_recommendation`.
 
+## Hedging anyway: backup plans for a mixed trip
+
+The evidence points away from a real defect — but good trip planning does not
+hinge on that verdict. Redundancy is worth building regardless, because *any*
+single body or lens can fail (a knock, sand, a dead battery, a lost bag), and on
+a non-photo-dedicated trip you rarely get a second chance at the same view.
+
+### If you specifically want to insure against a "bad lens at altitude"
+
+If the worry is this one lens misbehaving on a high trip, the cheap insurance is
+mostly technique plus one fallback optic:
+
+- **Prove the copy at home first.** A genuine optical fault (decentering, an
+  AF-calibration error) shows up at *sea level* too. Shoot a flat, detailed
+  target across the zoom range before you leave; if it's sharp at home, altitude
+  won't change the optics.
+- **Chimp early and often.** On the first frames of each scene, zoom in on the
+  rear screen to confirm sharpness. This single habit catches slow-shutter smear,
+  mis-focus, or a real problem *while you can still fix it* — the exact step the
+  circulating "only noticed at home" story skips.
+- **Defend the long end.** At 200mm keep shutter ≥ ~1/200 s (raise ISO or open
+  up), brace or use a monopod in wind, and leave stabilisation on for hand-held
+  work. Most "altitude blur" is this, not glass.
+- **Shoot RAW + JPEG.** RAW preserves the most recovery latitude if exposure or
+  white balance go wrong under snow glare or strong backlight.
+- **Carry one overlapping fallback.** Your phone already covers the wide end at
+  better-than-snapshot quality; a small superzoom (e.g. the HX90) or a second
+  lens covers the tele end if the main lens ever genuinely misbehaves.
+- **Keep it working in the cold.** Warm spare batteries in an inside pocket, let
+  the lens equalise slowly to avoid condensation, and don't force a stiff,
+  cold-thickened zoom.
+
+### A general backup framework for "better-than-mobile" trips
+
+For trips where photography matters but isn't the point, the goal is *coverage
+without a second bag*. The principle: every focal range you care about should
+have **two independent ways** to be captured, at least one of which is the phone.
+
+| Layer    | Typical device                     | Role                                  | Failure it covers                  |
+| -------- | ---------------------------------- | ------------------------------------- | ---------------------------------- |
+| Baseline | Phone (ultra-wide → short tele)    | Always-on, guaranteed shots           | Total camera failure / left behind |
+| Primary  | Body + travel zoom (e.g. 20-200mm) | The "better-than-mobile" upgrade      | —                                  |
+| Fallback | Phone tele, or a pocket superzoom  | Reach when the main lens/body is down | Lens fault, dead battery, damage   |
+
+Practical rules that make the framework work:
+
+- **Pre-trip checklist:** update body/lens firmware, format cards *in-camera*,
+  pack a spare (charged) battery, and test-fire the kit the day before — most
+  gear problems surface at home, not on the mountain.
+- **Back up daily.** Copy the day's cards to a phone, a small SSD, or the cloud
+  each evening; a lost or corrupted card is a far more common trip-ender than any
+  lens quirk.
+- **Bring a second body/lens only when the shots are irreplaceable.** For a
+  once-in-a-lifetime destination, redundancy earns its weight; for an ordinary
+  city break, the phone *is* the backup and the travel zoom is the upgrade.
+
+See {doc}`../tips/standard_lens_and_kit_strategy` for the two-camera / phone-plus-camera
+logic in depth, and {doc}`../tips/photographing_tips` for the field habits
+(chimping, safe-shutter, packing) referenced above.
+
 ## Bottom line
 
 A claimed *physical* defect that (1) offers no falsifiable original evidence,
