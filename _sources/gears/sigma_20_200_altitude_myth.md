@@ -8,7 +8,7 @@ against basic optics and physics, and against how the evidence has actually been
 presented. It is a reasoning exercise, not an accusation about any specific
 person.
 
-```{admonition} TL;DR
+```{admonition} Summary
 :class: tip
 The "sample photos" behind this claim do not survive scrutiny. Their softness is
 fully explained by heavy crop-and-upscale, motion blur at the long end, and
@@ -18,6 +18,10 @@ impossible for a zoom lens. And a genuine *optical* defect would be reproducible
 worldwide, yet no authoritative outlet has ever reproduced it. Absent raw files,
 EXIF, and controlled testing, the claim does not rise to the level of usable
 negative information.
+```
+
+```{contents}
+:depth: 4
 ```
 
 ## What the claim says
