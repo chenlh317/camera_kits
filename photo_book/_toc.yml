@@ -9,6 +9,7 @@ parts:
     chapters:
       - file: gears/lens_recommendation
       - file: gears/prime_lens_recommendation
+      - file: gears/sigma_20_200_altitude_myth
 
   - caption: Tips
     chapters:
